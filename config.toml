@@ -1,0 +1,7 @@
+baseURL = "https://static.bordeaux.inria.fr/mooc-accessibility/course/"
+languageCode = "fr-fr"
+title = "Inria MOOC Accessibility"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "sitemap", "home"]
+
+[outputs]
+  page = ["JSON", "HTML"]
