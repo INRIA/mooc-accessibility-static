@@ -1,29 +1,30 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Example – Minimal config"
+date: 2019-10-02T11:35:26+02:00
 draft: true
-description: ""
-player:
-  mediaId: "none"
-  poster: null
-  additionalInformationTracks:
-    - label: "Informations complémentaires"
-      src: "additional-infos_fr.vtt"
-      srcLang: "fr"
+description: "On this page, the loaded player configuration will only provide the minimum expected data, using player fallback configuration."
+additionalInformation:
   sources:
-    - label: "Face video"
+    - label: "Informations complémentaires"
+      src: "additional-info_fr.vtt"
+      srcLang: "fr"
+    - label: "Additional Information"
+      src: "additional-info_en.vtt"
+      srcLang: "en"
+player:
+  sources:
+    - label: "Vidéo de face"
       src: "standard.mp4"
       type: "video/mp4"
-      selected: true
-    - label: "Side video"
+    - label: "Vidéo de côté"
       src: "side.mp4"
       type: "video/mp4"
 slides:
   sources:
-    - label: "Slides de Présentation"
+    - label: "Slides de présentation"
       src: "slides_fr.vtt"
       srcLang: "fr"
-     - label: "Presentation Slides"
+    - label: "Presentation slides"
       src: "slides_en.vtt"
       srcLang: "en"
 subtitles:

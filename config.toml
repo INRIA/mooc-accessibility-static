@@ -1,7 +1,21 @@
-baseURL = "https://static.bordeaux.inria.fr/mooc-accessibility/course/"
+baseURL = "https://static.bordeaux.inria.fr/mooc-accessibility/"
 languageCode = "fr-fr"
 title = "Inria MOOC Accessibility"
-disableKinds = ["section", "taxonomy", "taxonomyTerm", "sitemap", "home"]
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "sitemap"]
+
+[mediaTypes]
+  [mediaTypes."text/fun"]
+    suffixes = ["html"]
+
+[outputFormats]
+  [outputFormats.FUN]
+    baseName = "fun"
+    suffix = "html"
+    mediaType = "text/fun"
 
 [outputs]
-  page = ["JSON", "HTML"]
+  home = ["HTML"]
+  page = ["JSON", "HTML", "FUN"]
+
+[params]
+mediaBaseURL = "https://static.bordeaux.inria.fr/mooc-accessibility/media"

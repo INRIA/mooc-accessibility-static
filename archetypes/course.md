@@ -1,31 +1,29 @@
 ---
-title: "Test title"
-date: 2019-10-02T11:35:26+02:00
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 draft: true
-description: "Test description"
-additionalInformation:
-  sources:
-    - label: "Informations complémentaires"
-      src: "additional-info_fr.vtt"
-      srcLang: "fr"
-    - label: "Additional Information"
-      src: "additional-info_en.vtt"
-      srcLang: "en"
+description: ""
 player:
-  mediaId: "test-config-123"
+  mediaId: null
+  poster: null
+  additionalInformationTracks:
+    - label: "Informations complémentaires"
+      src: "additional-infos_fr.vtt"
+      srcLang: "fr"
   sources:
-    - label: "Vidéo de face"
+    - label: "Face video"
       src: "standard.mp4"
       type: "video/mp4"
-    - label: "Vidéo de côté"
+      selected: true
+    - label: "Side video"
       src: "side.mp4"
       type: "video/mp4"
 slides:
   sources:
-    - label: "Slides de présentation"
+    - label: "Slides de Présentation"
       src: "slides_fr.vtt"
       srcLang: "fr"
-    - label: "Presentation slides"
+     - label: "Presentation Slides"
       src: "slides_en.vtt"
       srcLang: "en"
 subtitles:

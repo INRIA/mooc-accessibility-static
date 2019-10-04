@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ .Title }}</title>
+  <meta name="description" content="{{ .Description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <noscript>
+    <h1>{{ .Params.title }}</h1>
+    {{ $video_src := (index (.Params.player.sources) 0).src -}}
+    <video src="{{ $.Site.Params.mediaBaseURL }}/{{ $.File.ContentBaseName }}/{{ $video_src }}" type="video/mp4" autoplay="false" preload="auto" controls>
+      {{- range .Params.subtitles.sources }}
+      <track kind="captions" label="{{ .label }}" src="{{ .src }}" srclang="{{ .srcLang }}">
+      {{- end -}}
+      {{ range .Params.chapters.sources }}
+      <track kind="chapters" label="{{ .label }}" src="{{ .src }}" srclang="{{ .srcLang }}">
+      {{- end -}}
+      {{ range .Params.additionalInformation.sources }}
+      <track kind="metadata" label="{{ .label }}" src="{{ .src }}" srclang="{{ .srcLang }}">
+      {{- end -}}
+      {{ range .Params.slides.sources }}
+      <track kind="metadata" label="{{ .label }}" src="{{ .src }}" srclang="{{ .srcLang }}">
+      {{- end }}
+    </video>
+  </noscript>
+
+  <div id="root"></div>
+
+  <script>
+    window.aiana = {{ (partial "configuration.json" .) | safeJS }};
+  </script>
+</body>
+
+</html>

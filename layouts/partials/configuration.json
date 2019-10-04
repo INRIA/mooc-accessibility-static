@@ -1,80 +1,95 @@
-{{ $chapters_sources := (.Params.chapters.sources) -}}
-{{ $chapters_sources_length := (len $chapters_sources) -}}
-{{ $add_infos_sources := (.Params.additionalInformation.sources) -}}
-{{ $add_infos_sources_length := (len $add_infos_sources) -}}
 {{ $media_sources := (.Params.player.sources) -}}
 {{ $media_sources_length := (len $media_sources) -}}
-{{ $slides_sources := (.Params.slides.sources) -}}
-{{ $slides_sources_length := (len $slides_sources) -}}
-{{ $subtitles_sources := (.Params.slides.sources) -}}
-{{ $subtitles_sources_length := (len $subtitles_sources) -}}
 {
+  "container": "#root",
+  {{- if isset .Params "chapters" -}}
+  {{ $chapters_sources := (.Params.chapters.sources) -}}
+  {{ $chapters_sources_length := (len $chapters_sources) }}
   "chapters": {
     "language": "fr",
     "sources": [
       {{ range $index, $element := $chapters_sources -}}
       {
         "label": "{{ .label }}",
-        "src": "{{ .src }}",
+        "src": "{{ ($.Resources.GetMatch .src).Permalink }}",
         "srcLang": "{{ .srcLang }}"
       }{{- if ne (add $index 1) $chapters_sources_length -}},
       {{ end }}
       {{- end }}
     ]
-  },
+  }
+  {{- end }}
+
+  {{- if isset .Params "additionalInformation" -}}
+  {{ $add_infos_sources := (.Params.additionalInformation.sources) -}}
+  {{ $add_infos_sources_length := (len $add_infos_sources) -}},
   "additionalInformation": {
     "language": "fr",
     "sources": [
       {{ range $index, $element := $add_infos_sources -}}
       {
         "label": "{{ .label }}",
-        "src": "{{ .src }}",
+        "src": "{{ ($.Resources.GetMatch .src).Permalink }}",
         "srcLang": "{{ .srcLang }}"
       }{{- if ne (add $index 1) $add_infos_sources_length -}},
-      {{ end }}
-      {{- end }}
+    {{ end }}
+    {{- end }}
     ]
-  },
+  }
+  {{- end }},
   "player": {
-    "mediaId": "{{ .Params.player.mediaId }}",
+    "mediaId": "{{ if .Params.player.mediaId -}}
+    {{ .Params.player.mediaId }}
+    {{- else -}}
+    {{ .File.ContentBaseName }}
+    {{- end }}",
     {{ if .Params.player.poster -}}
-    "poster": {{ .Params.player.poster }},
+    "poster": "{{ (.Resources.GetMatch .Params.player.poster).Permalink }}",
     {{ end -}}
-
     "sources": [
       {{ range $index, $element := $media_sources -}}
       {
         "label": "{{ .label }}",
-        "src": "{{ .src }}",
+        "src": "{{ $.Site.Params.mediaBaseURL }}/{{ $.File.ContentBaseName }}/{{ .src }}",
         "type": "{{ .type }}"
       }{{- if ne (add $index 1) $media_sources_length -}},
       {{ end }}
       {{- end }}
     ]
-  },
+  }
+
+  {{- if isset .Params "slides" -}}
+  {{ $slides_sources := (.Params.slides.sources) -}}
+  {{ $slides_sources_length := (len $slides_sources) -}},
   "slides": {
     "language": "fr",
     "sources": [
       {{ range $index, $element := $slides_sources -}}
       {
         "label": "{{ .label }}",
-        "src": "{{ .src }}",
+        "src": "{{ ($.Resources.GetMatch .src).Permalink }}",
         "srcLang": "{{ .srcLang }}"
       }{{- if ne (add $index 1) $slides_sources_length -}},
       {{ end }}
       {{- end }}
     ]
-  },
+  }
+  {{- end -}}
+
+  {{- if isset .Params "subtitles" -}}
+  {{- $subtitles_sources := (.Params.subtitles.sources) -}}
+  {{- $subtitles_sources_length := (len $subtitles_sources) -}},
   "subtitles": {
     "language": "fr",
     "sources": [
       {{ range $index, $element := $subtitles_sources -}}
       {
         "label": "{{ .label }}",
-        "src": "{{ .src }}",
+        "src": "{{ ($.Resources.GetMatch .src).Permalink }}",
         "srcLang": "{{ .srcLang }}"
       }{{- if ne (add $index 1) $subtitles_sources_length -}},
       {{ end }}
+      {{- end }}
       {{- end }}
     ]
   }

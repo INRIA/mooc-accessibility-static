@@ -1,0 +1,74 @@
+WEBVTT
+
+
+00:00:08.000 --> 00:00:58.000
+<h1>Préambule - 1</h1>
+<h2>Contexte général</h2>
+<ul>
+  <li>Ce MOOC n’est pas juste un cours, il s’inscrit dans un programme de recherche </li>
+  <li>Objectif : favoriser l’accès aux outils numériques de formation au plus grand nombre, y compris des Personnes en Situation de Handicap, notamment cognitif</li>
+  <li>Ne pas faire des systèmes <em>réservés</em> aux PSH mais au contraire ouverts à tous et permettant d’aider tous les utilisateurs</li>
+</ul>
+
+00:00:58.000 --> 00:01:14.000
+<h1>Préambule - 2</h1>
+<h2>Contexte particulier</h2>
+<ul>
+  <li>Un cours sur l’accessibilité numérique n’a de sens que si les contenus sont accessibles : </li>
+</ul>
+<blockquote>
+  <p>→ Développement d’un logiciel spécifique pour accéder aux contenus de ce MOOC</p>
+</blockquote>
+
+00:01:14.000 --> 00:01:58.000
+<h1>Logiciel spécifique - 1</h1>
+<ul>
+  <li>Utilisation d’une deuxième version sur laquelle nous continuons à travailler :
+    <ul>
+      <li>en améliorant les fonctions existantes grâce aux retours des utilisateurs </li>
+      <li>en ajoutant de nouvelles fonctions</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Mais aussi, nous vous inviterons à participer au programme de recherche à travers :
+    <ul>
+      <li>des questionnaires sur l’utilisation du lecteur</li>
+      <li>l’analyse des données d’utilisation du logiciel</li>
+    </ul>
+  </li>
+</ul>
+
+00:01:58.000 --> 00:02:30.000
+<h1>Logiciel spécifique - 2</h1>
+<ul>
+  <li>Sur la base du volontariat basé sur un consentement éclairé :
+    <ul>
+      <li>droit de refuser, de changer d’avis à tout moment</li>
+      <li>engagement de confidentialité totale et de non divulgation</li>
+      <li>déclaration CNIL, validation comité d’éthique Inria</li>
+    </ul>
+  </li>
+</ul>
+
+00:02:30.000 --> 00:03:19.000
+<h1>Logiciel spécifique - 3</h1>
+<ul>
+  <li>Développement du logiciel par une « petite » équipe d’ingénieurs Inria comparativement aux grandes entreprises proposant des lecteurs standards</li>
+  <li>Il reste encore du travail</li>
+  <li>Nous comptons sur votre bienveillance et votre coopération pour nous aider à améliorer encore ce lecteur </li>
+</ul>
+
+00:03:19.000 --> 00:03:26.000
+<h1>Réalisation</h1>
+<h2>Un cours proposé par</h2>
+<img src="/Images/learning-lab.jpg" class="logo-gauche" alt="Logo du groupe de travail Learning Lab d'Inria">
+<img src="/Images/utop.jpg" class="logo-droite" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire">
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" class="logo-centre" alt="Logo de l'Université de Bordeaux">
+<img src="/Images/copyright.jpg" class="logo-copyright" alt="Copyright">Inria 2017
+<p>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France<br>
+  <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+<p>
