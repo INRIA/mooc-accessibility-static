@@ -1,0 +1,263 @@
+﻿WEBVTT
+
+00:00:00.080 --> 00:00:02.400
+On a vu
+les méthodes classiques
+
+00:00:02.560 --> 00:00:05.800
+centrées
+"personne en situation de handicap",
+
+00:00:05.960 --> 00:00:08.840
+avec les approches universelles
+et spécifiques.
+
+00:00:09.000 --> 00:00:11.880
+On va s'intéresser
+aux méthodes plus récentes
+
+00:00:12.040 --> 00:00:14.360
+qui sont des méthodes intégrées,
+
+00:00:14.520 --> 00:00:17.960
+réunissant les méthodes
+universelles et spécifiques.
+
+00:00:18.760 --> 00:00:23.520
+Ces méthodes regroupent
+plusieurs approches différentes,
+
+00:00:23.680 --> 00:00:27.520
+notamment des approches
+dites extra-ordinaires
+
+00:00:27.680 --> 00:00:30.760
+et les approches
+basées sur les capacités.
+
+00:00:31.040 --> 00:00:34.720
+Leur point commun
+
+00:00:34.880 --> 00:00:38.480
+est qu'au lieu de focaliser
+sur les incapacités
+
+00:00:38.680 --> 00:00:42.360
+ou déficiences de la personne
+en situation de handicap,
+
+00:00:42.520 --> 00:00:47.240
+il faut se focaliser sur les capacités
+chez ces personnes
+
+00:00:47.400 --> 00:00:50.640
+pour concevoir les solutions
+et faire levier.
+
+00:00:50.880 --> 00:00:55.360
+En règle générale,
+elles s'intéressent aux aspects contextuels
+
+00:00:55.520 --> 00:00:57.520
+d'utilisation de la solution,
+
+00:00:57.680 --> 00:01:02.200
+notamment la perte de capacités
+liées à l'activité.
+
+00:01:02.440 --> 00:01:06.560
+Si on marche, on n'utilisera pas
+le téléphone de la même façon
+
+00:01:06.720 --> 00:01:09.080
+que si on est assis à l'utiliser.
+
+00:01:09.480 --> 00:01:11.880
+Ce sont des approches
+
+00:01:12.040 --> 00:01:14.760
+qui vont se concentrer
+
+00:01:14.920 --> 00:01:18.120
+sur l'adaptation de l'interface
+
+00:01:18.280 --> 00:01:20.720
+aux besoins de la personne
+
+00:01:20.880 --> 00:01:23.560
+dans un contexte particulier,
+
+00:01:23.720 --> 00:01:26.520
+sachant que ces contextes
+sont variables.
+
+00:01:26.680 --> 00:01:30.280
+2 niveaux seront explorés
+dans ces approches :
+
+00:01:30.440 --> 00:01:34.880
+comment l'interface
+peut être modelée par l'utilisateur
+
+00:01:35.040 --> 00:01:37.240
+pour répondre à ses besoins.
+
+00:01:37.920 --> 00:01:42.080
+Autre manière :
+comment de manière automatique,
+
+00:01:42.240 --> 00:01:46.120
+la machine peut s'adapter
+aux besoins de la personne.
+
+00:01:48.600 --> 00:01:52.280
+Vous avez ici un exemple
+des approches
+
+00:01:52.440 --> 00:01:56.000
+dites basées sur les capacités,
+
+00:01:56.160 --> 00:02:01.120
+où l'on peut noter,
+ce qui n'était pas dans les autres approches,
+
+00:02:01.280 --> 00:02:04.320
+que le système doit avoir
+une conscience de l'utilisateur,
+
+00:02:04.480 --> 00:02:07.920
+de ce qu'il est capable de faire,
+
+00:02:08.080 --> 00:02:11.040
+et de s'adapter à ses capacités.
+
+00:02:11.200 --> 00:02:13.000
+Il doit être conscient
+du contexte,
+
+00:02:13.160 --> 00:02:16.440
+il doit également avoir une interface
+
+00:02:16.600 --> 00:02:21.280
+capable de détecter
+les changements de situations.
+
+00:02:22.680 --> 00:02:25.800
+Ce type d'approche
+s'applique aux objets numériques,
+
+00:02:25.960 --> 00:02:28.720
+notamment
+lorsqu'ils sont dédiés
+
+00:02:28.880 --> 00:02:31.520
+aux personnes
+en situation de handicap,
+
+00:02:31.680 --> 00:02:35.520
+mais aussi aux personnes
+qui ne le sont pas,
+
+00:02:35.680 --> 00:02:40.680
+mais qui le deviennent du fait
+des situations environnementales.
+
+00:02:40.840 --> 00:02:44.240
+C'est l'exemple
+que je vous ai donné tout à l'heure,
+
+00:02:44.400 --> 00:02:48.440
+où on a eu des pertes de capacité
+liées à des contextes.
+
+00:02:49.320 --> 00:02:52.320
+Vous avez ici un exemple
+de lecteur de musique,
+
+00:02:52.480 --> 00:02:57.040
+où dès lors
+que l'utilisateur est en marche,
+
+00:02:57.200 --> 00:03:02.520
+les boutons de commande,
+au lieu d'être affichés en bas de l'écran,
+
+00:03:02.680 --> 00:03:05.920
+s'afficheront
+sur la droite du téléphone,
+
+00:03:06.080 --> 00:03:09.800
+pour qu'il soit plus facile
+avec le doigt
+
+00:03:09.960 --> 00:03:11.760
+d'accéder
+aux boutons de commande.
+
+00:03:11.920 --> 00:03:14.960
+Et ce sans que l'utilisateur le réclame.
+
+00:03:15.120 --> 00:03:18.640
+C'est le téléphone
+qui le détecte tout seul.
+
+00:03:19.600 --> 00:03:23.520
+Voici une synthèse des 3 approches
+que nous avons vues.
+
+00:03:23.680 --> 00:03:27.200
+Ce qu'on peut voir
+dans ce schéma,
+
+00:03:27.360 --> 00:03:31.640
+c'est que soit vous créez un outil
+
+00:03:31.800 --> 00:03:36.680
+qui va venir adapter
+le système numérique
+
+00:03:36.840 --> 00:03:38.880
+à des besoins spécifiques
+
+00:03:39.040 --> 00:03:42.400
+de la personne
+en situation de handicap.
+
+00:03:42.560 --> 00:03:46.600
+C'est ce que proposent les approches
+universelles et spécifiques.
+
+00:03:46.760 --> 00:03:50.000
+À la différence que proposent
+les approches intégrées,
+
+00:03:50.160 --> 00:03:54.120
+qu'on ne rajoute pas de rustine
+mais qu'on pense en amont
+
+00:03:54.280 --> 00:03:58.400
+les différents formats possibles
+de la solution numérique,
+
+00:03:58.560 --> 00:04:02.680
+pour qu'elle soit flexible et adaptable
+aux besoins variés
+
+00:04:03.000 --> 00:04:06.480
+de l'utilisateur
+en situation de handicap.
+
+00:04:06.920 --> 00:04:10.800
+Après avoir vu ces différentes
+approches spécialisées
+
+00:04:11.360 --> 00:04:13.960
+pour les personnes
+en situation de handicap,
+
+00:04:14.120 --> 00:04:17.160
+nous allons aborder
+
+00:04:17.320 --> 00:04:20.600
+les méthodes d'évaluation
+de l'ergonomie des interfaces.

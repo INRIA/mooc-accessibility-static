@@ -15,7 +15,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "sitemap"]
 
 [outputs]
   home = ["HTML"]
-  page = ["JSON", "HTML", "FUN"]
+  page = ["HTML", "FUN"]
 
 [params]
 mediaBaseURL = "https://static.bordeaux.inria.fr/mooc-accessibility/media"

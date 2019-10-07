@@ -1,0 +1,170 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:13.000
+<h1>1. Introduction </h1>
+<ul>
+  <li>Le handicap, de quoi parlons-nous ?</li>
+  <li>La situation en France</li>
+  <li>Historique et concept du handicap</li>
+  <li>Définition actuelle</li>
+  <li><strong>L'accessibilité</strong></li>
+  <li>Le modèle environnemental de compensation - Principes</li>
+  <li>Le modèle environnemental de compensation - Application</li>
+  <li>Objectifs et plan du cours</li>
+</ul>
+
+2
+00:00:13.000 --> 00:00:49.000
+<h1>L’accessibilité</h1>
+<h2>Au niveau sociétal</h2>
+<ul>
+  <li>Appréhendée par le grand public en termes de bâtiments et de transports</li>
+  <li>Règlementée et enseignée</li>
+  <li>Mais en fait, elle est multiforme </li>
+  <li>Quid de l’accessibilité numérique ?</li>
+</ul>
+<p>Twitter : #a11y</p>
+
+3
+00:00:49.000 --> 00:01:47.000
+<h1>Le concept d’accessibilité universelle - 1 </h1>
+<h2>Origine</h2>
+<ul>
+  <li>Modèle environnemental de l’activité </li>
+</ul>
+<h2>Définition</h2>
+<ul>
+  <li>Concept flou avec des niveaux variables de définition
+    <ul>
+      <li>32 définitions formelles recensées dans une méta-analyse</li>
+    </ul>
+  </li>
+</ul>
+
+4
+00:01:47.000 --> 00:02:24.000
+<h1>Le concept d’accessibilité universelle - 2 </h1>
+<h2>Une définition normalisée : ISO</h2>
+<p>
+  Degré avec lequel des produits, systèmes, services, environnements peuvent être
+  utilisés par un large panel de personnes pour réaliser une activité dans un contexte spécifique.
+</p>
+
+5
+00:02:24.000 --> 00:02:59.000
+<h1>Le concept d’accessibilité universelle - 3 </h1>
+<h2>Une définition plus actuelle : Rocque (2012)</h2>
+<p>
+  L’accessibilité universelle est le caractère d'un produit, procédé, service, environnement ou de
+  l’information qui, dans un but d’équité et dans une approche inclusive, permet à toute personne de
+  réaliser des activités de façon autonome et d’obtenir des résultats équivalents.
+</p>
+
+6
+00:02:59.000 --> 00:03:13.000
+<h1>Une définition plus actuelle - 1</h1>
+<h2>Caractéristique d’un objet qui peut être évalué selon des métriques propres</h2>
+<p>
+  L’accessibilité universelle est le <strong>caractère</strong> d'un
+  produit, procédé, service, environnement ou de l’information qui, dans un but d’équité et dans une approche
+  inclusive, permet à toute personne de réaliser des activités de façon autonome et d’obtenir des
+  résultats équivalents.
+</p>
+
+7
+00:03:13.000 --> 00:03:20.000
+<h1>Une définition plus actuelle - 2</h1>
+<h2>Objet réel ou virtuel de l’environnement conçu par l’homme et à l’usage de l’homme</h2>
+<p>
+  L’accessibilité universelle est le caractère <strong>d'un produit,
+  procédé, service, environnement ou de l’information</strong> qui, dans un but d’équité et dans une approche
+  inclusive, permet à toute personne de réaliser des activités de façon autonome et d’obtenir des
+  résultats équivalents.
+</p>
+
+8
+00:03:20.000 --> 00:03:29.000
+<h1>Une définition plus actuelle - 3</h1>
+<h2>Visée sociétale</h2>
+<p>
+  L’accessibilité universelle est le caractère d'un produit, procédé, service, environnement
+  ou de l’information qui, dans un but <strong>d’équité</strong> et dans une approche
+  inclusive, permet à toute personne de réaliser des activités de façon autonome et d’obtenir des
+  résultats équivalents.
+</p>
+
+9
+00:03:29.000 --> 00:03:41.000
+<h1>Une définition plus actuelle - 4</h1>
+<h2>Participation sociale à tous les milieux ordinaires de vie</h2>
+<p>
+  L’accessibilité universelle est le caractère d'un produit, procédé, service, environnement
+  ou de l’information qui, dans un but d’équité et dans une approche <strong>inclusive</strong>,
+  permet à toute personne de réaliser des activités de façon autonome et
+  d’obtenir des résultats équivalents.</p>
+
+10
+00:03:41.000 --> 00:03:51.000
+<h1>Une définition plus actuelle - 5</h1>
+<h2>Tous les utilisateurs, tous les âges, genres et quelles que soient les limitations en présence</h2>
+<p>
+  L’accessibilité universelle est le caractère d'un produit, procédé, service, environnement
+  ou de l’information qui, dans un but d’équité et dans une approche inclusive, permet à <strong>toute personne</strong>
+  de réaliser des activités de façon autonome et d’obtenir des résultats équivalents.
+</p>
+
+11
+00:03:51.000 --> 00:04:08.000
+<h1>Une définition plus actuelle - 6</h1>
+<h2>Condition / raison d’utilisation de l’objet</h2>
+<p>
+  L’accessibilité universelle est le caractère d'un produit, procédé, service, environnement
+  ou de l’information qui, dans un but d’équité et dans une approche inclusive, permet à toute personne de
+  réaliser des <span class="important"><u>activités</u></span> de façon autonome et d’obtenir des résultats
+  équivalents.
+</p>
+
+12
+00:04:08.000 --> 00:04:41.000
+<h1>Une définition plus actuelle - 7</h1>
+<h2>1er critère d’évaluation de l’accessibilité : respect de l’auto-détermination de la personne</h2>
+<p>
+  L’accessibilité universelle est le caractère d'un produit, procédé, service, environnement
+  ou de l’information qui, dans un but d’équité et dans une approche inclusive, permet à toute personne de
+  réaliser des activités de façon <strong>autonome</strong> et d’obtenir des résultats
+  équivalents.
+</p>
+
+13
+00:04:41.000 --> 00:05:09.000
+<h1>Une définition plus actuelle - 8</h1>
+<h2>2ème critère d’évaluation de l’accessibilité : Utilité, Utilisabilité, Acceptabilité</h2>
+<p>
+  L’accessibilité universelle est le caractère d'un produit, procédé, service, environnement
+  ou de l’information qui, dans un but d’équité et dans une approche inclusive, permet à toute personne de
+  réaliser des activités de façon autonome et d’obtenir des <strong>résultats
+  équivalents</strong>.
+</p>
+
+14
+00:05:09.000 --> 00:05:12.000
+<h1>Ressources</h1>
+<p>Rocque S. et al. Accessibilité universelle et designs contributifs dans un processus évolutif (2011). URL : <a
+    href="http://ripph.qc.ca/fr/revue/journal-19-03-2011-01">article sur l'accessibilité universelle</a></p>
+
+15
+00:05:12.000 --> 00:05:16.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

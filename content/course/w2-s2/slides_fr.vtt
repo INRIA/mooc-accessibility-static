@@ -1,0 +1,181 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:16.000
+<h1>2. L’accessibilité des systèmes numériques</h1>
+<ul>
+  <li>Accessibilité numérique, de quoi parlons-nous ?
+  <li><strong>Les équipements d’interface </strong></li>
+  <li>Les mécanismes d’interface </li>
+  <li>Les systèmes d’exploitation </li>
+  <li>Les logiciels génériques </li>
+  <li>Une étude utilisateur</li>
+</ul>
+
+2
+00:00:16.000 --> 00:01:34.000
+<h1>Introduction - 1</h1>
+<h2>Rappels </h2>
+<ul>
+  <li>Certaines difficultés limitent/empêchent l’utilisation d’un ordinateur :
+    <ul>
+      <li>motrices : clavier, souris, alimentation… </li>
+      <li>sensorielles : écran, haut-parleur, souris…</li>
+    </ul>
+  </li>
+</ul>
+<h2>Solutions</h2>
+<ul>
+  <li>Capture de mouvements : main, doigt(s), tête, yeux, bouche, langue… </li>
+  <li>Capture de signaux physiologiques </li>
+  <li>Production de signaux alternatifs
+  </li>
+</ul>
+
+3
+00:01:34.000 --> 00:03:36.000
+<h1>Introduction - 2</h1>
+<h2>Constat</h2>
+<ul>
+  <li>Peu de signaux résultent de ces équipements (fatigue, précision) </li>
+  <li>Comment malgré tout fournir une interaction riche ?</li>
+</ul>
+<h2>Interfacer avec un seul bouton/événement</h2>
+<ul>
+  <li>Signaux : appui court, appui long, relâche… </li>
+  <li>Combinaison geste + durée </li>
+  <li>Deux principes
+    <ul>
+      <li>sélection de commandes préenregistrées </li>
+      <li>sélection dans une liste circulaire</li>
+    </ul>
+  </li>
+</ul>
+
+4
+00:03:36.000 --> 00:04:34.000
+<h1>Mouvement de doigt - 1</h1>
+<img src="/Images/W2-10.png" alt="Expanded keyboard © Maltron" />
+<p>Expanded keyboard © Maltron</p>
+
+5
+00:04:34.000 --> 00:05:10.000
+<h1>Mouvement de doigt - 2</h1>
+<img src="/Images/W2-20.png" alt="One hand keyboard © Maltron" />
+<p>One hand keyboard © Maltron</p>
+
+6
+00:05:10.000 --> 00:05:41.000
+<h1>Mouvement de la bouche</h1>
+<img src="/Images/W2-30.png" alt="Head or mouth stick keyboard © Maltron" />
+<p>Head or mouth stick keyboard © Maltron</p>
+
+7
+00:05:41.000 --> 00:06:03.000
+<h1>Mouvement de la tête</h1>
+<img src="/Images/W2-40.png" alt="Computer Access © AbleNet Inc – tous droits réservés" />
+<p>Computer Access © AbleNet Inc – tous droits réservés</p>
+
+8
+00:06:03.000 --> 00:06:24.000
+<h1>Mouvement des yeux</h1>
+<img src="/Images/W2-50.png" alt="Camera Display Integration  © Alea Technologies" class="width50" />
+<p>Camera Display Integration © Alea Technologies</p>
+<img src="/Images/W2-60.png" alt="Gaze-Controlled Applications  © Alea Technologies" class="width50" />
+<p>Gaze-Controlled Applications © Alea Technologies</p>
+
+9
+00:06:24.000 --> 00:06:51.000
+<h1>Mouvement de la tête</h1>
+<div>
+  <img src="/Images/W2-70.png" alt="Quha Zono © Quha" />
+  <p>Quha Zono © Quha</p>
+</div>
+<div>
+  <img src="/Images/W2-80.png" alt="Quha Pufo © Quha" />
+  <p>Quha Pufo © Quha</p>
+</div>
+
+10
+00:06:51.000 --> 00:07:31.000
+<h1>Interfaces cerveau-ordinateur - 1</h1>
+<div>
+  <img src="/Images/W2-90.png"
+    alt="Communication cerveau-ordinateur : utilisation du logiciel Openvibe2 au jeux vidéos (Bain Invaders, GIPSA-Lab) © Inria / Photo G. Maisonneuve"
+    />
+  <p>Communication cerveau-ordinateur : utilisation du logiciel Openvibe2 au jeux vidéos (Bain Invaders, GIPSA-Lab)
+    © Inria / Photo G. Maisonneuve</p>
+</div>
+<div>
+  <img src="/Images/W2-100.png" alt="Bci3 © Multimedia Signal Processing Group / EPFL" />
+  <p>Bci3 © Multimedia Signal Processing Group / EPFL</p>
+</div>
+<div>
+  <img src="/Images/W2-110.png" alt="Bci pour actionner un fauteuil roulant © Alain Herzog/EPFL" />
+  <p>652x367, © Alain Herzog/EPFL</p>
+</div>
+
+11
+00:07:31.000 --> 00:08:45.000
+<h1>Interfaces cerveau-ordinateur - 2</h1>
+<h2>Principe</h2>
+<ul>
+  <li>Utiliser l’activité cérébrale </li>
+  <li>Mesurer l’activité électrique pendant une activité mentale (EEG) </li>
+  <li>Filtrage, recherche de motifs, classification, traduction</li>
+</ul>
+<h2>Analyse</h2>
+<ul>
+  <li>Domaine de recherche très prometteur </li>
+  <li>Encore balbutiant (beaucoup d’échecs) </li>
+  <li>Attention aux annonces miracles !</li>
+</ul>
+
+12
+00:08:45.000 --> 00:08:58.000
+<h1>Crédits illustrations - 1</h1>
+<p>Expanded keyboard © Maltron. URL : <a href="http://www.maltron.com/general-info">informations générales du site
+    Maltron</a></p>
+<p>One hand keyboard © Maltron. URL : <a href="http://www.maltron.com/general-info">informations générales du site
+    Maltron</a></p>
+<p>Head or mouth stick keyboard © Maltron. URL : <a href="http://www.maltron.com/general-info">informations
+    générales du site Maltron</a></p>
+<p>Computer Access ©  AbleNet Inc – tous droits réservés. Flickr. URL : <a
+    href="https://www.flickr.com/photos/ablenetinc/12684359514/">ordinateur portable surmonté d'une webcam
+    TrackerPro</a></p>
+<p>Camera Display Integration © Alea Technologies. URL : <a
+    href="http://www.alea-technologies.de/pages/en/products/intelligaze/application.php">applications de
+    l'Intelligaze sur le site d'Alea Technologies</a></p>
+<p>Gaze-Controlled Application © Alea Technologies. URL : <a
+    href="http://www.alea-technologies.de/pages/en/products/intelligaze/application.php">applications de
+    l'Intelligaze sur le site d'Alea Technologies</a></p>
+
+13
+00:08:58.000 --> 00:09:01.000
+<h1>Crédits illustrations - 2</h1>
+<p>Quha Zono © Quha. URL: <a href="http://www.quha.com/distributor-support-portal-2/">support du site Quha</a></p>
+<p>Quha Pufo © Quha. URL: <a href="http://www.quha.com/distributor-support-portal-2/">support </a><a
+    href="http://www.quha.com/distributor-support-portal-2/">du site Quha</a></p>
+<p>Communication cerveau-ordinateur : utilisation du logiciel Openvibe2 au jeux vidéos (Bain Invaders, GIPSA-Lab) ©
+  Inria / Photo G. Maisonneuve  </p>
+<p>Bci3 © Multimedia Signal Processing Group / EPFL. URL : <a
+    href="http://mmspg.epfl.ch/page-58318-en.html">brain-computer interface sur le site de l'EPFL</a></p>
+<p>652x367 © Alain Herzog/EPFL. URL : <a
+    href="http://actu.epfl.ch/news/neuroprosthetics-the-mind-is-the-pilot/">article &quot;Neuroprosthetics : the
+    mind is the pilot&quot; sur le site de l'EPFL</a></p>
+
+14
+00:09:01.000 --> 00:09:03.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

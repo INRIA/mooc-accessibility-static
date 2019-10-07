@@ -1,0 +1,296 @@
+﻿WEBVTT
+
+00:00:00.680 --> 00:00:03.280
+Je vous ai présenté
+des recommandations
+
+00:00:03.440 --> 00:00:06.120
+sur les contenus
+et leur accessibilité.
+
+00:00:06.720 --> 00:00:11.320
+Je vais vous parler
+d'autres recommandations émanant de WAI,
+
+00:00:11.480 --> 00:00:14.120
+l'initiative accessibilité de W3C.
+
+00:00:15.080 --> 00:00:18.160
+Les recommandations
+sur les systèmes auteurs,
+
+00:00:18.320 --> 00:00:22.200
+les systèmes qui permettant d'éditer
+et gérer des contenus.
+
+00:00:22.360 --> 00:00:26.120
+D'un point de vue technique,
+il s'agit d'HTML, CMS, etc.
+
+00:00:26.680 --> 00:00:29.080
+Deux objectifs ont été fixés :
+
+00:00:29.240 --> 00:00:32.760
+les interfaces de ces outils
+doivent être accessibles
+
+00:00:32.920 --> 00:00:36.600
+pour des personnes
+en situation de handicap
+
+00:00:37.000 --> 00:00:41.040
+et ils doivent produire
+des contenus accessibles.
+
+00:00:42.240 --> 00:00:44.680
+Nous verrons huit principes
+
+00:00:44.840 --> 00:00:47.440
+contenant une liste
+de critères de succès,
+
+00:00:47.600 --> 00:00:51.600
+dans le même esprit
+que ce qu'on a vu précédemment.
+
+00:00:52.560 --> 00:00:56.480
+D'abord les recommandations
+rendant les interfaces accessibles.
+
+00:00:56.800 --> 00:00:59.920
+Ces interfaces doivent suivre
+les principes d'accessibilité.
+
+00:01:00.760 --> 00:01:05.480
+Les éditions doivent être perceptibles,
+utilisables et compréhensibles.
+
+00:01:05.640 --> 00:01:08.880
+On est proches
+de ce qu'on a vu pour les contenus,
+
+00:01:09.040 --> 00:01:13.120
+c'est pourquoi je passe vite
+sur ces recommandations du même ordre.
+
+00:01:14.320 --> 00:01:19.240
+Concernant l'accessibilité des contenus,
+des systèmes d'édition et de gestion,
+
+00:01:19.400 --> 00:01:23.320
+ces systèmes automatiques
+doivent avoir un contenu accessible.
+
+00:01:24.560 --> 00:01:28.920
+Les auteurs doivent être assistés
+pour produire des contenus accessibles,
+
+00:01:29.080 --> 00:01:31.680
+il existera
+un certain nombre d'assistances
+
+00:01:31.840 --> 00:01:36.800
+pour vérifier qu'ils aboutissent
+à des contenus accessibles.
+
+00:01:38.080 --> 00:01:42.080
+On pourra les assister pour améliorer
+l'accessibilité numérique.
+
+00:01:42.680 --> 00:01:47.120
+Les systèmes doivent promouvoir
+leur fonctionnalité d'accessibilité,
+
+00:01:47.280 --> 00:01:51.960
+donc faire savoir qu'ils comportent
+des fonctionnalités d'accessibilité.
+
+00:01:52.120 --> 00:01:55.720
+Dans le cas des systèmes d'exploitation
+des logiciels,
+
+00:01:55.880 --> 00:01:58.120
+ces fonctionnalités existent
+
+00:01:58.280 --> 00:02:01.040
+mais sont peu connues
+et peu utilisées.
+
+00:02:01.520 --> 00:02:06.760
+C'est pour contrer ce défaut
+que la règle B4 a été rajoutée.
+
+00:02:09.400 --> 00:02:12.160
+Deuxième point important
+à mentionner :
+
+00:02:12.320 --> 00:02:14.880
+le Web a évolué depuis sa création
+
+00:02:15.040 --> 00:02:17.360
+et nous sommes passés
+de contenus statiques,
+
+00:02:17.520 --> 00:02:22.360
+donc non évolutifs,
+comme des pages d'informations,
+
+00:02:22.520 --> 00:02:25.840
+à des applications dynamiques,
+soit des contenus
+
+00:02:26.000 --> 00:02:28.240
+résultant d'exécution du logiciel.
+
+00:02:28.400 --> 00:02:31.240
+En termes de technologie,
+
+00:02:31.400 --> 00:02:33.800
+on est passé de technologies HTML
+
+00:02:33.960 --> 00:02:38.880
+à des technologies incluant du langage
+comme Java, Ajax, etc.
+
+00:02:39.840 --> 00:02:43.000
+Ces nouveaux langages ont permis
+
+00:02:43.160 --> 00:02:45.240
+d'améliorer, d'enrichir le contenu,
+
+00:02:45.400 --> 00:02:50.240
+mais les applications produites à l'aide
+de ces outils sont peu accessibles.
+
+00:02:50.400 --> 00:02:53.120
+Il est indispensable
+de traiter ce problème
+
+00:02:53.280 --> 00:02:58.160
+et c'est ce qu'a fait WAI à travers
+des recommandations dites ARIA,
+
+00:02:58.960 --> 00:03:00.520
+que nous détaillerons.
+
+00:03:00.680 --> 00:03:02.680
+Au préalable,
+juste un exemple.
+
+00:03:03.400 --> 00:03:07.400
+Si vous réactualisez votre page Web
+à un moment donné,
+
+00:03:07.560 --> 00:03:12.040
+un lecteur d'écran ne détectera pas
+qu'il y a eu une réactualisation.
+
+00:03:12.200 --> 00:03:15.360
+La personne qui percevra l'information
+via son lecteur
+
+00:03:15.520 --> 00:03:18.080
+ne verra pas
+que le contenu a été mis à jour.
+
+00:03:18.880 --> 00:03:22.440
+Si vous utilisez une interface
+à base d'arbres dépliés,
+
+00:03:22.600 --> 00:03:26.560
+pour présenter des menus déroulants
+ou des choix arborescents,
+
+00:03:26.720 --> 00:03:29.440
+une personne
+utilisant un lecteur d'écran
+
+00:03:29.600 --> 00:03:33.040
+ne verra pas ce contenu
+et ne pourra pas y accéder.
+
+00:03:34.080 --> 00:03:39.000
+C'est pourquoi ces recommandations
+ont été rajoutées en 2014.
+
+00:03:39.560 --> 00:03:42.960
+ARIA signifiant
+Accessible Rich Internet Applications.
+
+00:03:43.400 --> 00:03:47.040
+Sans détailler trop cet aspect-là,
+
+00:03:47.200 --> 00:03:49.960
+on va rajouter au langage classique,
+HTML,
+
+00:03:50.120 --> 00:03:54.040
+des attributs, métadonnées,
+soit des informations supplémentaires
+
+00:03:54.200 --> 00:03:56.480
+qui vont renseigner
+
+00:03:56.640 --> 00:04:00.440
+sur les fonctionnalités d'interactions
+et leur état.
+
+00:04:00.600 --> 00:04:02.760
+Si une case a été cochée ou non.
+
+00:04:03.360 --> 00:04:07.360
+Elles donnent des informations
+sur les régions et les choix cochés,
+
+00:04:07.520 --> 00:04:10.640
+pour que les concepteurs
+de technologies Web
+
+00:04:10.800 --> 00:04:14.400
+de navigateurs, de logiciels
+comme Facebook par exemple
+
+00:04:14.560 --> 00:04:16.480
+ou d'assistance technique,
+
+00:04:16.640 --> 00:04:20.760
+puissent exploiter
+le côté dynamique et enrichi
+
+00:04:20.920 --> 00:04:22.840
+des pages Web d'aujourd'hui.
+
+00:04:23.000 --> 00:04:25.960
+Ces recommandations ARIA
+sont récentes
+
+00:04:26.120 --> 00:04:28.120
+et sont de plus en plus
+importantes.
+
+00:04:28.280 --> 00:04:32.120
+Tout développeur d'applications
+doit connaître ces balises,
+
+00:04:32.280 --> 00:04:34.720
+car on les utilise
+sous forme de balises.
+
+00:04:34.880 --> 00:04:37.720
+Après avoir passé en revue
+
+00:04:37.880 --> 00:04:41.400
+ces différentes recommandations
+émanant de WAI,
+
+00:04:41.560 --> 00:04:45.760
+nous nous intéresserons
+à l'accessibilité réelle
+
+00:04:45.920 --> 00:04:48.240
+des sites Web,
+telle qu'on la constate
+
+00:04:48.400 --> 00:04:52.120
+dans des études ayant pris en compte
+des sites existants.

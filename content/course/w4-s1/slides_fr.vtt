@@ -1,0 +1,128 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:27.000
+<h1>Accessibilité numérique</h1>
+<ol>
+  <li>Introduction</li>
+  <li>L’accessibilité des systèmes numériques</li>
+  <li> L’accessibilité des contenus</li>
+  <li><strong>Les méthodes de conception</strong></li>
+  <li>Les assistances technologiques</li>
+</ol>
+
+2
+00:00:27.000 --> 00:00:47.000
+<h1>4. Les méthodes de conception</h1>
+<ul>
+  <li>Démarche de conception centrée utilisateur </li>
+  <li>Méthodes centrées - Utilisateurs </li>
+  <li>Approches centrées - PSH : méthodes classiques </li>
+  <li>Approches centrées - PSH : méthodes récentes </li>
+  <li>Méthodes d’évaluation : ergonomie de l’interface </li>
+  <li>Exemples d’évaluation de l’ergonomie des interfaces </li>
+  <li>Méthodes d’évaluation : auto-détermination</li>
+  <li>Exemples d’auto-détermination</li>
+</ul>
+
+3
+00:00:47.000 --> 00:00:51.000
+<h1>4. Les méthodes de conception</h1>
+<ul>
+  <li><strong>Démarche de conception centrée utilisateur </strong></li>
+  <li>Méthodes centrées - Utilisateurs </li>
+  <li>Approches centrées - PSH : méthodes classiques </li>
+  <li>Approches centrées - PSH : méthodes récentes </li>
+  <li>Méthodes d’évaluation : ergonomie de l’interface </li>
+  <li>Exemples d’évaluation de l’ergonomie des interfaces </li>
+  <li>Méthodes d’évaluation : auto-détermination</li>
+  <li>Exemples d’auto-détermination</li>
+</ul>
+
+4
+00:00:51.000 --> 00:02:12.000
+<h1>Démarches de conception anciennes </h1>
+<ul>
+  <li>Les concepteurs de systèmes numériques sont en général peu sensibilisés aux facteurs humains </li>
+  <li>« Au mieux », l’AN est abordée à la fin du process de conception </li>
+  <li>Approches dites « Techno-centrées » </li>
+</ul>
+<ul>
+  <li>Les systèmes numériques sont adoptés tout d’abord par les « early-adopters », puis par le grand public, puis
+    [éventuellement] par les PSH </li>
+  <li>Exemples : ordinateurs, smartphones, tablettes…</li>
+</ul>
+
+5
+00:02:12.000 --> 00:03:04.000
+<h1>Démarche de conception centrée utilisateur - 1</h1>
+<h2>Au cœur des préoccupations de l’ergonomie des IHM depuis 1960</h2>
+<img src="/Images/W4-10.png" alt="Schéma refait de Brangier et al." />
+<p>Transformation et enrichissement des critères ergonomiques selon les évolutions de la technologie : passage des
+  critères d’accessibilité́ aux critères de persuasion schéma refait à partir de : © Brangier et al. JIPS-2015</p>
+
+6
+00:03:04.000 --> 00:05:32.000
+<h1>Démarche de conception centrée utilisateur - 2</h1>
+<h2>Trois phases, trois objectifs….</h2>
+<img src="/Images/W4-20.png" alt="Analyse des besoins" />
+<p>Image 1 – Analyse des besoins © Everaldo Coelho Image 2 – Maquette de site web © Hiren Vanza Image 3 – Test
+  utilisateur – Startup-photos © @estratton bailey and @wearesculpt</p>
+
+7
+00:05:32.000 --> 00:05:34.000
+<h1>Ressources - 1</h1>
+<p>Brangier E. et al. Évolution de l’inspection heuristique : vers une intégration des critères d’accessibilité, de
+  praticité, d’émotion et de persuasion dans l’ évaluation ergonomique (2015). Journal d’Interaction
+  Personne-Systeme (JIPS) p. 69-84. </p>
+<p>Rahimi N., Ibarra M. A Review of Multiple User Center Design Methods for New Product Development in Smart and
+  Connected Health Applications (2014). Proceedings of PICMET '14: Infrastructure and Service Integration. </p>
+<p>The Human Element: Melinda Gates and Paul Farmer on Designing Global Health. Wired Science. URL : <a
+    href="http://www.wired.com/2013/11/2112gatefarmers/">article « The Human Element »  </a></p>
+<p>Von Hippel E. Lead users: a source of novel product concepts (July 1986). Management Science, Vol 32, Issue 7, p.
+  791-805</p>
+
+8
+00:05:34.000 --> 00:05:36.000
+<h1>Ressources - 2</h1>
+<p>Valentin A. et al. La construction des échantillons dans la conception ergonomique de produits logiciels pour le
+  grand public. Quel quantitatif pour les études qualitatives ? (2010). Le travail humain 3/2010 Vol. 73,
+  p. 261-290. URL : <a href="http://www.cairn.info/revue-le-travail-humain-2010-3-page-261.htm">article « Le travail
+    humain » </a></p>
+<p>Valentin A., Valléry G., Lucongsang R. L’évaluation ergonomique des logiciels : une démarche itérative de
+  conception (1993). Montrouge, anact. </p>
+<p>Kolski C., Ezzdedine H. &amp; Abed M. Développement du logiciel, des cycles classiques aux cycles enrichis sous
+  l’angle des ihm (2001), in C. Kolski (éd.), Analyse et conception de l’ihm. Interaction homme-machine pour les SI,
+  Paris, Hermes, p. 23-49.</p>
+
+9
+00:05:36.000 --> 00:05:38.000
+<h1>Crédits illustrations</h1>
+<p>Transformation et enrichissement des critères ergonomiques selon les évolutions de la technologie : passage des
+  critères d’accessibilité́ aux critères de persuasion. Schéma refait pour des raisons de lisibilité à partir de ©
+  Brangier et al. JIPS-2015. (voir slides ressources ci-dessus) </p>
+<p>Female, lady, user, woman icon © Everaldo Coelho. Icon Finder. URL : <a
+    href="https://www.iconfinder.com/icons/3698/female_lady_user_woman_icon#size=128">icône dame vue de face </a>
+</p>
+<p>Computer, laptop, macbook, monitor, pc, icon © Hiren Vanza. Icon Finder. URL : <a
+    href="https://www.iconfinder.com/icons/476321/computer_laptop_mackbook_monitor_pc_portable_screen_icon#size=256">icône
+    ordinateur de face </a></p>
+<p>Startup-photos © @estratton bailey and @wearesculpt. Pexels.com. URL : <a
+    href="https://www.pexels.com/photo/working-woman-technology-computer-7374/">image 2 dames de profil devant un
+    écran</a></p>
+
+10
+00:05:38.000 --> 00:05:39.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

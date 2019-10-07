@@ -1,0 +1,393 @@
+WEBVTT
+
+00:00:02.380 --> 00:00:04.610
+Dans cette démonstration, je
+voudrais vous présenter les
+
+00:00:04.810 --> 00:00:07.530
+principales fonctionnalités
+d'accessibilité d'un système Windows.
+
+00:00:08.660 --> 00:00:10.820
+Au préalable, je voudrais
+préciser qu'il ne s'agit pas de
+
+00:00:11.020 --> 00:00:13.000
+faire une démonstration
+exhaustive de toutes les
+
+00:00:13.200 --> 00:00:15.730
+fonctionnalités
+d'accessibilité, mais principalement de
+
+00:00:15.930 --> 00:00:17.850
+vous montrer la façon d'accéder.
+
+00:00:18.790 --> 00:00:21.220
+Je vous propose de
+regarder sur les sites des
+
+00:00:21.420 --> 00:00:23.210
+constructeurs, des
+développeurs de logiciels où vous
+
+00:00:23.410 --> 00:00:26.120
+trouverez des
+démonstrations, des tutoriels, et où vous
+
+00:00:26.320 --> 00:00:27.810
+trouverez absolument tous
+les détails d'utilisation.
+
+00:00:29.200 --> 00:00:32.160
+Si j'utilise une version de
+Windows, une version 10 en
+
+00:00:32.360 --> 00:00:34.320
+l’occurrence, mais dans
+les versions préalables vous
+
+00:00:34.520 --> 00:00:36.140
+aurez le même genre de
+fonctionnalités même si elles ne
+
+00:00:36.340 --> 00:00:39.300
+sont pas nommées exactement
+de la même façon, nous allons
+
+00:00:39.500 --> 00:00:44.180
+aller chercher dans les
+"Paramètres du système" et
+
+00:00:44.380 --> 00:00:47.080
+parmi tout l'ensemble des
+tableaux de bord que nous
+
+00:00:47.280 --> 00:00:49.440
+pouvons voir, il en est un qui
+est appelé "Options d'ergonomie",
+
+00:00:49.640 --> 00:00:53.520
+"Ease of access" en anglais,
+qui sera justement consacré
+
+00:00:53.720 --> 00:00:54.680
+à toutes ces fonctionnalités.
+
+00:00:55.830 --> 00:00:57.870
+J'active cette fonctionnalité.
+
+00:00:58.070 --> 00:01:01.930
+On me propose une liste
+de fonctions que l'on peut
+
+00:01:02.130 --> 00:01:04.670
+retrouver sur la gauche de l'écran.
+
+00:01:04.870 --> 00:01:08.590
+Commençons par la loupe qu'il est
+possible d'activer via un bouton.
+
+00:01:09.230 --> 00:01:12.150
+On voit qu'il est
+possible ensuite de régler la
+
+00:01:12.560 --> 00:01:16.490
+profondeur de ce zoom, l'intensité
+avec laquelle l'écran est grossi.
+
+00:01:17.240 --> 00:01:20.560
+On pourra par la suite
+réutiliser ça sur l'ensemble de
+
+00:01:20.760 --> 00:01:21.860
+toutes les fenêtres
+que vous utilisez.
+
+00:01:23.500 --> 00:01:25.190
+Je désactive la loupe.
+
+00:01:26.120 --> 00:01:29.420
+Maintenant je voudrais vous
+présenter des fonctionnalités de contrastes.
+
+00:01:30.040 --> 00:01:32.190
+Je vous ai expliqué dans
+les séquences de cours que le
+
+00:01:32.870 --> 00:01:34.900
+réglage de ce
+contraste était important.
+
+00:01:35.750 --> 00:01:39.400
+Il va être possible de
+choisir parmi les contrastes qui
+
+00:01:39.600 --> 00:01:43.100
+seront prédéfinis, mais
+qu'il sera tout à fait possible
+
+00:01:43.300 --> 00:01:45.860
+de modifier en
+fonction de ses préférences.
+
+00:01:46.410 --> 00:01:49.160
+Quelques instants sur le clavier.
+
+00:01:49.680 --> 00:01:52.910
+La première possibilité est
+d'activer un clavier visuel
+
+00:01:53.880 --> 00:01:56.880
+dans lequel
+l'utilisateur, sans avoir à utiliser le
+
+00:01:57.080 --> 00:02:00.090
+clavier réel, pourra avec
+des gestes d'ampleur beaucoup
+
+00:02:00.290 --> 00:02:03.790
+plus réduite et dans
+certains cas moins fatigants, moins
+
+00:02:04.000 --> 00:02:07.090
+inconfortables, saisir les
+différents caractères qui l'intéressent.
+
+00:02:08.930 --> 00:02:13.550
+Deuxième possibilité, les
+touches rémanentes où il sera
+
+00:02:13.750 --> 00:02:17.400
+possible d'utiliser des
+raccourcis clavier en appuyant
+
+00:02:17.600 --> 00:02:21.480
+sur une touche à la fois. Nous
+avons vu ce principe en cours.
+
+00:02:22.160 --> 00:02:24.880
+Il s'agit de décomposer
+une combinaison qui est
+
+00:02:25.080 --> 00:02:27.410
+habituellement
+réalisée de façon simultanée.
+
+00:02:27.610 --> 00:02:31.260
+J'appuie simultanément
+sur la touche Ctrl et sur la
+
+00:02:31.460 --> 00:02:36.110
+touche E par exemple, en une
+série où je vais appuyer d'
+
+00:02:36.310 --> 00:02:38.160
+abord sur Ctrl et ensuite sur E.
+
+00:02:39.160 --> 00:02:43.410
+Il est également possible
+d'émettre des sons lorsque vous
+
+00:02:43.610 --> 00:02:46.000
+appuyez sur certaines
+touches particulières comme la
+
+00:02:46.200 --> 00:02:49.230
+touche Majuscule, comme
+la touche de verrouillage
+
+00:02:50.060 --> 00:02:52.750
+numérique, vous pouvez
+configurer exactement la façon
+
+00:02:52.950 --> 00:02:54.650
+dont vous avez un retour sonore.
+
+00:02:56.630 --> 00:02:59.840
+Autre possibilité également
+évoquée précédemment dans les
+
+00:03:00.040 --> 00:03:02.530
+séquences du cours, les
+touches dites "filtre".
+
+00:03:03.480 --> 00:03:05.740
+Je vais vous montrer
+l'utilisation de ces touches "filtre".
+
+00:03:05.940 --> 00:03:09.610
+Pour cela, je vais
+utiliser un éditeur de texte très
+
+00:03:09.810 --> 00:03:13.950
+simple dans lequel
+habituellement, lorsque je tape des
+
+00:03:14.150 --> 00:03:16.740
+caractères et si jamais je
+reste appuyé longtemps sur le
+
+00:03:16.940 --> 00:03:19.870
+même caractère, le système
+va me générer autant de fois
+
+00:03:20.070 --> 00:03:22.080
+le caractère qu'il aura
+détecté le moment où j'appuie.
+
+00:03:23.360 --> 00:03:26.640
+Ce que je voudrais présenter
+maintenant, c'est que si j'active
+
+00:03:26.840 --> 00:03:30.880
+le principe de touche
+"filtre", que je reviens dans le
+
+00:03:31.080 --> 00:03:35.530
+même éditeur, même si je
+reste appuyé longtemps sur la
+
+00:03:35.730 --> 00:03:39.280
+touche, on voit qu'un
+seul caractère est détecté.
+
+00:03:40.560 --> 00:03:43.460
+Vous entendez également un
+bip sonore qui valide le fait
+
+00:03:43.660 --> 00:03:46.090
+que le caractère a bien été
+pris en compte par le système.
+
+00:03:47.220 --> 00:03:49.920
+Cette fonctionnalité très
+simple sera vraiment très utile
+
+00:03:50.120 --> 00:03:53.590
+pour des personnes avec
+motricité fine ou avec des
+
+00:03:53.790 --> 00:03:55.280
+problèmes de
+tremblements par exemple.
+
+00:03:57.020 --> 00:03:58.570
+Intéressons-nous
+maintenant au "Narrateur" qui est le
+
+00:03:58.770 --> 00:04:01.370
+lecteur d'écran de
+Windows dans cette version.
+
+00:04:02.000 --> 00:04:04.910
+Il est activable via à un bouton.
+
+00:04:06.840 --> 00:04:09.610
+Paramètre activé.
+Narrateur bouton bascule.
+
+00:04:10.680 --> 00:04:13.270
+À partir de ce moment, les
+différentes actions que je
+
+00:04:13.470 --> 00:04:16.570
+vais entreprendre seront
+traduites par un retour sonore.
+
+00:04:17.620 --> 00:04:20.470
+Si je veux choisir une
+voix, je vais cliquer.
+
+00:04:21.620 --> 00:04:25.620
+Sélectionner, "Microsoft
+Hortense Desktop", 1 sur 3.
+
+00:04:27.000 --> 00:04:31.260
+Le système m'a expliqué sur
+quel choix de menu je me trouvais.
+
+00:04:31.950 --> 00:04:33.340
+Je peux faire un autre choix.
+
+00:04:34.020 --> 00:04:36.310
+(son de l'ordinateur
+et voix en anglais).
+
+00:04:36.800 --> 00:04:40.520
+Ce que vous avez constaté,
+c'est qu'en choisissant une
+
+00:04:40.720 --> 00:04:43.750
+voix anglophone, alors les
+commentaires sont passés dans une autre langue.
+
+00:04:44.120 --> 00:04:46.520
+Ce qui va permettre, comme
+nous l'avons également évoqué,
+
+00:04:46.800 --> 00:04:51.260
+de pouvoir utiliser les systèmes
+dans une approche plutôt multilingue.
+
+00:04:52.700 --> 00:04:55.120
+Ces fonctions de
+synthèse vocale sont également
+
+00:04:55.320 --> 00:04:57.960
+utilisables lorsque vous
+modifiez la valeur d'un paramètre.
+
+00:04:59.000 --> 00:05:03.370
+Je vais dans la suite
+modifier le paramètre de vitesse et
+
+00:05:03.570 --> 00:05:05.610
+vous allez entendre les
+valeurs que prend successivement.
+
+00:05:05.810 --> 00:05:06.570
+"Infobulle, 10, 1, 11,
+12, 1, 16, 20, 12, 10".
+
+00:05:13.330 --> 00:05:17.060
+Je pourrais l'utiliser
+également avec le volume du son.
+
+00:05:17.710 --> 00:05:22.360
+"Infobulle, Speaker, 100
+%", "Fenêtre Contrôle du
+
+00:05:22.560 --> 00:05:25.470
+volume", "Potentiomètre",
+"Curseur du volume", 100 %.
+
+00:05:25.670 --> 00:05:26.430
+89, 100.
+
+00:05:31.410 --> 00:05:35.840
+De cette façon,
+l'utilisateur pourra prendre connaissance
+
+00:05:36.040 --> 00:05:38.540
+à la fois des choix qui lui
+sont proposés, des valeurs de
+
+00:05:38.740 --> 00:05:41.130
+paramètres qu'il a réglés,
+de façon à lui rendre beaucoup
+
+00:05:41.330 --> 00:05:43.720
+plus accessibles l'accès à
+toutes les fonctionnalités,
+
+00:05:43.920 --> 00:05:45.910
+tous les paramètres que
+lui propose le système.
+
+00:05:46.700 --> 00:05:49.520
+Je vais maintenant
+désactiver le narrateur.
+
+00:05:51.470 --> 00:05:52.800
+"Sortie du narrateur".

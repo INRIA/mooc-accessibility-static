@@ -1,0 +1,101 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.000
+<h1>Accessibilité numérique</h1>
+  <h3>Comment favoriser l'accès au monde numérique<br>pour les personnes en situation de handicap</h3>
+
+2
+00:00:03.000 --> 00:00:42.000
+<h1>Introduction</h1>
+<ul>
+  <li>Rappel : objectifs du programme de recherche
+    <ul>
+      <li>ouvrir au plus grand nombre l’accès à des outils numériques de formation </li>
+      <li>aider tous les utilisateurs</li>
+    </ul>
+  </li>
+  <li>Description des grands principes de conception et des fonctionnalités importantes </li>
+  <li>Mode d’emploi complet disponible dans les ressources associées au cours</li>
+</ul>
+
+3
+00:00:42.000 --> 00:02:10.000
+<h1>Principes de conception - 1</h1>
+<h2>Contexte  particulier</h2>
+<ul>
+  <li>Un MOOC est composé de flux d’informations : vidéo, diapositives, quizz…</li>
+  <li>Séparation des flux : vidéos, diapositives, sous-titres…</li>
+  <li>Ajout d’infos supplémentaires (abréviations, emphase) via textes/icônes </li>
+  <li>Configuration :
+    <ul>
+      <li>sélection des flux, taille et position des fenêtres </li>
+      <li>au démarrage, à tout moment</li>
+    </ul>
+  </li>
+</ul>
+4
+00:02:10.000 --> 00:03:34.000
+<h1>Principes de conception - 2</h1>
+<ul>
+  <li>Ajout de fonctions de navigation supplémentaires (transparents, notions) </li>
+  <li>Configuration des boutons associés aux fonctions de navigation </li>
+  <li>Ensemble de ces réglages = profil </li>
+  <li>Mécanisme de sauvegarde / import, puis échanges</li>
+</ul>
+
+5
+00:03:34.000 --> 00:05:02.000
+<h1>Fonctions de consultation</h1>
+<ul>
+  <li>Consulter des flux d’infos sélectionnés et naviguer dans ces séquences :
+    <ul>
+      <li>lancer/arrêter l’affichage des flux (vidéo, diapositives, sous-titres, infos supplémentaires) </li>
+      <li>modifier la vitesse (0,5X – 2X) </li>
+      <li>diapositive suivante/précédente, idem notion </li>
+      <li>marquer à la volée des moments particuliers  </li>
+      <li>percevoir l’avancement dans la séquence affichée
+      </li>
+    </ul>
+  </li>
+</ul>
+
+6
+00:05:02.000 --> 00:06:09.000
+<h1>Fonctions de navigation - 1</h1>
+<ul>
+  <li>Gérer l’intensité du son</li>
+  <li>Afficher partiellement – en plein écran</li>
+  <li>Fenêtre de paramétrage :
+    <ul>
+      <li>sélectionner les flux souhaités</li>
+      <li>choisir le thème d’affichage</li>
+      <li>sauvegarder/importer un profil</li>
+      <li>signaler une erreur de fonctionnement</li>
+    </ul>
+  </li>
+</ul>
+
+7
+00:06:09.000 --> 00:07:06.000
+<h1>Fonctions de navigation - 2</h1>
+<ul>
+  <li>Déplacer/redimensionner les fenêtres d’affichage </li>
+  <li>Déplacer/redimensionner les blocs de boutons d’interface</li>
+  <li>Changer le point de vue de l’intervenant (face, ¾)</li>
+</ul>
+
+8
+00:07:06.000 --> 00:07:10.000
+<h1>Réalisation</h1>
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria">
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire">
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux">
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a></div>
+</div>

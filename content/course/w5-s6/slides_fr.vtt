@@ -1,0 +1,148 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.000
+<h1>5. Les assistances technologiques</h1>
+<ul>
+  <li>Introduction</li>
+  <li>La Classification Internationale du Fonctionnement - 1</li>
+  <li>La Classification Internationale du Fonctionnement - 2 </li>
+  <li>La Classification Internationale du Fonctionnement : exemple </li>
+  <li>Exemples d’assistances numériques </li>
+  <li><strong>Conclusion générale</strong></li>
+</ul>
+
+2
+00:00:09.000 --> 00:00:49.000
+<h1>C’est quoi l’AN ?</h1>
+<h2>Objectif </h2>
+<ul>
+  <li>Permettre à une plus grande population d’utiliser pleinement/sans effort les outils du monde numérique
+    (logiciels, web)</li>
+</ul>
+<h2>Elle concerne</h2>
+<ul>
+  <li>Les équipements </li>
+  <li>Les logiciels et leurs interfaces </li>
+  <li>Les contenus (documents, web) </li>
+  <li>Les usages</li>
+</ul>
+
+3
+00:00:49.000 --> 00:02:03.000
+<h1>Pourquoi développer l’AN ?</h1>
+<h2>Pour l’individu</h2>
+<ul>
+  <li>Favoriser l’autonomie et l’auto-détermination</li>
+</ul>
+<h2>Pour la société</h2>
+<ul>
+  <li>Lutter contre les exclusions</li>
+</ul>
+<h2>Pour les entreprises, les organisations</h2>
+<ul>
+  <li>Augmenter leur impact (économique, politique, réputation…) </li>
+  <li>Respecter les lois</li>
+</ul>
+
+4
+00:02:03.000 --> 00:03:30.000
+<h1>Où en est-on ?</h1>
+<h2>Tendance générale</h2>
+<ul>
+  <li>Amélioration constante mais encore beaucoup de progrès à réaliser</li>
+</ul>
+<h2>Pourquoi ?</h2>
+<ul>
+  <li>Il existe beaucoup de solutions (matérielles, logicielles, recommandations)mais elles ne sont pas assez
+    connues / adoptées / utilisées </li>
+  <li>Elles sont assimilées à un coût supplémentaire </li>
+  <li>Elles « oublient » une grande partie des SH : les troubles cognitifs</li>
+</ul>
+
+5
+00:03:30.000 --> 00:04:40.000
+<h1>Que faut-il pour développer l’AN ?</h1>
+<h2>Des équipes multidisciplinaires</h2>
+<ul>
+  <li>Des praticiens, des chercheurs, des fabricants d’équipements </li>
+  <li><strong>Et</strong> des utilisateurs [accompagnés de leurs aidants] </li>
+  <li>Mélangeant des spécialistes en psychologie, en sciences cognitives, en médecine, en informatique et en
+    sciences du numérique…</li>
+</ul>
+
+6
+00:04:40.000 --> 00:05:45.000
+<h1>Que faire ? - 1</h1>
+<h2>Sensibiliser</h2>
+<ul>
+  <li>Qu’est-ce que la SH ? L’AN ? </li>
+  <li>Grand public, « décideurs »</li>
+</ul>
+<h2>Former</h2>
+<ul>
+  <li>Apprendre à développer : formation initiale / professionnelle </li>
+  <li>Apprendre à utiliser : grand public</li>
+</ul>
+
+7
+00:05:45.000 --> 00:06:22.000
+<h1>Que faire ? - 2</h1>
+<h2>Concevoir et développer</h2>
+<ul>
+  <li>Nouveaux outils, méthodes </li>
+  <li>Chercheurs, ingénieurs <strong>et</strong> utilisateurs</li>
+</ul>
+<h2>Contraindre</h2>
+<ul>
+  <li>Lois, réglementations</li>
+</ul>
+
+8
+00:06:22.000 --> 00:08:17.000
+<h1>Teaching Accessibility (2015)</h1>
+<h2>« Accessibility must become mainstream »</h2>
+<ul>
+  <li>Consortium
+    <ul>
+      <li>Entreprises : Adobe, Facebook, Google, LinkedIn, Microsoft, Twitter, Yahoo </li>
+      <li>Universités : Carnegie Mellon, Georgia Tech, Stanford… </li>
+    </ul>
+  </li>
+  <li>4 objectifs :
+    <ul>
+      <li>Enseignement : insérer l’AN dans les cursus </li>
+      <li>Formation : outils en ligne </li>
+      <li>Recherche : programmes, financements </li>
+      <li>Entreprises : recrutement, formation interne, produits</li>
+    </ul>
+  </li>
+</ul>
+
+9
+00:08:17.000 --> 00:09:03.000
+<h1>Accessibilité numérique</h1>
+<h3>Comment favoriser l'accès au monde numérique<br>pour les personnes en situation de handicap</h3>
+
+10
+00:09:03.000 --> 00:09:09.000
+<h1>Ressources</h1>
+<p>Teach Access Homepage. Teach Access. URL : <a href="http://teachingaccessibility.com/">site web de Teach Access
+  </a></p>
+
+11
+00:09:09.000 --> 00:09:10.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

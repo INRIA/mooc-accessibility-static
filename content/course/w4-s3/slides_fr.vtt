@@ -1,0 +1,191 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:13.000
+<h1>4. Les méthodes de conception</h1>
+<ul>
+  <li>Démarche de conception centrée utilisateur </li>
+  <li>Méthodes centrées - Utilisateurs </li>
+  <li><strong>Approches centrées - PSH : méthodes classiques </strong></li>
+  <li>Approches centrées - PSH : méthodes récentes </li>
+  <li>Méthodes d’évaluation : ergonomie de l’interface </li>
+  <li>Exemples d’évaluation de l’ergonomie des interfaces </li>
+  <li>Méthodes d’évaluation : auto-détermination </li>
+  <li>Exemples d’auto-détermination</li>
+</ul>
+
+2
+00:00:13.000 --> 00:00:31.000
+<h1>Approches contributives</h1>
+<h2>Trois approches distinctes</h2>
+<ul>
+  <li>Dites « universelles »</li>
+  <li>Dites « spécifiques »</li>
+  <li>Intégrées</li>
+</ul>
+
+3
+00:00:31.000 --> 00:02:01.000
+<h1>Approches universelles </h1>
+<h2>Ensemble d’approches</h2>
+<ul>
+  <li>Universal design </li>
+  <li>Universal utilisability</li>
+  <li>Design for all </li>
+  <li>Life-span / Transgenerational Design </li>
+  <li>Inclusive design</li>
+</ul>
+<div class="top-corner">
+  <p><img src="/Images/W4-50.png" alt="Aire de jeux créée dans une démarche de conception universelle" /></p>
+  <p>Une aire de jeux créée dans une démarche de conception universelle © APF</p>
+</div>
+<h2>Points communs<br>
+</h2>
+<ul>
+  <li>Adaptation au plus grand nombre - “one size fits all”  </li>
+  <li>Application aux espaces et objets physiques</li>
+  <li>Groupes de référence selon activité</li>
+  <li>Défaut de sous-estimation de la variabilité inter-individuelle</li>
+</ul>
+
+4
+00:02:01.000 --> 00:02:24.000
+<h1>Approches universelles - principes </h1>
+<h2>Universal Design (7 Principes)</h2>
+<ul>
+  <li>Equité d’accès </li>
+  <li>Flexibilité dans l’utilisation </li>
+  <li>Simple et intuitive (compréhension immédiate) </li>
+  <li>Information perceptible </li>
+  <li>Tolérance à l’erreur </li>
+  <li>Faible coût physique </li>
+  <li>Adapté aux situations/contextes d’usage</li>
+</ul>
+
+5
+00:02:24.000 --> 00:02:56.000
+<h1>Approches universelles - exemple messagerie</h1>
+<ul>
+  <li> Alternative vocale </li>
+</ul>
+<img src="/Images/W4-60to80.png" alt="Capture écran messagerie - alternative vocale" />
+<p>Captures d’écran Messagerie DomAssist<br>
+</p>
+
+6
+00:02:56.000 --> 00:04:14.000
+<h1>Approches spécifiques</h1>
+<h2>Ensemble d’approches</h2>
+<ul>
+  <li>Palliative/rehabilitative Design </li>
+  <li>Specific Design </li>
+  <li>Sensible Design </li>
+  <li>Design for one</li>
+</ul>
+<h2>Points communs</h2>
+<ul>
+  <li>Centrées incapacités et/ou déficiences </li>
+  <li>« Sur mesure » pour chaque individu</li>
+</ul>
+<div class='top-corner'>
+  <img src="/Images/W4-100.png" alt="Lecteur de braille" />
+  <p>Lecteur de braille Brailliant BI 40 © accesstech</p>
+</div>
+<img src="/Images/W4-90.png" alt="Orthèses de Jambes" class="width25" />
+<p>Orthèses de Jambes © Chabloz Orthopédia<br>
+</p>
+
+7
+00:04:14.000 --> 00:05:32.000
+<h1>Approches spécifiques - exemple messagerie</h1>
+<h2>Besoins spécifiques (sensoriels, moteurs, cognitifs, psycho-sociaux) de la personne âgée</h2>
+<ul>
+  <li>Normes ISO/TR 22411:2008 </li>
+  <li>Principes spécifiques d’ergonomie des IHM </li>
+</ul>
+<img src="/Images/W4-110.png" alt="Capture écran messagerie" class="width50" />
+<p>Capture d’écran Messagerie DomAssist © Phoenix, Inria<br>
+</p>
+
+8
+00:05:32.000 --> 00:05:33.000
+<h1>Ressources - 1 </h1>
+<p>Rocque S. et al. Accessibilité universelle et designs contributifs dans un processus évolutif (2011). URL : <a
+    href="http://ripph.qc.ca/fr/revue/journal-19-03-2011-01#note_1">article : « Accessibilité universelle et designs
+    contributifs… »</a></p>
+<p> Mace, R. L., Hardie, G. J. et al. Accessible environments: Toward universal design (1991). In Design
+  Intervention: Toward a More Humane Architecture, W. E. Preiser, J. C. Vischer, and E. T. White (eds). New York:
+  Van Nostrand Reinhold. URL : <a
+    href="https://www.ncsu.edu/ncsu/design/cud/pubs_p/docs/AccessibleEnvironments.pdf">article : « Accessible
+    environments… »</a></p>
+<p> Steinfeld, E. The concept of universal design (1994). Proceedings of the Sixth Ibero-American Conference on
+  Accessibility, Rio de Janeiro.</p>
+<p>Story, M. F. Maximizing usability: The principles of universal design (1998). Assistive Technology, Vol 10, n°1,
+  p. 4-12</p>
+
+9
+00:05:33.000 --> 00:05:35.000
+<h1>Ressources - 2</h1>
+<p>Kane, S. K., Wobbrock, J. O. et al. Getting off the treadmill: Evaluating walking user interfaces for mobile
+  devices in public spaces (2008). Proceedings of the ACM Conference on Human-Computer Interaction with Mobile
+  Devices and Services (MobileHCI '08). New York: ACM Press, p. 109-118.</p>
+<p>Lin, M., Goldman, et al. How do people tap when walking? An empirical investigation of nomadic data entry (2007).
+  International Journal of Human-Computer Studies, Vol 65, n°9, p. 759-769. </p>
+<p>Sears, A., Lin, M., et al. When computers fade… Pervasive computing and situationally-induced impairments and
+  disabilities (2003). Proceedings of the 10th International Conference on Human-Computer Interaction (HCI Int'l
+  '03), p. 1298-1302. URL : article : « When computers fade… » </p>
+
+10
+00:05:35.000 --> 00:05:36.000
+<h1>Ressources - 3</h1>
+<p>Sears, A., Young, M. et al. Physical disabilities and computing technologies: An analysis of impairments (2008).
+  In The Human-Computer Interaction Handbook, p. 829-852. URL : <a
+    href="https://courses.cs.washington.edu/courses/cse590w/06au/resources/PhysicalDisabilitiesandComputingTechnologies.pdf">article:
+    « Physical disabilities and computing technologies » </a></p>
+<p>Wobbrock, J. O. The future of mobile device research in HCI (2006). CHI 2006 Workshop Proceedings: What is the
+  Next Generation of Human-Computer Interaction? Montréal, Québec, p. 131-134. URL : <a
+    href="https://faculty.washington.edu/wobbrock/pubs/chi-06.05.pdf">article : « The future of mobile device
+    research »</a></p>
+
+11
+00:05:36.000 --> 00:05:37.000
+<h1>Ressources - 4</h1>
+<p>Yamabe, T., Takahashi, K. Experiments in mobile user interface adaptation for walking users (2007). Int'l
+  Conference on Intelligent Pervasive Computing (IPC '07), p. 280-284.</p>
+<p>Yesilada, Y., Harper, S., et al. Small-device users situationally impaired by input (2010). Computers in Human
+  Behavior, Vol 26, n°3, p. 427-435. </p>
+<p>Connel et al. The principles of Universal Design (1997). NC State University, The Center for Universal Design.
+  URL : <a href="https://www.ncsu.edu/ncsu/design/cud/about_ud/udprinciplestext.htm">article : « The principles of
+    Universal Design » </a></p>
+<p>Projet DomAssist. Equipe Phoenix / Inria. URL : <a
+    href="http://phoenix.inria.fr/research-projects/homeassist">DomAssist Equipe Phoenix Inria</a></p>
+
+12
+00:05:37.000 --> 00:05:38.000
+<h1>Crédits illustrations</h1>
+<p>4245927301.JPG © APF. URL : <a
+    href="http://accessibilite-universelle.apf.asso.fr/archive/2015/06/03/aire-de-jeux-creee-dans-une-demarche-de-conception-universel-82104.html">image
+    enfants en fauteuil roulant sur une balancelle </a></p>
+<p>Captures d’écran. Projet DomAssist © équipe Phoenix / Inria. URL : <a
+    href="http://phoenix.inria.fr/research-projects/homeassist">captures d'écran du projet DomAssist </a></p>
+<p>Brailliant BI 40 © accesstech. URL : <a href="http://www.accesstech.ch/fr/produkte/Braille-Zeilen">image de
+    lecteur de braille </a></p>
+<p>Orthèses de jambes © Chabloz Orthopédie Auvergne. URL : <a
+    href="http://www.chabloz-orthopedie.com/fr/orthopedie/Membres-inferieurs/3/Ortheses-de-jambes/18">image orthèses
+    de jambes </a></p>
+
+13
+00:05:38.000 --> 00:05:40.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

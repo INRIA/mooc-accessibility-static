@@ -1,8 +1,8 @@
 ---
-title: "Semaine 0, Séquence 1"
-date: 2019-10-03T15:40:44+02:00
+title: "Semaine 4, Séquence 4"
+date: 2019-10-07T10:13:46+02:00
 draft: false
-description: "Présentation générale de l'environnement du MOOC par Pascal Guitton"
+description: ""
 player:
   sources:
     - label: "Face video"
@@ -22,11 +22,5 @@ subtitles:
   sources:
     - label: "Sous-titres"
       src: "subtitles_fr.vtt"
-      srcLang: "fr"
-chapters:
-  language: "fr"
-  sources:
-    - label: "Chapitres"
-      src: "chapters_fr.vtt"
       srcLang: "fr"
 ---

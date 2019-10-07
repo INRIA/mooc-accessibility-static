@@ -1,0 +1,379 @@
+﻿WEBVTT
+
+00:00:00.200 --> 00:00:02.880
+Cette séquence
+et les suivantes
+
+00:00:03.040 --> 00:00:05.960
+se focalisent
+sur les méthodes d'évaluation
+
+00:00:06.120 --> 00:00:10.720
+de l'accessibilité numérique
+des produits conçus.
+
+00:00:11.000 --> 00:00:14.040
+Notamment celle qui va suivre
+
+00:00:14.200 --> 00:00:17.360
+s'intéressera
+à l'ergonomie de l'interface.
+
+00:00:17.520 --> 00:00:21.920
+Pour évaluer l'accessibilité
+d'une solution numérique,
+
+00:00:22.080 --> 00:00:25.920
+on se réfère à la définition
+que nous avons vue
+
+00:00:26.080 --> 00:00:31.120
+la semaine 1 de ce MOOC
+sur l'accessibilité universelle.
+
+00:00:31.280 --> 00:00:35.000
+Pour rappel, cette définition inclut
+
+00:00:35.160 --> 00:00:38.120
+que pour évaluer
+l'accessibilité numérique,
+
+00:00:38.280 --> 00:00:40.000
+il faut explorer 2 critères.
+
+00:00:40.160 --> 00:00:44.760
+L'auto-détermination
+et l'ergonomie de l'interface.
+
+00:00:45.280 --> 00:00:48.120
+Historiquement,
+on a surtout des méthodes
+
+00:00:48.280 --> 00:00:52.280
+abordant l'ergonomie de l'interface
+plutôt que l'auto-détermination,
+
+00:00:52.440 --> 00:00:56.240
+qui est un critère beaucoup plus récent.
+
+00:00:56.400 --> 00:01:01.440
+Je vais aborder les méthodes
+d'évaluation d'ergonomie d'interfaces.
+
+00:01:01.840 --> 00:01:04.880
+Pour évaluer l'ergonomie
+d'une solution numérique,
+
+00:01:05.040 --> 00:01:08.120
+il y a différents critères
+d'inspection ergonomique.
+
+00:01:08.280 --> 00:01:09.880
+En règle générale,
+
+00:01:10.040 --> 00:01:13.360
+les spécialistes de cette discipline
+
+00:01:14.080 --> 00:01:19.000
+considèrent 4 catégories de critères.
+
+00:01:19.400 --> 00:01:23.560
+Pour pouvoir évaluer
+ces quatre catégories,
+
+00:01:23.720 --> 00:01:25.480
+des outils existent,
+
+00:01:25.640 --> 00:01:29.480
+permettant d'avoir
+des mesures subjectives
+
+00:01:29.640 --> 00:01:31.720
+à l'aide de questionnaires
+
+00:01:31.880 --> 00:01:36.320
+et des outils permettant d'avoir
+des mesures objectives.
+
+00:01:36.480 --> 00:01:39.720
+Généralement
+ce sont des mises en situation
+
+00:01:39.880 --> 00:01:43.880
+d'utilisation de la solution
+avec des mesures
+
+00:01:44.040 --> 00:01:47.640
+réalisées online,
+
+00:01:47.800 --> 00:01:51.680
+pour vérifier les forces
+et faiblesses du produit.
+
+00:01:52.520 --> 00:01:56.280
+Les 4 critères qu'on vient d'évoquer
+sont les suivants :
+
+00:01:56.440 --> 00:01:59.000
+l'accessibilité, l'utilisabilité,
+
+00:01:59.160 --> 00:02:01.880
+l'émotionnalité et l'influençabilité.
+
+00:02:02.040 --> 00:02:05.600
+Pour ce cours
+sur l'accessibilité numérique,
+
+00:02:05.760 --> 00:02:09.360
+le critère d'intérêt
+est évidemment l'accessibilité.
+
+00:02:09.520 --> 00:02:13.760
+Ce critère entretient des liens étroits
+avec les 3 autres critères
+
+00:02:13.920 --> 00:02:17.960
+car il y a des entrelacements
+sur ces 4 critères.
+
+00:02:18.120 --> 00:02:20.400
+Plus précisément,
+
+00:02:20.960 --> 00:02:23.520
+les critères les plus explorés
+
+00:02:23.680 --> 00:02:26.560
+pour mesurer l'accessibilité numérique.
+
+00:02:26.720 --> 00:02:29.240
+L'accessibilité elle-même
+
+00:02:29.400 --> 00:02:32.600
+et en particulier des mesures
+
+00:02:32.760 --> 00:02:37.360
+qui vont vérifier que la solution
+est bien accessible à tous
+
+00:02:37.520 --> 00:02:41.200
+ou permet de recapaciter les personnes
+
+00:02:41.360 --> 00:02:43.680
+avec l'usage de la technologie.
+
+00:02:43.840 --> 00:02:45.680
+On va également regarder
+
+00:02:45.840 --> 00:02:50.000
+des liens entre les 4 critères
+d'inspection ergonomique,
+
+00:02:50.160 --> 00:02:53.440
+vérifier l'utilisabilité de la solution,
+
+00:02:53.600 --> 00:02:58.120
+car si un outil est inutilisable
+par la personne en situation de handicap,
+
+00:02:58.280 --> 00:03:00.800
+elle n'est pas accessible.
+
+00:03:00.960 --> 00:03:05.320
+De plus, on regarde beaucoup
+dans les études sur l'accessibilité
+
+00:03:05.480 --> 00:03:08.080
+l'acceptabilité de la solution
+
+00:03:08.240 --> 00:03:10.360
+et l'intention d'usage.
+
+00:03:11.600 --> 00:03:15.880
+Quelques définitions
+pour être sûr de partager ensemble
+
+00:03:16.040 --> 00:03:19.280
+la connaissance sur les termes
+que nous utilisons.
+
+00:03:19.440 --> 00:03:23.480
+Pour l'utilisabilité,
+je vous propose la définition ISO,
+
+00:03:23.640 --> 00:03:26.680
+renvoyant au degré
+avec lequel un produit
+
+00:03:26.840 --> 00:03:31.760
+peut être utilisé par un utilisateur
+dans un but défini,
+
+00:03:31.920 --> 00:03:34.720
+et ce efficacement,
+
+00:03:34.880 --> 00:03:38.640
+en donnant satisfaction
+à l'utilisateur.
+
+00:03:39.600 --> 00:03:42.720
+L'acceptabilité est le degré
+avec lequel l'utilisateur
+
+00:03:42.880 --> 00:03:46.800
+perçoit la facilité d'utilisation
+d'une technologie.
+
+00:03:46.960 --> 00:03:52.200
+On présuppose
+que cette acceptabilité
+
+00:03:52.840 --> 00:03:57.520
+prédira l'adoption
+de la solution numérique conçue.
+
+00:03:58.120 --> 00:04:02.760
+Je vous propose de s'arrêter
+sur la notion d'acceptabilité
+
+00:04:02.920 --> 00:04:07.480
+car il s'agit d'une notion importante
+lorsqu'on conçoit
+
+00:04:08.400 --> 00:04:12.280
+et qu'on essaye d'évaluer
+l'adoption future
+
+00:04:12.440 --> 00:04:16.240
+de la solution numérique
+pour les personnes ciblées.
+
+00:04:16.480 --> 00:04:20.520
+L'acceptabilité,
+comme je vous le disais,
+
+00:04:20.680 --> 00:04:23.440
+correspond à l'intention d'utilisation.
+
+00:04:23.600 --> 00:04:25.800
+Il y a de nombreux travaux
+qui montrent
+
+00:04:25.960 --> 00:04:29.760
+que cette intention d'utilisation
+d'un outil numérique
+
+00:04:29.920 --> 00:04:31.440
+est multi-déterminée.
+
+00:04:31.600 --> 00:04:33.440
+On a différents modèles
+
+00:04:33.600 --> 00:04:37.160
+qui expliquent
+cet aspect multi-déterminé.
+
+00:04:37.320 --> 00:04:41.440
+On peut aussi trouver
+d'autres modèles qui montrent,
+
+00:04:41.600 --> 00:04:46.960
+et c'est lié aux personnes
+en situation de handicap,
+
+00:04:47.120 --> 00:04:51.000
+que cette intention d'utilisation
+diffère selon le public ciblé.
+
+00:04:51.160 --> 00:04:53.280
+Je vous ai cité le modèle STAM
+
+00:04:53.440 --> 00:04:55.960
+qui montre la différence
+entre ces facteurs,
+
+00:04:56.120 --> 00:05:00.600
+qui prédisent l'intention
+d'utilisation d'une technologie.
+
+00:05:00.760 --> 00:05:03.720
+Ce qui a été montré
+chez la personne âgée,
+
+00:05:03.880 --> 00:05:07.360
+c'est que son statut médical
+ou ses conditions médicales
+
+00:05:07.520 --> 00:05:11.800
+prédiront le degré avec lequel
+elle va accepter
+
+00:05:11.960 --> 00:05:16.920
+une solution numérique,
+pour la seconder dans sa vie quotidienne
+
+00:05:17.680 --> 00:05:20.800
+alors que ce n'est pas le cas
+pour les jeunes.
+
+00:05:21.360 --> 00:05:25.600
+Vous avez des exemples
+de mesures subjectives de l'évaluation
+
+00:05:25.760 --> 00:05:27.280
+d'ergonomie des interfaces.
+
+00:05:27.440 --> 00:05:30.920
+Ces mesures consistent
+à utiliser des questionnaires.
+
+00:05:31.280 --> 00:05:33.840
+Dans ces questionnaires,
+des questions
+
+00:05:34.360 --> 00:05:38.040
+aborderont les différents aspects
+de l'accessibilité,
+
+00:05:38.200 --> 00:05:40.480
+de l'utilisabilité
+et l'acceptabilité.
+
+00:05:40.640 --> 00:05:43.000
+Chaque question est associée
+
+00:05:43.200 --> 00:05:47.640
+à une échelle de Likert
+où ça va de 0 à 4, pas d'accord,
+
+00:05:47.840 --> 00:05:50.800
+tout à fait d'accord, et ces échelles
+
+00:05:50.960 --> 00:05:54.200
+sont généralement adaptées
+pour le public ciblé.
+
+00:05:54.400 --> 00:05:56.920
+On a des échelles pour les adultes,
+
+00:05:57.120 --> 00:06:00.040
+des échelles pour les enfants,
+
+00:06:00.200 --> 00:06:03.280
+ou spécialisées
+pour des publics spécifiques.
+
+00:06:03.480 --> 00:06:07.400
+Il existe des échelles picturales
+
+00:06:07.600 --> 00:06:11.480
+pour les personnes avec déficience
+cognitive comme la trisomie 21.
+
+00:06:13.600 --> 00:06:16.360
+Prochainement, nous illustrerons
+
+00:06:16.560 --> 00:06:19.120
+ces différentes méthodes d'évaluation
+
+00:06:19.280 --> 00:06:21.840
+de l'ergonomie des interfaces.

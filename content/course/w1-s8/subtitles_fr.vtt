@@ -1,0 +1,327 @@
+﻿WEBVTT
+
+00:00:00.320 --> 00:00:02.520
+Dans cette séquence,
+
+00:00:02.720 --> 00:00:06.200
+nous vous présenterons les objectifs
+et le plan du cours.
+
+00:00:06.680 --> 00:00:09.280
+Nous vous avons présenté
+
+00:00:09.480 --> 00:00:13.680
+des définitions, des concepts,
+des modèles, des théories
+
+00:00:13.920 --> 00:00:16.960
+et nous pourrons expliquer
+pourquoi et comment
+
+00:00:17.120 --> 00:00:20.120
+nous avons construit ce cours.
+
+00:00:20.280 --> 00:00:24.000
+En premier lieu,
+précisons l'objectif de ce cours,
+
+00:00:24.160 --> 00:00:28.080
+qui est de contribuer à faciliter
+l'accès au monde numérique
+
+00:00:28.240 --> 00:00:30.920
+pour les personnes
+en situation de handicap.
+
+00:00:31.800 --> 00:00:35.320
+Nous sommes persuadés
+que le monde numérique
+
+00:00:35.480 --> 00:00:37.560
+peut favoriser
+
+00:00:37.720 --> 00:00:40.760
+et aider à augmenter la qualité de vie
+
+00:00:41.240 --> 00:00:45.480
+des personnes handicapées
+et nous allons vous montrer comment.
+
+00:00:47.160 --> 00:00:50.560
+Si je veux préciser
+un peu plus les objectifs,
+
+00:00:50.720 --> 00:00:53.400
+nous souhaitons d'abord
+
+00:00:53.560 --> 00:00:56.560
+sensibiliser aux situations de handicap
+
+00:00:56.720 --> 00:00:59.800
+les personnes
+ne connaissant pas ce monde.
+
+00:01:00.440 --> 00:01:04.840
+Nous décrirons la problématique
+de l'accessibilité numérique,
+
+00:01:05.000 --> 00:01:09.120
+ce qui est bloquant pour les personnes
+en situation de handicap
+
+00:01:09.280 --> 00:01:12.400
+pour accéder au potentiel
+de ce monde numérique :
+
+00:01:12.560 --> 00:01:14.720
+donc les logiciels, le Web.
+
+00:01:14.880 --> 00:01:19.360
+Nous exposerons les mécanismes
+de l'accessibilité numérique,
+
+00:01:19.520 --> 00:01:21.840
+qui ont été développés
+depuis longtemps,
+
+00:01:22.000 --> 00:01:25.720
+pour mieux comprendre
+les aides existantes.
+
+00:01:25.960 --> 00:01:29.680
+Nous présenterons
+quelques solutions techniques
+
+00:01:29.840 --> 00:01:32.320
+basées sur ces mécanismes.
+
+00:01:32.480 --> 00:01:36.720
+Nous décrirons des méthodes
+de conception adaptées
+
+00:01:36.880 --> 00:01:38.960
+pour les personnes
+en situation de handicap,
+
+00:01:39.120 --> 00:01:43.240
+pour concevoir et développer
+de nouveaux outils numériques.
+
+00:01:43.400 --> 00:01:46.280
+Ce cours cible un public assez large.
+
+00:01:46.440 --> 00:01:50.240
+C'est un cours généraliste
+et non un cours de spécialisation.
+
+00:01:50.640 --> 00:01:53.760
+Parmi les cibles que nous évoquons,
+
+00:01:53.920 --> 00:01:58.560
+nous pouvons citer
+les développeurs de systèmes logiciels,
+
+00:01:58.720 --> 00:02:01.200
+qui ne connaîtraient pas
+ces mécanismes
+
+00:02:01.360 --> 00:02:04.240
+et outils numériques
+qui existent déjà.
+
+00:02:04.520 --> 00:02:07.920
+Les développeurs de sites
+et de services Web,
+
+00:02:08.520 --> 00:02:11.160
+mais aussi un public
+beaucoup plus large,
+
+00:02:11.320 --> 00:02:13.720
+d'abord
+les personnes en situation de handicap
+
+00:02:13.920 --> 00:02:17.560
+ne connaissant pas les aides et outils
+
+00:02:17.720 --> 00:02:20.400
+pouvant exister,
+ainsi que leurs aidants.
+
+00:02:21.400 --> 00:02:23.520
+Le grand public
+
+00:02:23.840 --> 00:02:27.400
+qui souhaiterait développer des contenus
+
+00:02:27.560 --> 00:02:29.680
+sous forme de pages Web,
+de documents numériques
+
+00:02:29.840 --> 00:02:33.840
+très accessibles,
+seront intéressés par ce cours.
+
+00:02:34.760 --> 00:02:39.280
+Au-delà du grand public,
+on peut citer explicitement
+
+00:02:39.440 --> 00:02:41.160
+les médias
+et décideurs politiques
+
+00:02:41.320 --> 00:02:44.440
+afin qu'ils prennent conscience
+de l'importance
+
+00:02:44.600 --> 00:02:47.120
+de développer
+cette accessibilité numérique.
+
+00:02:47.280 --> 00:02:50.280
+En termes de bénéfices,
+
+00:02:50.480 --> 00:02:54.400
+nous verrons que les bénéfices
+d'une meilleure accessibilité numérique
+
+00:02:54.560 --> 00:02:56.200
+sont d'abord individuels,
+
+00:02:56.360 --> 00:03:00.360
+pour favoriser le projet de vie
+d'une personne en situation de handicap
+
+00:03:00.520 --> 00:03:02.160
+et favoriser son insertion.
+
+00:03:03.400 --> 00:03:04.960
+Au niveau sociétal,
+
+00:03:05.120 --> 00:03:08.760
+pour fabriquer
+une société plus inclusive.
+
+00:03:09.680 --> 00:03:13.120
+Enfin au niveau économique,
+en permettant
+
+00:03:13.280 --> 00:03:15.720
+à une société qui édite des logiciels
+
+00:03:15.880 --> 00:03:19.840
+d'augmenter
+le nombre de clients potentiels,
+
+00:03:20.000 --> 00:03:22.040
+en rendant ces solutions
+accessibles.
+
+00:03:22.920 --> 00:03:24.440
+Citons pour une entreprise,
+
+00:03:24.600 --> 00:03:28.240
+la capacité à mieux configurer
+le poste de travail
+
+00:03:28.400 --> 00:03:30.720
+d'une personne
+en situation de handicap,
+
+00:03:30.880 --> 00:03:33.960
+en mettant à disposition
+les outils et aides
+
+00:03:34.120 --> 00:03:35.680
+déjà existant.
+
+00:03:36.880 --> 00:03:40.800
+Nous en arrivons
+au contenu de ce cours,
+
+00:03:40.960 --> 00:03:45.960
+organisé en cinq semaines,
+dont nous terminons la première.
+
+00:03:46.600 --> 00:03:51.120
+Nous aborderons l'accessibilité
+des systèmes numériques,
+
+00:03:52.280 --> 00:03:56.280
+nous parlerons de systèmes
+d'exploitation, de logiciels.
+
+00:03:57.840 --> 00:04:02.400
+La 3ème semaine, nous évoquerons
+l'accessibilité des contenus,
+
+00:04:03.280 --> 00:04:05.560
+à la fois en termes de sites Web
+
+00:04:05.760 --> 00:04:09.120
+ou bien en termes
+de documents numériques,
+
+00:04:09.360 --> 00:04:11.680
+de type bureautique par exemple.
+
+00:04:12.680 --> 00:04:17.800
+La 4ème semaine, nous vous présenterons
+les méthodes de conception,
+
+00:04:17.960 --> 00:04:22.400
+développées pour arriver
+à concevoir de nouveaux produits,
+
+00:04:23.080 --> 00:04:28.160
+en s'intéressant dès l'amont
+et pas en aval comme on le fait souvent,
+
+00:04:28.320 --> 00:04:32.520
+en s'intéressant
+à cette situation de handicap
+
+00:04:32.680 --> 00:04:37.400
+que connaissent les utilisateurs
+et en aidant à compenser cette situation.
+
+00:04:38.560 --> 00:04:41.800
+Nous conclurons
+par une 5ème semaine,
+
+00:04:42.000 --> 00:04:44.200
+en abordant
+les assistances technologiques,
+
+00:04:44.360 --> 00:04:48.440
+au-delà de l'accès
+au monde numérique, informatique,
+
+00:04:48.600 --> 00:04:51.840
+comment le numérique a facilité
+
+00:04:52.000 --> 00:04:55.480
+un certain nombre d'outils et d'aides.
+
+00:04:55.920 --> 00:04:59.000
+Maintenant
+que nous avons présenté ce plan,
+
+00:04:59.200 --> 00:05:03.240
+nous terminons
+cette séquence introductive.
+
+00:05:03.400 --> 00:05:05.480
+La semaine prochaine,
+
+00:05:05.680 --> 00:05:08.560
+nous aborderons
+les systèmes numériques :
+
+00:05:08.760 --> 00:05:11.720
+logiciels, systèmes d'exploitation,
+contenus…
+
+00:05:11.880 --> 00:05:15.600
+Et comment rendre accessibles
+tous ces éléments.

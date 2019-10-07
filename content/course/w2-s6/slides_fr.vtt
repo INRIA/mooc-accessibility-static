@@ -1,0 +1,103 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:20.000
+<h1>2. L’accessibilité des systèmes numériques</h1>
+<ul>
+  <li>Accessibilité numérique, de quoi parlons-nous ? </li>
+  <li>Les équipements d’interface </li>
+  <li>Les mécanismes d’interface </li>
+  <li>Les systèmes d’exploitation </li>
+  <li>Les logiciels génériques </li>
+  <li><strong>Une étude utilisateur</strong></li>
+</ul>
+
+2
+00:00:20.000 --> 00:01:27.000
+<h1>WebAIM</h1>
+<h2>Activités</h2>
+<ul>
+  <li>Sensibilisation, formation, certification, assistance </li>
+  <li>Études régulières depuis 2009 sur les usages
+    <ul>
+      <li>2 500 personnes (70% Amérique du nord, 93% PSH principalement visuel)
+      </li>
+    </ul>
+  </li>
+  <ul>
+    <li>Utilisation des lecteurs d’écran, navigateurs, systèmes d’exploitation</li>
+  </ul>
+</ul>
+
+3
+00:01:27.000 --> 00:02:22.000
+<h1>Etude WebAIM (2015) - 1</h1>
+<img src="/Images/W2-120.png" alt="Screen Readers 2 © WebAIM 2015" />
+<p>Screen Readers 2 © WebAIM 2015</p>
+
+4
+00:02:22.000 --> 00:02:46.000
+<h1>Etude WebAIM (2015) - 2</h1>
+<img src="/Images/W2-130.png" alt="Operating System © WebAIM 2015" />
+<p>Operating System © WebAIM 2015</p>
+
+5
+00:02:46.000 --> 00:03:06.000
+<h1>Etude WebAIM (2015) - 3</h1>
+<img src="/Images/W2-140.png" alt="Browser Usage © WebAIM 2015" />
+<p>Browser Usage © WebAIM 2015</p>
+
+6
+00:03:06.000 --> 00:04:00.000
+<h1>Etude WebAIM (2015) - 4</h1>
+  <img src="/Images/W2-150.png" alt="Social Media Accessibility © WebAIM 2015" />
+  <p>Social Media Accessibility © WebAIM 2015</p>
+</div>
+
+7
+00:04:00.000 --> 00:05:36.000
+<h1>Les logiciels, et puis ?</h1>
+<h2>Bilan</h2>
+<ul>
+  <li>Beaucoup de fonctionnalités pour faciliter l’accessibilité des logiciels </li>
+  <li>Mais seront inopérantes si les contenus ne sont pas adaptés </li>
+  <li>En particulier pour les documents publiés sur le Web </li>
+  <li>Voir aussi la page « Accessibilité » de Firefox : « La touche d'accessibilité dépend du site web. Elle est
+    définie par l'auteur du site web, pas par Firefox. »</li>
+</ul>
+
+8
+00:05:36.000 --> 00:05:40.000
+<h1>Ressources</h1>
+<p>Etude de la Fédération des Aveugle de France FAF sur l'usage des lecteurs d'écran en France, 2016. URL : <a
+    href="http://www.aveuglesdefrance.org/sites/default/files/press/attachments/Rapport_final_Etude-lecteurs-ecran-France-Francophonie_01062016.pdf ">étude
+    sur des lecteurs d'écran en France</a></p>
+
+9
+00:05:40.000 --> 00:05:42.000
+<h1>Crédits illustrations</h1>
+<p>Screen Readers 2. Screen Reader User Survey #6 Results - Browsers. © WebAIM. URL : <a
+    href="http://webaim.org/projects/screenreadersurvey6/">étude </a><a
+    href="http://webaim.org/projects/screenreadersurvey6/">WebAIM</a></p>
+<p>Operating System. Screen Reader User Survey #6 Results - Browsers. © WebAIM. URL : <a
+    href="http://webaim.org/projects/screenreadersurvey6/">étude WebAIM</a></p>
+<p>Browser Usage. Screen Reader User Survey #6 Results - Browsers. © WebAIM. URL : <a
+    href="http://webaim.org/projects/screenreadersurvey6/">étude WebAIM</a></p>
+<p>Social Media Accessibility. Screen Reader User Survey #6 Results - Browsers. © WebAIM. URL : <a
+    href="http://webaim.org/projects/screenreadersurvey6/">étude WebAIM</a></p>
+
+10
+00:05:42.000 --> 00:05:44.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

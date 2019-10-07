@@ -1,0 +1,135 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:23.000
+<h1>3. L’accessibilité des contenus</h1>
+<ul>
+  <li>L’accessibilité du Web via W3C </li>
+  <li>Les recommandations WCAG </li>
+  <li>Les autres recommandations WAI </li>
+  <li>L’accessibilité des sites web </li>
+  <li><strong>Les documents Microsoft Office </strong></li>
+  <li>Les documents PDF</li>
+</ul>
+
+2
+00:00:23.000 --> 00:03:19.000
+<h1>Règles générales - 1</h1>
+<h2>Pour rendre un document accessible</h2>
+<ul>
+  <li>Utiliser les niveaux de titrage fournis pour structurer le document </li>
+  <li>Identifier clairement les sections et paragraphes</li>
+  <li>Fournir une alternative textuelle aux images  </li>
+  <li>Fournir une description détaillée des graphiques </li>
+  <li>Nommer les liens de manière explicite </li>
+  <li>Formater correctement les tableaux, formulaires</li>
+</ul>
+
+3
+00:03:19.000 --> 00:04:17.000
+<h1>Règles générales - 2</h1>
+<h2>Pour rendre un document accessible</h2>
+<ul>
+  <li>Définir la langue par défaut du document en fonction du texte saisi </li>
+  <li>Spécifier la langue pour chaque terme, phrase, paragraphe qui ne correspond pas à la langue par défaut du
+    document </li>
+  <li>Mettre à disposition une table des matières pour faciliter la navigation dans le document </li>
+  <li>Donner accès aux en-têtes, bas de page, notes de bas de page, numérotation des pages du document</li>
+</ul>
+
+4
+00:04:17.000 --> 00:05:32.000
+<h1>Documents Microsoft Office – 1</h1>
+<h2>Règles standards</h2>
+<ul>
+  <li>Structurer le texte (lecteurs d’écran)
+    <ul>
+      <li>utiliser les styles, ne pas utiliser trop de niveaux, ne pas remplir avec des blancs</li>
+    </ul>
+  </li>
+  <li>Alternatives texte (image, figure, son, vidéo)
+    <ul>
+      <li>titre et description « informatifs » (clair et concis)</li>
+    </ul>
+  </li>
+  <li>Tableau
+    <ul>
+      <li>nommer les en-têtes de colonnes</li>
+    </ul>
+  </li>
+</ul>
+
+5
+00:05:32.000 --> 00:06:25.000
+<h1>Documents Microsoft Office – 2</h1>
+<h2>Règles standards</h2>
+<ul>
+  <li>Titres uniques (onglets Excel, Diapos PowerPoint)</li>
+  <li>Liens
+    <ul>
+      <li>texte explicite</li>
+    </ul>
+  </li>
+  <li>Macros complémentaires
+    <ul>
+      <li>créer des livres sonores (Daisy) </li>
+    </ul>
+  </li>
+</ul>
+
+6
+00:06:25.000 --> 00:07:51.000
+<h1>Documents Microsoft Office – 3</h1>
+<h2>Vérification</h2>
+<ul>
+  <li>Vérificateur d’accessibilité
+    <ul>
+      <li>erreurs, avertissements, conseils (localisés)</li>
+      <li>explications du problème</li>
+      <li>conseils de correction</li>
+    </ul>
+  </li>
+  <li>Configurable </li>
+</ul>
+
+7
+00:07:51.000 --> 00:07:53.000
+<h1>Ressources - 1</h1>
+<p>Accessibilité dans Microsoft Office. Microsoft. URL : <a
+    href="https://www.microsoft.com/france/accessibilite/office.aspx">Accessibilité Microsoft Office</a></p>
+<p>Microsoft Word. WebAIM. URL : <a href="http://webaim.org/techniques/word/">créer des documents Word
+    accessibles</a></p>
+<p>Comment faire pour ajouter un texte de remplacement à une image dans Word 2007, Word 2010, Outlook 2007 et
+  Outlook 2010 ? Microsoft. URL : <a href="https://support.microsoft.com/fr-fr/kb/923919">texte de remplacement à
+    une image dans Word et Outlook </a></p>
+<p>Save as DAISY - MS Word Add-In. Daisy Consortium. URL : <a
+    href="http://www.daisy.org/project/save-as-daisy-ms-word-add-in">Add-in "Save as Daisy"</a></p>
+
+8
+00:07:53.000 --> 00:07:55.000
+<h1>Ressources - 2</h1>
+<p>Comment rendre des présentations accessibles à tous. Braillenet. URL : <a
+    href="http://www.braillenet.org/accessibilite/wcag20/accessible_fr.html">Braillenet : présentations accessibles
+    à tous </a></p>
+<p>Vérifier les problèmes d’accessibilité. Microsoft. URL : <a
+    href="https://support.office.com/fr-fr/article/Vérifier-les-problèmes-d-accessibilité-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f">Microsoft
+    : vérification des problèmes d’accessibilité </a></p>
+<p>Personnaliser le vérificateur d’accessibilité pour Office 2013. Microsoft. URL : <a
+    href="https://technet.microsoft.com/fr-fr/library/ff602182.aspx">Microsoft : personnalisation du vérificateur
+    d’accessibilité Office 2013</a></p>
+
+9
+00:07:55.000 --> 00:07:57.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

@@ -1,0 +1,233 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:11.000
+<h1>4. Les méthodes de conception</h1>
+<ul>
+  <li>Démarche de conception centrée utilisateur </li>
+  <li><strong>Méthodes centrées - Utilisateurs </strong></li>
+  <li>Approches centrées - PSH : méthodes classiques </li>
+  <li>Approches centrées - PSH : méthodes récentes </li>
+  <li>Méthodes d’évaluation : ergonomie de l’interface </li>
+  <li>Exemples d’évaluation de l’ergonomie des interfaces </li>
+  <li>Méthodes d’évaluation : auto-détermination </li>
+  <li>Exemples d’auto-détermination</li>
+</ul>
+
+2
+00:00:11.000 --> 00:00:28.000
+<h1>Méthodes centrées utilisateur</h1>
+<h2>Plusieurs types de méthodes selon la finalité du système numérique</h2>
+<ul>
+  <li>Leader </li>
+  <li>Ethnographiques </li>
+  <li>Empathiques </li>
+  <li>Participatives </li>
+  <li>Contextuelles</li>
+</ul>
+
+3
+00:00:28.000 --> 00:01:22.000
+<h1>Méthodes leader</h1>
+<h2>Participants</h2>
+<ul>
+  <li>Les « senteurs de tendances » d’un domaine donné </li>
+  <li>Personnes susceptibles d’être primo-adoptants </li>
+  <li>Primo-diffuseurs d’un produit</li>
+</ul>
+<h2>Avantages</h2>
+<ul>
+  <li>Capturer les nouvelles tendances</li>
+  <li>Rapide</li>
+</ul>
+<h2>Défauts</h2>
+<ul>
+  <li>Non représentativité des participants</li>
+</ul>
+
+4
+00:01:22.000 --> 00:02:25.000
+<h1>Méthodes ethnographiques</h1>
+<h2>Participants</h2>
+<ul>
+  <li>Quelques experts, spécialistes observent quelques utilisateurs cibles pour extraire les éléments culturels et
+    contextuels à considérer pour le marché d’utilisateurs ciblés</li>
+</ul>
+<h2>Avantages</h2>
+<ul>
+  <li>Observations qualitatives détaillées </li>
+  <li>Objectivation de besoins réels</li>
+</ul>
+<h2>Défauts</h2>
+<ul>
+  <li>Formation aiguisée des experts </li>
+  <li>Primauté du social sur l’individuel </li>
+</ul>
+
+5
+00:02:25.000 --> 00:04:00.000
+<h1>Méthodes empathiques</h1>
+<h2>Participants</h2>
+<ul>
+  <li>Panel de participants de type clients, futurs utilisateurs</li>
+</ul>
+<h2>Avantages</h2>
+<ul>
+  <li>Pas besoin de formation </li>
+  <li>Observations qualitatives détaillées (situation naturelle, brainstorming, etc.) </li>
+  <li>Saillance Expérience Utilisateur (utilisabilité, plaisir, influence sociale, etc.) </li>
+  <li>Co-existence d’observations subjectives et objectives </li>
+</ul>
+<h2>Défauts</h2>
+<ul>
+  <li>Lente, primauté du subjectif </li>
+  <li>Requiert l’intégrité cognitive des participants</li>
+</ul>
+
+6
+00:04:00.000 --> 00:05:21.000
+<h1>Méthodes participatives</h1>
+<h2>Participants</h2>
+<ul>
+  <li>Designers, experts, clients/ futurs utilisateurs, toute partie-prenante</li>
+</ul>
+<h2>Avantages</h2>
+<ul>
+  <li>Aptitudes et expériences de chacun intégrées au produit </li>
+  <li>Détection fiable des besoins réels (mesures objectives et subjectives)</li>
+</ul>
+<h2>Défauts</h2>
+<ul>
+  <li>Requiert l’intégrité cognitive des utilisateurs finaux </li>
+  <li>Risque d’une approche trop socio-déterminée</li>
+</ul>
+
+7
+00:05:21.000 --> 00:06:26.000
+<h1>Méthodes contextuelles</h1>
+<h2>Participants</h2>
+<ul>
+  <li>Quelques professionnels de l’activité métier ciblée</li>
+</ul>
+<h2>Avantages</h2>
+<ul>
+  <li>Focus sur environnement de travail, pratiques métier </li>
+  <li>Pas besoin d’une formation aiguisée des concepteurs</li>
+</ul>
+<h2>Défauts</h2>
+<ul>
+  <li>Aucune donnée objective </li>
+  <li>Lentes, coûteuses </li>
+  <li>Risque d’une approche centrée concepteur</li>
+</ul>
+
+8
+00:06:26.000 --> 00:06:56.000
+<h1>Synthèse des méthodes selon objectifs ciblés</h1>
+<table>
+  <tr>
+    <th>Objectif/Méthode</th>
+    <td>Leader</td>
+    <td>Ethnogaphique</td>
+    <td>Empathique</td>
+    <td>Participative</td>
+    <td>Contextuelle</td>
+  </tr>
+  <tr>
+    <th>Diversité utilisateurs</th>
+    <td></td>
+    <td>xx</td>
+    <td>x</td>
+    <td>xx</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <th>Préférences</th>
+    <td></td>
+    <td></td>
+    <td>xx</td>
+    <td>xx</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <th>Utilisabilité</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>xx</td>
+    <td>xx</td>
+  </tr>
+  <tr>
+    <th>Comportements</th>
+    <td></td>
+    <td></td>
+    <td>xx</td>
+    <td>x</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <th>Environnement social</th>
+    <td></td>
+    <td>xx</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Environnement organisationnel</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>xx</td>
+    <td>xx</td>
+  </tr>
+  <tr>
+    <th>Innovation Technique</th>
+    <td>xx</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+9
+00:06:56.000 --> 00:06:57.000
+<h1>Ressources - 1</h1>
+<p>Rahimi N., Ibarra M. A. Review of Multiple User Center Design Methods for New Product Development in Smart and
+  Connected Health Applications (2014). Proceedings of PICMET '14: Infrastructure and Service Integration. </p>
+<p>Von Hippel E. Lead users: a source of novel product concepts (1986). Manag. Sci., vol. 32, no. 7, p. 791–805.
+</p>
+<p>Rosenthal S. R., Capper M. Ethnographies in the Front End: Designing for Enhanced Customer Experiences (May
+  2006). J. Prod. Innov. Manag., vol. 23, no. 3, p. 215–237. </p>
+<p>Leonard D., Rayport J. F. Spark innovation through empathic design (1997). Harv. Bus. Rev., vol. 75, p. 102–115.
+</p>
+
+10
+00:06:57.000 --> 00:07:00.000
+<h1>Ressources - 2</h1>
+<p>Kensing F., Blomberg J. Participatory design: Issues and concerns (1998). Comput. Support. Coop. Work CSCW, vol.
+  7, no. 3-4, p.167-185. </p>
+<p>Wixon D. et al. Contextual design: an emergent view of system design (1990). Proceedings of the SIGCHI Conference
+  on Human Factors in Computing Systems, p. 329-336.</p>
+
+11
+00:07:00.000 --> 00:07:01.000
+<h1>Crédits illustrations</h1>
+<p>Synthèse des méthodes selon objectifs fixés. Tableau comparatif © Hélène Sauzéon, 2016.</p>
+
+12
+00:07:01.000 --> 00:07:03.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

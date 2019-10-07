@@ -1,0 +1,346 @@
+WEBVTT
+
+00:00:02.590 --> 00:00:04.840
+Dans cette démonstration,
+je vais vous présenter les
+
+00:00:05.040 --> 00:00:07.180
+principales fonctionnalités
+d'interface que nous trouvons
+
+00:00:07.380 --> 00:00:09.480
+sur le système
+d'exploitation Mac OS X.
+
+00:00:10.550 --> 00:00:14.000
+Bien entendu, il ne
+s'agit pas d'une démonstration
+
+00:00:14.200 --> 00:00:16.550
+exhaustive de toutes les
+fonctionnalités, de toutes les
+
+00:00:16.750 --> 00:00:17.650
+valeurs de paramètres possibles.
+
+00:00:17.850 --> 00:00:20.750
+Pour cela, je vous
+renvoie au site de l'éditeur du
+
+00:00:20.950 --> 00:00:23.670
+logiciel, du constructeur de
+la machine qui vous propose
+
+00:00:23.870 --> 00:00:26.350
+des explications, des
+tutoriels très bien faits où vous
+
+00:00:26.550 --> 00:00:27.490
+trouverez
+absolument tous les détails.
+
+00:00:28.030 --> 00:00:31.760
+L'idée est de vous montrer plutôt
+comment accéder aux fonctions de base.
+
+00:00:32.370 --> 00:00:35.010
+Pour accéder à ces
+fonctionnalités d'accessibilité, nous
+
+00:00:35.210 --> 00:00:38.670
+allons passer par le menu
+"Pomme" qui est en haut à
+
+00:00:38.870 --> 00:00:42.140
+gauche dans le Finder et
+appeler les "Préférences système".
+
+00:00:43.130 --> 00:00:47.470
+Parmi ces "Préférences système" se
+trouve une fonction d'accessibilité
+
+00:00:47.830 --> 00:00:51.330
+qui regroupe les réglages
+des principaux paramètres.
+
+00:00:53.860 --> 00:00:58.140
+Nous voyons que cette
+fenêtre est petite, qu'il est
+
+00:00:58.340 --> 00:00:59.750
+difficile de
+percevoir les informations.
+
+00:00:59.950 --> 00:01:02.280
+Je vous propose
+d'utiliser tout de suite les
+
+00:01:02.480 --> 00:01:04.460
+fonctionnalités de
+réduction et d'agrandissement.
+
+00:01:05.050 --> 00:01:09.950
+Cette fenêtre nous précise
+que si l'on souhaite faire
+
+00:01:10.150 --> 00:01:13.310
+un zoom pour agrandir cette
+fenêtre, nous devons utiliser
+
+00:01:13.510 --> 00:01:15.290
+les touches Alt, Cmd et
+
+00:01:18.960 --> 00:01:22.030
+=. Je vais utiliser
+plusieurs fois de suite ces trois
+
+00:01:22.230 --> 00:01:24.860
+touches de façon à augmenter
+la taille de la fenêtre pour
+
+00:01:25.060 --> 00:01:27.450
+qu'elle soit plus
+facilement perceptible à l'écran.
+
+00:01:28.320 --> 00:01:31.870
+Je reviens sur la fonction
+d'affichage dans lequel il
+
+00:01:32.070 --> 00:01:34.480
+sera possible de
+modifier un certain nombre de
+
+00:01:34.680 --> 00:01:38.110
+paramètres, comme inverser
+les couleurs, utiliser des
+
+00:01:38.310 --> 00:01:41.020
+niveaux de gris plutôt que
+des couleurs, augmenter le
+
+00:01:41.220 --> 00:01:43.310
+contraste, réduire la
+transparence. Bref, il sera
+
+00:01:43.510 --> 00:01:46.440
+possible de modifier un certain
+nombre des paramètres d'affichage
+
+00:01:46.960 --> 00:01:50.340
+pour adapter l'affichage aux
+capacités, aux besoins, aux
+
+00:01:50.540 --> 00:01:52.470
+souhaits d'une
+personne en particulier.
+
+00:01:52.920 --> 00:01:56.400
+Parmi les paramètres, il est
+possible de régler la taille
+
+00:01:56.600 --> 00:01:59.650
+du curseur depuis un curseur
+de taille petite jusqu'à un
+
+00:01:59.900 --> 00:02:02.570
+curseur de taille grande en
+fonction des souhaits de la personne.
+
+00:02:03.340 --> 00:02:06.740
+En ce qui concerne l'audio,
+il est possible de proposer
+
+00:02:06.940 --> 00:02:09.860
+des alternatives
+aux messages d'alerte.
+
+00:02:10.870 --> 00:02:15.590
+En cochant une case, il est
+possible de faire clignoter l'
+
+00:02:15.790 --> 00:02:19.650
+écran lorsqu'un signal
+d'alerte retentit et de remplacer
+
+00:02:19.850 --> 00:02:22.900
+le bip sonore par un
+clignotant d'écran que je vais
+
+00:02:23.100 --> 00:02:26.340
+tester immédiatement et
+qui permet à l'utilisateur de
+
+00:02:26.540 --> 00:02:28.540
+prendre conscience qu'il y a
+un message depuis le système
+
+00:02:28.740 --> 00:02:29.500
+d'exploitation pour lui.
+
+00:02:30.450 --> 00:02:34.710
+Dans la fonctionnalité
+concernant le clavier, il est
+
+00:02:34.910 --> 00:02:37.760
+possible d'activer les
+touches dites à auto maintien.
+
+00:02:38.860 --> 00:02:41.710
+Vous vous souvenez, nous avons évoqué
+en cours ces touches à auto maintien.
+
+00:02:42.210 --> 00:02:45.270
+Elles vont permettre
+de régler des touches de
+
+00:02:45.470 --> 00:02:48.500
+modifications sans
+obligatoirement maintenir une touche
+
+00:02:48.700 --> 00:02:52.850
+particulière enfoncée. Si
+vous voulez utiliser une
+
+00:02:53.050 --> 00:02:55.470
+combinaison de type commande
+plus une autre touche, vous
+
+00:02:55.940 --> 00:02:58.500
+pouvez le faire d'une
+façon séquentielle, d'abord
+
+00:02:58.700 --> 00:03:02.100
+commande puis l'autre touche
+et le système va recomposer
+
+00:03:02.300 --> 00:03:05.290
+le signal en recomposant
+simultanément ces deux événements.
+
+00:03:05.710 --> 00:03:09.320
+Autre capacité que nous
+avions également précisée dans le
+
+00:03:09.520 --> 00:03:13.470
+cours, il est possible de
+faire varier le délai où une
+
+00:03:13.670 --> 00:03:16.500
+touche est appuyée par
+l'utilisateur et le moment où elle
+
+00:03:16.700 --> 00:03:19.460
+est activée par l'ordinateur.
+
+00:03:20.920 --> 00:03:24.850
+Pour des personnes avec des
+problèmes de motricité et qui
+
+00:03:25.050 --> 00:03:28.000
+auraient des difficultés à
+avoir des mouvements rapides
+
+00:03:28.390 --> 00:03:32.380
+ou précis, on pourra garder
+le doigt appuyé pendant un
+
+00:03:32.580 --> 00:03:35.460
+certain temps sans que cela
+soit traduit par plusieurs
+
+00:03:35.660 --> 00:03:36.530
+appuis sur la même touche.
+
+00:03:37.650 --> 00:03:40.870
+Nous avons parlé de commande vocale.
+
+00:03:41.070 --> 00:03:44.830
+Ici on parlera de dictée
+vocale, mais le principe est le même.
+
+00:03:45.690 --> 00:03:49.180
+Avec cette fonctionnalité
+de dictée vocale, vous pouvez
+
+00:03:49.450 --> 00:03:52.310
+associer un certain nombre de
+mots, d'expressions à des commandes.
+
+00:03:55.000 --> 00:03:59.050
+En général, le système
+vous proposera au préalable de
+
+00:03:59.740 --> 00:04:01.740
+faire une phase
+d'apprentissage dans laquelle vous
+
+00:04:01.940 --> 00:04:03.870
+prononcerez un certain
+nombre de phrases qu'il vous
+
+00:04:04.070 --> 00:04:07.260
+proposera de façon à
+parfaitement adapter le système de
+
+00:04:07.460 --> 00:04:10.180
+reconnaissance vocale à
+votre propre voix, à vos
+
+00:04:10.380 --> 00:04:11.820
+intonations, à votre hauteur de voix.
+
+00:04:12.760 --> 00:04:15.400
+Les performances du système
+seront nettement améliorées
+
+00:04:15.600 --> 00:04:18.340
+si vous effectuez cette petite
+phase d'apprentissage au préalable.
+
+00:04:19.370 --> 00:04:22.570
+Enfin terminons par
+VoiceOver, le lecteur d'écran intégré
+
+00:04:22.770 --> 00:04:26.820
+au système Macintosh. Il
+s'agit d'une fonctionnalité très
+
+00:04:27.020 --> 00:04:30.840
+évoluée qui va permettre de
+transformer des contenus sous
+
+00:04:31.040 --> 00:04:34.780
+forme de texte en un contenu sous
+une forme vocale, une forme parlée.
+
+00:04:35.660 --> 00:04:38.960
+Il est également possible
+de piloter des transcripteurs
+
+00:04:39.160 --> 00:04:42.130
+braille pour les utilisateurs qui
+souhaitent utiliser ce type de matériel.
+
+00:04:43.430 --> 00:04:46.600
+Ce lecteur d'écran sera
+très utile bien au-delà des
+
+00:04:46.800 --> 00:04:50.350
+personnes avec des
+déficiences de vision et sera une aide
+
+00:04:50.550 --> 00:04:54.100
+pour beaucoup d'utilisateurs, qu'ils
+soient ou non en situation de handicap.
+
+00:04:54.800 --> 00:04:59.740
+Je vous invite à aller
+expérimenter, à aller tester via d'
+
+00:04:59.940 --> 00:05:02.640
+abord le tutoriel qui vous
+permettra de l'utiliser ce
+
+00:05:02.840 --> 00:05:04.260
+système VoiceOver
+qui est très puissant.

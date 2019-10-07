@@ -1,0 +1,145 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:13.000
+<h1>3. L’accessibilité des contenus</h1>
+<ul>
+  <li>L’accessibilité du Web via W3C </li>
+  <li>Les recommandations WCAG </li>
+  <li>Les autres recommandations WAI </li>
+  <li>L’accessibilité des sites web </li>
+  <li>Les documents Microsoft Office </li>
+  <li><strong>Les documents PDF</strong></li>
+</ul>
+
+2
+00:00:13.000 --> 00:00:53.000
+<h1>Documents PDF</h1>
+<h2>Portable Document Format</h2>
+<ul>
+  <li>Format de fichier indépendant du :
+    <ul>
+      <li>logiciel, équipement, système d’exploitation ayant servi à le créer</li>
+      <li>périphérique utilisé pour l’exploiter (affichage, impression)</li>
+    </ul>
+  </li>
+  <li>Versions :
+    <ul>
+      <li>1993 introduit par Adobe </li>
+      <li>2008 : PDF 1.7 – ISO 32 000 </li>
+      <li>2012 : PDF/UA (Universal Accessibility) – ISO 14289 </li>
+    </ul>
+  </li>
+</ul>
+
+3
+00:00:53.000 --> 00:01:33.000
+<h1>Documents PDF accessibles - 1</h1>
+<h2>Principes fondamentaux</h2>
+<ul>
+  <li>Structure de document :
+    <ul>
+      <li>hiérarchique</li>
+      <li>compatible avec les langages courants (HTML, XML, SGML)</li>
+    </ul>
+  </li>
+  <li>PDF balisés
+    <ul>
+      <li>extraction de parties du fichier (textes, graphiques, images) pour des AN</li>
+    </ul>
+  </li>
+</ul>
+
+4
+00:01:33.000 --> 00:02:12.000
+<h1>Documents PDF accessibles - 2</h1>
+<h2>Création </h2>
+<ul>
+  <li>2 façons principales :
+    <ul>
+      <li>via un logiciel externe (Word…)</li>
+      <li> via Acrobat Pro</li>
+    </ul>
+  </li>
+  <li>Recommandations WCAG spécifiques
+    <ul>
+      <li>liste des outils d’édition générant des PDF accessibles</li>
+    </ul>
+  </li>
+</ul>
+
+5
+00:02:12.000 --> 00:02:52.000
+<h1>Documents PDF accessibles - 3</h1>
+<h2>Vérificateurs </h2>
+<ul>
+  <li>Acrobat pro PDF </li>
+  <li>Accessibility Checker
+    <ul>
+      <li>Windows</li>
+      <li>Affichage prévisualisations </li>
+      <li>Rapport d’erreurs avec une localisation de la source</li>
+    </ul>
+  </li>
+  <li>CommonLook </li>
+</ul>
+
+6
+00:02:52.000 --> 00:03:24.000
+<h1>Etude WebAIM (2015)</h1>
+<h2><img src="/Images/W3-100.png" alt="Etude WebAIM Acrobat/PDF files" /> </h2>
+<p>Acrobat/PDF files are… © WebAIM</p>
+
+7
+00:03:24.000 --> 00:04:34.000
+<h1>Les logiciels, les contenus et puis ?</h1>
+<h2>Bilan</h2>
+<ul>
+  <li>Il existe beaucoup de fonctionnalités, de normes, de recommandations destinées à faciliter l’accessibilité
+  </li>
+  <li>Souvent basées sur du « bon sens », utiles pour tous </li>
+  <li>Cependant, elles :
+    <ul>
+      <li>sont relativement peu connues, suivies, [ré]utilisées </li>
+      <li>concernent principalement les situations de handicap sensori-moteurs </li>
+      <li>ne sont pas toujours adaptées aux handicaps multiples</li>
+    </ul>
+  </li>
+</ul>
+
+8
+00:04:34.000 --> 00:04:36.000
+<h1>Ressources</h1>
+<p>PDF Techniques for WCAG 2.0. W3C. URL : W3C : <a
+    href="https://www.w3.org/WAI/GL/WCAG20-TECHS/pdf.html">techniques PDF WCAG 2.0 </a></p>
+<p>Accessible PDF - Acrobat Pro. Adobe. URL : <a
+    href="https://www.adobe.com/search.html?q=accessible PDF&loc=en_us">PDF accessible pour Acrobat Pro </a></p>
+<p>Free PDF Accessibility Checker (PAC 2). Access for All. URL :<a
+    href="http://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html"> test d’accessibilité pour PDF
+  </a></p>
+<p>CommonLook PDF Global Access. CommonLook by NetCentric Technologies. URL : <a
+    href="http://commonlook.com/accessibility-software/commonlook-pdf/">outil CommonLook</a></p>
+
+9
+00:04:36.000 --> 00:04:38.000
+<h1>Crédits illustrations</h1>
+<p>
+  Acrobat/PDF files are… © WebAIM. URL :<a href="http://webaim.org/projects/screenreadersurvey6/#browsers">
+  graphique WebAIM</a>
+</p>
+
+10
+00:04:38.000 --> 00:04:40.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

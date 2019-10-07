@@ -1,0 +1,378 @@
+﻿WEBVTT
+
+00:00:00.400 --> 00:00:04.280
+Précédemment
+je vous ai présenté l'initiative WAI
+
+00:00:04.680 --> 00:00:07.480
+pour Web Accessibility Initiative
+du W3C,
+
+00:00:07.640 --> 00:00:10.520
+et je vous ai présenté
+trois composants
+
+00:00:10.680 --> 00:00:12.880
+à la base
+de l'accessibilité numérique.
+
+00:00:13.320 --> 00:00:16.240
+Dans cette séquence,
+nous étudierons notamment
+
+00:00:16.400 --> 00:00:18.800
+les recommandations sur le contenu.
+
+00:00:20.200 --> 00:00:22.640
+Ces recommandations
+baptisées WCAG
+
+00:00:22.800 --> 00:00:25.680
+ont été publiées
+pour la première fois en 1998
+
+00:00:25.840 --> 00:00:28.160
+et une deuxième version
+en 2008,
+
+00:00:28.320 --> 00:00:30.920
+d'où la version actuelle dite 2.0.
+
+00:00:31.920 --> 00:00:34.680
+Dans ces recommandations,
+nous verrons ensuite
+
+00:00:34.840 --> 00:00:38.280
+4 principes et 12 règles
+rattachées à ces principes.
+
+00:00:38.960 --> 00:00:41.720
+Nous verrons qu'il existe
+des critères de succès
+
+00:00:41.880 --> 00:00:43.920
+pour répondre à ces principes
+
+00:00:44.080 --> 00:00:46.240
+avec 3 niveaux de conformité.
+
+00:00:46.880 --> 00:00:50.360
+WAI a proposé
+un certain nombre de techniques
+
+00:00:50.520 --> 00:00:54.000
+permettant d'assurer
+la conformité à ces standards
+
+00:00:54.160 --> 00:00:57.960
+et a fourni une liste d'erreurs
+
+00:00:58.120 --> 00:01:00.360
+habituellement commises
+dans ce site.
+
+00:01:00.880 --> 00:01:04.280
+L'idée ici est d'aider
+le concepteur du système Web
+
+00:01:04.440 --> 00:01:07.280
+à véritablement
+avoir un contenu accessible.
+
+00:01:09.160 --> 00:01:10.960
+Il y a 4 principes fondamentaux :
+
+00:01:11.120 --> 00:01:13.920
+les contenus doivent être perceptibles,
+
+00:01:14.880 --> 00:01:16.720
+opérables,
+
+00:01:18.160 --> 00:01:21.440
+compréhensibles et robustes.
+
+00:01:22.040 --> 00:01:25.320
+Tâchons de détailler
+chacun de ces 4 principes
+
+00:01:25.480 --> 00:01:29.280
+en commençant par le fait
+que les contenus sont perceptibles.
+
+00:01:30.120 --> 00:01:34.200
+À partir de ce principe,
+4 règles ont été proposées.
+
+00:01:35.200 --> 00:01:37.080
+La 1e :
+il est indispensable
+
+00:01:37.240 --> 00:01:40.720
+de fournir des alternatives textuelles
+aux contenus contextuels.
+
+00:01:41.120 --> 00:01:43.640
+Prenons par exemple une image.
+
+00:01:43.800 --> 00:01:45.560
+Si une image
+
+00:01:45.720 --> 00:01:48.520
+n'est pas accompagnée
+d'un texte la décrivant,
+
+00:01:48.680 --> 00:01:52.680
+une personne à déficience visuelle
+n'accède pas à ces informations.
+
+00:01:54.280 --> 00:01:57.600
+On peut édicter un principe
+pratiquement similaire
+
+00:01:57.760 --> 00:02:01.040
+pour les contenus multimédias :
+le principe 1.2
+
+00:02:01.520 --> 00:02:05.240
+qui va concerner des vidéos
+qu'il faudra accompagner d'un texte
+
+00:02:05.400 --> 00:02:06.960
+expliquant le contenu,
+
+00:02:07.120 --> 00:02:10.560
+pour qu'une personne
+en situation de handicap visuel
+
+00:02:10.720 --> 00:02:13.960
+comprenne l'information
+véhiculée par la vidéo.
+
+00:02:15.600 --> 00:02:19.680
+Si l'on crée des contenus présentables
+de différentes façons,
+
+00:02:19.840 --> 00:02:23.240
+il faut vérifier
+qu'on ne perd pas de l'information.
+
+00:02:23.400 --> 00:02:26.040
+Si on perd du sens
+entre les présentations,
+
+00:02:26.200 --> 00:02:29.560
+on n'a pas réussi à obtenir
+une bonne accessibilité.
+
+00:02:29.720 --> 00:02:33.520
+Il faudra faciliter
+la perception visuelle et auditive,
+
+00:02:33.680 --> 00:02:36.080
+comme nous avons pu le voir
+précédemment.
+
+00:02:38.400 --> 00:02:42.160
+Dans cette slide,
+j'ai voulu vous montrer un extrait
+
+00:02:42.880 --> 00:02:46.000
+des recommandations
+disponibles sur le site Web.
+
+00:02:46.680 --> 00:02:49.320
+En haut de l'écran,
+le rappel du principe,
+
+00:02:49.480 --> 00:02:51.240
+une information
+doit être perceptible,
+
+00:02:51.640 --> 00:02:54.160
+l'énoncé de la première règle 1.1,
+
+00:02:54.680 --> 00:02:57.240
+En bas de l'écran,
+vous pouvez lire
+
+00:02:57.400 --> 00:03:00.160
+qu'un certain nombre
+d'éléments d'informations
+
+00:03:00.720 --> 00:03:05.600
+destinés à aider le créateur
+de contenu Web
+
+00:03:05.760 --> 00:03:10.000
+pour le rendre accessible
+et répondre à ce principe.
+
+00:03:10.880 --> 00:03:13.320
+Je vous invite
+à consulter ce site Web
+
+00:03:13.480 --> 00:03:16.320
+dont l'adresse est donnée
+dans la séquence.
+
+00:03:17.960 --> 00:03:21.320
+2ème principe,
+le fait que le contenu soit utilisable.
+
+00:03:21.960 --> 00:03:24.200
+Cela passe par quatre règles.
+
+00:03:24.360 --> 00:03:26.640
+La première : il est indispensable
+
+00:03:26.800 --> 00:03:29.960
+de rendre les fonctionnalités
+accessibles via un clavier,
+
+00:03:31.560 --> 00:03:35.640
+Il faut laisser du temps
+pour comprendre et utiliser les contenus,
+
+00:03:35.800 --> 00:03:39.840
+et éviter des défilements trop rapides
+d'informations, de commandes.
+
+00:03:41.440 --> 00:03:45.640
+Ne pas utiliser de contenus
+créant des crises de type épilepsie,
+
+00:03:45.800 --> 00:03:50.120
+en utilisant des flashs lumineux
+trop intenses ou rapprochés.
+
+00:03:51.040 --> 00:03:55.760
+Enfin, aider l'utilisateur
+à naviguer sur un site.
+
+00:03:57.160 --> 00:04:00.360
+Sur cette dernière règle,
+on peut faire une remarque
+
+00:04:00.520 --> 00:04:02.040
+formulée au préalable.
+
+00:04:02.200 --> 00:04:05.760
+Cette recommandation
+n'est pas spécifique
+
+00:04:05.920 --> 00:04:09.880
+pour les personnes en situation de handicap,
+nous sommes tous concernés
+
+00:04:10.040 --> 00:04:13.800
+Si l'on aide l'utilisateur à se repérer,
+
+00:04:13.960 --> 00:04:17.240
+tous les utilisateurs
+y trouveront un bénéfice.
+
+00:04:18.880 --> 00:04:22.480
+Troisième principe,
+rendre les contenus compréhensibles
+
+00:04:22.640 --> 00:04:25.200
+en rendant le texte lisible
+et compréhensible,
+
+00:04:25.920 --> 00:04:29.080
+en rendant les pages prévisibles.
+
+00:04:29.240 --> 00:04:33.800
+Il est question de s'interroger
+sur la logique de présentation,
+
+00:04:33.960 --> 00:04:36.280
+d'enchaînement des informations
+
+00:04:36.440 --> 00:04:39.760
+et de vérifier qu'elle répond
+à une logique claire
+
+00:04:39.920 --> 00:04:41.560
+pour tous les utilisateurs.
+
+00:04:42.080 --> 00:04:47.040
+Naturellement, il faut également
+assister la saisie d'informations.
+
+00:04:48.200 --> 00:04:50.400
+Enfin, quatrième principe :
+
+00:04:50.560 --> 00:04:53.000
+le contenu doit être robuste
+
+00:04:53.160 --> 00:04:55.200
+en optimisant la compatibilité
+
+00:04:55.360 --> 00:04:59.480
+avec les logiciels utilisateur,
+y compris des assistances numériques.
+
+00:05:01.600 --> 00:05:05.880
+Je vous ai dit en introduction que WAI
+
+00:05:06.400 --> 00:05:09.760
+avait proposé des critères
+et niveaux de conformité.
+
+00:05:10.840 --> 00:05:14.960
+Si votre page est parfaitement conforme
+aux recommandations,
+
+00:05:15.120 --> 00:05:18.040
+vous bénéficierez
+d'un triple ou double A,
+
+00:05:18.200 --> 00:05:20.920
+et si elle est juste accessible,
+d'un simple A.
+
+00:05:21.720 --> 00:05:24.440
+Ce niveau de conformité
+
+00:05:24.600 --> 00:05:27.760
+prendra en compte la page complète,
+
+00:05:28.360 --> 00:05:29.800
+le processus complet,
+
+00:05:30.400 --> 00:05:33.000
+les technologies compatibles
+avec l'accessibilité
+
+00:05:33.240 --> 00:05:36.040
+et la non interférence
+entre ces processus.
+
+00:05:36.200 --> 00:05:39.480
+Il ne suffit pas d'avoir
+une page unique
+
+00:05:39.640 --> 00:05:42.920
+prise de façon individuelle
+qui soit compatible.
+
+00:05:43.080 --> 00:05:46.160
+C'est l'ensemble du processus
+qui sera vérifié
+
+00:05:46.320 --> 00:05:49.600
+et attesté avec un A,
+double A ou triple A.
+
+00:05:50.160 --> 00:05:53.240
+Je vous présenterai
+d'autres recommandations
+
+00:05:53.400 --> 00:05:56.360
+émanant de WAI,
+portant sur des attributs,
+
+00:05:56.520 --> 00:05:58.680
+pour rendre les contenus
+plus accessibles.

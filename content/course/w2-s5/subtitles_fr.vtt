@@ -1,0 +1,394 @@
+﻿WEBVTT
+
+00:00:00.120 --> 00:00:03.680
+Je vous ai présenté,
+dans quelques systèmes d'exploitation,
+
+00:00:03.920 --> 00:00:06.360
+les fonctionnalités développées
+
+00:00:06.520 --> 00:00:09.360
+et offertes aux utilisateurs
+de ces systèmes.
+
+00:00:09.880 --> 00:00:14.680
+Je vais maintenant m'intéresser
+aux logiciels, de façon générale.
+
+00:00:14.840 --> 00:00:19.000
+Plusieurs types de logiciels existent :
+bureautique, navigateur Web…
+
+00:00:19.280 --> 00:00:22.080
+Je vais vous présenter
+plusieurs fonctionnalités.
+
+00:00:22.240 --> 00:00:24.560
+Bien entendu,
+
+00:00:24.720 --> 00:00:28.200
+il y aura une certaine redondance
+et je vous présenterai
+
+00:00:28.360 --> 00:00:30.040
+des principes déjà vus.
+
+00:00:30.200 --> 00:00:32.600
+L'utilisateur doit choisir
+
+00:00:32.760 --> 00:00:37.160
+s’il préfère la fonctionnalité
+du système d'exploitation ou du logiciel.
+
+00:00:37.320 --> 00:00:41.280
+Pas de surprise si l'on retrouve
+des fonctionnalités similaires.
+
+00:00:42.240 --> 00:00:46.360
+Commençons par la bureautique
+et les produits de type Microsoft Office
+
+00:00:46.520 --> 00:00:48.640
+en prenant juste un exemple.
+
+00:00:48.800 --> 00:00:52.760
+Pas de description exhaustive,
+avec Word.
+
+00:00:52.920 --> 00:00:56.520
+Dans Word, on trouvera une loupe
+
+00:00:57.080 --> 00:00:58.800
+et un mode "sans distraction".
+
+00:00:58.960 --> 00:01:00.480
+Précédemment nous évoquions,
+
+00:01:00.640 --> 00:01:04.200
+concernant les personnes
+ayant des troubles de l'attention,
+
+00:01:04.360 --> 00:01:08.200
+l'intérêt de pouvoir
+masquer des boutons, des outils,
+
+00:01:08.360 --> 00:01:11.240
+des interfaces de fenêtres
+non utiles.
+
+00:01:11.400 --> 00:01:15.400
+Avec Word, ce mode existe
+et est simple d'utilisation.
+
+00:01:16.160 --> 00:01:19.160
+Cela permet
+de synthétiser vocalement
+
+00:01:19.320 --> 00:01:22.840
+le texte saisi pour que des personnes
+à déficience visuelle
+
+00:01:23.000 --> 00:01:26.400
+entendent ce qu'elles tapent
+
+00:01:26.560 --> 00:01:28.960
+ou que des personnes
+ayant du mal à lire
+
+00:01:29.120 --> 00:01:31.920
+comprennent ce qui est saisi.
+
+00:01:32.600 --> 00:01:35.920
+Un ensemble de fonctionnalités
+de reconnaissance vocale
+
+00:01:36.080 --> 00:01:38.160
+permettent de piloter le logiciel.
+
+00:01:39.080 --> 00:01:41.880
+Le clavier permet de naviguer
+dans le menu.
+
+00:01:42.360 --> 00:01:46.240
+Pour des personnes
+ayant des troubles cognitifs,
+
+00:01:47.000 --> 00:01:49.400
+soit de lecture et d'écriture,
+
+00:01:49.560 --> 00:01:53.080
+il existe des vérificateurs
+d'orthographe et de grammaire.
+
+00:01:53.240 --> 00:01:56.600
+Illustrons le principe
+présenté la première semaine,
+
+00:01:56.760 --> 00:01:59.480
+que nous serons tous
+en situation de handicap un jour.
+
+00:01:59.640 --> 00:02:03.640
+Moi le premier,
+j'utilise ce genre de vérificateur
+
+00:02:03.800 --> 00:02:08.600
+pour vérifier l'orthographe
+et la grammaire du texte saisi.
+
+00:02:10.320 --> 00:02:14.720
+Si on se penche sur des produits
+dits libres comme OpenOffice,
+
+00:02:14.880 --> 00:02:18.880
+on trouvera des alternatives clavier
+pour utiliser la souris,
+
+00:02:19.640 --> 00:02:23.080
+la possibilité d'utiliser
+d'autres équipements que le clavier,
+
+00:02:23.240 --> 00:02:25.640
+comme ceux
+que je vous ai présentés
+
+00:02:25.800 --> 00:02:28.880
+dans la 2ème séquence
+de cette 2ème semaine,
+
+00:02:29.720 --> 00:02:32.800
+la possibilité de produire
+des alternatives
+
+00:02:32.960 --> 00:02:34.520
+à des textes et des menus
+
+00:02:34.680 --> 00:02:37.360
+et des assistants,
+lecteurs d'écran ou commande vocale.
+
+00:02:37.520 --> 00:02:41.160
+Les mêmes fonctionnalités
+que celles vues précédemment.
+
+00:02:41.560 --> 00:02:44.440
+Une chose importante à préciser
+
+00:02:44.600 --> 00:02:47.680
+pour les développeurs :
+des interfaces de programmation,
+
+00:02:47.840 --> 00:02:49.360
+on parlera d'API,
+
+00:02:49.520 --> 00:02:54.080
+permettront d'interfacer vos logiciels
+avec ces systèmes.
+
+00:02:54.640 --> 00:02:57.280
+Cela va permettre à une personne
+
+00:02:57.440 --> 00:03:00.240
+sans compétences
+en accessibilité numérique
+
+00:03:00.400 --> 00:03:04.640
+d'intégrer leur fonctionnement
+dans leur propre logiciel.
+
+00:03:06.000 --> 00:03:09.680
+Si j'élargis au-delà du domaine
+de la bureautique,
+
+00:03:09.920 --> 00:03:13.400
+on peut citer de façon
+non exhaustive les jeux,
+
+00:03:13.560 --> 00:03:15.920
+dont vous trouverez
+
+00:03:16.080 --> 00:03:19.560
+des recommandations
+pour les développeurs de jeux vidéo
+
+00:03:19.720 --> 00:03:22.120
+pour les rendre accessibles.
+
+00:03:22.560 --> 00:03:24.720
+Vous trouverez un site intéressant,
+
+00:03:24.880 --> 00:03:29.160
+comparateur de jeux vidéo
+sous l'angle de l'accessibilité
+
+00:03:29.560 --> 00:03:34.360
+dans lequel,
+en décrivant rapidement votre déficience
+
+00:03:34.520 --> 00:03:37.160
+et votre situation de handicap,
+
+00:03:37.320 --> 00:03:40.520
+vous verrez les jeux
+les plus adaptés pour vous.
+
+00:03:41.520 --> 00:03:43.560
+Pour les logiciels éducatifs,
+
+00:03:43.720 --> 00:03:47.400
+il y a des logiciels de tracés
+de fonctions, d'algèbre
+
+00:03:47.560 --> 00:03:50.120
+permettant aux personnes
+à déficience visuelle
+
+00:03:50.280 --> 00:03:54.160
+de compenser par une autre façon
+de faire ces tracés.
+
+00:03:55.760 --> 00:03:57.880
+Pour les informaticiens,
+
+00:03:58.040 --> 00:04:00.040
+il existe un environnement,
+Eclipse,
+
+00:04:00.200 --> 00:04:03.120
+adapté à l'accessibilité numérique.
+
+00:04:03.280 --> 00:04:07.520
+Les liens vers ces différents produits
+sont proposés en fin de séquence.
+
+00:04:09.120 --> 00:04:10.960
+À présent, les réseaux sociaux.
+
+00:04:11.480 --> 00:04:15.160
+Il existe un lecteur assez célèbre,
+TWBlue,
+
+00:04:15.320 --> 00:04:19.200
+qui peut fonctionner
+avec ou sans interface graphique,
+
+00:04:19.520 --> 00:04:21.720
+être interfacé
+avec un lecteur graphique
+
+00:04:21.880 --> 00:04:26.720
+et qui ouvre à un grand nombre
+d'utilisateurs supplémentaires de Twitter.
+
+00:04:27.040 --> 00:04:31.400
+C'est une illustration parmi d'autres
+de ce que je vous expliquais.
+
+00:04:31.560 --> 00:04:35.880
+Lorsque vous transformez
+un logiciel en le rendant accessible,
+
+00:04:36.040 --> 00:04:38.080
+vous augmentez
+le nombre de clients
+
+00:04:38.240 --> 00:04:41.840
+et donc les profits
+de votre entreprise ou organisme.
+
+00:04:42.720 --> 00:04:46.120
+Facebook,
+avec les fonctionnalités standard,
+
+00:04:46.440 --> 00:04:49.520
+a noté une page spécifique
+sur l'accessibilité.
+
+00:04:50.080 --> 00:04:52.000
+Citons un projet de recherche
+
+00:04:52.160 --> 00:04:54.920
+qui n'est pas abouti mais prometteur,
+
+00:04:55.080 --> 00:04:59.600
+dans lequel Facebook tente de décrire
+automatiquement des photographies.
+
+00:05:00.120 --> 00:05:02.640
+En essayant de reconnaître
+
+00:05:02.800 --> 00:05:06.160
+les personnages, décors,
+couleurs, mouvements.
+
+00:05:06.320 --> 00:05:10.640
+L'objectif est d'associer un texte
+de description et de photographie.
+
+00:05:11.160 --> 00:05:13.800
+L'objectif plus global
+
+00:05:13.960 --> 00:05:17.560
+consiste à permettre à des personnes
+à déficience visuelle
+
+00:05:17.720 --> 00:05:21.520
+de publier leurs photographies
+avec une description
+
+00:05:21.680 --> 00:05:24.920
+et de prendre connaissance
+de photographies
+
+00:05:25.080 --> 00:05:26.840
+en lisant la description.
+
+00:05:27.000 --> 00:05:30.120
+C'est le côté texte alternatif
+déjà évoqué.
+
+00:05:31.840 --> 00:05:36.000
+Enfin, les navigateurs Web :
+Internet Explorer et Firefox.
+
+00:05:36.160 --> 00:05:38.800
+Pas de grande différence entre eux.
+
+00:05:38.960 --> 00:05:43.040
+Ils ont des loupes, des modifications
+de caractères et de contraste
+
+00:05:43.680 --> 00:05:48.240
+et l'utilisation des touches clavier
+pour naviguer dans les menus,
+
+00:05:49.600 --> 00:05:54.000
+des outils de commande vocale
+et des lecteurs d'écran.
+
+00:05:54.200 --> 00:05:57.760
+Après avoir passé en revue
+plusieurs fonctionnalités
+
+00:05:57.920 --> 00:06:02.560
+et leur implémentation
+dans différents outils numériques,
+
+00:06:02.720 --> 00:06:06.920
+nous verrons dans la prochaine séquence
+une étude utilisateur
+
+00:06:07.080 --> 00:06:09.600
+essayant de chiffrer et de recenser,
+
+00:06:09.760 --> 00:06:13.280
+la façon dont sont utilisés
+tous ces outils logiciels
+
+00:06:13.440 --> 00:06:16.600
+pour comprendre
+quels sont ceux les plus utilisés
+
+00:06:16.760 --> 00:06:19.600
+et ceux qui prennent
+de l'importance.

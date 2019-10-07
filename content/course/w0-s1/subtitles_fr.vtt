@@ -1,0 +1,206 @@
+WEBVTT
+
+00:00:07.880 --> 00:00:11.040
+Bienvenue au Mooc
+sur l'accessibilité numérique
+
+00:00:11.200 --> 00:00:14.160
+qu'Hélène et moi vous proposons
+pendant 5 semaines.
+
+00:00:14.520 --> 00:00:16.560
+Dans cette première séquence,
+
+00:00:16.720 --> 00:00:19.360
+je présenterai l'environnement
+de ce MOOC,
+
+00:00:19.520 --> 00:00:22.240
+qui s'inscrit
+dans un programme de recherche
+
+00:00:22.400 --> 00:00:26.200
+favorisant l'accès au plus grand nombre,
+
+00:00:26.360 --> 00:00:29.160
+notamment aux personnes
+en situation de handicap,
+
+00:00:29.320 --> 00:00:33.120
+aux outils numériques des MOOCs,
+Serious games, etc.
+
+00:00:33.880 --> 00:00:38.480
+Nous nous intéresserons aux personnes
+en situation de handicap cognitif,
+
+00:00:38.640 --> 00:00:42.120
+soit des troubles de la mémoire,
+de l'attention
+
+00:00:42.280 --> 00:00:44.240
+et de gestion des émotions.
+
+00:00:44.840 --> 00:00:47.800
+Le but n'est pas de développer
+des systèmes
+
+00:00:47.960 --> 00:00:50.720
+réservés aux personnes
+en situation de handicap,
+
+00:00:50.880 --> 00:00:53.440
+mais des systèmes
+ouverts au plus grand nombre
+
+00:00:53.600 --> 00:00:57.240
+optimisant l'utilisation
+de tous les utilisateurs.
+
+00:00:58.120 --> 00:00:59.800
+Dans un tel contexte,
+
+00:00:59.960 --> 00:01:03.080
+proposer un cours
+sur l'accessibilité numérique
+
+00:01:03.240 --> 00:01:05.920
+qui ne serait pas accessible
+n'aurait pas de sens.
+
+00:01:06.080 --> 00:01:10.360
+Nous avons développé
+un logiciel spécifique, un lecteur,
+
+00:01:10.520 --> 00:01:13.880
+permettant d'accéder
+au contenu de ce MOOC.
+
+00:01:14.280 --> 00:01:17.400
+Les principales
+fonctionnalités ajoutées,
+
+00:01:17.560 --> 00:01:20.120
+modifiées
+par rapport aux lecteurs habituels,
+
+00:01:20.280 --> 00:01:22.840
+sont issues
+de ce programme de recherche.
+
+00:01:24.160 --> 00:01:27.040
+Nous continuons à travailler sur la V1
+
+00:01:27.200 --> 00:01:28.840
+que vous allez utiliser.
+
+00:01:29.000 --> 00:01:31.720
+À travers de nouvelles fonctionnalités,
+
+00:01:31.880 --> 00:01:34.720
+et à partir des retours
+
+00:01:34.880 --> 00:01:38.760
+que vous pourrez formuler,
+soit en signalant des erreurs,
+
+00:01:38.920 --> 00:01:41.560
+soit en proposant des modifications,
+
+00:01:41.720 --> 00:01:44.400
+ou d'ajouts de nouvelles fonctions.
+
+00:01:45.640 --> 00:01:48.360
+Nous vous inviterons aussi à participer
+
+00:01:48.520 --> 00:01:52.720
+à travers des questionnaires
+sur l'utilisation du lecteur
+
+00:01:52.880 --> 00:01:57.160
+et l'analyse des données d'utilisation
+de ce lecteur.
+
+00:01:57.960 --> 00:02:02.600
+Cette invitation sera uniquement
+sur la base du volontariat,
+
+00:02:02.800 --> 00:02:05.720
+basée sur un consentement
+éclairé de votre part.
+
+00:02:05.880 --> 00:02:08.960
+Vous pourrez refuser cette proposition,
+
+00:02:09.120 --> 00:02:11.400
+et changer d'avis à tout moment.
+
+00:02:12.000 --> 00:02:17.080
+De notre côté, nous respecterons
+une totale confidentialité
+
+00:02:17.240 --> 00:02:21.880
+et ne divulguerons aucune information
+au-delà de l'équipe de recherche.
+
+00:02:22.120 --> 00:02:26.000
+Ce traitement fait l'objet
+d'une déclaration à la CNIL
+
+00:02:26.160 --> 00:02:29.000
+et d'une validation
+du Comité d'éthique d'Inria.
+
+00:02:30.000 --> 00:02:32.360
+Je voudrais remercier en particulier
+
+00:02:32.520 --> 00:02:35.840
+les efforts des ingénieurs
+Marc et Julien,
+
+00:02:36.000 --> 00:02:39.240
+qui ont fait un gros travail
+de développement logiciel.
+
+00:02:39.400 --> 00:02:43.360
+Malgré tout, nos moyens
+ne sont pas ceux d'une grande entreprise
+
+00:02:43.520 --> 00:02:46.480
+développant les lecteurs
+habituellement utilisés.
+
+00:02:46.640 --> 00:02:49.360
+Nous sommes conscients
+qu'il reste du travail
+
+00:02:49.520 --> 00:02:52.160
+et que le lecteur est encore susceptible
+
+00:02:52.320 --> 00:02:55.040
+d'être perfectionné, amélioré.
+
+00:02:55.200 --> 00:02:59.320
+Nous comptons sur votre bienveillance
+et votre coopération,
+
+00:02:59.480 --> 00:03:02.160
+pour nous aider à améliorer ce logiciel
+
+00:03:02.320 --> 00:03:05.160
+pour qu'il soit
+le plus accessible possible.
+
+00:03:05.720 --> 00:03:08.280
+Dans la prochaine séquence,
+
+00:03:08.440 --> 00:03:10.960
+je vous présenterai les grandes lignes
+
+00:03:11.120 --> 00:03:13.680
+de fonctions existantes
+dans ce logiciel
+
+00:03:13.840 --> 00:03:18.360
+et surtout les grands principes
+qui ont régi son développement.

@@ -1,0 +1,309 @@
+﻿WEBVTT
+
+00:00:00.400 --> 00:00:05.080
+Je vais vous présenter
+les fonctionnalités d’accessibilité
+
+00:00:05.240 --> 00:00:07.040
+prévues par Apple
+
+00:00:07.200 --> 00:00:10.680
+pour ses ordinateurs,
+tablettes ou smartphones.
+
+00:00:11.120 --> 00:00:15.520
+Concernant la vision,
+plusieurs fonctionnalités ont été évoquées,
+
+00:00:15.680 --> 00:00:19.800
+à commencer par les loupes,
+pour la totalité de l’écran
+
+00:00:19.960 --> 00:00:21.600
+ou une fenêtre spécifique.
+
+00:00:22.080 --> 00:00:26.680
+Il est possible de changer
+la taille du curseur en l’augmentant.
+
+00:00:26.840 --> 00:00:30.720
+Lorsqu’on a perdu le curseur,
+
+00:00:30.880 --> 00:00:35.680
+un mouvement circulaire
+agrandira le curseur pour le retrouver.
+
+00:00:36.240 --> 00:00:40.720
+La reconnaissance vocale
+permettra d’associer des mots
+
+00:00:40.880 --> 00:00:44.200
+à des commandes.
+
+00:00:44.360 --> 00:00:47.920
+Elle est utile
+au-delà des déficiences de vision,
+
+00:00:48.080 --> 00:00:52.320
+notamment pour des personnes
+avec une perte de motricité.
+
+00:00:53.280 --> 00:00:56.440
+Concernant l’audition, il sera possible
+
+00:00:56.600 --> 00:00:59.960
+de remplacer les alertes sonores
+par des flashs.
+
+00:01:00.120 --> 00:01:03.040
+Une fenêtre clignotera sur l'écran
+
+00:01:03.200 --> 00:01:07.040
+pour attirer l’attention d’une personne
+avec déficience auditive.
+
+00:01:07.840 --> 00:01:12.520
+Il sera possible de légender
+des vidéos et objets multimédias
+
+00:01:12.680 --> 00:01:15.960
+pour obtenir une information
+
+00:01:16.120 --> 00:01:19.880
+pour des personnes
+ayant des problèmes de perception
+
+00:01:20.040 --> 00:01:22.160
+auditive ou visuelle.
+
+00:01:22.680 --> 00:01:26.200
+Concernant la motricité,
+plusieurs fonctionnalités existent.
+
+00:01:26.760 --> 00:01:31.760
+Le contrôle des sélections,
+en naviguant avec un seul événement.
+
+00:01:31.920 --> 00:01:36.000
+Ce principe a été présenté
+dans les séquences précédentes.
+
+00:01:36.160 --> 00:01:40.800
+On pourra fonctionner
+avec un seul événement
+
+00:01:41.120 --> 00:01:46.040
+en utilisant une touche sur le clavier,
+un trackpad ou un joystick.
+
+00:01:47.280 --> 00:01:50.920
+Deuxième possibilité,
+la capacité à définir
+
+00:01:51.080 --> 00:01:55.120
+des "touches lentes"
+sur le système d’exploitation d’Apple,
+
+00:01:55.280 --> 00:01:57.040
+et régler
+la sensibilité du clavier.
+
+00:01:57.200 --> 00:02:00.920
+Il y a un délai entre
+l'appui sur un caractère
+
+00:02:01.080 --> 00:02:02.760
+et son activation.
+
+00:02:03.480 --> 00:02:07.120
+Dans le cas de difficultés
+de motricité,
+
+00:02:07.280 --> 00:02:11.520
+où on n’est pas assez rapide
+pour retirer son doigt,
+
+00:02:11.680 --> 00:02:15.720
+ce ne sera pas un problème
+car il sera possible de configurer
+
+00:02:15.880 --> 00:02:20.200
+la durée avec laquelle
+cette frappe est activée.
+
+00:02:20.360 --> 00:02:24.560
+L’utilisation des touches
+sera validée avec un signal audio.
+
+00:02:26.080 --> 00:02:28.240
+Les touches à auto-maintien,
+
+00:02:29.000 --> 00:02:32.480
+pour les personnes
+à motricité réduite.
+
+00:02:32.640 --> 00:02:36.080
+Il sera possible
+de frapper séquentiellement
+
+00:02:36.240 --> 00:02:38.240
+ce qui est fait simultanément.
+
+00:02:38.400 --> 00:02:40.760
+Je m’explique.
+
+00:02:40.920 --> 00:02:43.120
+D'habitude,
+on utilise des combinaisons,
+
+00:02:43.280 --> 00:02:46.120
+CMD+ quelque chose
+ou Shift+ quelque chose
+
+00:02:46.280 --> 00:02:48.880
+et on appuie simultanément
+sur ces touches.
+
+00:02:49.040 --> 00:02:53.200
+Il sera possible de le faire
+une touche après l’autre.
+
+00:02:53.360 --> 00:02:57.600
+J’appuie sur la touche CMD+,
+puis sur la touche S.
+
+00:02:57.760 --> 00:03:02.480
+Le système regroupera ces touches
+pour en faire une seule combinaison.
+
+00:03:02.880 --> 00:03:06.600
+Arrêtons-nous sur VoiceOver,
+le lecteur d’écran
+
+00:03:06.760 --> 00:03:09.840
+intégré aux systèmes
+d’exploitation d’Apple.
+
+00:03:10.120 --> 00:03:13.680
+Il sera disponible
+directement sur le système
+
+00:03:13.840 --> 00:03:18.720
+et dans les applications
+développées pour ces systèmes d’exploitation,
+
+00:03:18.880 --> 00:03:21.840
+sur les ordinateurs,
+tablettes ou smartphones.
+
+00:03:22.000 --> 00:03:26.920
+C'est important car un développeur
+pourra intégrer ces capacités
+
+00:03:27.080 --> 00:03:29.960
+sans être un spécialiste
+des lecteurs d’écran.
+
+00:03:30.800 --> 00:03:32.960
+VoiceOver permet
+de régler la voix
+
+00:03:33.120 --> 00:03:37.320
+en choisissant un orateur
+et la vitesse d’élocution.
+
+00:03:37.800 --> 00:03:41.360
+Ce lecteur d’écran sera pilotable
+
+00:03:41.520 --> 00:03:44.160
+avec le clavier
+ou le pavé tactile.
+
+00:03:44.320 --> 00:03:48.680
+Avec les touches, on pourra lancer
+plusieurs de ces commandes.
+
+00:03:49.240 --> 00:03:51.760
+Les gestes associés à VoiceOver
+
+00:03:51.920 --> 00:03:54.760
+pourront être associés
+à un document, une fenêtre,
+
+00:03:55.160 --> 00:04:00.040
+ou une liste de commandes
+en réutilisant le principe de Rotor.
+
+00:04:00.360 --> 00:04:04.920
+VoiceOver permet d’être connecté
+à des transcripteurs braille,
+
+00:04:05.080 --> 00:04:07.280
+des systèmes matériels
+spécifiques
+
+00:04:07.440 --> 00:04:10.360
+permettant à des personnes
+utilisant le braille
+
+00:04:10.520 --> 00:04:13.320
+de percevoir l’information
+via leurs phalanges
+
+00:04:13.480 --> 00:04:16.120
+au contact de ce transcripteur braille.
+
+00:04:17.080 --> 00:04:18.640
+Citons Assistive Touch,
+
+00:04:18.800 --> 00:04:23.320
+technologie destinée aux tablettes
+et téléphones de type iPhone
+
+00:04:23.480 --> 00:04:28.240
+pour piloter les applications
+sans utiliser les touches physiques
+
+00:04:28.400 --> 00:04:33.000
+de volume sonore,
+d’arrêt logiciel ou de démarrage.
+
+00:04:33.520 --> 00:04:37.320
+Ces touches seront remplacées,
+émulées,
+
+00:04:37.480 --> 00:04:40.640
+par des boutons sur l’écran.
+
+00:04:40.920 --> 00:04:45.880
+Avec cette technologie,
+on pourra remplacer des gestes complexes
+
+00:04:46.040 --> 00:04:50.000
+en associant un geste et une fonction.
+
+00:04:50.440 --> 00:04:54.200
+Dans une démonstration sur le site,
+
+00:04:54.360 --> 00:04:56.920
+je vous présenterai
+les fonctionnalités
+
+00:04:57.080 --> 00:04:59.560
+du système d’exploitation d’Apple,
+
+00:04:59.720 --> 00:05:02.440
+pour mieux percevoir
+leur fonctionnement.
+
+00:05:03.120 --> 00:05:06.720
+Nous aborderons
+les logiciels génériques,
+
+00:05:06.880 --> 00:05:10.480
+les logiciels de bureautique
+et les navigateurs web
+
+00:05:10.640 --> 00:05:12.960
+pour voir comment
+les rendre accessibles.

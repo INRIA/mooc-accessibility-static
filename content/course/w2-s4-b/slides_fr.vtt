@@ -1,0 +1,127 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:11.000
+<h1>2. L’accessibilité des systèmes numériques</h1>
+<ul>
+  <li>Accessibilité numérique, de quoi parlons-nous ? </li>
+  <li>Les équipements d’interface </li>
+  <li>Les mécanismes d’interface </li>
+  <li><strong>Les systèmes d’exploitation - Apple</strong></li>
+  <li>Les logiciels génériques </li>
+  <li>Une étude utilisateur</li>
+</ul>
+
+2
+00:00:11.000 --> 00:01:22.000
+<h1>Apple MacOS - 1</h1>
+<h2>Vision</h2>
+<ul>
+  <li>Loupe : plein écran, fenêtre spécifique </li>
+  <li>Taille du curseur </li>
+  <li>Reconnaissance vocale (mots, commandes)
+  </li>
+</ul>
+<h2>Audition</h2>
+<ul>
+  <li>Flash sur l’écran (messages, alertes) </li>
+  <li>Légendes pour des vidéos</li>
+</ul>
+
+3
+00:01:22.000 --> 00:03:03.000
+<h1>Apple MacOS - 2</h1>
+<h2>Motricité</h2>
+<ul>
+  <li>Switch Control
+    <ul>
+      <li>navigation avec un seul événement (clavier sur l’écran, menus…)
+      </li>
+    </ul>
+  </li>
+  <ul>
+    <li>fonctionne avec touche, trackpad, joystick </li>
+  </ul>
+  <li>Touches lentes
+    <ul>
+      <li>réglage de la sensibilité du clavier (délai frappe-activation)
+      </li>
+    </ul>
+  </li>
+  <ul>
+    <li>validation audio </li>
+  </ul>
+  <li>Touches à auto-maintien
+    <ul>
+      <li>frappe séquentielle de commande groupée (CMD+)</li>
+    </ul>
+  </li>
+</ul>
+
+4
+00:03:03.000 --> 00:04:16.000
+<h1>Apple MacOS - 3</h1>
+<h2>VoiceOver</h2>
+<ul>
+  <li>Lecteur d’écran totalement intégré (MacOS, iOS et leurs applications) </li>
+  <li>Réglage de la voix (orateur, vitesse) </li>
+  <li>Commande avec le clavier, le pavé tactile </li>
+  <li>Gestes
+    <ul>
+      <li>contrôlent VoiceOver
+      </li>
+      <li>sont associés à un document, une fenêtre
+      </li>
+      <li>accèdent à une liste de commandes (Rotor) </li>
+    </ul>
+  </li>
+  <li>Connectable à des plages braille</li>
+</ul>
+
+5
+00:04:16.000 --> 00:05:13.000
+<h1>Apple iOS</h1>
+<h2>Assistive Touch</h2>
+<ul>
+  <li>Pour piloter sans utiliser les touches physiques (volume…) </li>
+  <li>Pour remplacer certains gestes complexes </li>
+  <li>Configuration { geste-fonction }</li>
+</ul>
+
+6
+00:05:13.000 --> 00:05:15.000
+<h1>Ressources - 1</h1>
+<p>Apple Accessibility. Apple. URL : <a href="https://www.apple.com/fr/accessibility/">accessibilité chez Apple</a></p>
+<p>VoiceOver. Apple. URL : <a href="http://www.apple.com/uk/accessibility/osx/voiceover/">présentation de
+    VoiceOver</a></p>
+<p>Chapitre 1. Introduction à VoiceOver. Apple. URL : <a
+    href="https://www.apple.com/fr/voiceover/info/guide/_1121.html">guide d'utilisation de VoiceOver</a></p>
+<p>Getting Started: iPads for Special Needs Book. Introduction to Apple VoiceOver. Youtube. URL : <a
+    href="https://youtu.be/0Xk8tvBRzNg">vidéo "Getting started: iPads for Special Needs Books"</a></p>
+
+7
+00:05:15.000 --> 00:05:17.000
+<h1>Ressources - 2</h1>
+<p>Utilisation de la fonctionnalité AssistiveTouch sur votre iPhone, iPad ou iPod touch. Support Apple. URL : <a
+    href="https://support.apple.com/fr-fr/HT202658">support apple pour l'AssistiveTouch</a></p>
+<p>AssistiveTouch. Iphone.skydocu.com. URL : <a
+    href="http://iphone.skydocu.com/fr/accessibilite/assistivetouch/">documentation AssistiveTouch</a></p>
+<p>iPhone Assistive Touch Custom Gestures. Patricia Davies. Youtube. URL : <a
+    href="https://youtu.be/1xOpnAyTpZ4">vidéo de présention</a><a
+    href="https://youtu.be/1xOpnAyTpZ4">AssistiveTouch</a></p>
+
+8
+00:05:17.000 --> 00:05:21.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

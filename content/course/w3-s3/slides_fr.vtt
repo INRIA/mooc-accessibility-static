@@ -1,0 +1,130 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:16.000
+<h1>3. L’accessibilité des contenus</h1>
+<ul>
+  <li>L’accessibilité du Web via W3C</li>
+  <li>Les recommandations WCAG</li>
+  <li><strong>Les autres recommandations WAI</strong></li>
+  <li>L’accessibilité des sites web</li>
+  <li>Les documents Microsoft Office</li>
+  <li>Les documents PDF</li>
+</ul>
+
+2
+00:00:16.000 --> 00:00:52.000
+<h1>ATAG - 1</h1>
+<h2>Authoring Tool Accessibility Guidelines</h2>
+<ul>
+  <li>ATAG 2.0</li>
+  <li>Systèmes d’édition et de gestion de contenus : éditeurs HTML, CMS</li>
+  <li>2 objectifs :
+    <ul>
+      <li>A - leurs interfaces doivent être accessibles </li>
+      <li>B - ils doivent produire des contenus accessibles </li>
+    </ul>
+  </li>
+  <li> 8 principes contenant une liste de recommandations et de critères de succès</li>
+</ul>
+
+3
+00:00:52.000 --> 00:01:13.000
+<h1>ATAG - 2</h1>
+<h2>Recommandations « Interfaces accessibles »</h2>
+<ul>
+  <li>A1 Les interfaces suivent les principes d’accessibilité</li>
+  <li>A2 Les éditions sont perceptibles</li>
+  <li>A3 Les éditions sont utilisables</li>
+  <li>A4 Les éditions sont compréhensibles</li>
+</ul>
+
+4
+00:01:13.000 --> 00:02:07.000
+<h1>ATAG - 3</h1>
+<h2>Recommandations « Contenus accessibles »</h2>
+<ul>
+  <li>B1 Les systèmes automatiques construisent un contenu accessible</li>
+  <li>B2 Les auteurs sont assistés pour produire des contenus accessibles</li>
+  <li>B3 Les auteurs sont assistés pour améliorer l’accessibilité des contenus </li>
+  <li>B4 Les systèmes doivent promouvoir leurs fonctionnalités d’accessibilité</li>
+</ul>
+
+5
+00:02:07.000 --> 00:02:51.000
+<h1>WAI-ARIA - 1</h1>
+<h2>Le web a évolué</h2>
+<ul>
+  <li>Contenus statiques → applications dynamiques</li>
+  <li>Technologies : HTML → Java script, Ajax…</li>
+  <li>Malheureusement, ces applications sont très peu accessibles</li>
+</ul>
+
+6
+00:02:51.000 --> 00:03:39.000
+<h1>WAI-ARIA - 2 </h1>
+<ul>
+  <li>Exemples :
+    <ul>
+      <li>une réactualisation ne sera pas détectable par un lecteur d’écran</li>
+      <li>une interface à base d’arbre plié/déplié ne sera pas perceptible</li>
+    </ul>
+  </li>
+  <li>2014 : WAI → ARIA 1.0</li>
+</ul>
+<img src="/Images/W3-30.png" alt="Web Accessibility Initiative" class="width25" align="absmiddle" /><br>
+<br>
+Web Accessibility Initiative - WAI-ARIA . W3C.
+
+7
+00:03:39.000 --> 00:04:52.000
+ <h1>WAI-ARIA - 3</h1>
+<h2>Accessible Rich Internet Applications</h2>
+<ul>
+  <li>Ajout d’attributs et de métadonnées à HTML
+    <ul>
+      <li>renseignant sur les fonctionnalités d’interaction et sur leur état </li>
+      <li>les régions de la page</li>
+      <li>les choix cochés…</li>
+    </ul>
+  </li>
+  <li>Utilisé par :
+    <ul>
+      <li>des concepteurs de technologies web</li>
+      <li>des navigateurs, Facebook…</li>
+      <li>des assistances numériques</li>
+    </ul>
+  </li>
+</ul>
+
+8
+00:04:52.000 --> 00:04:56.000
+<h1>Ressources </h1>
+<p>
+  Authoring Tool Accessibility Guidelines (ATAG) 2.0. W3C. URL : <a href="https://www.w3.org/TR/ATAG20/">règles
+  pour la création de contenus accessibles ATAG 2.0 </a>
+</p>
+<p>
+  ATAG 1.0 - Traduction française. La Grange. URL : <a href="http://www.la-grange.net/w3c/atag10/">règles
+  d'accessibilité pour les outils d'édition 1.0 </a>
+</p>
+<p>
+  Web Accessibility Initiative - WAI-ARIA Overview. W3C. URL : <a href="https://www.w3.org/WAI/intro/aria.php">vue
+  d'ensemble WAI-ARIA</a>
+</p>
+
+9
+00:04:56.000 --> 00:04:59.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

@@ -1,0 +1,545 @@
+﻿WEBVTT
+
+00:00:00.080 --> 00:00:04.680
+Je vous ai présenté la problématique
+de l’accessibilité numérique.
+
+00:00:05.040 --> 00:00:07.320
+Nous avons commencé à traiter
+
+00:00:07.480 --> 00:00:09.880
+des solutions
+qui ont été proposées :
+
+00:00:10.080 --> 00:00:12.640
+les équipements et les matériels,
+
+00:00:12.800 --> 00:00:15.960
+développés pour favoriser
+l'accessibilité numérique.
+
+00:00:16.920 --> 00:00:21.560
+Quelques rappels rapides
+sur les difficultés
+
+00:00:21.720 --> 00:00:24.680
+de certaines personnes
+en situation de handicap
+
+00:00:24.840 --> 00:00:28.440
+qui vont limiter
+l’utilisation d’un ordinateur.
+
+00:00:28.760 --> 00:00:31.120
+Parlons de déficiences motrices
+
+00:00:31.280 --> 00:00:36.440
+qui vont bloquer
+l’utilisation efficace et facile
+
+00:00:36.720 --> 00:00:38.160
+d’un clavier, d’une souris,
+
+00:00:38.320 --> 00:00:42.160
+voire de brancher l'alimentation
+sur un ordinateur portable.
+
+00:00:42.840 --> 00:00:45.720
+Parlons de déficiences sensorielles,
+
+00:00:45.880 --> 00:00:50.280
+qui vont empêcher d’utiliser un écran
+pour percevoir une information,
+
+00:00:50.440 --> 00:00:53.280
+un haut-parleur
+pour entendre l'information,
+
+00:00:53.440 --> 00:00:58.000
+ou même l’utilisation d’une souris
+associée à un retour sur l’écran.
+
+00:00:59.160 --> 00:01:02.320
+Parmi les solutions
+que nous développerons,
+
+00:01:02.480 --> 00:01:06.600
+la plupart portent sur des solutions
+de capture de mouvements :
+
+00:01:06.760 --> 00:01:10.520
+de la main, des doigts,
+de la tête, des yeux,
+
+00:01:10.680 --> 00:01:12.360
+de la bouche
+ou de la langue.
+
+00:01:12.840 --> 00:01:16.280
+Un exemple de capture
+de signaux physiologiques,
+
+00:01:16.440 --> 00:01:18.920
+de signaux émis par le corps humain.
+
+00:01:19.080 --> 00:01:22.360
+Je vous parlerai d’interface
+cerveau/ordinateur.
+
+00:01:23.240 --> 00:01:27.400
+Dans le transparent suivant,
+j'évoquerai la production
+
+00:01:27.560 --> 00:01:30.720
+de signaux alternatifs
+permettant de contourner
+
+00:01:30.880 --> 00:01:33.160
+certaines limitations
+d’utilisations.
+
+00:01:35.560 --> 00:01:38.280
+Premier constat,
+c’est que finalement,
+
+00:01:38.440 --> 00:01:41.400
+peu de signaux vont résulter
+
+00:01:41.560 --> 00:01:45.560
+de ces équipements
+dont je parlerai plus précisément.
+
+00:01:46.160 --> 00:01:49.400
+Pour des problèmes
+de fatigue d’utilisation,
+
+00:01:49.560 --> 00:01:51.440
+de précision d’utilisation,
+
+00:01:51.600 --> 00:01:54.560
+nous n’aurons pas la même palette
+
+00:01:54.720 --> 00:01:56.600
+de différentes informations.
+
+00:01:57.280 --> 00:02:02.200
+Il faut se demander comment,
+malgré ces limitations,
+
+00:02:02.360 --> 00:02:06.560
+fournir une interaction riche
+aux personnes en situation de handicap.
+
+00:02:07.560 --> 00:02:11.560
+Un des principes généraux
+que nous retrouverons assez souvent
+
+00:02:11.720 --> 00:02:14.960
+est de considérer l’interaction
+avec un seul bouton.
+
+00:02:15.120 --> 00:02:19.160
+Les informaticiens parlent d’événements
+au sens où il va produire
+
+00:02:19.320 --> 00:02:22.880
+un événement informatique
+traité par le logiciel.
+
+00:02:24.080 --> 00:02:29.120
+Même si on a une faible palette
+de signaux,
+
+00:02:29.280 --> 00:02:34.640
+on peut considérer qu'on a appuyé
+de façon courte ou prolongée
+
+00:02:34.800 --> 00:02:36.400
+sur une touche,
+
+00:02:37.040 --> 00:02:39.360
+qu'on a relâché cette même touche
+
+00:02:39.840 --> 00:02:44.520
+et en combinant le geste et la durée,
+on obtiendra une information plus riche
+
+00:02:44.680 --> 00:02:47.480
+que de savoir
+si on a enfoncé une touche.
+
+00:02:48.840 --> 00:02:51.800
+Nous allons combiner
+cette première idée
+
+00:02:51.960 --> 00:02:54.160
+avec deux principes généraux.
+
+00:02:54.320 --> 00:02:57.320
+Le premier est que nous allons essayer
+
+00:02:57.480 --> 00:02:59.880
+de pré-enregistrer
+des commandes
+
+00:03:00.040 --> 00:03:03.000
+souvent utilisées
+pour les faciliter
+
+00:03:03.160 --> 00:03:07.000
+et regrouper et enregistrer
+ces commandes au préalable.
+
+00:03:08.000 --> 00:03:11.160
+Ensuite,
+nous utiliserons une liste circulaire.
+
+00:03:11.320 --> 00:03:15.960
+Il faut se représenter un placement
+de ces commandes préenregistrées
+
+00:03:16.120 --> 00:03:17.840
+sur un disque virtuel.
+
+00:03:18.120 --> 00:03:20.560
+La façon d’accéder
+à ces fonctionnalités
+
+00:03:20.720 --> 00:03:24.640
+sera de faire pivoter ce cercle
+dans une direction.
+
+00:03:25.320 --> 00:03:30.440
+Une fois face à la commande
+qu'on souhaite utiliser, il suffira de valider.
+
+00:03:30.640 --> 00:03:34.720
+Ce principe est utilisé
+dans les jeux vidéo et fonctionne bien.
+
+00:03:36.040 --> 00:03:38.640
+Je vais vous présenter
+des matériels.
+
+00:03:38.800 --> 00:03:41.120
+Ce n'est pas une liste exhaustive.
+
+00:03:41.280 --> 00:03:45.760
+Ils ne sont là que pour illustrer
+les principes généraux
+
+00:03:45.920 --> 00:03:48.120
+que je vous ai présenté.
+
+00:03:48.400 --> 00:03:52.600
+À commencer par ceux basés
+sur la capture de mouvements des doigts,
+
+00:03:52.760 --> 00:03:54.880
+donc des claviers spécifiques.
+
+00:03:55.160 --> 00:03:58.680
+Il s’agit d’un clavier
+dont les touches sont en creux
+
+00:03:58.840 --> 00:04:03.120
+par rapport à des touches en relief
+sur les claviers habituels.
+
+00:04:03.280 --> 00:04:07.280
+Une personne
+ayant une motricité réduite,
+
+00:04:07.440 --> 00:04:09.280
+ayant des tremblements,
+
+00:04:09.440 --> 00:04:14.320
+pourra placer ses doigts sur ces touches
+de façon plus aisée
+
+00:04:14.480 --> 00:04:17.520
+pour saisir les commandes
+qu’elle souhaite.
+
+00:04:18.200 --> 00:04:23.040
+Ces touches sont plus grandes
+que les touches habituelles
+
+00:04:23.280 --> 00:04:26.120
+et le clavier est renforcé
+pour être utilisé
+
+00:04:26.280 --> 00:04:28.920
+avec les membres inférieurs
+
+00:04:29.080 --> 00:04:32.680
+en cas de paralysie
+de la partie haute du corps.
+
+00:04:34.800 --> 00:04:38.240
+2ème exemple,
+concernant le mouvement de doigts.
+
+00:04:39.320 --> 00:04:43.400
+Il s’agit d’un clavier
+destiné à des personnes
+
+00:04:43.560 --> 00:04:46.120
+avec une mobilité réduite de la main.
+
+00:04:46.280 --> 00:04:49.720
+Dans cet exemple,
+les principales touches
+
+00:04:49.880 --> 00:04:52.720
+ont été regroupées
+sur une petite surface
+
+00:04:52.880 --> 00:04:56.600
+et placées
+sur une surface de clavier adaptée.
+
+00:04:56.760 --> 00:04:59.240
+C’est une forme sphérique
+
+00:04:59.400 --> 00:05:02.400
+permettant un accès aisé
+sans avoir à déplacer
+
+00:05:02.560 --> 00:05:04.320
+la paume de la main.
+
+00:05:04.480 --> 00:05:08.840
+En bougeant les doigts et la main,
+on peut accéder aux touches.
+
+00:05:11.360 --> 00:05:15.160
+En cas d’impossibilité de mobilité
+des membres supérieurs,
+
+00:05:15.320 --> 00:05:19.520
+il est possible d’utiliser un stylet
+
+00:05:19.680 --> 00:05:21.880
+à tenir dans la bouche.
+
+00:05:22.040 --> 00:05:25.760
+Ce stylet appuie sur des touches
+
+00:05:25.920 --> 00:05:28.040
+et sur un clavier spécifique.
+
+00:05:28.400 --> 00:05:32.200
+Ce clavier possède aussi
+une forme ergonomique,
+
+00:05:32.360 --> 00:05:34.840
+une portion de cylindre
+
+00:05:35.000 --> 00:05:37.160
+pour faciliter la sélection
+
+00:05:37.320 --> 00:05:40.280
+et limiter la fatigue d’utilisation.
+
+00:05:41.440 --> 00:05:43.760
+Autre exemple de saisie
+
+00:05:43.920 --> 00:05:46.720
+basée sur le mouvement de la tête
+
+00:05:46.880 --> 00:05:51.160
+via une caméra,
+une webcam fixée sur l’ordinateur,
+
+00:05:51.320 --> 00:05:54.360
+qui détectera les mouvements de la tête
+
+00:05:54.520 --> 00:05:57.720
+et y associera
+des commandes simples
+
+00:05:57.880 --> 00:06:01.560
+pour sélectionner dans le menu
+les fonctions à utiliser.
+
+00:06:03.240 --> 00:06:05.680
+En cas de difficulté
+de motricité de la tête,
+
+00:06:05.840 --> 00:06:07.960
+on peut utiliser
+le mouvement des yeux.
+
+00:06:08.120 --> 00:06:10.680
+Le système
+suit le mouvement des yeux.
+
+00:06:10.840 --> 00:06:14.400
+Selon qu'on regarde
+la partie haute ou basse de l'écran,
+
+00:06:14.560 --> 00:06:18.200
+il sera possible
+d’utiliser les fonctionnalités
+
+00:06:18.360 --> 00:06:22.800
+et d’utiliser la puissance de logiciel
+que l’on souhaite employer.
+
+00:06:24.680 --> 00:06:29.440
+Autre exemple basé sur une capture
+de mouvements de la tête
+
+00:06:29.600 --> 00:06:31.520
+avec un système
+à gyroscopes,
+
+00:06:31.680 --> 00:06:34.160
+comme on en trouve
+dans les smartphones.
+
+00:06:34.320 --> 00:06:37.280
+On peut compléter cet équipement
+
+00:06:37.440 --> 00:06:41.320
+par un système sous forme de tuyau
+à mettre dans la bouche.
+
+00:06:41.480 --> 00:06:44.080
+En soufflant de l’air,
+
+00:06:44.240 --> 00:06:47.720
+on va pouvoir simuler
+
+00:06:47.880 --> 00:06:49.880
+un signal de validation.
+
+00:06:51.400 --> 00:06:56.400
+Je vais maintenant vous parler
+des interfaces cerveau/ordinateur.
+
+00:06:56.560 --> 00:07:00.400
+En anglais,
+Brain Computer Interface ou BCI,
+
+00:07:01.000 --> 00:07:04.560
+sont des interfaces
+basées sur la mesure
+
+00:07:04.720 --> 00:07:07.840
+de l’activité électrique d'un cerveau.
+
+00:07:09.280 --> 00:07:12.840
+Dans les exemples
+d’utilisation des BCI,
+
+00:07:13.000 --> 00:07:15.880
+on cite le pilotage
+d’une chaise roulante
+
+00:07:16.040 --> 00:07:18.120
+pour quelqu'un
+n’ayant plus de mobilité.
+
+00:07:18.680 --> 00:07:21.760
+On cite l’utilisation
+d’un éditeur de texte
+
+00:07:21.920 --> 00:07:25.480
+ou d’une saisie de texte,
+en sélectionnant lettre par lettre
+
+00:07:25.640 --> 00:07:27.800
+le texte que l’on veut obtenir.
+
+00:07:27.960 --> 00:07:30.320
+Il y a un certain nombre
+d'applications.
+
+00:07:31.360 --> 00:07:35.720
+Intéressons-nous au principe
+de ces interfaces cerveau/ordinateur.
+
+00:07:35.880 --> 00:07:40.760
+L’idée centrale
+est de mesurer l’activité électrique
+
+00:07:40.920 --> 00:07:44.000
+d'une activité mentale
+via un système de capture
+
+00:07:44.160 --> 00:07:46.320
+connu par la médecine.
+
+00:07:46.480 --> 00:07:48.960
+Les électro-encéphalogrammes
+
+00:07:49.120 --> 00:07:53.320
+qui par l’intermédiaire d'électrodes
+placées sur la tête,
+
+00:07:53.480 --> 00:07:55.920
+mesurent des signaux électriques.
+
+00:07:56.320 --> 00:07:59.480
+Il faut filtrer ces signaux
+très bruités,
+
+00:07:59.640 --> 00:08:03.400
+rechercher les motifs, les classifier,
+puis les traduire.
+
+00:08:05.520 --> 00:08:08.760
+Le principe est simple
+et l’implémentation complexe.
+
+00:08:08.920 --> 00:08:12.800
+Il s’agit d’un domaine de recherche
+très prometteur.
+
+00:08:12.960 --> 00:08:16.280
+Malgré les efforts de chercheurs
+sur ce sujet,
+
+00:08:16.440 --> 00:08:19.200
+on ne parle pas
+de réussite complète.
+
+00:08:19.360 --> 00:08:22.480
+Il y a des échecs,
+ça ne marche pas pour tous.
+
+00:08:22.640 --> 00:08:26.280
+Ça peut fonctionner un moment
+et plus l’instant d’après.
+
+00:08:26.440 --> 00:08:30.240
+C’est un sujet intéressant à suivre
+
+00:08:30.400 --> 00:08:32.680
+car il donne
+des réponses intéressantes.
+
+00:08:32.840 --> 00:08:37.720
+Attention aux annonces miracles
+disant que ça fonctionne parfaitement,
+
+00:08:37.880 --> 00:08:42.240
+qu’on peut lire dans les pensées
+et piloter tous les processus.
+
+00:08:42.400 --> 00:08:44.480
+Ce ne sont
+que des effets d’annonce.
+
+00:08:46.160 --> 00:08:48.240
+Dans la séquence suivante,
+
+00:08:48.400 --> 00:08:51.480
+je vous présenterai
+des principes généraux
+
+00:08:51.640 --> 00:08:56.600
+utilisés dans les logiciels d’interface
+basés sur des équipements présentés.

@@ -1,0 +1,475 @@
+﻿WEBVTT
+
+00:00:07.480 --> 00:00:12.160
+Je vous ai présenté
+des fonctionnalités d'aide numérique
+
+00:00:12.320 --> 00:00:14.840
+devant être intégrées
+à des logiciels,
+
+00:00:15.000 --> 00:00:17.800
+comme les systèmes d'exploitation.
+
+00:00:18.400 --> 00:00:21.440
+On avait conclu
+que n'avoir que des fonctionnalités
+
+00:00:21.600 --> 00:00:25.880
+pour l'accessibilité numérique,
+c'était insuffisant.
+
+00:00:26.040 --> 00:00:28.720
+Il faut aussi
+l'accessibilité des contenus.
+
+00:00:28.880 --> 00:00:31.160
+On s'y intéresse dans
+cette 3ème semaine.
+
+00:00:32.080 --> 00:00:36.520
+On va commencer par se concentrer
+sur les contenus du Web
+
+00:00:36.920 --> 00:00:39.760
+dans les quatre premières séquences,
+
+00:00:39.920 --> 00:00:42.720
+où nous évoquerons le consortium W3C
+
+00:00:42.880 --> 00:00:47.360
+qui gère le développement du Web
+et les recommandations formulées.
+
+00:00:47.840 --> 00:00:50.080
+Nous terminerons
+par deux séquences
+
+00:00:50.240 --> 00:00:52.320
+sur des types
+de documents numériques
+
+00:00:52.480 --> 00:00:56.160
+issus de Microsoft Office
+ou de documents de type PDF.
+
+00:00:56.600 --> 00:01:00.520
+Nous pouvons rappeler
+que l'accessibilité numérique
+
+00:01:00.680 --> 00:01:04.240
+commence par des équipements,
+mécanismes ou principes
+
+00:01:04.440 --> 00:01:06.320
+implémentés dans des logiciels,
+
+00:01:06.720 --> 00:01:10.080
+mais qu'elle continue par les contenus
+Web ou génériques.
+
+00:01:10.240 --> 00:01:12.640
+Ces deux facettes
+sont indispensables,
+
+00:01:12.800 --> 00:01:14.920
+une seule
+serait  insuffisante.
+
+00:01:16.240 --> 00:01:19.400
+Si je considère le Web
+dans un premier temps,
+
+00:01:19.680 --> 00:01:23.840
+on constate que c'est une révolution
+dans nos vies
+
+00:01:24.440 --> 00:01:26.760
+et que cette révolution l'est aussi
+
+00:01:26.920 --> 00:01:30.720
+pour des personnes en situation de handicap,
+mais pas totalement.
+
+00:01:30.880 --> 00:01:33.160
+Je prends un seul exemple concret.
+
+00:01:33.320 --> 00:01:36.360
+Avant l'apparition du Web,
+des personnes en situation
+
+00:01:36.520 --> 00:01:38.800
+de handicap visuel ou moteur,
+
+00:01:38.960 --> 00:01:41.840
+avec des difficultés
+pour tourner des pages,
+
+00:01:42.000 --> 00:01:44.000
+étaient dépendantes d'autrui.
+
+00:01:44.160 --> 00:01:46.960
+Cela limitait d'autant
+leur indépendance.
+
+00:01:48.000 --> 00:01:49.480
+Avec des lecteurs d'écran,
+
+00:01:49.640 --> 00:01:53.160
+des équipements d'interface
+comme vus la semaine dernière,
+
+00:01:53.320 --> 00:01:55.840
+une personne
+en situation de handicap
+
+00:01:56.000 --> 00:01:59.320
+peut être autonome
+et lire ses journaux
+
+00:01:59.480 --> 00:02:01.400
+sans assistance extérieure.
+
+00:02:02.000 --> 00:02:05.600
+Mais en dépit de ce potentiel
+offert par le Web,
+
+00:02:05.760 --> 00:02:09.280
+il existe trop peu
+d'applications accessibles
+
+00:02:09.440 --> 00:02:11.880
+connectées
+à des contenus accessibles.
+
+00:02:12.040 --> 00:02:14.320
+Il existe des navigateurs
+
+00:02:14.480 --> 00:02:17.840
+permettant de fournir
+des fonctions d'accessibilité.
+
+00:02:18.000 --> 00:02:21.320
+Si les contenus ne le sont pas,
+il n'y a pas d'accessibilité.
+
+00:02:21.760 --> 00:02:24.480
+Comment faire ?
+La question sous-jacente
+
+00:02:24.640 --> 00:02:27.640
+est de se demander
+comment le Web est organisé
+
+00:02:27.800 --> 00:02:32.160
+pour introduire ces contenus
+véritablement accessibles.
+
+00:02:32.720 --> 00:02:37.680
+Évoquons le consortium W3C,
+World Wide Web Consortium,
+
+00:02:38.200 --> 00:02:40.640
+issu de la communauté internationale
+
+00:02:40.800 --> 00:02:44.680
+et composé de personnes
+de l'association W3C,
+
+00:02:44.840 --> 00:02:48.760
+d'organisations, d'entreprises,
+de structures et d'utilisateurs.
+
+00:02:50.160 --> 00:02:53.240
+Ce consortium assure
+le bon fonctionnement du Web.
+
+00:02:53.840 --> 00:02:57.920
+Pour ça, il travaille collectivement
+avec ces différentes parties
+
+00:02:58.080 --> 00:02:59.880
+pour développer
+des standards.
+
+00:03:00.040 --> 00:03:03.440
+Même si nous ne connaissons pas
+ces standards et leurs noms,
+
+00:03:03.600 --> 00:03:05.800
+comme HTML, XML, CSS,
+
+00:03:05.960 --> 00:03:09.160
+c'est grâce à ces standards
+et ces protocoles
+
+00:03:09.320 --> 00:03:10.960
+qu'on peut utiliser le Web
+
+00:03:11.120 --> 00:03:14.160
+sans se préoccuper
+d'où on accède au Web
+
+00:03:14.320 --> 00:03:18.080
+et sur quel type de machines
+est stockée l'information.
+
+00:03:18.720 --> 00:03:22.600
+Rappelons que l'inventeur du Web,
+Tim Berners Lee,
+
+00:03:22.760 --> 00:03:26.360
+a fondé le W3C en 1994.
+
+00:03:27.560 --> 00:03:31.160
+Ce chercheur avait une vision
+très claire dès le début,
+
+00:03:31.320 --> 00:03:34.480
+notamment autour
+de 3 principes de conception.
+
+00:03:34.920 --> 00:03:37.400
+Mettre en œuvre
+des standards ouverts,
+
+00:03:37.560 --> 00:03:40.960
+c'est-à-dire indépendants
+d'un constructeur de matériels,
+
+00:03:41.120 --> 00:03:43.760
+pour favoriser l'indépendance du Web
+
+00:03:43.920 --> 00:03:46.840
+et ne pas être dépendants
+d'une seule structure.
+
+00:03:47.960 --> 00:03:50.760
+Le 2ème principe évoqué
+
+00:03:50.920 --> 00:03:54.520
+était le Web pour tous
+pour lutter contre les fractures.
+
+00:03:54.840 --> 00:03:57.560
+De cette volonté de Web pour tous
+
+00:03:57.720 --> 00:04:00.200
+est née une initiative,
+
+00:04:00.360 --> 00:04:04.760
+la Web Accessibility Initiative,
+WAI en abrégé.
+
+00:04:05.520 --> 00:04:10.280
+3ème principe
+de plus en plus d'actualité :
+
+00:04:10.440 --> 00:04:11.520
+le Web partout.
+
+00:04:11.680 --> 00:04:15.960
+On parle de l'Internet des objets,
+des objets connectés.
+
+00:04:16.120 --> 00:04:19.800
+C'était une vision envisagée
+dès le début du Web.
+
+00:04:21.120 --> 00:04:25.280
+Pour arriver
+à appliquer ces principes,
+
+00:04:25.440 --> 00:04:27.480
+des éléments de vision font
+
+00:04:27.640 --> 00:04:31.280
+qu'il est indispensable
+de proposer une interaction riche,
+
+00:04:31.440 --> 00:04:33.440
+pas seulement
+en lecture du site Web,
+
+00:04:33.920 --> 00:04:36.840
+et qu'il est faut avoir
+des données et des services
+
+00:04:37.000 --> 00:04:39.640
+pour aller
+vers le Web sémantique.
+
+00:04:39.800 --> 00:04:44.480
+Enfin, s'intéresser à la confidentialité
+et au respect de la vie privée
+
+00:04:44.640 --> 00:04:46.920
+pour avoir un Web
+digne de confiance.
+
+00:04:48.240 --> 00:04:52.760
+Concentrons-nous maintenant
+sur la Web Accessibility Initiative,
+
+00:04:52.920 --> 00:04:55.440
+qui se réfère
+à la convention ONU
+
+00:04:55.600 --> 00:04:57.720
+sur les droits
+des personnes en situation de handicap
+
+00:04:57.880 --> 00:04:59.680
+qu'Hélène vous a présentée
+
+00:04:59.840 --> 00:05:03.160
+et qui insistait sur l'accès
+au monde numérique
+
+00:05:03.320 --> 00:05:05.080
+des personnes
+en situation de handicap.
+
+00:05:05.960 --> 00:05:10.280
+L'initiative regroupe entreprises,
+chercheurs, utilisateurs et associations.
+
+00:05:10.800 --> 00:05:13.720
+Elle développe des stratégies
+et recommandations
+
+00:05:13.880 --> 00:05:15.720
+ainsi que des ressources
+
+00:05:15.880 --> 00:05:19.440
+pour rendre le Web accessible
+aux personnes en situation de handicap.
+
+00:05:19.920 --> 00:05:24.080
+Je vais vous le détailler
+dans les slides suivants.
+
+00:05:25.040 --> 00:05:27.880
+Elle travaille en anglais
+
+00:05:28.040 --> 00:05:29.960
+mais il y a d'autres langues.
+
+00:05:30.120 --> 00:05:32.960
+En France,
+l'association BrailleNet est habilitée
+
+00:05:33.120 --> 00:05:37.600
+à proposer et diffuser
+ces recommandations en français.
+
+00:05:37.760 --> 00:05:40.920
+Vous trouverez
+sur les dernières slides
+
+00:05:41.080 --> 00:05:43.040
+des liens vers à ces traductions.
+
+00:05:44.800 --> 00:05:47.360
+Finalement,
+le cœur de cette initiative
+
+00:05:47.520 --> 00:05:50.680
+était la séparation
+en trois composantes
+
+00:05:51.200 --> 00:05:53.640
+fondamentales pour l'accessibilité.
+
+00:05:53.960 --> 00:05:58.200
+D'une part, les développeurs,
+
+00:05:58.360 --> 00:06:01.480
+qui éditent des systèmes d'édition
+pour les contenus.
+
+00:06:02.560 --> 00:06:04.640
+Les contenus eux-mêmes,
+
+00:06:04.800 --> 00:06:07.760
+les informations et services
+dans les pages Web.
+
+00:06:07.920 --> 00:06:11.680
+Les utilisateurs,
+qui accèdent à ces contenus
+
+00:06:11.840 --> 00:06:15.360
+via des navigateurs
+évoqués la semaine précédente.
+
+00:06:16.000 --> 00:06:19.120
+Pour chacune de ces trois parties,
+
+00:06:19.280 --> 00:06:23.840
+WAI va éditer un ensemble
+de recommandations
+
+00:06:24.760 --> 00:06:29.120
+que l'on appellera en anglais
+Accessibility Guidelines, ou AG.
+
+00:06:29.280 --> 00:06:32.400
+Pour les systèmes auteur,
+les ATAG,
+
+00:06:32.560 --> 00:06:35.280
+pour les systèmes d'édition
+comme CMS.
+
+00:06:35.720 --> 00:06:38.040
+Pour les contenus, le WCAG.
+
+00:06:38.200 --> 00:06:42.200
+C'est cette partie
+que je vais détailler par la suite.
+
+00:06:42.800 --> 00:06:46.520
+Des recommandations pour les clients,
+
+00:06:46.920 --> 00:06:50.440
+navigateur Web par exemple,
+qu'utiliseront les utilisateurs.
+
+00:06:51.000 --> 00:06:55.000
+Pour un souci de cohérence,
+ces recommandations sont basées
+
+00:06:55.160 --> 00:06:58.960
+sur les spécifications techniques
+du W3C : HTML, XML, etc.
+
+00:07:00.440 --> 00:07:02.240
+Citons pour conclure
+
+00:07:02.400 --> 00:07:05.360
+une initiative
+qui a eu moins d'importance,
+
+00:07:05.520 --> 00:07:07.280
+mais qui était intéressante :
+
+00:07:07.440 --> 00:07:09.640
+l'état de l'art
+sur la littérature scientifique
+
+00:07:09.800 --> 00:07:13.320
+en considérant près de 150 études
+pour des personnes âgées
+
+00:07:13.480 --> 00:07:16.800
+et des recommandations
+de sites leur étant accessibles.
+
+00:07:18.200 --> 00:07:21.440
+Prochainement,
+je vais détailler les recommandations
+
+00:07:21.600 --> 00:07:23.320
+pour rendre ces contenus
+accessibles.

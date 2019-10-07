@@ -62,11 +62,11 @@ WEBVTT
 00:03:19.000 --> 00:03:26.000
 <h1>Réalisation</h1>
 <h2>Un cours proposé par</h2>
-<img src="/Images/learning-lab.jpg" class="logo-gauche" alt="Logo du groupe de travail Learning Lab d'Inria">
-<img src="/Images/utop.jpg" class="logo-droite" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire">
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria">
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire">
 <h3>et avec la collaboration de</h3>
-<img src="/Images/universite-bordeaux.jpg" class="logo-centre" alt="Logo de l'Université de Bordeaux">
-<img src="/Images/copyright.jpg" class="logo-copyright" alt="Copyright">Inria 2017
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux">
+<img src="/Images/copyright.jpg" alt="Copyright">Inria 2017
 <p>
   L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
   sous licence CC BY-NC-ND 3.0 France<br>

@@ -1,0 +1,96 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:20.000
+<h1>1. Introduction </h1>
+<ul>
+  <li>Le handicap, de quoi parlons-nous ?</li>
+  <li>La situation en France</li>
+  <li>Historique et concept du handicap</li>
+  <li>Définition actuelle</li>
+  <li>L'accessibilité</li>
+  <li>Le modèle environnemental de compensation - Principes</li>
+  <li>Le modèle environnemental de compensation - Application</li>
+  <li><strong>Objectifs et plan du cours</strong></li>
+</ul>
+
+2
+00:00:20.000 --> 00:01:44.000
+<h1>Les objectifs</h1>
+<h2>L’objectif global</h2>
+<ul>
+  <li>Contribuer à faciliter l’accès au monde numérique pour les PSH</li>
+</ul>
+<h2>Les objectifs du cours</h2>
+<ul>
+  <li>Sensibiliser aux situations de handicap </li>
+  <li>Décrire la problématique de l’accessibilité numérique </li>
+  <li>Exposer les principaux mécanismes mis en &oelig;uvre </li>
+  <li>Présenter quelques solutions existantes </li>
+  <li>Décrire des méthodes de conception adaptées</li>
+</ul>
+
+3
+00:01:44.000 --> 00:02:47.000
+<h1>Les cibles</h1>
+<h2>Notamment </h2>
+<ul>
+  <li>Développeurs de systèmes logiciels </li>
+  <li>Développeurs de sites et des services web</li>
+</ul>
+<h2>Mais aussi</h2>
+<ul>
+  <li>PSH, aidants </li>
+  <li>Plus globalement : grand public, media, décideurs</li>
+</ul>
+
+4
+00:02:47.000 --> 00:02:49.000
+<h1>Les cibles</h1>
+<h2>Notamment </h2>
+<ul>
+  <li>Développeurs de systèmes logiciels </li>
+  <li>Développeurs de sites et des services web</li>
+</ul>
+<h2>Mais aussi</h2>
+<ul>
+  <li>PSH, aidants </li>
+  <li>Plus globalement : grand public, media, décideurs</li>
+</ul>
+
+5
+00:02:49.000 --> 00:03:36.000
+<h1>Les bénéfices</h1>
+<ul>
+  <li>Individuels </li>
+  <li>Sociétaux </li>
+  <li>Economiques</li>
+</ul>
+
+6
+00:03:36.000 --> 00:05:16.000
+<h1>Le plan du cours</h1>
+<ol>
+  <li>Introduction </li>
+  <li>L’accessibilité des systèmes numériques</li>
+  <li> L’accessibilité des contenus </li>
+  <li>Les méthodes de conception </li>
+  <li>Les assistances technologiques</li>
+</ol>
+
+7
+00:05:16.000 --> 00:05:20.000
+<h1>Réalisation </h1>
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

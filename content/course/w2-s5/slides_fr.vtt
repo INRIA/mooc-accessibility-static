@@ -1,0 +1,153 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:42.000
+<h1>2. L’accessibilité des systèmes numériques</h1>
+<ul>
+  <li>Accessibilité numérique, de quoi parlons-nous ? </li>
+  <li>Les équipements d’interface </li>
+  <li>Les mécanismes d’interface </li>
+  <li>Les systèmes d’exploitation </li>
+  <li><strong>Les logiciels génériques </strong></li>
+  <li>Une étude utilisateur</li>
+</ul>
+2
+00:00:42.000 --> 00:02:09.000
+<h1>Microsoft Office</h1>
+<h2>Word</h2>
+<ul>
+  <li>Loupe </li>
+  <li>Mode sans distraction : masque des boutons et des outils </li>
+  <li>Synthèse vocale du texte saisi </li>
+  <li>Reconnaissance vocale pour piloter le logiciel </li>
+  <li>Utilisation du clavier pour naviguer dans le menu </li>
+  <li>Vérificateur d’orthographe et de grammaire</li>
+</ul>
+
+3
+00:02:09.000 --> 00:03:05.000
+<h1>Open Office</h1>
+<h2>Pour l'utilisateur</h2>
+<ul>
+  <li>Alternatives clavier à l’utilisation de la souris </li>
+  <li>Prise en compte d’équipements de saisie autres que le clavier </li>
+  <li>Enrichissements visuels (textes, menus) </li>
+  <li>Assistances : lecteurs d’écran, commande vocale</li>
+</ul>
+<h2>Pour le développeur</h2>
+<ul>
+  <li>Interfaces de programmation (API)</li>
+</ul>
+
+4
+00:03:05.000 --> 00:04:07.000
+<h1>Jeux, enseignement</h1>
+<h2>Jeux</h2>
+<ul>
+  <li>Recommandations </li>
+  <li>Comparateur</li>
+</ul>
+<h2>Enseignement</h2>
+<ul>
+  <li>Algèbre, tracé de fonctions</li>
+</ul>
+<h2>Développement logiciel</h2>
+<ul>
+  <li>Eclipse</li>
+</ul>
+
+5
+00:04:07.000 --> 00:05:30.000
+<h1>Réseaux sociaux</h1>
+<h2>Twitter</h2>
+<ul>
+  <li>TWBlue
+    <ul>
+      <li>peut fonctionner avec ou sans interface graphique
+      </li>
+      <li>peut être interfacé avec un lecteur graphique</li>
+    </ul>
+  </li>
+</ul>
+<h2>Facebook</h2>
+<ul>
+  <li>Fonctionnalités « standard » </li>
+  <li>Page sur l’accessibilité </li>
+  <li>Projet : description automatique de photographies</li>
+</ul>
+</div>
+<div class="slide newNotion">
+<h1>Navigateurs</h1>
+<h2>Internet Explorer, Firefox…</h2>
+<ul>
+  <li>Loupe, modification caractères </li>
+  <li>Sélection, navigation à l’aide de touches clavier </li>
+  <li>Commande vocale </li>
+  <li>Lecteur d’écran</li>
+</ul>
+
+6
+00:05:30.000 --> 00:06:20.000
+<h1>Ressources - 1</h1>
+<p>Microsoft accessibility Homepage. Microsoft. URL : <a href="http://www.microsoft.com/enable/">accessibilité chez
+    Microsoft</a></p>
+<p>Accessibility features in Firefox - Make Firefox and web content work for all users. Mozilla Support. URL : <a
+    href="https://support.mozilla.org/en-US/kb/accessibility-features-firefox-make-firefox-and-we">accessibilité
+    chez Firefox</a></p>
+<p>Major Browsers Summary - Chrome and Firefox Rock!. Html5 Accessibility. URL : <a
+    href="http://www.html5accessibility.com/">accessibilité des navigateurs html5</a></p>
+<p>OpenOffice Accessibility Project. Apache Open Office. URL : <a
+    href="https://www.openoffice.org/ui/accessibility/">projet accessibilité chez Open Office</a></p>
+
+7
+00:06:20.000 --> 00:06:21.000
+<h1>Ressources - 2</h1>
+<p>Disabilities and Assistive Technology. Apache Open Office. URL : <a
+    href="https://www.openoffice.org/ui/accessibility/disabilities.html">aides à l'accessibilité chez Open
+    Office</a></p>
+<p>UNO Accessibility API. Apache Open Office. URL : <a
+    href="https://www.openoffice.org/ui/accessibility/unoapi.html">API Accessibilité chez Open Office</a></p>
+<p>Accessibility Work Bench. Apache Open Office. URL : <a
+    href="https://www.openoffice.org/ui/accessibility/AWB.html">outil de test d'accessibilité chez Open Office</a>
+</p>
+<p>Guidelines Microsoft. Making Video Games Accessible: Business Justifications and Design Considerations. URL :  <a
+    href="https://msdn.microsoft.com/en-us/library/windows/desktop/ee415219(v=vs.85).aspx">comment rendre des jeux
+    vidéos accessibles</a></p>
+
+8
+00:06:21.000 --> 00:06:23.000
+<h1>Ressources - 3</h1>
+<p>Game accessibility Homepage. Game Accessibility. URL : <a href="http://game-accessibility.com/">accueil de Game
+    Accessibility</a></p>
+<p>MathTalk voicing Calculus example. Nancilu McClellan. Youtube. URL : <a href="https://youtu.be/d1VElhOM4PA">vidéo
+    MathTalk - exemple 1</a></p>
+<p>MathTalk commands voicing graph example. Nancilu McClellan. Youtube. URL : <a
+    href="https://youtu.be/_RJVeTMGioc">vidéo MathTalk - exemple 2</a></p>
+<p>The Tools of a Blind Programmer. Parham Doustdar’s blog. URL : <a
+    href="https://www.parhamdoustdar.com/2016/04/03/tools-of-blind-programmer/">outils pour les développeurs
+    aveugles</a></p>
+
+9
+00:06:23.000 --> 00:06:24.000
+<h1>Ressources - 4</h1>
+<p>TW Blue, un client Tweeter accessible pour OS X. Oxytude. </p>
+<p>URL : <a href="https://www.oxytude.org/tw-blue-un-client-tweeter-accessible-pour-os-x/">présentation de TW
+    Blue</a></p>
+<p>Accessibility. Facebook. URL : <a href="https://www.facebook.com/accessibility">accessibilité chez Facebook</a>
+</p>
+
+10
+00:06:24.000 --> 00:06:26.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

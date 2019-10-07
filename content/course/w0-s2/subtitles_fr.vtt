@@ -1,0 +1,448 @@
+﻿WEBVTT
+
+00:00:00.080 --> 00:00:02.520
+Dans cette séquence,
+je vais vous présenter
+
+00:00:02.680 --> 00:00:05.880
+les principes régissant
+l'utilisation du logiciel.
+
+00:00:06.040 --> 00:00:08.720
+Je vous rappelle
+l'objectif du programme
+
+00:00:08.880 --> 00:00:11.680
+dans lequel s'inscrit
+le développement du lecteur,
+
+00:00:11.840 --> 00:00:15.480
+qui est d'ouvrir l'accès
+des outils numériques de formation
+
+00:00:15.720 --> 00:00:20.320
+et de faciliter l'utilisation
+de tous les utilisateurs.
+
+00:00:21.040 --> 00:00:26.000
+Cette séquence ne décrit pas
+toutes les fonctionnalités du lecteur.
+
+00:00:26.160 --> 00:00:28.320
+Vous les trouverez
+dans un document
+
+00:00:28.480 --> 00:00:31.200
+consultable sur le site.
+
+00:00:31.600 --> 00:00:34.080
+Cette séquence a pour objectif
+
+00:00:34.240 --> 00:00:38.200
+de décrire les principes
+de conception de ce logiciel
+
+00:00:38.360 --> 00:00:41.840
+et ses plus importantes fonctionnalités.
+
+00:00:42.000 --> 00:00:44.280
+Un MOOC, de façon générale,
+
+00:00:44.440 --> 00:00:46.600
+est composé de flux d'informations :
+
+00:00:46.760 --> 00:00:50.200
+vidéos, transparents, quizz, etc.
+
+00:00:51.080 --> 00:00:54.040
+Dans notre logiciel
+et dans notre MOOC,
+
+00:00:54.200 --> 00:00:56.360
+nous avons séparé ces flux
+
+00:00:56.520 --> 00:01:00.760
+pour avoir un flux pour les vidéos,
+les transparents, les sous-titres,
+
+00:01:00.920 --> 00:01:04.200
+pour permettre
+une utilisation configurée
+
+00:01:04.360 --> 00:01:07.360
+aux besoins et capacités
+de chaque utilisateur.
+
+00:01:09.240 --> 00:01:13.000
+2ème principe,
+l'ajout d'informations supplémentaires
+
+00:01:13.160 --> 00:01:15.120
+permettant par exemple
+
+00:01:15.280 --> 00:01:18.800
+d'expliquer une abréviation
+utilisée dans le cours,
+
+00:01:18.960 --> 00:01:23.000
+d'insister sur une partie du cours
+qui est très importante.
+
+00:01:23.160 --> 00:01:26.480
+Pour exprimer
+ces informations supplémentaires,
+
+00:01:26.640 --> 00:01:30.080
+nous utiliserons des textes courts
+ou des icônes.
+
+00:01:30.800 --> 00:01:35.760
+3ème principe, nous avons souhaité
+permettre la configuration totale
+
+00:01:36.480 --> 00:01:40.040
+du lecteur,
+pour l'adapter à chaque utilisateur.
+
+00:01:40.360 --> 00:01:43.920
+Vous pourrez sélectionner
+les flux que vous souhaitez.
+
+00:01:44.080 --> 00:01:46.920
+Parmi eux,
+les flux vidéos et transparents.
+
+00:01:47.080 --> 00:01:49.600
+Vous pourrez choisir
+ceux qui vous intéressent
+
+00:01:49.760 --> 00:01:53.000
+et ne pas visualiser
+ceux qui ne sont pas nécessaires.
+
+00:01:53.360 --> 00:01:56.400
+Vous pourrez changer la taille,
+
+00:01:56.560 --> 00:01:59.800
+la position des fenêtres d'affichage
+des informations.
+
+00:01:59.960 --> 00:02:04.000
+Cette configuration
+pourra se faire au démarrage.
+
+00:02:04.160 --> 00:02:09.440
+À tout moment,
+vous pourrez changer ces réglages.
+
+00:02:09.600 --> 00:02:14.560
+Nous avons ajouté des fonctions
+de navigation dans ces flux,
+
+00:02:14.840 --> 00:02:18.600
+permettant de naviguer
+de transparent en transparent,
+
+00:02:18.760 --> 00:02:20.480
+vers l'avant ou vers l'arrière.
+
+00:02:20.640 --> 00:02:23.840
+Nous avons défini
+ce que nous appelons une notion,
+
+00:02:24.000 --> 00:02:28.000
+un groupe de transparents
+reprenant une notion importante du cours.
+
+00:02:28.160 --> 00:02:31.360
+Il sera possible d'accéder
+à la notion suivante
+
+00:02:31.520 --> 00:02:33.120
+ou de revenir
+à la notion précédente.
+
+00:02:33.280 --> 00:02:36.120
+Si vous n'avez pas compris
+une partie du cours,
+
+00:02:36.280 --> 00:02:40.360
+vous pouvez revenir au début
+de la notion courante.
+
+00:02:40.560 --> 00:02:45.120
+Vous pourrez configurer
+les boutons de l'interface,
+
+00:02:45.280 --> 00:02:48.520
+associés aux différentes
+fonctions de navigation,
+
+00:02:48.680 --> 00:02:51.840
+pour les déplacer
+ou les redimensionner.
+
+00:02:52.120 --> 00:02:56.440
+Enfin, dernier point
+particulièrement important,
+
+00:02:56.920 --> 00:03:01.720
+ces réglages constitueront
+ce qu'on appelle le "profil utilisateur".
+
+00:03:02.200 --> 00:03:05.280
+Ce profil pourra être sauvegardé
+sur votre machine
+
+00:03:05.480 --> 00:03:10.440
+et vous pourrez, si vous le souhaitez,
+l'échanger avec d'autres utilisateurs.
+
+00:03:10.600 --> 00:03:14.680
+Si vous avez configuré le profil
+
+00:03:14.840 --> 00:03:18.400
+à votre capacité,
+à votre situation de handicap
+
+00:03:18.560 --> 00:03:21.440
+et souhaitez le partager
+avec d'autres personnes
+
+00:03:21.600 --> 00:03:23.760
+ayant le même type de handicap,
+
+00:03:23.920 --> 00:03:26.680
+vous pourrez le faire
+par échange de fichiers,
+
+00:03:26.840 --> 00:03:30.000
+via e-mail, forum,
+ou site communautaire
+
+00:03:30.160 --> 00:03:33.960
+et créer des communautés d'utilisateurs.
+
+00:03:34.160 --> 00:03:36.960
+Si je rentre un peu plus dans le détail,
+
+00:03:37.120 --> 00:03:41.040
+en commençant
+par les fonctions de consultation,
+
+00:03:41.520 --> 00:03:44.480
+vous pourrez consulter
+les flux d'informations
+
+00:03:44.640 --> 00:03:48.440
+que vous avez sélectionnés
+et naviguer dans ces séquences.
+
+00:03:48.880 --> 00:03:51.360
+Vous aurez des fonctions d'interface
+
+00:03:51.520 --> 00:03:55.120
+vous permettant de lancer
+ou d'arrêter l'affichage des flux,
+
+00:03:55.280 --> 00:03:58.560
+vidéos, transparents,
+sous-titres, etc.
+
+00:03:59.120 --> 00:04:03.120
+Vous pourrez ralentir
+la vitesse de ces flux,
+
+00:04:03.280 --> 00:04:07.560
+l'accélérer ou la ralentir
+jusqu'à la moitié de la vitesse habituelle
+
+00:04:07.720 --> 00:04:10.560
+ou l'accélérer jusqu'à deux fois
+la vitesse habituelle.
+
+00:04:11.880 --> 00:04:13.680
+Comme indiqué précédemment,
+
+00:04:13.840 --> 00:04:17.800
+vous pourrez passer
+au transparent suivant, précédent
+
+00:04:17.960 --> 00:04:20.840
+ou à la notion précédente
+ou suivante.
+
+00:04:21.000 --> 00:04:23.800
+Vous pourrez également
+marquer à la volée,
+
+00:04:23.960 --> 00:04:27.000
+pendant le cours,
+des moments particuliers.
+
+00:04:27.160 --> 00:04:30.880
+Par exemple, des moments
+qui vous ont semblé importants
+
+00:04:31.040 --> 00:04:35.680
+ou dans lesquels vous n'avez pas
+compris le contenu du cours.
+
+00:04:35.840 --> 00:04:38.720
+Cela va vous permettre de revenir
+
+00:04:38.880 --> 00:04:41.480
+quand vous voudrez revoir le cours,
+
+00:04:41.640 --> 00:04:43.640
+sur ces moments particuliers
+
+00:04:43.800 --> 00:04:47.440
+que vous aurez notés
+pendant le suivi de ces séquences.
+
+00:04:48.400 --> 00:04:51.800
+Bien entendu,
+vous aurez toutes les possibilités
+
+00:04:52.280 --> 00:04:55.080
+de repérer l'avancement
+dans la séquence :
+
+00:04:55.240 --> 00:04:57.280
+le début, la moitié ou la fin,
+
+00:04:57.440 --> 00:05:01.600
+afin de gérer le temps
+que vous consacrez à ce cours.
+
+00:05:01.920 --> 00:05:04.160
+Dans les fonctions de configuration,
+
+00:05:04.320 --> 00:05:06.760
+vous trouverez des fonctions standards
+
+00:05:06.920 --> 00:05:10.560
+que vous connaissez
+dans presque tous les lecteurs vidéo
+
+00:05:10.720 --> 00:05:14.440
+et lecteurs de Moocs,
+comme gérer l'intensité du son.
+
+00:05:14.960 --> 00:05:18.640
+Vous pourrez alterner
+entre un affichage partiel
+
+00:05:18.800 --> 00:05:22.240
+recouvrant une partie de votre écran,
+ou en plein écran.
+
+00:05:22.400 --> 00:05:26.440
+Si vous souhaitez ne pas être distrait
+
+00:05:26.600 --> 00:05:29.360
+et vous concentrer sur le MOOC,
+
+00:05:29.520 --> 00:05:32.920
+le mode plein écran
+supprime ces distracteurs d'attention.
+
+00:05:33.720 --> 00:05:36.000
+Enfin, assez classiquement,
+
+00:05:36.160 --> 00:05:38.080
+une fenêtre de paramétrage
+
+00:05:38.240 --> 00:05:42.920
+vous permettra de retrouver
+la sélection des flux.
+
+00:05:43.080 --> 00:05:46.200
+Vous pourrez choisir
+entre plusieurs thèmes
+
+00:05:46.360 --> 00:05:48.400
+pour l'interface du logiciel.
+
+00:05:49.600 --> 00:05:53.440
+Dans cette fenêtre,
+vous pourrez sauvegarder
+
+00:05:53.600 --> 00:05:57.280
+ou charger un profil et l'échanger
+avec d'autres utilisateurs.
+
+00:05:57.440 --> 00:05:59.600
+Si vous le souhaitez,
+
+00:05:59.760 --> 00:06:02.600
+vous pourrez signaler
+les erreurs de fonctionnement
+
+00:06:02.760 --> 00:06:05.880
+détectées
+dans l'utilisation du logiciel,
+
+00:06:06.040 --> 00:06:08.440
+à travers un bouton particulier.
+
+00:06:08.920 --> 00:06:12.280
+Nous avons ajouté
+un certain nombre de fonctions,
+
+00:06:12.440 --> 00:06:16.440
+comme la possibilité de déplacer
+
+00:06:16.600 --> 00:06:18.840
+et/ou redimensionner
+les fenêtres d'affichage.
+
+00:06:19.000 --> 00:06:23.520
+Si vous voulez réduire la fenêtre
+à sa plus petite expression,
+
+00:06:23.680 --> 00:06:27.760
+vous le pouvez, en augmentant
+la taille des transparents ou l'inverse.
+
+00:06:28.200 --> 00:06:30.640
+Vous le configurerez
+selon vos souhaits.
+
+00:06:31.560 --> 00:06:34.840
+Même fonctions
+sur les boutons d'interface,
+
+00:06:35.000 --> 00:06:39.160
+comme les blocs de boutons
+permettant d'avancer dans la séquence.
+
+00:06:39.320 --> 00:06:42.040
+Vous pouvez les déplacer
+
+00:06:42.200 --> 00:06:44.040
+et les replacer ailleurs.
+
+00:06:44.760 --> 00:06:48.360
+De plus, vous pourrez changer
+
+00:06:48.520 --> 00:06:50.400
+le cadrage vidéo de l'intervenant
+
+00:06:50.560 --> 00:06:53.400
+et utiliser une vue de face
+
+00:06:53.560 --> 00:06:57.640
+ou de profil, en fonction
+des souhaits que vous avez.
+
+00:06:57.800 --> 00:06:59.760
+Dans la prochaine séquence,
+
+00:06:59.920 --> 00:07:03.880
+nous parcourrons
+les principales fonctionnalités du logiciel
+
+00:07:04.040 --> 00:07:06.000
+à travers une démonstration.

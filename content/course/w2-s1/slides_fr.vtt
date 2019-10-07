@@ -1,0 +1,140 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:24.000
+<h1>Accessibilité numérique</h1>
+<ol>
+  <li>Introduction </li>
+  <li><strong>L’accessibilité des systèmes numériques </strong></li>
+  <li>L’accessibilité des contenus </li>
+  <li>Les méthodes de conception </li>
+  <li>Les assistances technologiques</li>
+</ol>
+
+2
+00:00:24.000 --> 00:01:13.000
+<h1>2. L’accessibilité des systèmes numériques</h1>
+<ul>
+  <li>Accessibilité numérique, de quoi parlons-nous ? </li>
+  <li>Les équipements d’interface </li>
+  <li>Les mécanismes d’interface </li>
+  <li>Les systèmes d’exploitation </li>
+  <li>Les logiciels génériques </li>
+  <li>Une étude utilisateur</li>
+</ul>
+
+3
+00:01:13.000 --> 00:01:16.000
+<h1>2. L’accessibilité des systèmes numériques</h1>
+<ul>
+  <li><strong>Accessibilité numérique, de quoi parlons-nous ? </strong></li>
+  <li>Les équipements d’interface </li>
+  <li>Les mécanismes d’interface </li>
+  <li>Les systèmes d’exploitation </li>
+  <li>Les logiciels génériques </li>
+  <li>Une étude utilisateur</li>
+</ul>
+
+4
+00:01:16.000 --> 00:02:30.000
+<h1>L’accessibilité numérique</h1>
+<h2>Pourquoi en parle-t-on ?</h2>
+<ul>
+  <li>Le monde est devenu numérique </li>
+  <li>Plusieurs lignes de fracture numérique :
+    <ul>
+      <li>équipements (ordinateur, connexion) </li>
+      <li>maîtrise (acteurs vs consommateurs) </li>
+      <li>situations de handicap </li>
+    </ul>
+  </li>
+  <li>L’accessibilité numérique vise à réduire ces exclusions</li>
+</ul>
+
+5
+00:02:30.000 --> 00:03:23.000
+<h1>Les bénéfices - 1</h1>
+<h2>Pour l’individu</h2>
+<ul>
+  <li>Contribuer à l’auto-détermination de la personne pour son projet de vie </li>
+  <li>Améliorer la qualité de vie : les outils numériques sont parfois la seule démarche possible</li>
+</ul>
+<h2>Pour la société</h2>
+<ul>
+  <li>Contribuer à la rendre plus inclusive en luttant contre les discriminations</li>
+</ul>
+
+6
+00:03:23.000 --> 00:05:33.000
+<h1>Les bénéfices - 2</h1>
+<h2>Pour l’activité économique</h2>
+<ul>
+  <li>Augmenter le nombre
+    <ul>
+      <li>de clients d’un logiciel </li>
+      <li>de visiteurs d’un site web </li>
+    </ul>
+  </li>
+  <li>Augmenter son e-réputation </li>
+  <li>Mieux former, qualifier et insérer des collaborateurs
+    <ul>
+      <li>aider à configurer le poste de travail d’une PSH (logique d’inclusion) </li>
+    </ul>
+  </li>
+  <li>Respecter les contraintes dues aux législations (en progression)</li>
+</ul>
+
+7
+00:05:33.000 --> 00:06:54.000
+<h1>L’accessibilité numérique - 1</h1>
+<h2>Évolution des réponses</h2>
+<ul>
+  <li>Premières approches
+    <ul>
+      <li>basées sur un modèle médical et des incapacités </li>
+      <li>spécialisées pour une situation type (personnes aveugles, sourdes…) </li>
+      <li>loupe, lecteur d’écran, commande vocale… </li>
+    </ul>
+  </li>
+  <li>Aujourd’hui,
+    <ul>
+      <li>adaptation à un cas individuel (« Single user design ») </li>
+      <li>prise en compte des utilisateurs (« Design for all »)</li>
+    </ul>
+  </li>
+</ul>
+
+8
+00:06:54.000 --> 00:08:38.000
+<h1>L’accessibilité numérique - 2</h1>
+<h2>Quels problèmes ?</h2>
+<ul>
+  <li>Sensoriels : percevoir (voir, entendre) les informations et les instructions (textes, images, boutons, sons…),
+    utiliser la souris </li>
+  <li>Moteurs : pouvoir saisir des informations (clavier, souris) </li>
+  <li>Cognitifs : rester attentif, comprendre le déroulement, saisir l’essentiel</li>
+</ul>
+<h2>Quels aspects ?</h2>
+<ul>
+  <li>Les équipements d’interface : claviers adaptés… </li>
+  <li>Les mécanismes d’interface : lecteur d’écran… </li>
+  <li>Les systèmes d’exploitation : Windows, MacOS… </li>
+  <li>Les logiciels génériques : bureautique, navigateurs…</li>
+</ul>
+
+9
+00:08:38.000 --> 00:08:40.000
+<h1>Réalisation </h1>
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

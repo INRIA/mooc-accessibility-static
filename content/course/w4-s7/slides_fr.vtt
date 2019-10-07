@@ -1,0 +1,123 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.000
+<h1>4. Les méthodes de conception</h1>
+<ul>
+  <li>Démarche de conception centrée utilisateur </li>
+  <li>Méthodes centrées - Utilisateurs </li>
+  <li>Approches centrées - PSH : méthodes classiques</li>
+  <li>Approches centrées - PSH : méthodes récentes </li>
+  <li>Méthodes d’évaluation : ergonomie de l’interface </li>
+  <li>Exemples d’évaluation de l’ergonomie des interfaces</li>
+  <li><strong>Méthodes d’évaluation : auto-détermination </strong></li>
+  <li>Exemples d’auto-détermination</li>
+</ul>
+
+2
+00:00:08.000 --> 00:01:50.000
+<h1>Méthode d’évaluation - auto-détermination</h1>
+<h3>1er critère - Auto-détermination : capacité à prendre des décisions pour soi-même</h3>
+<ul>
+  <li>Motivation Intrinsèque </li>
+  <li>Locus interne</li>
+</ul>
+<img src="/Images/W4-190.png" alt="Schéma : holarchie des besoins" class="width50" />
+<p>Holarchie des besoins (Adapté de : © Maslow, 1954)</p>
+
+3
+00:01:50.000 --> 00:02:11.000
+<h1>1er critère - auto-détermination</h1>
+<h2>Capacité subdivisée en 3 dimensions</h2>
+<img src="/Images/W4-195.png" alt="Schéma auto-détermination" />
+<p>schéma auto-détermination © H. Sauzéon</p>
+
+4
+00:02:11.000 --> 00:02:46.000
+<h1>Mesures auto-détermination - 1</h1>
+<h2>Inspirées des questionnaires spécialisés</h2>
+<p>Après avoir pris connaissance des fonctionnalités du lecteur du MOOC, répondez aux questions suivantes sur une
+  échelle de Lickert 0 (pas d'accord) à 4 (totalement d'accord) : </p>
+<ul>
+  <li>AUT1 - Les fonctionnalités du lecteur MOOC me donneraient plus de chances de contrôler ma compréhension des
+    cours. </li>
+  <li>AUT2 - J'aurais plus de contrôle dans mes apprentissages sur le MOOC en utilisant ce lecteur. </li>
+  <li>AUT3 - Ce lecteur me donnerait plus d'occasions de contrôler ma prise de notes.</li>
+</ul>
+
+5
+00:02:46.000 --> 00:03:25.000
+<h1>Mesures auto-détermination - 2</h1>
+Après avoir pris connaissance des fonctionnalités du lecteur du MOOC, répondez aux questions suivantes sur une
+échelle de Lickert 0 (pas d'accord) à 4 (totalement d'accord) :
+<ul>
+  <li>COM1 - Je serais plus performant dans mes formations avec ce lecteur. </li>
+  <li>COM2 - J'aurais une capacité d’apprentissage plus forte avec ce lecteur. </li>
+  <li>COM3 - J’aurais une capacité de réussite aux évaluations plus forte avec ce lecteur. </li>
+  <li>REL1 - Ce lecteur me donnera plus de chances de suivre des MOOCs et d'interagir avec les autres. </li>
+  <li>REL2 - Avec ce lecteur, je me sentirais plus proche des autres en ayant accès aux mêmes contenus de cours.
+  </li>
+  <li>REL3 - Avec ce lecteur, je pourrais mieux participer aux forums de discussion.</li>
+</ul>
+
+6
+00:03:25.000 --> 00:04:26.000
+<h1>Auto-détermination : déterminant de l’acceptabilité - 1 </h1>
+<h2>Récent pour les interfaces numériques</h2>
+<ul>
+  <li>Prédit l’acceptabilité </li>
+</ul>
+<img src="/Images/W4-200.png" alt="Schéma : Result of structural equation model" />
+<p>Result of structural equation model © Roca et Gagné, 2008; © Lee et al., 2015</p>
+
+7
+00:04:26.000 --> 00:05:28.000
+<h1>Auto-détermination : déterminant de l’acceptabilité - 2 </h1>
+<h2>Récent pour les interfaces numériques</h2>
+<ul>
+  <li>Prédit les usages</li>
+</ul>
+<img src="/Images/W4-210.png" alt="Schéma : Result of structural equation model" />
+<p>Result of structural equation model © Roca et Gagné, 2008; © Lee et al., 2015</p>
+
+8
+00:05:28.000 --> 00:05:30.000
+<h1>Ressources - 1</h1>
+<p>Vallerand, R. J. Toward a hierarchical model of intrinsic and extrinsic motivation (1997). Advances in
+  Experimental Social Psychology, 29, p. 271–360.</p>
+<p>Wehmeyer, M. L. Self-determination and mental retardation (2001). International review of research in mental
+  retardation, 24, p. 1-48. </p>
+<p>Roca, J. C., &amp; Gagné, M. Understanding e-learning continuance intention in the workplace: A
+  self-determination theory perspective (2008). Computers in Human Behavior, Vol. 24 n°4, p. 1585-1604.</p>
+
+9
+00:05:30.000 --> 00:05:31.000
+<h1>Ressources - 2</h1>
+<p>Lee, Y., Lee, J., et al. Relating motivation to information and communication technology acceptance:
+  Self-determination theory perspective (2015). Computers in Human Behavior, 51, p. 418-428.</p>
+<p> Deci, E. L., &amp; Ryan, R. M. Human autonomy (1995). In Efficacy, agency, and self-esteem, p. 31-49.</p>
+
+10
+00:05:31.000 --> 00:05:33.000
+<h1>Crédits illustrations</h1>
+<p>Holarchie des besoins. Adapté de : © Maslow, 1954. URL :<a href="http://www.dumg-tours.fr/IMG/pdf/Maslow.pdf">
+    graphique « Holarchie des besoin de Maslow » </a></p>
+<p>Result of structural equation model © Roca et Gagné, 2008; © Lee et al., 2015 (voir slides ressources ci-dessus)
+</p>
+<p>Schéma auto-détermination © H. Sauzéon</p>
+
+11
+00:05:33.000 --> 00:05:35.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

@@ -1,0 +1,268 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.800
+[vocalisation du texte affiché par le lecteur d'écran Orca]
+
+00:00:03.800 --> 00:00:07.697
+Je m'appelle Jean-Philippe et je suis aveugle de naissance,
+
+00:00:07.697 --> 00:00:12.599
+et dans la vie je suis à la fois fonctionnaire et président de l'association Accelibreinfo
+
+00:00:12.632 --> 00:00:16.483
+et pour mener l'ensemble de ces activités associatives et professionnelles
+
+00:00:16.483 --> 00:00:18.929
+j'ai besoin d'accéder à l'outil informatique
+
+00:00:18.929 --> 00:00:21.420
+et pour cela je passe par des technologies d'assistance.
+
+00:00:21.584 --> 00:00:24.464
+J'utilise l'afficheur braille et le lecteur d'écran
+
+00:00:24.464 --> 00:00:27.659
+Alors, l'afficheur braille c'est l'appareil que vous voyez ici
+
+00:00:27.659 --> 00:00:31.065
+qui affiche des caractères en braille au fur et à mesure qu'ils apparaissent
+
+00:00:31.065 --> 00:00:37.038
+et un clavier braille pour permettre à l'utilisateur de rentrer de l'information dans l'ordinateur en braille
+
+00:00:37.038 --> 00:00:41.376
+au moyen de son codage si par exemple il ne connait pas le clavier ordinaire.
+
+00:00:41.462 --> 00:00:45.936
+Pour un non-voyant, l'écran et la souris n'ont aucune importance
+
+00:00:45.936 --> 00:00:50.763
+et donc tout s'utilise exclusivement à partir du clavier
+
+00:00:50.763 --> 00:00:55.569
+qui est en fait le seul point qui nous permet de communiquer avec l'ordinateur.
+
+00:00:55.569 --> 00:00:59.497
+Quant à lui, il utilise un logiciel qui s'appelle le lecteur d'écran,
+
+00:00:59.497 --> 00:01:04.375
+qui est en fait une espèce de cerveau qui interagit avec le code.
+
+00:01:04.375 --> 00:01:10.504
+Donc l'idée va être de regarder comment le code interagit avec la technologie d'assistance.
+
+00:01:10.504 --> 00:01:16.182
+En l'occurrence on va vous montrer ici Orca sous l'environnement GNU/Linux.
+
+00:01:16.182 --> 00:01:21.504
+Le lecteur d'écran lit à la fois le nom et la nature
+
+00:01:21.504 --> 00:01:25.606
+pour que l'on sache toujours sur quel élément se trouve le curseur.
+
+00:01:28.406 --> 00:01:32.051
+Une fois que l'on est dans un document comme c'est le cas ici,
+
+00:01:32.061 --> 00:01:34.390
+On peut le lire de plusieurs façons :
+
+00:01:34.390 --> 00:01:36.903
+Par exemple on peut lire le document ligne par ligne.
+
+00:01:36.903 --> 00:01:45.423
+[vocalisation du texte affiché par le lecteur d'écran Orca]
+
+00:01:45.423 --> 00:01:48.743
+On aurait aussi très bien pu imaginer faire une navigation par mot :
+
+00:01:48.800 --> 00:01:54.789
+[vocalisation du texte affiché par le lecteur d'écran Orca]
+
+00:01:54.789 --> 00:01:57.143
+On a plusieurs types de réglage possible,
+
+00:01:57.143 --> 00:02:00.974
+on peut ne souhaiter entendre aucune ponctuation ou les entendre toutes,
+
+00:02:00.974 --> 00:02:02.361
+ou des niveaux plutôt intermédiaires.
+
+00:02:02.361 --> 00:02:07.913
+Ce qui nous permet en plus d'avoir, quand on n'a pas choisi d'avoir toutes les ponctuations, plus d'informations,
+
+00:02:07.913 --> 00:02:12.869
+que l'on peut préciser d'ailleurs en utilisant la lecture par caractères :
+
+00:02:12.869 --> 00:02:17.679
+[vocalisation du texte affiché par le lecteur d'écran Orca]
+
+00:02:17.680 --> 00:02:23.119
+Quand on est non-voyant, on est amené à travailler avec des personnes voyantes
+
+00:02:23.119 --> 00:02:25.364
+et donc susceptibles de faire de la mise en forme.
+
+00:02:25.364 --> 00:02:27.961
+Orca nous dira par exemple ceci :
+
+00:02:27.961 --> 00:02:34.200
+[vocalisation par le lecteur d'écran Orca] : taille 12, famille Verdana, indentation 0mm, barré aucun, justification justifié.
+
+00:02:34.243 --> 00:02:39.944
+Autre chose que permet le lecteur d'écran c'est aussi le choix de la vitesse :
+
+00:02:39.944 --> 00:02:46.500
+[vocalisation du texte affiché par le lecteur d'écran Orca, vitesse de vocalisation très rapide]
+
+00:02:46.563 --> 00:02:49.951
+Comme on a pas forcément comme les voyants la possibilité de lire en diagonal,
+
+00:02:49.951 --> 00:02:54.093
+le temps on essaye de le gagner aussi en accélérant le rythme de la synthèse.
+
+00:02:54.093 --> 00:03:00.458
+Ce qui nous rend à peu près aussi efficace que si on pouvait faire une lecture plus diagonale.
+
+00:03:00.458 --> 00:03:06.400
+[vocalisation du texte affiché par le lecteur d'écran Orca, vitesse de vocalisation très rapide]
+
+00:03:06.400 --> 00:03:09.311
+Donc maintenant on va passer sur un autre environnement qui est Windows
+
+00:03:09.311 --> 00:03:14.674
+avec un autre lecteur d'écran qui est libre lui aussi comme l'est Orca et qui s'appelle NVDA.
+
+00:03:14.674 --> 00:03:17.656
+[vocalisation du texte affiché par le lecteur d'écran NVDA]
+
+00:03:17.656 --> 00:03:24.143
+On va regarder le panel de voix qu'il met à notre disposition.
+
+00:03:24.143 --> 00:03:29.700
+[vocalisation du texte affiché par le lecteur d'écran NVDA - changement de voix  à chaque changement de prénom]
+
+00:03:29.711 --> 00:03:35.319
+Nous avons ouvert le navigateur web Firefox et nous sommes sur un site accessible,
+
+00:03:35.320 --> 00:03:39.671
+celui de l'association nationale des maîtres de chiens guides d'aveugles.
+
+00:03:39.671 --> 00:03:46.376
+Le lecteur d'écran est capable de nous dire en permanence le titre de la page sur laquelle on se trouve actuellement.
+
+00:03:46.376 --> 00:03:51.157
+[vocalisation du texte affiché par le lecteur d'écran NVDA]
+
+00:03:51.157 --> 00:03:57.821
+Si, par exemple, on ouvre un autre onglet, on va savoir exactement sur quelle page on se trouve :
+
+00:03:57.821 --> 00:04:01.121
+"Parution des textes officiels à propos de la labellisation des chiens guides."
+
+00:04:01.131 --> 00:04:05.529
+C'est pour ça qu'il est important pour nous d'avoir des pages qui soient vraiment bien titrées
+
+00:04:05.529 --> 00:04:11.935
+avec un titre par page, afin de savoir en permanence où l'on se trouve quand on change de page.
+
+00:04:11.935 --> 00:04:17.560
+En haut des pages, il y a des liens qui permettent d'accéder plus rapidement au contenu.
+
+00:04:17.560 --> 00:04:21.013
+[vocalisation du texte affiché par le lecteur d'écran NVDA]
+
+00:04:21.013 --> 00:04:25.627
+Alors ce qui est important c'est de ne pas les rendre invisibles parce que grâce à ces liens,
+
+00:04:25.627 --> 00:04:32.070
+les personnes qui sont handicapés moteur ou celles qui sont mal-voyants, qui donc n'ont pas une vue globale de la page
+
+00:04:32.070 --> 00:04:36.967
+elles pourront gagner beaucoup de temps dans l'exploration d'un site internet.
+
+00:04:36.967 --> 00:04:42.315
+On peut avoir une liste globale des liens et des titres de la page.
+
+00:04:42.320 --> 00:04:48.102
+L'intérêt, au-delà, de la consultation, si l'on tape Entrée sur l'un de ces éléments,
+
+00:04:48.102 --> 00:04:50.224
+on se rend directement à l'endroit désiré.
+
+00:04:50.224 --> 00:04:54.874
+Par exemple, là je me suis mis sur le titre actualité, si je fais Entrée ici :
+
+00:04:56.194 --> 00:05:02.427
+j'arrive directement sur le titre qui correspond à actualité et je peux continuer la consultation.
+
+00:05:02.600 --> 00:05:07.080
+[vocalisation du texte affiché par le lecteur d'écran NVDA]
+
+00:05:07.080 --> 00:05:10.910
+Donc quand on est dans le contexte de la boite de dialogue de la liste des liens
+
+00:05:10.926 --> 00:05:14.888
+si on dit simplement : "En savoir plus" ça nous apporte aucune information pertinente,
+
+00:05:14.890 --> 00:05:21.672
+alors que si on lit les explicitements qui ont été apportés ça nous permet de savoir à quoi ça correspond
+
+00:05:21.672 --> 00:05:25.244
+et donc, en l'occurrence, on va avoir toute l'information nécessaire :
+
+00:05:25.244 --> 00:05:29.828
+"En savoir plus : Parution des textes officiels à propos de la labellisation des chiens guides."
+
+00:05:29.828 --> 00:05:34.826
+qui nous permet d'avoir une information qui reste pertinente et d'aller plus loin que le simple "En savoir plus",
+
+00:05:34.826 --> 00:05:39.395
+de façon à ce que l'on puisse utilement utiliser cette boite de dialogue et gagner du temps.
+
+00:05:40.205 --> 00:05:43.495
+Voilà, donc on vient de voir qu'effectivement quand on est aveugle,
+
+00:05:43.495 --> 00:05:46.745
+à partir du moment où on est sur un site qui respecte les règles d'accessibilité
+
+00:05:46.748 --> 00:05:49.361
+on peut complètement le consulter sans difficulté.
+
+00:05:49.361 --> 00:05:53.095
+Précisons d'ailleurs que il n'y a pas que pour les aveugles que ces règles sont importantes,
+
+00:05:53.095 --> 00:05:57.425
+puisque ça peut également l'être quand on souffre d'un handicap auditif,
+
+00:05:57.425 --> 00:06:02.129
+puisque si les vidéos ne sont pas sous-titrées, la vidéo est tout simplement inaccessible.
+
+00:06:02.129 --> 00:06:07.322
+Ou quand on est mal-voyant et que l'on a des problèmes pour voir les couleurs ou pour voir les contrastes,
+
+00:06:07.322 --> 00:06:13.487
+si les choses n'ont pas été pensées accessibles, l'information devient rapidement problématique.
+
+00:06:13.966 --> 00:06:17.802
+Ce qui crée évidemment des discrimination puisque aujourd'hui on est dans l'ère du numérique,
+
+00:06:17.802 --> 00:06:20.283
+donc l'informatique et le numérique sont indispensables.
+
+00:06:20.283 --> 00:06:25.686
+Et ça peut même être une chance, pour les personnes handicapées, à condition que les concepteurs
+
+00:06:25.739 --> 00:06:31.003
+aient adopté des règles simples à la base du développement,
+
+00:06:31.003 --> 00:06:34.360
+pour rendre leur contenu ou leur environnement accessible.
+
+00:06:34.360 --> 00:06:38.550
+[vocalisation du texte affiché par le lecteur d'écran Orca]
+
+00:06:40.500 --> 00:07:08.594
+[vocalisation du texte affiché par le lecteur d'écran Orca]
+
+00:07:12.500 --> 00:07:13.614
+[vocalisation du texte affiché par le lecteur d'écran Orca]

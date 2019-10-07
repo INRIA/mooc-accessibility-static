@@ -1,0 +1,220 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:17.000
+<h1>4. Les méthodes de conception</h1>
+<ul>
+  <li>Démarche de conception centrée utilisateur </li>
+  <li>Méthodes centrées - Utilisateurs </li>
+  <li>Approches centrées - PSH : méthodes classiques </li>
+  <li>Approches centrées - PSH : méthodes récentes </li>
+  <li><strong>Méthodes d’évaluation : ergonomie de l’interface </strong></li>
+  <li>Exemples d’évaluation de l’ergonomie des interfaces </li>
+  <li>Méthodes d’évaluation : auto-détermination </li>
+  <li>Exemples d’auto-détermination</li>
+</ul>
+
+2
+00:00:17.000 --> 00:01:02.000
+<h1>Méthodes d’évaluation - ergonomie de l’interface</h1>
+<h2>Rappel critères d’évaluation accessibilité <br>
+  <br>
+  Deux critères à considérer</h2>
+<ul>
+  <li>1er critère : auto-détermination </li>
+  <li>2ème critère : ergonomie de l’interface</li>
+</ul>
+
+3
+00:01:02.000 --> 00:01:52.000
+<h1>2ème critère - ergonomie de l’interface - 1</h1>
+<h2>Différents critères d’Inspection ergonomique</h2>
+<ul>
+  <li>4 grandes catégories de critères </li>
+  <li>Mesures Subjectives vs. Objectives des forces et faiblesses du produit</li>
+</ul>
+
+4
+00:01:52.000 --> 00:02:18.000
+<h1>2ème critère - ergonomie de l’interface - 2</h1>
+<img src="/Images/W4-140.png" alt="Schéma : Les domaines de l’expérience utilisateur" />
+<p>Les domaines de l’expérience utilisateur Schéma refait à partir de : © Brangier 2010</p>
+
+5
+00:02:18.000 --> 00:03:11.000
+<h1>2ème critère - ergonomie de l’interface - 3</h1>
+<h2>Critères les plus explorés pour l’accessibilité </h2>
+
+<div>
+  <h2>Accessibilité </h2>
+  <p>Capaciter / Recapaciter</p>
+</div>
+<div>
+  <h2>Utilisabilité </h2>
+  <p>Simplifier les tâches </p>
+</div>
+<div>
+  <h2>Acceptabilité </h2>
+  <p>Intention d’usage</p>
+</div>
+<p>© Brangier 2010</p>
+
+6
+00:03:11.000 --> 00:03:39.000
+<h1>2ème critère - ergonomie de l’interface - 4</h1>
+<h2>Critères les plus explorés pour l’accessibilité </h2>
+<p>Degré selon lequel un produit peut être utilisé, par des utilisateurs identifiés, pour atteindre des buts définis
+  avec <strong>efficacité, efficience et satisfaction</strong>, dans un contexte d’utilisation spécifié (ISO
+  9241-11,1998)</p>
+<div>
+  <h2>Accessibilité </h2>
+  <p>Capaciter / Recapaciter</p>
+</div>
+<div>
+  <h2>Utilisabilité </h2>
+  <p>Simplifier les tâches </p>
+</div>
+<div>
+
+  <h2>Acceptabilité </h2>
+  <p>Intention d’usage</p>
+</div>
+<p>© Brangier 2010</p>
+
+7
+00:03:39.000 --> 00:03:58.000
+<h1>2ème critère - ergonomie de l’interface - 5</h1>
+<h2>Critères les plus explorés pour l’accessibilité </h2>
+<p>Degré avec lequel l’utilisateurs perçoit l’<strong>utilité</strong> et la <strong>facilité d’utilisation</strong>
+  d’une technologie</p>
+<div>
+  <h2>Accessibilité </h2>
+  <p>Capaciter / Recapaciter</p>
+</div>
+<div>
+  <h2>Utilisabilité </h2>
+  <p>Simplifier les tâches </p>
+</div>
+<div>
+  <h2>Acceptabilité </h2>
+  <p>Intention d’usage</p>
+</div>
+<p>© Brangier, 2010 © Dillon &amp; Morris, 1999</p>
+
+8
+00:03:58.000 --> 00:05:22.000
+<h1>Acceptabilité</h1>
+<h2>Plusieurs définitions </h2>
+<ul>
+  <li>Multi-déterminée (Modèle Tam, UTAUT, …) </li>
+  <li>Variable selon public ciblé (e.g., modèle STAM)</li>
+</ul>
+<img src="/Images/W4-145.png" alt="Schéma modèle TAM" />
+<p>Modèle TAM © Davis, F.D. 1989</p>
+
+9
+00:05:22.000 --> 00:06:22.000
+<h1>Exemples - mesures subjectives standards</h1>
+<h2>Accessibilité</h2>
+<ul>
+  <li>QUEST 2.0 (12 questions), QUEST 2.1 (version enfant)…</li>
+</ul>
+<h2>Utilisabilité</h2>
+<ul>
+  <li>SUS (10), CSUQ (19), USE (30)…</li>
+</ul>
+<h2>Acceptabilité</h2>
+<ul>
+  <li>PUEU (12), UTAUT-2 (32), Attrakdiff (28 )…</li>
+</ul>
+
+10
+00:06:22.000 --> 00:06:24.000
+<h1>Ressources - 1</h1>
+<p>Brangier E., Bastien J. C. L'évolution de l'ergonomie des produits informatiques: accessibilité, utilisabilité,
+  émotionnalité et influençabilité (2010). Ergonomie, conception de produits et services médiatisés, p. 307-328.
+</p>
+<p>Dillon A. et al. Perception and Performance: From Usability Engineering to Technology Acceptance with the P3
+  Model of User Response (1999). Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 43,
+  p.1017-1021. </p>
+<p>Davis F. D. Perceived usefulness, perceived ease of use, and user acceptance of information technology (1989).
+  MIS Quarterly 13 (3): p. 319–340</p>
+
+11
+00:06:24.000 --> 00:06:25.000
+<h1>Ressources - 2</h1>
+<p>Nielsen, J. Usability Engineering (1993). Boston: Academic Press.</p>
+<p>Venkatesh, V. et al. User Acceptance of Information Technology: Toward a Unified View (2003). MIS Quarterly, 27,
+  p. 425-478. URL : <a
+    href="http://nwresearch.wikispaces.com/file/view/Venkatesh+User+Acceptance+of+Information+Technology+2003.pdf">article
+    : « User Acceptance of Information Technology »</a> </p>
+<p>Venkatesh, V., et al. Consumer acceptance and use of information technology: Extending the unified theory of
+  acceptance and use of technology (2012). MIS Quarterly, 36, p. 157-178. URL : <a
+    href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2002388">article : « Consumer acceptance and use of
+    information technology »</a></p>
+
+12
+00:06:25.000 --> 00:06:25.000
+<h1>Ressources - 3</h1>
+<p>Venkatesh, V. et al. Consumer acceptance and use of information technology: Extending the unified theory of
+  acceptance and use of technology (2012). MIS Quarterly, 36, p.157-178.</p>
+<p> Chen, K, Chan, A. H. S. Gerontechnology acceptance by elderly Hong Kong Chinese: a senior technology acceptance
+  model (STAM) (2014). Ergonomics, vol. 57, n°5, p. 635-652. </p>
+<p>Quebec User Evaluation of Satisfaction with assistive Technology QUEST (Version 2.0). Measurement Instrument
+  Database for the Social Sciences. URL : <a
+    href="http://www.midss.org/sites/default/files/questeng.scoring_sheetpdf_0.pdf">article : « Quebec User
+    Evaluation of Satisfaction with assistive Technology » </a></p>
+<p> </p>
+
+13
+00:06:25.000 --> 00:06:26.000
+<h1>Ressources - 4</h1>
+<p>Questionnaire sur l'usabilité d'un système informatisé - CSUQ. Gary Perlman. URL : <a
+    href="http://garyperlman.com/quest/quest.cgi">questionnaire usabilité d'un système informatisé</a></p>
+<p> Questionnaire: Usefulness, Satisfaction, and Ease of use - USE. Gary Perlman. URL : <a
+    href="http://garyperlman.com/quest/quest.cgi?form=USE">questionnaire USE </a></p>
+<p>System Usability Scale - SUS. Usability.Gov. URL : <a
+    href="http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html">system Usability Scale </a>
+</p>
+<p>Attrakdiff Homepage. Attrakdiff. URL : <a href="http://attrakdiff.de/index-en.html">site web de Attrakdiff </a>
+</p>
+<p>Lallemand C. Version française du questionnaire AttrakDiff (Août 2014). UX Mind - User Experience Blog. URL : <a
+    href="https://uxmind.eu/portfolio/version-francaise-de-lattrakdiff/">version française du questionnaire
+    AttrakDiff </a></p>
+
+14
+00:06:26.000 --> 00:06:27.000
+<h1>Ressources - 5</h1>
+<p>Dupuy L., Consel C., Sauzéon H. Une assistance numérique pour les personnes âgées : le projet DomAssist (Fév.
+  2016). Interstices. URL : <a
+    href="https://interstices.info/jcms/p_82365/une-assistance-numerique-pour-les-personnes-agees-le-projet-domassist">article
+    : « Une assistance numérique pour les personnes âgées… »</a></p>
+<p> Consel C., Dupuy L., Sauzéon H. (Oct. 2015). A Unifying Notification System To Scale Up Assistive Services. In
+  ASSETS-The 17th International ACM SIGACCESS Conference on Computers and Accessibility. URL : <a
+    href="https://hal.inria.fr/hal-01225637">article HAL : « A Unifying Notification System To Scale Up Assistive
+    Services »</a></p>
+
+15
+00:06:27.000 --> 00:06:28.000
+<h1>Crédits illustrations</h1>
+<p>Les domaines de l’expérience utilisateur. Schéma refait pour des raisons de lisibilité à partir de : © Brangier,
+  2010 (voir slides ressources ci-dessus)</p>
+<p> Schéma : Critères Ergonomie de l’interface. Inspiré de © Brangier, 2010 © Dillon &amp; Morris, 1999 (voir slides
+  ressources ci-dessus) </p>
+<p>Modèle TAM © Davis, F.D. 1989 (voir slides ressources ci-dessus)</p>
+
+16
+00:06:28.000 --> 00:06:30.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

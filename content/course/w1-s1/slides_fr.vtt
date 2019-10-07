@@ -1,0 +1,145 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:15.000
+<h1>Accessibilité numérique</h1>
+<h3>Comment favoriser l'accès au monde numérique<br>pour les personnes en situation de handicap</h3>
+
+2
+00:00:15.000 --> 00:00:26.000
+<h1>Accessibilité numérique</h1>
+<ol>
+  <li><span>Introduction</span></li>
+  <li><span>L'accessibilité des systèmes numériques</span></li>
+  <li><span>L'accessibilité des contenus</span></li>
+  <li>Les méthodes de conception</li>
+  <li><span>Les assistances technologiques</span></li>
+</ol>
+
+3
+00:00:26.000 --> 00:00:27.000
+<h1>L’accessibilité numérique</h1>
+<ol>
+  <li><span><strong>Introduction</strong></span></li>
+  <li><span>L'accessibilité des systèmes numériques</span></li>
+  <li><span>L'accessibilité des contenus</span></li>
+  <li>Les méthodes de conception</li>
+  <li><span>Les assistances technologiques</span></li>
+</ol>
+
+4
+00:00:27.000 --> 00:01:00.000
+<h1>1. Introduction </h1>
+<ul>
+  <li>Le handicap, de quoi parlons-nous ? </li>
+  <li>La situation en France</li>
+  <li>Historique et concept du handicap</li>
+  <li>Définition actuelle</li>
+  <li>L'accessibilité</li>
+  <li>Le modèle environnemental de compensation - Principes</li>
+  <li>Le modèle environnemental de compensation - Application</li>
+  <li>Objectifs et plan du cours</li>
+</ul>
+
+5
+00:01:00.000 --> 00:01:01.000
+<h1>1. Introduction </h1>
+<ul>
+  <li><strong>Le handicap, de quoi parlons-nous ? </strong></li>
+  <li>La situation en France</li>
+  <li>Historique et concept du handicap</li>
+  <li>Définition actuelle</li>
+  <li>L'accessibilité</li>
+  <li>Le modèle environnemental de compensation - Principes</li>
+  <li>Le modèle environnemental de compensation - Application</li>
+  <li>Objectifs et plan du cours</li>
+</ul>
+
+6
+00:01:01.000 --> 00:01:51.000
+<h1>Préambule </h1>
+<h2>Le handicap </h2>
+<ul>
+  <li>Ce terme recouvre beaucoup de réalités différentes </li>
+  <li>Ces différences sont très reliées aux contextes (culturel, géographique, historique…)</li>
+</ul>
+<h2>Aujourd’hui </h2>
+<ul>
+  <li>Une évolution de la prise en compte du handicap</li>
+  <li>Des initiatives récentes dans les 10 dernières années</li>
+</ul>
+
+7
+00:01:51.000 --> 00:03:13.000
+<h1>Le handicap</h1>
+<h2>Il peut être </h2>
+<ul>
+  <li>Acquis à la naissance ou résulter d'un évènement (maladie, accident)</li>
+  <li>Evolutif</li>
+  <li>Non permanent</li>
+  <li>Cumulatif</li>
+</ul>
+<h2>Il est souvent d'origine</h2>
+<ul>
+  <li>Sensorielle : fonctions de perception (vue, ou&iuml;e…) </li>
+  <li>Motrice : capacité à réaliser des mouvements  </li>
+  <li>Cognitive : fonctions cérébrales (attention, mémoire…)</li>
+</ul>
+<img src="/Images/W1-10.png" alt="Icônes Handicaps collection et icône mal de dos" />
+<p>Icônes Handicaps collection © P. Trouvé ; Back Pain © The Present Group</p>
+
+8
+00:03:13.000 --> 00:04:33.000
+<h1>Quelques chiffres [OMS]</h1>
+<h2>Dans le monde</h2>
+<ul>
+  <li>1 milliard de personnes (15% de la population mondiale)  </li>
+  <li>Probablement sous-estimé </li>
+  <li>En hausse (progrès de la médecine, vieillissement démographique)</li>
+</ul>
+<h2>Dans les pays en voie de développement</h2>
+<ul>
+  <li>80% des PSH</li>
+</ul>
+<h2>Dans les pays avec espérance de vie  supérieur à 70 ans</h2>
+<ul>
+  <li>Les personnes vivent en moyenne 8 ans en situation de handicap (11,5% durée de vie)</li>
+</ul>
+
+9
+00:04:33.000 --> 00:06:20.000
+<h1>Les chiffres du handicap</h1>
+<h2>Constat</h2>
+<ul>
+  <li> Il est facile de trouver des chiffres mais difficile de les rendre cohérents </li>
+  <li>Pourquoi ?
+    <ul>
+      <li>Au niveau mondial, la qualité des recensements est variable </li>
+      <li>études souvent parcellaires (un seul type de handicap) </li>
+      <li>Recensement vs déclaration  </li>
+      <li>Aspects fonctionnels et limitations d’activité mais aussi perceptions subjectives </li>
+      <li>Le mot Handicap recouvre des réalités très différentes </li>
+    </ul>
+  </li>
+  <li>Nécessité de définir les termes et ce qu’ils recouvrent </li>
+</ul>
+
+10
+00:06:20.000 --> 00:06:24.000
+<h1>Crédits illustrations</h1>
+<p>Handicaps collection © Patrick Trouvé. The Noun Project. URL : <a href="https://thenounproject.com/tricktrou/collection/handicaps/">collection d'icônes sur le handicap</a></p>
+<p>Back Pain © The Present Group. The Noun Project. URL : <a href="https://thenounproject.com/search/?q=back+pain&amp;i=35157">icône mal de dos</a></p>
+
+11
+00:06:24.000 --> 00:06:26.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a></div>
+</div>

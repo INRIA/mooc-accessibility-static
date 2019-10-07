@@ -1,0 +1,221 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:21.000
+<h1>3. L’accessibilité des contenus</h1>
+<ul>
+  <li>L’accessibilité du Web via W3C</li>
+  <li>Les recommandations WCAG </li>
+  <li>Les autres recommandations WAI </li>
+  <li><strong>L’accessibilité des sites web </strong></li>
+  <li>Les documents Microsoft Office </li>
+  <li>Les documents PDF</li>
+</ul>
+
+2
+00:00:21.000 --> 00:01:23.000
+<h1>Norme ISO-CEI 40500:2012</h1>
+<h2>Règles pour l’accessibilité des contenus Web</h2>
+<ul>
+  <li>Traduction des WCAG 2.0 en norme</li>
+  <li>Objectif : augmenter leur visibilité et leur utilisation en disposant d’un socle unique </li>
+  <li>Cibles premières : gouvernements, entreprises…</li>
+  <li>En relation forte avec la Convention ONU sur les droits des PSH</li>
+</ul>
+
+3
+00:01:23.000 --> 00:02:22.000
+<h1>L’accessibilité des sites existants - 1</h1>
+<h2>Etude WebAIM (2015)</h2>
+<img src="/Images/W3-40.png" alt="Progress Over the Previous Year" class="width70" />
+<p>Légende : Progress Over the Previous Year © WebAIM </p>
+
+4
+00:02:22.000 --> 00:03:01.000
+<h1>L’accessibilité des sites existants - 2</h1>
+<h2>Article V. Hanson &amp; J. Richards (2013)</h2>
+<ul>
+  <li>Analyse de sites web :
+    <ul>
+      <li>1999-2012</li>
+      <li>« Top-trafic », gouvernementaux</li>
+      <li>> 100 (GB, USA)</li>
+      <li>analyse automatique des critères A (WCAG 2.0)</li>
+    </ul>
+  </li>
+</ul>
+
+5
+00:03:01.000 --> 00:03:30.000
+<h1>L’accessibilité des sites existants - 3</h1>
+<h2>Résultats </h2>
+<ul>
+  <li>Majorité ne satisfait pas les critères</li>
+  <li>Amélioration sur toute la période</li>
+  <li>Sites gouvernementaux plutôt moins mauvais que les sites commerciaux </li>
+</ul>
+
+6
+00:03:30.000 --> 00:04:14.000
+<h1>L’accessibilité des sites existants - 4</h1>
+<h2>Etude WebAIM (2015)</h2>
+<img src="/Images/W3-45.png" alt="Percentage linked accessibility statements and associated linear trends" />
+<p>Percentage linked accessibility statements and associated linear trends © V. Hanson & J. Richards</p>
+
+7
+00:04:14.000 --> 00:05:15.000
+<h1>Référentiel Général d’Accessibilité pour les Administrations</h1>
+<h2>RGAA</h2>
+<ul>
+  <li>Version 3 (2015)</li>
+  <li>Basé sur les lois de 2005 et 2009</li>
+  <li>Contenus :
+    <ul>
+      <li>traduction opérationnelle des critères issus des standards WCAG/ISO</li>
+      <li>méthodologie pour vérifier la conformité des sites</li>
+      <li>187 tests pour mesurer cette conformité</li>
+    </ul>
+  </li>
+  <li>Guide d’utilisation </li>
+</ul>
+
+8
+00:05:15.000 --> 00:05:58.000
+<h1>L’accessibilité des sites en France - 1</h1>
+<h2>Administration et collectivités</h2>
+<ul>
+  <li>Obligation depuis 2011-2012 de publier une auto-déclaration de conformité</li>
+  <li>Étude BrailleNet (2014)
+    <ul>
+      <li>Échantillon représentatif (602 : ministères, préfectures, agglos, mairies)</li>
+    </ul>
+  </li>
+</ul>
+<img src="/Images/W3-50.png" alt="Répartition des services inspectés" class="width50" />
+<p>Répartition des services inspectés © Braillenet </p>
+
+9
+00:05:58.000 --> 00:06:11.000
+<h1>L’accessibilité des sites en France - 2</h1>
+<h2>Résultats de l’étude</h2>
+<ul>
+  <li>Seuls 106 sites (17,6%) ont une déclaration de conformité dont 22 (3,7%) ont une attestation </li>
+</ul>
+<img src="/Images/W3-60.jpg" alt="Répartition des déclarations de conformité" />
+<p>Répartition des déclarations de conformité © Braillenet</p>
+
+10
+00:06:11.000 --> 00:06:25.000
+<h1>L’accessibilité des sites en France - 3</h1>
+<h2>Résultats de l’étude</h2>
+<ul>
+  <li>Seuls 106 sites (17,6%) ont une déclaration de conformité dont 22 (3,7%) ont une attestation </li>
+</ul>
+<img src="/Images/W3-70.jpg" alt="Description de l'image" />
+<p>Répartition des attestations de conformité © Braillenet</p>
+
+11
+00:06:25.000 --> 00:06:52.000
+<h1>L’accessibilité des sites en France - 4</h1>
+<h2>Résultats de l’étude</h2>
+<ul>
+  <li>Sur ces 22, l’analyse de la page d’accueil a montré 1 seul site sans erreur </li>
+</ul>
+<img src="/Images/W3-80.jpg" alt="Vérification de conformité" />
+<p>Vérification de conformité © Braillenet</p>
+
+12
+00:06:52.000 --> 00:08:06.000
+<h1>Quelques conseils pratiques</h1>
+<h2>Comment faire un site web accessible ?</h2>
+<ul>
+  <li>1er pas</li>
+  <li>Conseils </li>
+  <li>Améliorations </li>
+  <li>Acheter un site accessible </li>
+  <li>Et les sites web mobiles</li>
+</ul>
+<p>→ Consulter : <a href="https://www.w3.org/WAI/">https://www.w3.org/WAI/</a></p>
+
+13
+00:08:06.000 --> 00:08:07.000
+<h1>Ressources - 1</h1>
+<p>Lazarte M. Les règles pour l'accessibilité des contenus Web du W3C dans une Norme internationale ISO/CEI (Oct.
+  2012). ISO. URL : <a href="http://www.iso.org/iso/fr/news.htm?refid=Ref1670">règles pour l'accessibilité des
+    contenus Web du W3C - Norme ISO </a></p>
+<p>ISO/IEC 40500:2012 - Technologies de l'information -- Règles pour l'accessibilité des contenus Web (WCAG) 2.0.
+  ISO. URL : <a href="http://www.iso.org/iso/fr/home/store/catalogue_tc/catalogue_detail.htm?csnumber=58625">règles
+    pour l'accessibilité des contenus Web</a></p>
+<p> Hanson V. L ., Richards J. T. Progress on web accessibility? (Mars 2013). ACM Transactions on the Web, TWEB,
+  vol. 7, n°1, 30 p. </p>
+<p>Présentation du RGAA. Les documents de référence du S.I. de l’état. URL : <a
+    href="http://references.modernisation.gouv.fr/referentiel/">Présentation du RGAA</a></p>
+
+14
+00:08:07.000 --> 00:08:09.000
+<h1>Ressources - 2</h1>
+<p>Guide : Contribuer sur le Web de manière accessible. Les documents de référence du S.I. de l’état. URL : <a
+    href="https://references.modernisation.gouv.fr/guide-contribuer-sur-le-web-de-maniere-accessible">guide :
+    « contribuer sur le Web de manière accessible » </a></p>
+<p>Airport Maps. Gatwick Airport. URL : <a
+    href="http://www.gatwickairport.com/at-the-airport/passenger-services/airport-maps/">carte Gatwick airport</a>
+</p>
+<p>Premiers pas pour rendre un site Web accessible. W3C. URL : <a
+    href="https://www.w3.org/WAI/gettingstarted/Overview.html.fr">premiers pas pour rendre un site Web
+    accessible</a></p>
+<p>Conseils pour faire des sites web accessibles. W3C. URL : <a
+    href="https://www.w3.org/WAI/References/QuickTips/qt-fr.htm">conseils pour faire des sites web accessibles </a>
+</p>
+
+15
+00:08:09.000 --> 00:08:10.000
+<h1>Ressources - 3</h1>
+<p>Mon site Web est aux normes ! Et le vôtre ?. W3C. URL : <a
+    href="http://www.yoyodesign.org/doc/w3c/web-quality/">W3C : mon site Web est aux normes  </a></p>
+<p>Acheter des sites Web conformes aux normes. W3C. URL : <a
+    href="https://www.w3.org/QA/2002/07/WebAgency-Requirements.html.fr">Acheter des sites Web conformes aux normes
+    W3C</a></p>
+<p>Les bonnes pratiques des applications Web mobiles. W3C. URL : <a
+    href="https://www.w3.org/2010/09/MWABP/Overview.html.fr">W3C : les bonnes pratiques des applications Web mobiles
+  </a></p>
+<p>Contacter des organisations à propos de l'inaccessibilité de leur site Web. W3C. URL : <a
+    href="http://www.braillenet.org/accessibilite/wcag20/inaccessible.html">W3C contacter des organisations pour
+    l'inaccessibilité de leur site Web </a></p>
+<p>Recite Me - The web experience your customers want (subtitled). Ross Linnett. Youtube. URL : <a
+    href="https://www.youtube.com/watch?v=_-87IAKx5dk">Vidéo sur Recite.Me</a></p>
+
+16
+00:08:10.000 --> 00:08:11.000
+<h1>Crédits illustrations - 1</h1>
+<p>Progress Over the Previous Year © WebAIM : <a
+    href="http://webaim.org/projects/screenreadersurvey6/#browsers">graphique WebAIM </a></p>
+<p>Percentage linked accessibility statements and associated linear trends © V. Hanson &amp; J. Richards </p>
+<p>Répartition des services inspectés © Braillenet. URL : <a
+    href="http://www.braillenet.org/etudes/RGAA-attestation/Etude-RGAA-mars-2014.odt">graphique Braillenet - 1</a>
+</p>
+
+17
+00:08:11.000 --> 00:08:12.000
+<h1>Crédits illustrations - 2</h1>
+<p>Répartition des déclarations de conformité © Braillenet. URL : <a
+    href="http://www.braillenet.org/etudes/RGAA-attestation/Etude-RGAA-mars-2014.odt">graphique Braillenet - 2 </a>
+</p>
+<p>Vérification de conformité © Braillenet. URL : <a
+    href="http://www.braillenet.org/etudes/RGAA-attestation/Etude-RGAA-mars-2014.odt">graphique Braillenet - 3 </a>
+</p>
+
+18
+00:08:12.000 --> 00:08:14.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

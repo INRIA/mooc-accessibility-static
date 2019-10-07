@@ -1,0 +1,169 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.000
+<h1>Accessibilité numérique</h1>
+<h3>Comment favoriser l'accès au monde numérique<br>
+  pour les personnes en situation de handicap</h3>
+
+2
+00:00:09.000 --> 00:00:12.000
+<h1>Accessibilité numérique</h1>
+<ol>
+  <li><span>Introduction</span></li>
+  <li><span>L'accessibilité des systèmes numériques</span></li>
+  <li><span>L'accessibilité des contenus</span></li>
+  <li>Les méthodes de conception</li>
+  <li><span><strong>Les assistances technologiques</strong></span></li>
+</ol>
+
+3
+00:00:12.000 --> 00:00:36.000
+<h1>5. Les assistances technologiques</h1>
+<ul>
+  <li>Introduction</li>
+  <li>La Classification Internationale du Fonctionnement - 1</li>
+  <li>La Classification Internationale du Fonctionnement - 2 </li>
+  <li>La Classification Internationale du Fonctionnement : exemple </li>
+  <li>Exemples d’assistances numériques </li>
+  <li>Conclusion générale</li>
+</ul>
+
+4
+00:00:36.000 --> 00:00:41.000
+<h1>5. Les assistances technologiques</h1>
+<ul>
+  <li><strong>Introduction</strong></li>
+  <li>La Classification Internationale du Fonctionnement - 1</li>
+  <li>La Classification Internationale du Fonctionnement - 2 </li>
+  <li>La Classification Internationale du Fonctionnement : exemple </li>
+  <li>Exemples d’assistances numériques </li>
+  <li>Conclusion générale</li>
+</ul>
+
+5
+00:00:41.000 --> 00:01:46.000
+<h1>Introduction </h1>
+<h2>OMS</h2>
+<ul>
+  <li>AT : expression générique décrivant un équipement ou un service rendant possible une tâche ou augmentant le
+    confort ou la sécurité de la personne</li>
+</ul>
+<h2>Bénéfices des AT </h2>
+<ul>
+  <li>Réduisent la douleur, le stress </li>
+  <li>Favorisent l’indépendance, l’auto-détermination → autonomie de la personne </li>
+  <li>Contribuent à la [ré]inclusion en famille, dans la société, l’entreprise </li>
+  <li>Rendent certaines choses <span class="important"><u>faciles</u></span> pour tout le monde, <span
+      class="important"><u>possibles</u></span> pour les PSH</li>
+</ul>
+
+6
+00:01:46.000 --> 00:02:42.000
+<h1>Historique</h1>
+<h2>De l’antiquité</h2>
+<ul>
+  <li>Marche (prothèses, cannes, chaises), vision, ouïe…</li>
+</ul>
+<h2>A nos jours </h2>
+<ul>
+  <li>Et le numérique ?</li>
+</ul>
+<p> </p>
+<img src="/Images/W5-10to30.png" alt="Prothèse égyptienne, chaise roulante chinoise, et exosquelette" />
+<p>Foot of egyptian mummy © Egyptian museum Cairo ; Chinese Wheelchair - Public Domain ; NASA X1
+  Exoskeleton © NASA</p>
+
+7
+00:02:42.000 --> 00:04:00.000
+<h1>Le numérique</h1>
+<h2>Pour accéder et utiliser les outils numériques</h2>
+<ul>
+  <li>Accessibilité numérique : clavier spécialisé, alimentation aimantée, loupe, synthèse vocale…</li>
+</ul>
+<h2>Pour les activités quotidiennes</h2>
+<ul>
+  <li>Fauteuil “intelligent” (alimentation, pilotage, guidage…) </li>
+  <li>Assistances auditives </li>
+  <li>Gestionnaire d’emploi du temps </li>
+  <li>…</li>
+</ul>
+
+8
+00:04:00.000 --> 00:04:59.000
+<h1>Recensement</h1>
+<h2>able.data</h2>
+<ul>
+  <li>Équipements et services</li>
+  <li>Spécifications techniques, coûts, fabricants </li>
+  <li>> 68 000 références (juin 2016) </li>
+  <li>20 catégories</li>
+</ul>
+<h2>eastin.eu</h2>
+<ul>
+  <li>> 76 000 références</li>
+</ul>
+
+9
+00:04:59.000 --> 00:06:22.000
+<h1>Classification </h1>
+<h2>Par déficience</h2>
+<ul>
+  <li>Sensorielle : déficiences visuelles, sonores </li>
+  <li>Motrices : déplacement, gestes manuels </li>
+  <li>Cognitive : mémoire, attention, émotions</li>
+</ul>
+<h2>Défauts</h2>
+<ul>
+  <li>Pas de réutilisation « transverse » </li>
+  <li>Quid des handicaps cumulatifs </li>
+</ul>
+
+10
+00:06:22.000 --> 00:06:24.000
+<h1>Ressources</h1>
+<p>Assistive Technology from ancient to modern times. Bluebird care. URL :  <a
+    href="http://bluebirdcare.ie/assistive-technology-ancient-modern-times/" title="site web Bluebird care"
+    target="_blank">site web Bluebird care</a></p>
+<p>Project Family Center on Technology and Disability. Family Centeron Technology and Disability's Fhi360. URL : <a
+    href="http://www.fhi360.org/projects/family-center-technology-and-disability%E2%80%93ii-fctd"
+    title="site web du projet « Family Center on Technology and Disability » " target="_blank">site web du projet
+    « Family Center on Technology and Disability » </a></p>
+<p> Family Information Guide to Assistive Technology and Transition Planning (May 2010). Fhi360. URL : <a
+    href="http://www.fhi360.org/resource/family-information-guide-assistive-technology-and-transition-planning"
+    title="guide to Assistive Technology and Transition Planning " target="_blank">guide to Assistive Technology and
+    Transition Planning </a></p>
+<p>Tools &amp; technologies to enhance life. Abledata. URL : <a href="http://www.abledata.com/products-by-category"
+    title="http://www.abledata.com/products-by-category"
+    target="_blank">http://www.abledata.com/products-by-category</a></p>
+<p>Réseau Européen d'Information sur les aides techniques. Eastin. URL : <a
+    href="http://www.eastin.eu/fr-fr/searches/products/index" title="site web Eastin" target="_blank">site web
+    Eastin</a></p>
+
+11
+00:06:24.000 --> 00:06:26.000
+<h1>Crédits illustrations</h1>
+<p>Foot of egyptian mummy with a prosthetic toe © Egyptian museum Cairo. URL : <a
+    href="http://i.imgur.com/SVisNMw.jpg" target="_blank">image : pied de momie égyptienne avec une prothèse
+    d’orteil </a></p>
+<p>Chinese Wheelchair, Wikimedia Pyörillä kulkeva tuoli kiinalaisessa kuvalaatassa, Public domain. URL : <a
+    href="http://www.wheelchairnet.org/WCN_WCU/SlideLectures/Sawatzky/WC_history.html" target="_blank">image :
+    fauteuil roulant chinois ancien</a> </p>
+<p>NASA X1 Exoskeleton © NASA. URL : <a href="https://technology.nasa.gov/patent/MSC-TOPS-71" target="_blank">image
+    : exosquelette de la NASA </a></p>
+
+12
+00:06:26.000 --> 00:06:28.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

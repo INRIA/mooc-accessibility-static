@@ -1,0 +1,73 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:11.000
+<h1>5. Les assistances technologiques</h1>
+<ul>
+  <li>Introduction</li>
+  <li>La Classification Internationale du Fonctionnement - 1</li>
+  <li>La Classification Internationale du Fonctionnement - 2 </li>
+  <li><strong>La Classification Internationale du Fonctionnement : exemple </strong></li>
+  <li>Exemples d’assistances numériques </li>
+  <li>Conclusion générale</li>
+</ul>
+
+2
+00:00:11.000 --> 00:02:19.000
+<h1>Exemple de la CIF- Accident Vasculaire Cérébral (AVC)</h1>
+<p><img src="/Images/W5-210.png" alt="Exemple de la CIF- Accident Vasculaire Cérébral (AVC)" /></p>
+<p>Modèle conceptuel CIF AVC © Classification internationale du fonctionnement (CIF)</p>
+
+3
+00:02:19.000 --> 00:03:33.000
+<h1>Comparaison CIF - Wood</h1>
+<div class="top-corner">
+  <img src="/Images/W5-210.png" class="width50" />
+  <p>Modèle conceptuel CIF AVC © Classification internationale du fonctionnement (CIF)</p>
+</div>
+<p><img src="/Images/W5-211.png" alt="Exemple de la CIF- Accident Vasculaire Cérébral (AVC)" /></p>
+<p>Modèle Fonctionnel © Wood, 1980</p>
+
+4
+00:03:33.000 --> 00:05:31.000
+<h1>Valeur ajoutée de la CIF</h1>
+<h2>Un cadre scientifique pour l’analyse du fonctionnement humain
+</h2>
+<ul>
+  <li>Conception systémique (aspects sociaux, organisationnels et culturels) </li>
+  <li>Conception environnementale</li>
+</ul>
+<h2>Une terminologie commune</h2>
+<ul>
+  <li>Recensement et systématisation du « codage » des données liées aux handicaps </li>
+  <li>Études mondiales, européennes
+    <ul>
+      <li>Disciplines sanitaires et médico-sociales </li>
+      <li>Services </li>
+      <li>Prises en charge</li>
+    </ul>
+  </li>
+</ul>
+
+5
+00:05:31.000 --> 00:05:34.000
+<h1>Crédits illustrations</h1>
+<p>Modèle conceptuel CIF AVC © Classification internationale du fonctionnement (CIF) </p>
+<p>Schéma basé sur le Schéma conceptuel © Wood,1980 - Classification Internationale des Handicaps (CIH) <a
+    href="http://apps.who.int/classifications/icfbrowser/Default.aspx"></a></p>
+
+6
+00:05:34.000 --> 00:05:38.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

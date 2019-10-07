@@ -1,0 +1,153 @@
+﻿WEBVTT
+
+00:00:00.400 --> 00:00:04.880
+Je vous ai présenté des mécanismes
+et principes d’interface
+
+00:00:05.040 --> 00:00:07.960
+que nous retrouverons
+dans des produits existants
+
+00:00:08.120 --> 00:00:09.880
+de système d’exploitation.
+
+00:00:10.040 --> 00:00:13.000
+Parlons du système d’exploitation
+Windows,
+
+00:00:13.160 --> 00:00:15.160
+développé par Microsoft.
+
+00:00:15.320 --> 00:00:19.680
+Je vais vous montrer comment
+ces principes sont implémentés
+
+00:00:19.840 --> 00:00:22.600
+et je vous en montrerai
+quelques uns.
+
+00:00:23.560 --> 00:00:28.160
+En termes de vision,
+pour tous les systèmes d’exploitation,
+
+00:00:28.320 --> 00:00:32.760
+des loupes seront sur tout l’écran,
+sur une fenêtre,
+
+00:00:32.920 --> 00:00:35.560
+ou cerclant une zone
+particulière du curseur.
+
+00:00:36.000 --> 00:00:39.040
+Il existera un lecteur d’écran,
+Narrator,
+
+00:00:39.200 --> 00:00:44.200
+permettant de vocaliser les textes,
+les boutons et les messages
+
+00:00:44.640 --> 00:00:49.360
+affichés par le système d'exploitation,
+qui est notamment multilingue.
+
+00:00:50.400 --> 00:00:53.080
+En termes d’audition,
+il y aura des alternatives
+
+00:00:53.240 --> 00:00:56.640
+sous forme textuelle ou visuelle.
+
+00:00:58.120 --> 00:00:59.760
+Pour la motricité,
+
+00:01:00.280 --> 00:01:03.480
+Windows permet d’avoir
+un clavier sur l’écran
+
+00:01:03.640 --> 00:01:08.080
+utilisable avec une souris ou une flèche
+pour des personnes à motricité réduite.
+
+00:01:09.040 --> 00:01:11.600
+Il y aura des saisies
+dites prédictives,
+
+00:01:11.760 --> 00:01:15.280
+popularisées par des téléphones
+
+00:01:15.440 --> 00:01:17.800
+permettant une saisie de SMS,
+
+00:01:17.960 --> 00:01:20.920
+avec une prédiction de la fin du mot.
+
+00:01:21.200 --> 00:01:25.240
+Pour une personne
+ayant du mal à utiliser un clavier,
+
+00:01:25.400 --> 00:01:27.760
+cette saisie prédictive sera utile.
+
+00:01:28.640 --> 00:01:31.440
+Il existe un certain nombre
+de raccourcis clavier
+
+00:01:31.600 --> 00:01:33.880
+où, sans utiliser la souris,
+
+00:01:34.040 --> 00:01:37.600
+nous pourrons
+avec quelques touches combinées,
+
+00:01:37.760 --> 00:01:39.960
+représenter
+une commande particulière.
+
+00:01:40.120 --> 00:01:42.960
+La reconnaissance vocale
+en fera partie
+
+00:01:43.120 --> 00:01:46.280
+et il y aura des fonctionnalités
+pour les utilisateurs.
+
+00:01:46.800 --> 00:01:50.720
+Il y a un tableau de bord spécifique
+pour l’accessibilité.
+
+00:01:51.120 --> 00:01:53.560
+Plutôt que d’effectuer des réglages
+
+00:01:53.720 --> 00:01:56.720
+dans des tableaux de bord différents,
+
+00:01:56.880 --> 00:01:59.680
+il y a un tableau de bord
+"Ease of Access",
+
+00:01:59.840 --> 00:02:02.680
+permettant de regrouper
+sur une même zone
+
+00:02:02.840 --> 00:02:05.280
+une partie de l’interface,
+
+00:02:05.440 --> 00:02:08.760
+les réglages utiles aux personnes
+en situation de handicap.
+
+00:02:08.920 --> 00:02:11.800
+Dans une démonstration
+jointe en annexe,
+
+00:02:11.960 --> 00:02:16.480
+je vous présenterai les fonctionnalités
+que vous venez de voir.
+
+00:02:17.320 --> 00:02:20.680
+Nous aborderons
+les systèmes d’exploitation d’Apple,
+
+00:02:20.840 --> 00:02:23.560
+sur ordinateur,
+tablette ou téléphone.

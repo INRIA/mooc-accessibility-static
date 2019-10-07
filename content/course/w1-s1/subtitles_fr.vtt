@@ -1,0 +1,496 @@
+﻿WEBVTT
+
+1
+00:00:07.680 --> 00:00:11.480
+Bienvenue dans ce MOOC
+sur l'accessibilité numérique
+
+2
+00:00:11.640 --> 00:00:14.120
+que nous vous proposons
+avec Hélène.
+
+3
+00:00:14.640 --> 00:00:17.960
+Nous aborderons
+plusieurs aspects de l'accessibilité
+
+4
+00:00:18.120 --> 00:00:21.960
+en parlant des contenus,
+des méthodes de conception
+
+5
+00:00:22.120 --> 00:00:24.200
+et des assistances
+technologiques.
+
+6
+00:00:24.360 --> 00:00:28.240
+Nous reviendrons
+sur le contenu précis de ce plan.
+
+7
+00:00:28.960 --> 00:00:33.320
+Dans cette première semaine,
+nous placerons le cadre général,
+
+8
+00:00:33.800 --> 00:00:38.120
+le contexte de la situation de handicap
+dont nous allons parler.
+
+9
+00:00:38.320 --> 00:00:41.760
+Nous vous donnerons
+un certain nombre de chiffres
+
+10
+00:00:42.320 --> 00:00:46.680
+d'évolution du concept de handicap
+au cours du temps
+
+11
+00:00:46.840 --> 00:00:50.600
+et nous vous présenterons
+une définition.
+
+12
+00:00:50.760 --> 00:00:53.280
+Nous terminerons
+cette première semaine
+
+13
+00:00:53.440 --> 00:00:56.040
+en présentant les objectifs
+et le plan du cours
+
+14
+00:00:56.200 --> 00:01:00.040
+quand nous aurons vu
+ce contexte et cette définition.
+
+15
+00:01:00.760 --> 00:01:03.920
+Dans cette première séquence,
+
+16
+00:01:04.560 --> 00:01:09.240
+je vais aborder pour la 1e fois
+la situation de handicap
+
+17
+00:01:09.400 --> 00:01:11.880
+et présenter des chiffres
+au niveau mondial
+
+18
+00:01:12.040 --> 00:01:16.120
+sur le nombre de personnes
+concernées par cette situation.
+
+19
+00:01:17.080 --> 00:01:20.000
+La première chose
+est que ce mot de handicap
+
+20
+00:01:20.160 --> 00:01:22.800
+recouvre beaucoup
+de réalités différentes,
+
+21
+00:01:22.960 --> 00:01:27.400
+reliées au contexte culturel,
+géographique et historique.
+
+22
+00:01:27.640 --> 00:01:30.480
+La situation de handicap
+n'est pas perçue pareil.
+
+23
+00:01:31.440 --> 00:01:35.800
+On peut constater
+que depuis quelques années,
+
+24
+00:01:35.960 --> 00:01:38.240
+la prise en compte du handicap
+a évolué,
+
+25
+00:01:38.400 --> 00:01:41.200
+avec des initiatives positives
+
+26
+00:01:41.360 --> 00:01:44.880
+qui ont eu des résultats.
+Mais malgré cette évolution,
+
+27
+00:01:45.040 --> 00:01:49.160
+la prise en compte
+est incomplète et insatisfaisante
+
+28
+00:01:49.320 --> 00:01:51.280
+dans beaucoup d'endroits.
+
+29
+00:01:51.760 --> 00:01:55.720
+Si on parle de handicap,
+commençons par rappeler
+
+30
+00:01:55.880 --> 00:01:58.160
+qu'il peut être acquis
+à la naissance
+
+31
+00:01:58.320 --> 00:02:01.440
+ou résulter d'une maladie
+ou d'un accident.
+
+32
+00:02:01.600 --> 00:02:05.600
+Il peut être évolutif
+et changer au cours du temps.
+
+33
+00:02:06.320 --> 00:02:07.880
+Il peut être non permanent,
+
+34
+00:02:08.040 --> 00:02:12.720
+donc arriver et disparaître
+après d'autres types d'événements.
+
+35
+00:02:12.880 --> 00:02:15.040
+Il peut,
+pour les personnes âgées,
+
+36
+00:02:15.200 --> 00:02:19.400
+être cumulatif,
+avec d'autres situations de handicap.
+
+37
+00:02:21.000 --> 00:02:26.000
+Précisons que le handicap
+est souvent de trois types d'origine.
+
+38
+00:02:26.160 --> 00:02:30.120
+La première origine est
+de type sensoriel
+
+39
+00:02:30.280 --> 00:02:34.200
+affectant les fonctions de perception
+comme la vue et l’ouïe.
+
+40
+00:02:34.920 --> 00:02:39.280
+Il peut être d'origine motrice
+et nous pensons tout de suite
+
+41
+00:02:39.440 --> 00:02:42.400
+aux personnes
+ayant des difficultés à se mouvoir,
+
+42
+00:02:42.760 --> 00:02:47.320
+mais aussi, dans le cas de ce MOOC
+qui va parler d'informatique,
+
+43
+00:02:47.480 --> 00:02:50.560
+et cet aspect est important,
+
+44
+00:02:50.720 --> 00:02:53.320
+des personnes à motricité réduite
+
+45
+00:02:53.480 --> 00:02:57.960
+ayant des difficultés à faire des gestes
+avec la main et les doigts.
+
+46
+00:02:58.640 --> 00:03:02.200
+Enfin,
+troisième origine possible,
+
+47
+00:03:02.360 --> 00:03:06.800
+souvent dite invisible
+car elle n'apparaît pas directement,
+
+48
+00:03:06.960 --> 00:03:08.920
+les troubles d'origine cognitive
+
+49
+00:03:09.080 --> 00:03:12.840
+affectant les fonctions cérébrales
+comme l'attention ou la mémoire.
+
+50
+00:03:14.720 --> 00:03:18.120
+Si on essaye de chiffrer
+et de dénombrer
+
+51
+00:03:18.280 --> 00:03:22.280
+les personnes dans le monde
+en situation de handicap,
+
+52
+00:03:22.440 --> 00:03:25.680
+on estime
+qu'il y a 1 milliard de personnes,
+
+53
+00:03:25.840 --> 00:03:27.720
+selon l'OMS,
+
+54
+00:03:27.880 --> 00:03:31.040
+soit 15 % de la population concernée.
+
+55
+00:03:31.720 --> 00:03:33.560
+Ce chiffre est sous-estimé.
+
+56
+00:03:33.720 --> 00:03:38.400
+Nous y reviendrons
+pour expliquer pourquoi.
+
+57
+00:03:38.960 --> 00:03:43.320
+L'autre caractéristique
+sur laquelle les experts sont d'accord
+
+58
+00:03:43.480 --> 00:03:45.800
+est de considérer
+ce chiffre en hausse
+
+59
+00:03:45.960 --> 00:03:50.880
+car les progrès de la médecine
+permettent un vieillissement démographique
+
+60
+00:03:51.040 --> 00:03:53.800
+et des situations de handicap
+en fin de vie.
+
+61
+00:03:53.960 --> 00:03:56.760
+Autre chiffre très important
+
+62
+00:03:56.920 --> 00:04:00.200
+à relier à ce que
+nous allons voir est que
+
+63
+00:04:00.360 --> 00:04:03.480
+80 % des personnes
+en situation de handicap
+
+64
+00:04:03.640 --> 00:04:05.720
+vivent dans des pays
+en développement.
+
+65
+00:04:06.160 --> 00:04:09.320
+On voit la relation
+entre la situation de handicap
+
+66
+00:04:09.480 --> 00:04:12.960
+et l'environnement
+dans lequel va vivre la personne,
+
+67
+00:04:13.120 --> 00:04:15.800
+soit un pays riche,
+soit un pays pauvre.
+
+68
+00:04:17.040 --> 00:04:21.000
+Dans les pays avec une espérance
+de vie supérieure à 70 ans,
+
+69
+00:04:21.160 --> 00:04:25.440
+les personnes vivront en moyenne
+8 ans en situation de handicap,
+
+70
+00:04:25.600 --> 00:04:28.600
+soit plus de 10 % de leur vie.
+
+71
+00:04:28.760 --> 00:04:33.120
+Nous sommes tous concernés
+par cette situation.
+
+72
+00:04:33.280 --> 00:04:37.280
+Il est assez facile de trouver
+des chiffres sur le handicap,
+
+73
+00:04:37.440 --> 00:04:40.200
+mais il est difficile
+de les rendre cohérents
+
+74
+00:04:40.360 --> 00:04:44.240
+et d'être absolument certain
+d'un dénombrement.
+
+75
+00:04:44.520 --> 00:04:47.640
+Pourquoi ?
+Plusieurs causes sont possibles.
+
+76
+00:04:47.800 --> 00:04:50.960
+La 1e est qu'au niveau mondial,
+
+77
+00:04:51.120 --> 00:04:54.040
+la qualité et la nature
+des recensements varient.
+
+78
+00:04:54.200 --> 00:04:58.000
+Les méthodes ne sont pas les mêmes
+d'un pays à un autre.
+
+79
+00:04:58.160 --> 00:05:02.520
+Il est difficile d'obtenir des chiffres
+facilement comparables.
+
+80
+00:05:03.160 --> 00:05:06.160
+2e raison :
+les études sont parcellaires.
+
+81
+00:05:06.320 --> 00:05:08.760
+Elles concernent
+un seul type de handicap,
+
+82
+00:05:08.920 --> 00:05:13.760
+comme la vision
+ou la motricité fine.
+
+83
+00:05:14.000 --> 00:05:18.000
+Il est difficile de les comparer
+et d'obtenir une vision globale.
+
+84
+00:05:19.080 --> 00:05:21.560
+3e raison :
+il faut distinguer les différences
+
+85
+00:05:21.720 --> 00:05:24.520
+entre les recensements
+et les déclarations.
+
+86
+00:05:24.680 --> 00:05:27.520
+Les recensements
+sont effectués par une agence
+
+87
+00:05:27.680 --> 00:05:30.200
+ou un organisme
+indépendant extérieur
+
+88
+00:05:30.360 --> 00:05:33.120
+de la déclaration de la personne
+en situation de handicap.
+
+89
+00:05:33.280 --> 00:05:35.240
+4e raison : la différence
+
+90
+00:05:35.400 --> 00:05:40.400
+entre les aspects fonctionnels
+et les limitations d'activité qui en découlent
+
+91
+00:05:40.560 --> 00:05:43.800
+et sont mesurables
+de façon objective,
+
+92
+00:05:44.040 --> 00:05:45.920
+des perceptions subjectives.
+
+93
+00:05:46.080 --> 00:05:50.040
+En comparant ces chiffres,
+on constate une différence sensible.
+
+94
+00:05:50.880 --> 00:05:53.400
+On constate que ce mot handicap
+
+95
+00:05:53.560 --> 00:05:56.000
+recouvre des réalités
+très différentes
+
+96
+00:05:56.160 --> 00:05:58.760
+et on voit la nécessité
+
+97
+00:05:58.920 --> 00:06:01.360
+de définir des termes,
+des concepts,
+
+98
+00:06:01.520 --> 00:06:04.920
+pour savoir ce que recouvre
+ce mot de handicap.
+
+99
+00:06:05.080 --> 00:06:08.400
+Par la suite,
+nous proposerons des définitions
+
+100
+00:06:08.560 --> 00:06:10.080
+de cadres ou de contextes
+
+101
+00:06:10.400 --> 00:06:12.320
+qui donneront une définition.
+
+102
+00:06:12.480 --> 00:06:14.960
+Ce ne sera pas la seule définition,
+
+103
+00:06:15.120 --> 00:06:20.040
+mais celle que nous utiliserons
+et qui sera notre référence commune.

@@ -1,0 +1,352 @@
+﻿WEBVTT
+
+00:00:00.200 --> 00:00:04.040
+Dans les séquences précédentes,
+je vous ai décrit
+
+00:00:04.480 --> 00:00:06.640
+les mécanismes
+et fonctionnalités
+
+00:00:06.800 --> 00:00:09.960
+des logiciels
+et des systèmes d'exploitation.
+
+00:00:10.440 --> 00:00:14.360
+Pour conclure,
+je vais présenter une étude utilisateur,
+
+00:00:15.280 --> 00:00:19.920
+pour voir quelle est l'utilisation
+des outils que j'ai présentés.
+
+00:00:20.840 --> 00:00:22.840
+Cette étude émane de WebAIM,
+
+00:00:23.000 --> 00:00:26.280
+une structure basée
+en Amérique du Nord,
+
+00:00:26.440 --> 00:00:30.360
+s'occupant de la sensibilisation,
+la formation, la certification
+
+00:00:30.520 --> 00:00:33.640
+et l'insistance
+pour l'accessibilité numérique.
+
+00:00:33.800 --> 00:00:38.040
+WebAIM effectue des études régulières
+depuis 2009
+
+00:00:38.200 --> 00:00:42.640
+sur les usages des outils
+pour l'accessibilité numérique.
+
+00:00:43.360 --> 00:00:46.400
+L'étude que je vais
+vous citer en particulier
+
+00:00:46.560 --> 00:00:48.400
+concerne 2 500 personnes,
+
+00:00:48.560 --> 00:00:51.920
+dont près des trois quarts
+vivent en Amérique du Nord
+
+00:00:52.080 --> 00:00:56.880
+et la grande majorité sont des personnes
+avec un handicap, surtout visuel.
+
+00:00:57.360 --> 00:01:02.040
+Les chiffres que je vais présenter
+ne sont pas représentatifs
+
+00:01:02.200 --> 00:01:05.400
+de la population
+en situation de handicap dans le monde.
+
+00:01:05.560 --> 00:01:09.440
+C'est principalement
+Amérique du Nord/déficience visuelle,
+
+00:01:09.600 --> 00:01:12.040
+mais ces chiffres sont éclairants.
+
+00:01:12.240 --> 00:01:14.600
+Comme il n'y a pas d'étude globale,
+
+00:01:14.760 --> 00:01:17.560
+il est intéressant
+de présenter ce résultat.
+
+00:01:17.960 --> 00:01:21.400
+L'étude s'est attachée
+à recenser l'utilisation
+
+00:01:21.560 --> 00:01:25.240
+des lecteurs d'écran,
+navigateurs et systèmes d'exploitation.
+
+00:01:25.400 --> 00:01:27.880
+C'est ce que je vais présenter.
+
+00:01:28.320 --> 00:01:32.400
+Première courbe, montrant
+l'utilisation des lecteurs d'écrans.
+
+00:01:32.560 --> 00:01:35.920
+En abscisse, vous avez les dates,
+
+00:01:36.080 --> 00:01:38.880
+d'octobre 2009 à juillet 2015,
+
+00:01:39.040 --> 00:01:41.520
+et le pourcentage d'utilisation
+en ordonnée.
+
+00:01:42.040 --> 00:01:45.440
+JAWS est le lecteur d'écran
+le plus utilisé,
+
+00:01:45.600 --> 00:01:47.040
+mais sa part décroît.
+
+00:01:47.200 --> 00:01:50.720
+Ça ne veut pas dire
+que c'est un mauvais produit,
+
+00:01:50.880 --> 00:01:53.400
+mais que d'autres systèmes montent.
+
+00:01:53.560 --> 00:01:56.680
+2 systèmes en particulier
+progressent vite :
+
+00:01:56.840 --> 00:01:59.280
+ZoomText et Window-Eyes.
+
+00:02:00.160 --> 00:02:03.560
+L'intérêt n'est pas
+de choisir un lecteur d'écran,
+
+00:02:03.720 --> 00:02:06.160
+mais de voir les tendances
+et surveiller
+
+00:02:06.320 --> 00:02:09.480
+les produits
+qui prennent de l'importance.
+
+00:02:09.640 --> 00:02:11.920
+Rappelez-vous, cette étude portait
+
+00:02:12.080 --> 00:02:15.000
+sur des personnes
+avec un handicap visuel,
+
+00:02:15.160 --> 00:02:17.400
+pour qui les lecteurs
+sont importants,
+
+00:02:17.560 --> 00:02:21.680
+d'où l'intérêt d'une telle courbe
+sur les lecteurs d'écran.
+
+00:02:23.280 --> 00:02:26.840
+2ème figure
+sur les systèmes d'exploitation utilisés,
+
+00:02:27.640 --> 00:02:32.040
+on voit que Windows
+est le système majoritairement utilisé.
+
+00:02:32.240 --> 00:02:37.120
+Windows n'est pas forcément le meilleur,
+mais c'est le plus utilisé.
+
+00:02:37.280 --> 00:02:41.680
+En termes de développements logiciels,
+il faut le prendre en compte
+
+00:02:41.840 --> 00:02:45.760
+quand on développe
+des logiciels d'accessibilité numérique.
+
+00:02:46.920 --> 00:02:50.400
+Si je considère l'utilisation
+des navigateurs web,
+
+00:02:50.560 --> 00:02:54.440
+Internet Explorer est celui
+qui est le plus utilisé,
+
+00:02:54.600 --> 00:02:58.000
+mais Firefox a une part de marché
+non négligeable
+
+00:02:58.160 --> 00:03:02.040
+et les autres ont une part
+plus restreinte
+
+00:03:02.200 --> 00:03:05.640
+en Amérique du Nord
+pour les personnes avec handicap visuel.
+
+00:03:07.440 --> 00:03:10.280
+Nous avons aussi évoqué
+les réseaux sociaux.
+
+00:03:11.120 --> 00:03:16.080
+Sur ce schéma, il est intéressant
+de voir la façon dont sont perçus
+
+00:03:16.880 --> 00:03:21.240
+les différents réseaux sociaux,
+lecteurs, et clients de réseaux sociaux
+
+00:03:21.400 --> 00:03:23.640
+par ceux en situation de handicap.
+
+00:03:24.200 --> 00:03:27.680
+Vous voyez que pour la majorité
+des utilisateurs,
+
+00:03:27.840 --> 00:03:30.240
+il y a une partie accessible,
+
+00:03:31.600 --> 00:03:32.840
+presque la moitié.
+
+00:03:33.000 --> 00:03:35.880
+Une partie plus faible,
+très accessible,
+
+00:03:36.040 --> 00:03:38.040
+autour d'une quinzaine
+de pour cent
+
+00:03:38.200 --> 00:03:40.240
+et une partie plus importante,
+
+00:03:40.400 --> 00:03:43.240
+pratiquement 25%,
+totalement inaccessible.
+
+00:03:44.120 --> 00:03:48.080
+Finalement,
+cette répartition pourrait se retrouver
+
+00:03:48.240 --> 00:03:50.800
+dans beaucoup d'autres logiciels.
+
+00:03:51.640 --> 00:03:56.040
+Ce schéma montre qu'il reste
+une grande progression à effectuer
+
+00:03:56.200 --> 00:03:58.880
+pour rendre accessibles
+ces logiciels.
+
+00:04:01.040 --> 00:04:06.040
+En conclusion de cette séquence,
+mais aussi de cette deuxième semaine,
+
+00:04:06.440 --> 00:04:09.880
+nous avons constaté
+dans les descriptions proposées
+
+00:04:10.040 --> 00:04:12.480
+qu'il existait beaucoup
+de fonctionnalités
+
+00:04:12.640 --> 00:04:15.240
+facilitant l'accessibilité de logiciels.
+
+00:04:15.400 --> 00:04:18.840
+Dans la plupart des cas,
+
+00:04:19.000 --> 00:04:22.080
+ces fonctionnalités
+sont naturellement incluses
+
+00:04:22.240 --> 00:04:24.160
+dans le système d'exploitation.
+
+00:04:24.320 --> 00:04:27.600
+Elles sont gratuites
+et leur non-utilisation
+
+00:04:27.760 --> 00:04:30.800
+est due au fait que les gens
+ignorent leur existence.
+
+00:04:30.960 --> 00:04:34.320
+Ce cours visait à les mettre en lumière
+
+00:04:34.480 --> 00:04:35.880
+pour être plus utilisées.
+
+00:04:37.080 --> 00:04:41.200
+Avoir des logiciels aux fonctionnalités
+d'accessibilité numérique
+
+00:04:41.360 --> 00:04:42.560
+ne suffit pas.
+
+00:04:42.720 --> 00:04:45.040
+Si les contenus qu'on veut exploiter,
+
+00:04:45.360 --> 00:04:48.280
+de pages web
+ou de documents numériques,
+
+00:04:48.440 --> 00:04:52.960
+ne sont pas adaptés,
+ces fonctionnalités seront inopérantes.
+
+00:04:53.440 --> 00:04:56.840
+Ça sera vrai pour les documents
+publiés sur le web.
+
+00:04:57.720 --> 00:05:02.200
+Je voudrais vous lire un extrait
+de la page accessibilité de Firefox
+
+00:05:02.840 --> 00:05:06.720
+énonçant que la touche d'accessibilité
+dépend du site web.
+
+00:05:06.960 --> 00:05:10.320
+Elle est définie par l'auteur
+du site web, pas FireFox.
+
+00:05:10.560 --> 00:05:14.040
+Il est indispensable
+que les logiciels en général
+
+00:05:14.200 --> 00:05:17.360
+aient des interfaces
+pour l'accessibilité.
+
+00:05:17.520 --> 00:05:20.680
+Mais si les contenus
+n'ont pas été conçus pour ça,
+
+00:05:20.840 --> 00:05:23.120
+ces fonctionnalités
+ne suffiront pas.
+
+00:05:23.760 --> 00:05:25.880
+La semaine suivante,
+
+00:05:26.040 --> 00:05:28.800
+je vous présenterai des mécanismes
+
+00:05:28.960 --> 00:05:32.080
+permettant de rendre accessibles
+des contenus,
+
+00:05:32.240 --> 00:05:36.080
+sous forme de pages web
+ou de documents numériques classiques.

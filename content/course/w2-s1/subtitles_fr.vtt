@@ -1,0 +1,550 @@
+﻿WEBVTT
+
+00:00:07.520 --> 00:00:11.240
+Au début de ce MOOC,
+nous mettions en place un cadre général
+
+00:00:11.400 --> 00:00:14.080
+basé sur des définitions,
+des concepts
+
+00:00:14.240 --> 00:00:18.400
+pour définir précisément
+ce qu'est la situation de handicap.
+
+00:00:19.080 --> 00:00:21.840
+Nous allons rentrer
+dans le cœur du sujet
+
+00:00:22.000 --> 00:00:24.920
+et traiter l'accessibilité
+des systèmes numériques.
+
+00:00:25.520 --> 00:00:29.320
+Nous commencerons par définir
+l'accessibilité numérique :
+
+00:00:29.480 --> 00:00:32.480
+qu'est-ce que c'est ?
+
+00:00:32.640 --> 00:00:36.960
+Nous détaillerons les composants
+mis en œuvre dans ces systèmes,
+
+00:00:37.120 --> 00:00:40.360
+en commençant
+par les matériels d'interfaces.
+
+00:00:40.760 --> 00:00:44.960
+Les mécanismes sur lesquels
+sont basés la plupart des logiciels
+
+00:00:45.120 --> 00:00:47.040
+et des fonctionnalités.
+
+00:00:47.720 --> 00:00:50.640
+On les retrouve
+dans les systèmes d'exploitation
+
+00:00:50.800 --> 00:00:52.800
+comme Windows et Mac OS.
+
+00:00:52.960 --> 00:00:57.320
+Sur différents logiciels
+comme des logiciels de bureautique,
+
+00:00:57.480 --> 00:01:02.400
+mais aussi les logiciels de jeux
+et d'autres types de logiciels.
+
+00:01:02.680 --> 00:01:05.880
+Enfin, nous conclurons
+par une étude "utilisateur"
+
+00:01:06.040 --> 00:01:10.040
+proposant un état de l'art
+de la situation générale
+
+00:01:10.200 --> 00:01:12.200
+de l'accessibilité numérique.
+
+00:01:12.360 --> 00:01:16.640
+Commençons par définir la notion
+d'accessibilité numérique.
+
+00:01:16.800 --> 00:01:18.560
+Pourquoi en parlons-nous ?
+
+00:01:18.720 --> 00:01:21.960
+Nous le savons tous,
+le monde est devenu numérique
+
+00:01:22.120 --> 00:01:24.880
+et le monde numérique
+a envahi nos vies
+
+00:01:25.040 --> 00:01:27.640
+privées, professionnelles et sociales.
+
+00:01:27.960 --> 00:01:31.040
+Nous utilisons l'informatique
+en permanence.
+
+00:01:31.520 --> 00:01:33.880
+L'expression de fracture numérique
+
+00:01:34.040 --> 00:01:39.000
+a pris plusieurs formes au fil des ans,
+
+00:01:39.160 --> 00:01:44.200
+en séparant ceux qui ont des ordinateurs
+de ceux qui n'en ont pas
+
+00:01:44.360 --> 00:01:48.120
+et de ceux qui ont Internet
+de ceux qui ne l'ont pas.
+
+00:01:48.280 --> 00:01:50.360
+Le 2e type de fracture
+
+00:01:50.520 --> 00:01:53.280
+était la différence entre les acteurs
+
+00:01:53.440 --> 00:01:58.440
+comprenant les logiciels
+et les conséquences de leur utilisation,
+
+00:01:58.600 --> 00:02:01.200
+et les consommateurs
+que nous sommes souvent.
+
+00:02:01.360 --> 00:02:04.600
+Cela justifie amplement l'introduction
+
+00:02:04.760 --> 00:02:07.000
+de l'enseignement de l'informatique
+
+00:02:07.160 --> 00:02:09.200
+dans les écoles,
+collèges et lycées.
+
+00:02:09.680 --> 00:02:13.960
+Nous aborderons cette fracture numérique
+sous l'angle du handicap
+
+00:02:14.120 --> 00:02:17.640
+entre les personnes pouvant utiliser
+les fonctionnalités d'un logiciel
+
+00:02:17.800 --> 00:02:21.000
+et celles exclues
+de certaines fonctionnalités.
+
+00:02:21.520 --> 00:02:25.040
+L'accessibilité numérique
+est une démarche
+
+00:02:25.200 --> 00:02:29.880
+visant à réduire ces exclusions
+des personnes en situation de handicap.
+
+00:02:31.600 --> 00:02:35.000
+Nous pouvons nous arrêter
+sur les bénéfices
+
+00:02:35.160 --> 00:02:38.360
+d'une augmentation
+de l'accessibilité numérique.
+
+00:02:38.840 --> 00:02:41.040
+Pour l'individu lui-même,
+
+00:02:41.200 --> 00:02:43.400
+l'accessibilité numérique contribue
+
+00:02:43.560 --> 00:02:46.120
+à son auto-détermination
+pour son projet de vie.
+
+00:02:46.280 --> 00:02:51.000
+Être plus indépendant
+et plus libre de ses choix de vie.
+
+00:02:52.480 --> 00:02:56.440
+Deuxième raison,
+certaines de ces aides numériques
+
+00:02:56.600 --> 00:02:59.080
+améliorent la qualité de vie.
+
+00:02:59.480 --> 00:03:03.400
+Parfois les outils numériques
+sont la seule démarche possible.
+
+00:03:03.560 --> 00:03:06.480
+Nous verrons des exemples
+plus tard cette semaine.
+
+00:03:07.600 --> 00:03:10.400
+Au niveau de la société,
+il est évident
+
+00:03:10.560 --> 00:03:12.560
+que contribuer
+à la rendre inclusive
+
+00:03:12.720 --> 00:03:16.600
+en luttant contre des formes
+de discrimination,
+
+00:03:16.760 --> 00:03:19.520
+ne peut que contribuer
+à améliorer notre société
+
+00:03:19.680 --> 00:03:22.880
+et c'est un point important
+à souligner.
+
+00:03:23.640 --> 00:03:27.040
+Si nous nous plaçons
+d'un point de vue économique
+
+00:03:27.200 --> 00:03:29.320
+en considérant
+celui des entreprises,
+
+00:03:29.480 --> 00:03:34.400
+il est évident,
+et des témoignages en attestent,
+
+00:03:34.560 --> 00:03:37.800
+que prendre en compte
+l'accessibilité numérique d'un logiciel
+
+00:03:37.960 --> 00:03:40.720
+augmentera le nombre
+de clients potentiels.
+
+00:03:41.280 --> 00:03:44.760
+A contrario, si vous,
+éditeur de logiciels,
+
+00:03:44.920 --> 00:03:48.760
+vous ne tenez pas compte
+des utilisateurs en situation de handicap,
+
+00:03:48.920 --> 00:03:51.280
+vous les excluez du champ
+de vos clients.
+
+00:03:52.280 --> 00:03:56.080
+Je pourrais dire la même chose
+sur les visites d'un site Web.
+
+00:03:56.240 --> 00:03:58.800
+Si vous ne concevez pas
+votre site Web
+
+00:03:58.960 --> 00:04:01.920
+comme étant accessible
+à toutes les populations,
+
+00:04:02.080 --> 00:04:05.960
+vous restreignez le nombre
+de visiteurs potentiels.
+
+00:04:07.240 --> 00:04:10.400
+On parle de plus en plus
+de e-réputation,
+
+00:04:10.560 --> 00:04:13.440
+la réputation dans le monde numérique.
+
+00:04:13.600 --> 00:04:17.760
+Dans certains pays, elle est devenue
+de plus en plus importante.
+
+00:04:17.920 --> 00:04:22.800
+Il est manifeste que contribuer
+à augmenter l'accessibilité numérique
+
+00:04:22.960 --> 00:04:25.640
+de ses produits
+augmente son e-réputation.
+
+00:04:25.800 --> 00:04:29.760
+Des témoignages d'entreprises
+le démontrent.
+
+00:04:31.800 --> 00:04:36.800
+Si l'on prend en compte
+l'accessibilité numérique dès l'amont,
+
+00:04:37.080 --> 00:04:40.120
+on pourra mieux former,
+mieux qualifier
+
+00:04:40.280 --> 00:04:42.920
+et mieux insérer des collaborateurs,
+
+00:04:43.080 --> 00:04:47.240
+en aidant à mieux configurer
+leur poste de travail.
+
+00:04:47.760 --> 00:04:49.880
+Nous vous avons parlé
+
+00:04:50.040 --> 00:04:53.760
+de la logique d'inclusion
+portée dans les lois de 1987
+
+00:04:53.920 --> 00:04:55.280
+et surtout 2005.
+
+00:04:55.560 --> 00:04:59.280
+En embauchant une personne
+en situation de handicap,
+
+00:04:59.440 --> 00:05:02.080
+arriver à lui proposer
+un poste de travail adapté
+
+00:05:02.240 --> 00:05:06.040
+est important et améliorera
+la productivité de l'entreprise
+
+00:05:06.200 --> 00:05:08.080
+et la qualité de travail.
+
+00:05:08.600 --> 00:05:10.640
+Enfin,
+
+00:05:11.040 --> 00:05:15.200
+ces mêmes législations ont prévu
+des contributions financières
+
+00:05:15.360 --> 00:05:18.480
+quand on ne respecte pas
+certaines contraintes.
+
+00:05:18.640 --> 00:05:21.800
+J'ai parlé des contraintes françaises,
+
+00:05:21.960 --> 00:05:23.920
+mais il y en a
+dans d'autres pays.
+
+00:05:24.080 --> 00:05:27.960
+Dans certains pays,
+si un logiciel n'est pas accessible,
+
+00:05:28.120 --> 00:05:30.040
+des contraintes financières
+
+00:05:30.200 --> 00:05:32.600
+seront résultantes
+de cet état de fait.
+
+00:05:35.160 --> 00:05:38.760
+Si on regarde
+un petit peu dans le temps,
+
+00:05:38.920 --> 00:05:42.680
+car la problématique d'accessibilité numérique
+n'est pas récente,
+
+00:05:42.840 --> 00:05:44.680
+elle existe depuis longtemps.
+
+00:05:44.840 --> 00:05:46.960
+Les premières approches,
+
+00:05:47.120 --> 00:05:49.880
+car nous allons suivre
+la même progression
+
+00:05:50.040 --> 00:05:53.160
+que celle qu'Hélène
+vous a présentée,
+
+00:05:53.320 --> 00:05:57.520
+étaient basées sur un modèle médical
+et des incapacités.
+
+00:05:57.960 --> 00:06:00.480
+Concrètement,
+la plupart de ces solutions
+
+00:06:00.640 --> 00:06:04.480
+proposées autrefois
+étaient spécialisées pour une situation.
+
+00:06:04.640 --> 00:06:06.880
+Les personnes aveugles ou sourdes
+
+00:06:07.040 --> 00:06:10.760
+se spécialisaient
+pour une niche particulière.
+
+00:06:11.040 --> 00:06:13.640
+On a développé
+des outils de type loupe
+
+00:06:13.800 --> 00:06:16.600
+permettant de grossir
+la taille d'une police,
+
+00:06:16.760 --> 00:06:19.960
+des systèmes de type lecteur d'écran,
+
+00:06:20.120 --> 00:06:23.160
+où on va faire
+une synthèse vocale
+
+00:06:23.320 --> 00:06:25.960
+à partir d'un document
+sous forme de texte,
+
+00:06:26.120 --> 00:06:28.000
+ou de commande vocale.
+
+00:06:28.560 --> 00:06:32.760
+On a évolué
+vers une adaptation à cas individuel.
+
+00:06:32.920 --> 00:06:37.480
+On parlera de "single user design",
+de conception pour une personne.
+
+00:06:37.640 --> 00:06:40.560
+Et surtout
+de prise en compte des utilisateurs
+
+00:06:40.720 --> 00:06:43.680
+et de méthode
+de type conception pour tous.
+
+00:06:43.840 --> 00:06:48.040
+C'est un point que nous aborderons
+dans la semaine 4.
+
+00:06:48.200 --> 00:06:50.600
+Nous verrons
+des méthodes de conception
+
+00:06:50.760 --> 00:06:53.440
+basées sur ce "design for all".
+
+00:06:54.040 --> 00:06:56.960
+Penchons-nous
+sur les problèmes concrets
+
+00:06:57.120 --> 00:06:59.520
+rencontrés par les personnes
+en situation de handicap.
+
+00:06:59.680 --> 00:07:03.920
+Pour des situations de handicap
+d'origine sensorielle,
+
+00:07:04.080 --> 00:07:07.160
+la problématique
+est la perception de l'information.
+
+00:07:07.320 --> 00:07:09.360
+Peut-on la voir?
+Peut-on l'entendre?
+
+00:07:09.520 --> 00:07:13.840
+À la fois l'information diffusée
+et les instructions données par le logiciel.
+
+00:07:14.280 --> 00:07:17.680
+Pourra-t-on entendre
+les alertes sonores?
+
+00:07:17.840 --> 00:07:21.920
+Les messages donnant
+des commandes sont-ils lisibles?
+
+00:07:22.080 --> 00:07:25.440
+Utiliser la souris pour des personnes
+
+00:07:25.600 --> 00:07:28.040
+ayant des problèmes
+de perception visuelle
+
+00:07:28.200 --> 00:07:30.920
+ne sera d'aucun secours.
+
+00:07:31.840 --> 00:07:35.400
+Pour les troubles d'origine moteur,
+
+00:07:35.560 --> 00:07:40.240
+la saisie d'informations
+via un clavier,
+
+00:07:40.400 --> 00:07:42.320
+via une souris,
+poseront problème.
+
+00:07:42.760 --> 00:07:46.720
+Pour les troubles
+d'origine cognitive,
+
+00:07:46.880 --> 00:07:50.440
+rester attentif, comprendre un logiciel,
+saisir l'essentiel,
+
+00:07:50.600 --> 00:07:55.440
+sont des problèmes ressentis
+par les personnes en situation de handicap.
+
+00:07:56.400 --> 00:08:00.000
+Dans les séquences suivantes
+de cette semaine,
+
+00:08:00.160 --> 00:08:04.160
+nous verrons les composants
+de ce monde informatique.
+
+00:08:04.320 --> 00:08:07.960
+À commencer par les matériels
+comme des claviers qui seront adaptés.
+
+00:08:08.240 --> 00:08:11.240
+Nous parlerons
+des mécanismes d'interface
+
+00:08:11.400 --> 00:08:13.680
+comme le lecteur d'écran.
+
+00:08:13.840 --> 00:08:17.480
+Nous regarderons concrètement
+des systèmes d'exploitation,
+
+00:08:17.640 --> 00:08:19.120
+sans liste exhaustive.
+
+00:08:19.280 --> 00:08:22.280
+Nous ferons un focus sur Windows
+et Mac OS pour voir
+
+00:08:22.440 --> 00:08:26.280
+comment ces mécanismes sont implémentés
+dans ces systèmes d'exploitation.
+
+00:08:26.440 --> 00:08:28.840
+Nous terminerons
+par des logiciels
+
+00:08:29.000 --> 00:08:32.160
+de bureautique
+et des navigateurs sur Internet
+
+00:08:32.320 --> 00:08:35.440
+et nous verrons
+comment ils ont utilisé
+
+00:08:35.600 --> 00:08:38.080
+ces mécanismes d'interface.

@@ -1,0 +1,198 @@
+WEBVTT
+
+00:00:01.379 --> 00:00:04.740
+Vous qui concevez des Power Point, vous êtes-vous déjà soucié de
+
+00:00:04.740 --> 00:00:06.630
+leur accessibilité numérique ?
+
+00:00:06.630 --> 00:00:10.219
+Pensez-vous que tous ceux qui visualisent vos présentations sont capables de saisir
+
+00:00:10.220 --> 00:00:13.910
+l’ensemble des informations, le tout de manière agréable, qu’ils soient en
+
+00:00:13.910 --> 00:00:18.230.
+situation de handicap ou non (daltoniens, malentendants, ou tout simplement fatigués
+
+00:00:18.230 --> 00:00:19.759
+ou à un âge avancé) ?
+
+00:00:19.759 --> 00:00:24.200
+Des outils existent pour vous aider à concevoir des Power Point accessibles à tous !
+
+00:00:24.210 --> 00:00:27.220
+Nous allons ici vous présenter 5 points essentiels :
+
+00:00:27.220 --> 00:00:28.759
+les éléments de base,
+
+00:00:28.759 --> 00:00:33.160
+les couleurs, les éléments non textuels,
+les transitions et animations,
+
+00:00:33.160 --> 00:00:36.319
+et le dernier point nous permettra d’aller un peu plus loin.
+
+00:00:36.320 --> 00:00:38.210
+Commençons donc par la base :
+
+00:00:38.210 --> 00:00:40.920
+Toute présentation doit comporter un
+sommaire.
+
+00:00:40.920 --> 00:00:43.080
+Il permet de guider les utilisateurs,
+
+00:00:43.080 --> 00:00:46.080
+de rendre plus navigable et robuste votre présentation.
+
+00:00:46.590 --> 00:00:50.470
+Pour un guidage optimal, n’oubliez pas de numéroter les diapositives, en
+
+00:00:50.470 --> 00:00:53.490
+indiquant bien sûr le nombre total.
+
+00:00:53.490 --> 00:00:56.490
+Choisissez une police de caractères suffisamment lisible :
+
+00:00:57.480 --> 00:00:59.129
+sans sérif (comme Arial ou Calibri)
+
+00:00:59.130 --> 00:01:02.920
+et ne descendez jamais en dessous de 18 pour la taille, au risque de ne pas être
+
+00:01:02.920 --> 00:01:05.910
+lu du fond de la salle ou par les malvoyants.
+
+00:01:05.910 --> 00:01:09.070
+Le plus simple pour éviter ces erreurs est de suivre les masques.
+
+00:01:09.070 --> 00:01:12.679
+Vous savez ces blocs déjà positionnés lorsque vous créez une nouvelle diapositive.
+
+00:01:17.100 --> 00:01:18.429
+Les couleurs :
+
+00:01:18.430 --> 00:01:21.590
+Pensez aux daltoniens (qui sont plus de 8% chez les hommes !).
+
+00:01:22.090 --> 00:01:25.240
+Et de manière générale, pensez aux malvoyants ou à ceux du fond de la salle.
+
+00:01:25.980 --> 00:01:30.700
+Utilisez un contraste suffisant entre la couleur du texte et celle du fond uni :
+
+00:01:30.780 --> 00:01:32.680
+noir sur blanc par exemple.
+
+00:01:32.680 --> 00:01:35.680
+Globalement, n’utilisez pas la couleur comme seul moyen de communication.
+
+00:01:36.440 --> 00:01:38.960
+Accompagnez la d’une autre mise en valeur :
+
+00:01:38.960 --> 00:01:41.440
+gras, italique, formes,…
+
+00:01:41.440 --> 00:01:44.740
+Pour vous aider à mieux utiliser les couleurs, n’hésitez pas à activer la
+
+00:01:44.740 --> 00:01:47.140
+fonctionnalité d’affichage en nuances de gris.
+
+00:01:47.140 --> 00:01:50.560
+Elle vous permettra de vérifier la bonne compréhension de votre diapositives
+
+00:01:50.560 --> 00:01:53.560
+sans les couleurs en vous mettant à la place des daltoniens.
+
+00:01:58.310 --> 00:01:59.880
+Les éléments non textuels :
+
+00:01:59.880 --> 00:02:02.780
+tels que les images, les vidéos, les tableaux,…
+
+00:02:02.780 --> 00:02:06.259
+Lorsque les personnes non voyantes lisent votre présentation sur leur ordinateur,
+
+00:02:06.930 --> 00:02:10.690
+elles utilisent un lecteur d’écran qui parcourt le contenu de vos diapositives.
+
+00:02:11.319 --> 00:02:14.559
+Mais que se passe-t-il face à un contenu non-textuel ?
+
+00:02:14.559 --> 00:02:17.549
+Comment transmettre l’information contenue dans ces éléments aux
+
+00:02:17.549 --> 00:02:19.499
+personnes non voyantes ?
+
+00:02:19.499 --> 00:02:23.799
+Avec Power Point, sachez qu’il est possible d’ajouter un texte alternatif,
+
+00:02:23.819 --> 00:02:27.640
+clair et concis de préférence, pour chaque élément non textuel afin
+
+00:02:27.640 --> 00:02:30.640
+qu’il soit lu par un lecteur d’écran.
+
+00:02:31.649 --> 00:02:33.939
+Les transitions et animations :
+
+00:02:33.939 --> 00:02:38.299
+Si vous tenez à tout prix à en utiliser, surtout, faites simple !
+
+00:02:38.379 --> 00:02:41.819
+Oubliez les animations extravagantes. Privilégiez la simplicité :
+
+00:02:42.739 --> 00:02:45.739
+un fondu ne fera de mal à personne.
+
+00:02:49.759 --> 00:02:53.189
+Enfin, sachez qu’il existe un outil directement intégré à Power Point,
+
+00:02:53.189 --> 00:02:55.849
+qui vous permet de vérifier l’accessibilité.
+
+00:02:55.849 --> 00:02:57.659
+Tout est à portée de main !
+
+00:02:57.659 --> 00:03:00.418
+Il vous renvoie une liste d’erreurs et d’avertissements
+
+00:03:00.419 --> 00:03:03.679
+ainsi que des conseils divers en matière d’accessibilité.
+
+00:03:03.679 --> 00:03:04.879
+Pour y accéder,
+
+00:03:04.879 --> 00:03:07.119
+il vous suffit de cliquer sur "Fichier",
+
+00:03:07.119 --> 00:03:08.439
+"Informations"
+
+00:03:08.439 --> 00:03:10.789
+puis "Vérifier la présence de problèmes"
+
+00:03:10.789 --> 00:03:13.789
+et "Vérifier l’accessibilité".
+
+00:03:17.239 --> 00:03:21.500
+Vous retrouverez tous ces conseils et bien plus encore dans notre kit d’accessibilité,
+
+00:03:21.569 --> 00:03:24.789
+disponible sur www.fracturesnumeriques.fr
+
+00:03:25.479 --> 00:03:28.829
+Vous pourrez y télécharger un template accessible, mais aussi comprendre comment
+
+00:03:28.829 --> 00:03:32.549
+créer ou rendre un Power Point accessible à l’aide de nos 3 niveaux de
+
+00:03:32.549 --> 00:03:33.649
+conseils à suivre !
+
+00:03:33.649 --> 00:03:34.879
+Et maintenant, c’est à vous de jouer !

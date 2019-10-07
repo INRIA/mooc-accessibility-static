@@ -1,0 +1,274 @@
+﻿WEBVTT
+
+00:00:00.400 --> 00:00:03.480
+Je vous ai présenté
+comment rendre accessibles
+
+00:00:03.640 --> 00:00:06.480
+des documents numériques
+Microsoft Office.
+
+00:00:06.640 --> 00:00:09.480
+Dans cette dernière séquence,
+
+00:00:09.640 --> 00:00:12.640
+je vais faire pareil
+avec les documents PDF.
+
+00:00:13.480 --> 00:00:17.400
+Pour rappel,
+PDF signifie Portable Document Format
+
+00:00:17.640 --> 00:00:21.760
+et sa principale caractéristique
+et source de succès
+
+00:00:21.920 --> 00:00:25.120
+est que c'est un format
+totalement indépendant
+
+00:00:25.280 --> 00:00:29.800
+du système d'exploitation
+qui a servi à le créer
+
+00:00:30.360 --> 00:00:33.800
+et du périphérique utilisé
+pour l'exploiter,
+
+00:00:33.960 --> 00:00:35.800
+un écran ou une imprimante.
+
+00:00:37.040 --> 00:00:41.760
+Adobe a proposé plusieurs versions
+de PDF depuis 1993.
+
+00:00:41.920 --> 00:00:45.200
+En 2012, une version dite UA
+
+00:00:45.680 --> 00:00:47.600
+pour Universal Accessibility,
+
+00:00:48.160 --> 00:00:52.560
+associée à une norme ISO en référence
+à l'accessibilité numérique.
+
+00:00:53.240 --> 00:00:56.560
+Principe fondamental
+que nous allons retrouver :
+
+00:00:56.720 --> 00:00:59.880
+le document doit être structuré
+hiérarchiquement.
+
+00:01:00.040 --> 00:01:03.800
+Comme je l'évoquais
+précédemment,
+
+00:01:03.960 --> 00:01:06.840
+les corps de texte
+sont organisés en arborescence
+
+00:01:07.000 --> 00:01:10.080
+pour qu'un lecteur d'écran
+s'y retrouve
+
+00:01:10.560 --> 00:01:14.160
+et que la structure soit compatible
+avec les langages
+
+00:01:14.320 --> 00:01:17.240
+que sont XTML, XML, etc.
+
+00:01:18.480 --> 00:01:22.040
+Autre notion :
+celle de PDF dite balisée,
+
+00:01:22.560 --> 00:01:27.040
+permettant d'extraire des textes,
+des graphiques ou des images,
+
+00:01:27.200 --> 00:01:32.120
+pour des assistances numériques
+que nous verrons la 4ème semaine.
+
+00:01:33.680 --> 00:01:37.960
+Intéressons-nous à la création
+d'un document PDF.
+
+00:01:38.280 --> 00:01:42.240
+Il y a environ deux façons
+de créer ce document,
+
+00:01:42.640 --> 00:01:45.440
+via un logiciel externe
+comme Word,
+
+00:01:45.600 --> 00:01:49.200
+capable de sauvegarder
+sous une forme PDF
+
+00:01:49.360 --> 00:01:51.240
+n'importe quel contenu de texte,
+
+00:01:51.400 --> 00:01:53.920
+ou via la suite logicielle
+Acrobat Pro,
+
+00:01:54.080 --> 00:01:56.680
+qui va créer directement
+un fichier PDF.
+
+00:01:57.280 --> 00:02:01.080
+Il est indispensable de suivre
+les recommandations WCAG
+
+00:02:01.240 --> 00:02:03.640
+vues dans les séquences précédentes
+
+00:02:03.800 --> 00:02:08.720
+et que la liste des outils d'édition
+générant des PDF accessibles
+
+00:02:08.880 --> 00:02:12.160
+soit connue
+pour les utiliser efficacement.
+
+00:02:13.600 --> 00:02:16.560
+De la même façon
+que sous Microsoft Office,
+
+00:02:16.720 --> 00:02:19.320
+où l'on a vu
+des vérificateurs d'accessibilité,
+
+00:02:19.480 --> 00:02:21.880
+il existe ces outils pour PDF.
+
+00:02:22.040 --> 00:02:26.600
+Acrobat Pro
+propose un vérificateur d'accessibilité
+
+00:02:26.840 --> 00:02:29.520
+et nous en trouverons
+des externes à Acrobat Pro.
+
+00:02:29.680 --> 00:02:33.400
+Levérificateur d'accessibilité
+PDF Accessibility Shaker
+
+00:02:33.560 --> 00:02:34.920
+fonctionne sous Windows,
+
+00:02:35.320 --> 00:02:37.240
+affiche des prévisualisations
+
+00:02:37.400 --> 00:02:41.240
+et fait un rapport d'erreurs
+avec une localisation de la source
+
+00:02:41.400 --> 00:02:45.240
+et des outils utilisables
+par tous les utilisateurs.
+
+00:02:45.680 --> 00:02:48.440
+Le vérificateur d'accessibilité
+CommonLook
+
+00:02:48.600 --> 00:02:51.520
+fonctionne très bien sur PDF.
+
+00:02:53.080 --> 00:02:56.880
+Pour terminer,
+revenons à notre étude WebAIM,
+
+00:02:57.040 --> 00:03:01.280
+notre fil conducteur
+retrouvé dans les séquences précédentes,
+
+00:03:01.440 --> 00:03:04.240
+qui s'intéresse
+à l'accessibilité des fichiers PDF.
+
+00:03:04.960 --> 00:03:06.560
+Ici les utilisateurs,
+
+00:03:06.720 --> 00:03:11.640
+composés pour les trois quarts
+de personnes vivant en Amérique du Nord
+
+00:03:11.920 --> 00:03:14.840
+et de 90 % de personnes
+en déficience visuelle.
+
+00:03:15.000 --> 00:03:17.720
+Il y a à peu près égalité
+
+00:03:18.160 --> 00:03:23.240
+entre ce qui est facile en accessibilité
+et ce qui est difficile.
+
+00:03:23.640 --> 00:03:28.040
+En termes de bilan
+de cette séquence,
+
+00:03:28.800 --> 00:03:31.520
+nous avons vu
+depuis le début de ce cours
+
+00:03:31.680 --> 00:03:35.840
+qu'il existe des fonctionnalités,
+des normes, des recommandations
+
+00:03:36.000 --> 00:03:38.600
+facilitant l'accessibilité numérique.
+
+00:03:39.680 --> 00:03:41.880
+Souvent basées sur du bon sens,
+
+00:03:42.040 --> 00:03:47.160
+elles sont utiles aux utilisateurs,
+concepteurs et développeurs.
+
+00:03:48.080 --> 00:03:51.880
+La plupart d'entre elles
+sont peu connues
+
+00:03:52.040 --> 00:03:55.000
+et utilisées ou réutilisées.
+
+00:03:56.840 --> 00:03:59.400
+Deuxième constatation,
+
+00:03:59.560 --> 00:04:03.800
+elles concernent les situations
+de handicap sensori-moteur.
+
+00:04:05.320 --> 00:04:07.080
+Dernière constatation,
+
+00:04:07.240 --> 00:04:10.240
+elles ne sont pas adaptées
+aux handicaps multiples.
+
+00:04:11.400 --> 00:04:14.560
+C'est pour ces raisons
+que la prochaine semaine,
+
+00:04:14.720 --> 00:04:18.120
+nous vous présenterons
+des méthodes de conception
+
+00:04:18.280 --> 00:04:21.760
+de nouveaux outils,
+normes et produits
+
+00:04:22.160 --> 00:04:25.480
+véritablement dédiés à l'accessibilité
+
+00:04:25.640 --> 00:04:29.680
+en prenant en compte
+des handicaps différents et multiples
+
+00:04:29.840 --> 00:04:33.840
+et en prenant en compte l'utilisateur
+et ses capacités.

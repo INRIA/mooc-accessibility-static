@@ -1,0 +1,333 @@
+﻿WEBVTT
+
+00:00:07.440 --> 00:00:10.160
+Pascal vous a présenté l'existant
+
+00:00:10.320 --> 00:00:13.360
+en termes de principes
+et aides logicielles
+
+00:00:13.520 --> 00:00:15.680
+pour les personnes
+en situation de handicap.
+
+00:00:16.440 --> 00:00:20.880
+Cette semaine sera consacrée
+aux méthodes de conception et d'évaluation
+
+00:00:21.040 --> 00:00:24.720
+quand on veut créer
+de nouvelles solutions numériques
+
+00:00:24.880 --> 00:00:27.360
+pour les personnes
+en situation de handicap.
+
+00:00:28.000 --> 00:00:31.800
+Cette semaine, on va aborder
+
+00:00:31.960 --> 00:00:35.920
+les principes des méthodes
+de conception centrées utilisateur,
+
+00:00:36.080 --> 00:00:38.440
+puis on fera un focus
+sur les méthodes
+
+00:00:38.600 --> 00:00:41.320
+ciblant les personnes
+en situation de handicap.
+
+00:00:41.480 --> 00:00:44.400
+On terminera
+par les méthodes d'évaluation
+
+00:00:44.560 --> 00:00:46.680
+de l'accessibilité numérique.
+
+00:00:46.840 --> 00:00:51.400
+Nous verrons les principes
+de conception centrée utilisateur.
+
+00:00:51.800 --> 00:00:56.160
+Les solutions numériques
+sont développées et conçues
+
+00:00:56.320 --> 00:00:59.080
+par des informaticiens ingénieurs
+
+00:00:59.240 --> 00:01:04.040
+et ces professionnels sont peu sensibilisés
+aux facteurs humains,
+
+00:01:04.200 --> 00:01:08.520
+en particulier
+à l'accessibilité numérique
+
+00:01:08.680 --> 00:01:10.920
+pour les personnes
+en situation de handicap.
+
+00:01:11.080 --> 00:01:13.840
+Quand ils le sont,
+
+00:01:14.000 --> 00:01:17.800
+ils s'y pencheront en fin de cycle
+de conception de la solution
+
+00:01:17.960 --> 00:01:21.400
+et ils mettront
+des solutions rustines
+
+00:01:21.560 --> 00:01:25.880
+plutôt que de penser en amont
+à l'accessibilité de la solution
+
+00:01:26.040 --> 00:01:30.360
+pour correspondre aux besoins
+des personnes en situation de handicap.
+
+00:01:30.880 --> 00:01:35.200
+La conséquence
+d'une telle approche de conception,
+
+00:01:35.360 --> 00:01:38.240
+qu'on qualifie de techno-centrée,
+
+00:01:38.400 --> 00:01:41.760
+c'est que ce sont plutôt
+les personnes technophiles
+
+00:01:41.920 --> 00:01:45.760
+qui vont adopter la solution,
+puis le grand public
+
+00:01:45.920 --> 00:01:49.960
+et si ça correspond à certaines
+personnes en situation de handicap,
+
+00:01:50.120 --> 00:01:54.640
+certaines personnes en situation
+de handicap adopteront la solution.
+
+00:01:54.800 --> 00:01:58.200
+Néanmoins,
+ce type de solutions crée une fracture,
+
+00:01:58.360 --> 00:02:02.800
+une exclusion des personnes
+en situation de handicap
+
+00:02:02.960 --> 00:02:05.120
+puisqu'elles ne sont pas
+pensées pour eux.
+
+00:02:05.360 --> 00:02:08.800
+Une alternative à cela
+
+00:02:08.960 --> 00:02:12.280
+sont les démarches
+de conception centrée utilisateur.
+
+00:02:12.600 --> 00:02:17.320
+Cette démarche de conception
+centrée utilisateur,
+
+00:02:17.960 --> 00:02:21.720
+on la doit aux travaux réalisés
+dans le champ de l'ergonomie
+
+00:02:21.880 --> 00:02:24.360
+des Interfaces Homme Machine, IHM,
+
+00:02:24.520 --> 00:02:26.920
+réalisés depuis les années 60.
+
+00:02:27.080 --> 00:02:30.720
+Vous avez une illustration
+des différents apports
+
+00:02:30.880 --> 00:02:33.520
+de ces travaux de cette discipline.
+
+00:02:33.680 --> 00:02:36.920
+Comme on le constate,
+l'accessibilité numérique
+
+00:02:37.080 --> 00:02:42.240
+a été un des 1ers champs
+où cette discipline a contribué
+
+00:02:42.400 --> 00:02:44.560
+et a été un des 1ers
+centres d'intérêt.
+
+00:02:44.720 --> 00:02:48.520
+Car dès les années 50,
+il y a eu des travaux sur l'accessibilité.
+
+00:02:48.680 --> 00:02:52.040
+Ça continue de l'être aujourd'hui.
+
+00:02:52.680 --> 00:02:55.240
+Je ne vais pas détailler ce schéma.
+
+00:02:55.400 --> 00:02:57.560
+Je vous laisse explorer
+
+00:02:57.720 --> 00:03:01.000
+la publication de Brangier
+et collaborateurs
+
+00:03:01.160 --> 00:03:02.760
+pour connaître les détails.
+
+00:03:04.360 --> 00:03:07.080
+Voici une description généraliste
+
+00:03:07.240 --> 00:03:09.720
+de cette démarche centrée utilisateur.
+
+00:03:09.880 --> 00:03:13.280
+On va décrire cette démarche
+en trois phases
+
+00:03:13.440 --> 00:03:16.560
+correspondant
+à 3 grands objectifs à atteindre.
+
+00:03:17.640 --> 00:03:22.600
+C'est ce qu'on appelle l'analyse des besoins
+ou le recueil des besoins.
+
+00:03:22.760 --> 00:03:27.320
+Ce recueil des besoins
+va se faire selon différents modèles,
+
+00:03:27.480 --> 00:03:29.400
+le modèle de l'activité,
+
+00:03:29.560 --> 00:03:32.440
+il va s'agir de connaître les tâches
+
+00:03:32.600 --> 00:03:36.240
+réalisées avec le système numérique
+et les contextes
+
+00:03:36.400 --> 00:03:39.720
+pour intégrer
+les contraintes environnementales
+
+00:03:39.880 --> 00:03:42.080
+où sera utilisée la technologie.
+
+00:03:42.240 --> 00:03:45.640
+Il y aura des modèles
+plus centrés utilisateurs
+
+00:03:45.800 --> 00:03:50.920
+où l'on s'intéressera aux spécificités
+psychologiques des utilisateurs
+
+00:03:51.080 --> 00:03:53.640
+mais également
+spécificités médicales
+
+00:03:53.800 --> 00:03:56.560
+et à toute autre caractéristique
+
+00:03:56.720 --> 00:04:00.600
+pouvant contribuer à définir
+les besoins de la personne.
+
+00:04:01.160 --> 00:04:03.600
+Ces besoins étant définis,
+
+00:04:03.760 --> 00:04:06.960
+la deuxième étape va commencer.
+
+00:04:07.440 --> 00:04:12.120
+Ce sera l'étape où l'on concevra
+et dessinera la solution.
+
+00:04:12.280 --> 00:04:15.200
+Généralement, cette étape
+
+00:04:15.360 --> 00:04:18.440
+dans la plupart des études
+ou des industries,
+
+00:04:18.600 --> 00:04:23.440
+se fait selon une méthode
+de conception collaborative.
+
+00:04:23.600 --> 00:04:27.880
+On dit qu'on fait du codesign
+ou on coconstruit le projet,
+
+00:04:28.040 --> 00:04:30.920
+on va impliquer les futurs utilisateurs
+
+00:04:31.080 --> 00:04:33.840
+dans la conception du futur produit.
+
+00:04:34.160 --> 00:04:39.120
+Il s'agit soit de faire
+des maquettages,
+
+00:04:40.360 --> 00:04:42.960
+des analogues papiers
+du futur produit,
+
+00:04:43.120 --> 00:04:45.320
+voire des premiers prototypes.
+
+00:04:45.480 --> 00:04:49.200
+On commencera à faire
+des pré-évaluations de ce produit
+
+00:04:49.960 --> 00:04:52.960
+en termes d'accessibilité
+auprès de personnes
+
+00:04:53.120 --> 00:04:55.960
+participant au processus
+de conception.
+
+00:04:56.280 --> 00:04:59.200
+Enfin, dernière étape,
+c'est l'évaluation
+
+00:04:59.360 --> 00:05:03.280
+où seront déployées des méthodes
+d'évaluations spécifiques
+
+00:05:03.440 --> 00:05:07.440
+et des méthodes qui adresseront
+des critères ergonomiques
+
+00:05:07.600 --> 00:05:10.040
+tels que l'utilisabilité, l'utilité.
+
+00:05:10.200 --> 00:05:12.880
+En fonction des résultats obtenus,
+
+00:05:13.400 --> 00:05:15.840
+ce cycle de conception
+sera réitéré
+
+00:05:16.000 --> 00:05:18.160
+jusqu'à obtenir
+des résultats concluants
+
+00:05:18.320 --> 00:05:22.360
+et favorables en termes
+d'accessibilité numérique.
+
+00:05:22.520 --> 00:05:26.800
+Dans la séquence suivante,
+nous aborderons plus en détail
+
+00:05:26.960 --> 00:05:31.560
+les différentes méthodes des familles
+de conception centrée utilisateur.

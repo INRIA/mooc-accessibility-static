@@ -1,0 +1,192 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:32.000
+<h1>Accessibilité numérique</h1>
+    <ol>
+      <li>Introduction</li>
+      <li>L’accessibilité des systèmes numériques</li>
+      <li><strong>L’accessibilité des contenus</strong></li>
+      <li>Les méthodes de conception</li>
+      <li>Les assistances technologiques</li>
+    </ol>
+
+2
+00:00:32.000 --> 00:00:56.000
+<h1>3. L’accessibilité des contenus</h1>
+    <ul>
+      <li>L’accessibilité du Web via W3C</li>
+      <li>Les recommandations WCAG</li>
+      <li>Les autres recommandations WAI</li>
+      <li>L’accessibilité des sites web</li>
+      <li>Les documents Microsoft Office</li>
+      <li>Les documents PDF</li>
+    </ul>
+
+3
+00:00:56.000 --> 00:00:57.000
+<h1>3. L’accessibilité des contenus</h1>
+    <ul>
+      <li><strong>L’accessibilité du Web via W3C</strong></li>
+      <li>Les recommandations WCAG</li>
+      <li>Les autres recommandations WAI</li>
+      <li>L’accessibilité des sites web</li>
+      <li>Les documents Microsoft Office</li>
+      <li>Les documents PDF</li>
+    </ul>
+
+4
+00:00:57.000 --> 00:01:15.000
+<h1>Introduction</h1>
+    <h2>L’accessibilité numérique commence par…</h2>
+    <ul>
+      <li>Les équipements et mécanismes d’interface</li>
+      <li>Les systèmes d’exploitation</li>
+      <li>Les logiciels génériques</li>
+    </ul>
+    <h2>…et continue par les contenus</h2>
+    <ul>
+      <li>Web : W3C (WAI, WCAG)</li>
+      <li>Documents génériques : Word, PDF </li>
+    </ul>
+
+5
+00:01:15.000 --> 00:02:02.000
+<h1>L’accessibilité du Web - 1</h1>
+<h2>Le web</h2>
+<ul>
+  <li>C’est une véritable révolution dans nos vies</li>
+  <li>Il peut/pourrait l’être en particulier pour les PSH</li>
+</ul>
+<h2>Exemple : lire un journal</h2>
+<ul>
+  <li>Autrefois : les PSH (visuel, moteur) étaient dépendants d’autres personnes</li>
+  <li>Aujourd’hui : lecteurs d’écran, équipements d’interface</li>
+</ul>
+
+6
+00:02:02.000 --> 00:02:33.000
+<h1>L’accessibilité du Web - 2</h1>
+<h2>Constat</h2>
+<ul>
+  <li>En dépit de ce potentiel immense offert par le Web, trop peu de véritables applications accessibles</li>
+  <li>Il existe des navigateurs (avec ou sans outils additionnels) avec des fonctions d’accessibilité mais si les
+    contenus ne le sont pas : échec</li>
+  <li>Problème : comment faire ?</li>
+  <li>Le Web est-il organisé ? Si oui, comment ?</li>
+</ul>
+
+7
+00:02:33.000 --> 00:03:27.000
+<h1>World Wide Web Consortium - 1</h1>
+<h2>W3C</h2>
+<ul>
+  <li>Communauté internationale
+    <ul>
+      <li>composée de personnels W3C, d’organisations et du public </li>
+      <li>vise à assurer le bon fonctionnement du Web</li>
+      <li>travaille collectivement pour développer des standards (protocoles, recommandations) compatibles : HTML,
+        XML, CSS…</li>
+    </ul>
+  </li>
+  <li>Fondé en 1994 et animé par Tim Berners-Lee</li>
+</ul>
+
+8
+00:03:27.000 --> 00:04:48.000
+<h1>World Wide Web Consortium - 2</h1>
+<h2>Principes de conception</h2>
+<ul>
+  <li>Standards ouverts </li>
+  <li>Web pour tous (pour lutter contre les fractures) : WAI</li>
+  <li>Web partout (Internet des objets)</li>
+</ul>
+<h2>Vision</h2>
+<ul>
+  <li>Web pour une interaction riche (pas uniquement en lecture)</li>
+  <li>Web des données et des services (web sémantique)</li>
+  <li>Web digne de confiance</li>
+</ul>
+
+9
+00:04:48.000 --> 00:05:43.000
+<h1>Web Accessibility Initiative</h1>
+<h2>WAI</h2>
+<ul>
+  <li>Se réfère à la Convention ONU sur les Droits des PSH (accès au monde numérique) </li>
+  <li>Regroupe des entreprises, des chercheurs, des utilisateurs, des associations</li>
+  <li>Développe des stratégies, des recommandations, des ressources pour rendre le web accessible aux PSH</li>
+  <li>Travaille en anglais mais nombreuses traductions (par exemple BrailleNet pour le français) régies par une
+    politique d’autorisation</li>
+</ul>
+
+10
+00:05:43.000 --> 00:06:23.000
+<h1>WAI - 1</h1>
+<h2>Composants</h2>
+<ul>
+  <li>Développeurs : conçoivent des contenus grâce à des outils d’édition</li>
+  <li>Contenus (informations et services dans les pages web)</li>
+  <li>Utilisateurs : accèdent aux contenus via des navigateurs [et des assistances]</li>
+</ul>
+<img src="/Images/W3-10.png" alt="W3C technical specifications" class="width50" />
+<p>W3C technical specifications © W3C</p>
+
+11
+00:06:23.000 --> 00:06:59.000
+<h1>WAI - 2</h1>
+<h2>Liste de recommandations</h2>
+<ul>
+  <li>Accessibility Guidelines (AG)
+    <ul>
+      <li>ATAG (Authoring Tool AG) : systèmes d’édition (CMS…)</li>
+      <li>WCAG (Web Content AG) : contenus </li>
+      <li>UAAG (User Agent AG) : clients (navigateurs…)</li>
+    </ul>
+  </li>
+  <li>Basées sur les spécifications techniques du W3C (HTML, XML, CSS..)</li>
+</ul>
+
+12
+00:06:59.000 --> 00:07:23.000
+<h1>WAI AGE</h1>
+<h2>Ageing Education and Harmonisation</h2>
+<ul>
+  <li>2009-2010</li>
+  <li>Deux étapes
+    <ul>
+      <li>état de l’art (littérature scientifique, 150 études)</li>
+      <li>recommandations pour des sites accessibles aux personnes âgées</li>
+    </ul>
+  </li>
+</ul>
+
+13
+00:07:23.000 --> 00:07:25.000
+<h1>Ressources</h1>
+<p>W3C Mission. W3C. URL : missions du W3C: <a href="https://www.w3.org/Consortium/mission">missions du W3C
+  </a></p>
+<p>Web Accessibility Initiative (WAI). W3C. URL : <a href="https://www.w3.org/WAI/">présentation de la WAI</a></p>
+<p>WAI-AGE Project - WAI Guidelines and Older Web Users: Findings from a Literature Review. W3C. URL : <a
+    href="http://www.w3.org/WAI/WAI-AGE/comparative.html">projet WAI-AGE</a></p>
+</div>
+<div class="slide">
+<h1>Crédits illustrations</h1>
+<p>W3C technical specifications. © W3C. URL : <a
+    href="http://www.w3.org/WAI/intro/components-desc.html">spécifications techniques W3C</a></p>
+
+14
+00:07:25.000 --> 00:07:31.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

@@ -1,0 +1,500 @@
+﻿WEBVTT
+
+00:00:00.080 --> 00:00:04.600
+Je vous ai présenté des exemples
+d’équipements, d’interfaces,
+
+00:00:04.760 --> 00:00:09.600
+facilitant les systèmes numériques
+pour des personnes en situation de handicap.
+
+00:00:09.840 --> 00:00:12.920
+Je vais maintenant vous présenter
+
+00:00:13.080 --> 00:00:15.880
+quelques mécanismes d’interfaces
+
+00:00:16.040 --> 00:00:20.680
+qui seront utilisés
+dans les prochaines séquences
+
+00:00:20.920 --> 00:00:23.840
+dans des systèmes d’exploitation
+ou logiciels.
+
+00:00:25.680 --> 00:00:27.680
+Pour vous les présenter,
+
+00:00:27.840 --> 00:00:30.400
+nous nous référerons
+à ce qui a été présenté
+
+00:00:30.560 --> 00:00:34.600
+la première semaine
+sur l’amélioration de l’accessibilité,
+
+00:00:34.760 --> 00:00:38.600
+en augmentant le signal
+dans un logiciel.
+
+00:00:39.240 --> 00:00:41.040
+Cela peut se faire
+visuellement.
+
+00:00:41.200 --> 00:00:44.000
+Nous retrouverons
+dans la plupart des logiciels
+
+00:00:44.160 --> 00:00:46.720
+des systèmes de loupe
+pour zoomer
+
+00:00:46.880 --> 00:00:49.600
+sur une partie
+ou la totalité de l’écran.
+
+00:00:50.120 --> 00:00:54.400
+Des fonctionnalités augmentant
+la taille de ces caractères.
+
+00:00:54.560 --> 00:00:56.240
+Même si on en parle moins,
+
+00:00:56.400 --> 00:01:00.200
+cela permettra de modifier
+la forme du caractère, sa couleur,
+
+00:01:00.360 --> 00:01:04.880
+mais aussi les contrastes
+avec lesquels il est affiché.
+
+00:01:06.240 --> 00:01:10.560
+Si nous prenons des exemples
+de signaux sonores,
+
+00:01:10.720 --> 00:01:12.760
+plusieurs techniques
+
+00:01:12.920 --> 00:01:15.920
+sont basées
+sur l’augmentation du volume
+
+00:01:16.080 --> 00:01:21.200
+et la capacité à produire
+des alternatives visuelles
+
+00:01:21.520 --> 00:01:22.960
+à des signaux sonores.
+
+00:01:23.880 --> 00:01:26.720
+2ème principe introduit par Hélène :
+
+00:01:26.880 --> 00:01:30.040
+faciliter l’acquisition
+et le traitement de l’information.
+
+00:01:30.480 --> 00:01:34.440
+Nous trouverons
+un certain nombre de mécanismes
+
+00:01:34.600 --> 00:01:39.160
+permettant de ralentir le flux
+d’informations défilant à l'écran.
+
+00:01:40.040 --> 00:01:44.880
+La capacité à répéter des informations,
+des consignes, des alertes.
+
+00:01:45.600 --> 00:01:49.960
+Enfin,
+à réduire les distracteurs d’attention,
+
+00:01:50.120 --> 00:01:52.960
+tous les signaux et messages
+
+00:01:53.120 --> 00:01:55.640
+qui vont encombrer l'écran
+
+00:01:55.800 --> 00:01:58.680
+et qui ne sont pas indispensables.
+
+00:01:58.840 --> 00:02:02.040
+Des systèmes permettent
+de les supprimer
+
+00:02:02.200 --> 00:02:04.680
+quand ils ne sont pas nécessaires.
+
+00:02:07.000 --> 00:02:08.680
+Arrêtons-nous maintenant
+
+00:02:08.840 --> 00:02:12.080
+sur des techniques
+dites de reconnaissance vocale.
+
+00:02:12.240 --> 00:02:14.760
+En anglais,
+c'est le "speech to text".
+
+00:02:15.280 --> 00:02:17.160
+Ces techniques existent
+
+00:02:17.320 --> 00:02:19.920
+au sein des laboratoires de Bell.
+
+00:02:20.080 --> 00:02:22.320
+Depuis les années 50,
+
+00:02:22.480 --> 00:02:27.640
+ce système a été développé
+et utilisé de façon expérimentale.
+
+00:02:28.240 --> 00:02:31.200
+Aujourd’hui
+nous l’utilisons couramment
+
+00:02:31.360 --> 00:02:34.160
+dans nos téléphones
+pour gérer notre messagerie,
+
+00:02:34.320 --> 00:02:36.640
+supprimer des messages, etc.
+
+00:02:37.960 --> 00:02:39.760
+Dans les situations de handicap,
+
+00:02:39.920 --> 00:02:43.280
+nous voyons un certain nombre
+de situations
+
+00:02:43.440 --> 00:02:47.080
+où utiliser ces systèmes
+de reconnaissance vocale.
+
+00:02:47.240 --> 00:02:51.400
+Pour saisir des commandes, des textes,
+
+00:02:51.560 --> 00:02:55.880
+pour des personnes
+avec une déficience de motricité
+
+00:02:56.120 --> 00:02:58.320
+ayant du mal à saisir des textes.
+
+00:02:58.480 --> 00:03:01.960
+Pouvoir commander
+un logiciel avec la voix
+
+00:03:02.120 --> 00:03:05.240
+sera dans ce cas
+une solution plus aisée.
+
+00:03:06.880 --> 00:03:10.520
+Au-delà de ces troubles
+de la motricité,
+
+00:03:10.680 --> 00:03:14.120
+évoquons des troubles
+de l’audition ou de la vision,
+
+00:03:14.280 --> 00:03:16.480
+du langage ou de l’écriture,
+
+00:03:16.640 --> 00:03:21.320
+facilités avec des systèmes
+de reconnaissance vocale
+
+00:03:21.480 --> 00:03:25.360
+pour déboucher
+sur un travail mains libres
+
+00:03:25.520 --> 00:03:28.600
+et automatiser des commandes
+
+00:03:28.760 --> 00:03:31.480
+comme nous l’avons évoqué
+précédemment.
+
+00:03:33.000 --> 00:03:36.680
+Donnons,
+sans faire de liste exhaustive
+
+00:03:36.840 --> 00:03:41.840
+ou donner de meilleurs produits,
+
+00:03:42.280 --> 00:03:45.920
+quelques exemples de logiciels
+dans ce domaine.
+
+00:03:46.120 --> 00:03:49.600
+En commençant par Dragon,
+qui est multi-plate-forme,
+
+00:03:49.760 --> 00:03:54.160
+et utilisable
+sur différentes formes d’ordinateurs.
+
+00:03:54.320 --> 00:03:56.520
+Caractéristique intéressante :
+
+00:03:56.680 --> 00:04:00.560
+il a une boîte à outils disponible
+pour les programmeurs
+
+00:04:01.160 --> 00:04:04.920
+pour pouvoir insérer
+des fonctionnalités de Dragon
+
+00:04:05.080 --> 00:04:06.680
+dans leurs logiciels.
+
+00:04:07.840 --> 00:04:09.800
+Citons l’outil Dictation,
+
+00:04:09.960 --> 00:04:13.040
+qui est intégré au navigateur
+Internet Chrome
+
+00:04:13.200 --> 00:04:15.480
+et qui est assez utilisé.
+
+00:04:15.640 --> 00:04:18.400
+Ou encore i-Communicator
+
+00:04:18.560 --> 00:04:21.400
+qui propose des sorties du système,
+
+00:04:21.560 --> 00:04:23.240
+sous forme de texte
+
+00:04:23.400 --> 00:04:28.040
+et sous forme de langage des signes
+pour ceux qui l'utilisent.
+
+00:04:28.720 --> 00:04:32.600
+Passons aux outils basés
+sur une synthèse vocale,
+
+00:04:33.000 --> 00:04:35.400
+le "text to speech".
+
+00:04:35.560 --> 00:04:40.360
+C’est une technologie qui existe
+depuis très longtemps
+
+00:04:40.520 --> 00:04:43.280
+au sein du MIT,
+une université près de Boston,
+
+00:04:43.440 --> 00:04:45.080
+ou des Bell labs.
+
+00:04:45.760 --> 00:04:48.440
+Cette technologie
+est utilisée couramment
+
+00:04:48.600 --> 00:04:53.040
+dans nos GPS, qui nous guident
+avec une voix synthétique.
+
+00:04:53.880 --> 00:04:57.480
+Dans le domaine du handicap,
+cette technologie
+
+00:04:57.640 --> 00:05:01.000
+peut être utilisée
+pour percevoir de façon auditive
+
+00:05:01.160 --> 00:05:03.640
+des informations textuelles
+
+00:05:03.800 --> 00:05:05.160
+comme celles du Web
+
+00:05:05.320 --> 00:05:09.440
+pour des personnes
+avec des déficiences visuelles.
+
+00:05:10.080 --> 00:05:14.040
+Nous verrons que cette technologie
+sera utilisée, insérée,
+
+00:05:14.200 --> 00:05:17.120
+dans les lecteurs d’écran.
+
+00:05:17.280 --> 00:05:21.560
+Ces systèmes permettent de traduire
+sous une forme audible,
+
+00:05:21.720 --> 00:05:25.720
+sous forme d’une voix,
+des messages sous forme de texte.
+
+00:05:25.880 --> 00:05:28.800
+Des messages d’information,
+des contenus,
+
+00:05:28.960 --> 00:05:32.520
+pourront être synthétisés
+de façon vocale
+
+00:05:32.680 --> 00:05:34.600
+pour les rendre accessibles,
+
+00:05:34.960 --> 00:05:39.760
+bien au-delà des personnes
+avec des troubles de la vision.
+
+00:05:39.920 --> 00:05:44.920
+Il est possible d'utiliser,
+pour des personnes ayant du mal à lire,
+
+00:05:45.080 --> 00:05:46.640
+ce genre de technologie.
+
+00:05:46.800 --> 00:05:49.320
+Mentionnons quelques produits
+
+00:05:49.480 --> 00:05:53.320
+comme Jaws,
+qui est le système le plus utilisé
+
+00:05:53.480 --> 00:05:56.600
+et qui produit de la parole
+ou du braille
+
+00:05:56.760 --> 00:06:01.440
+pour les personnes utilisant le braille
+à travers des transcripteurs.
+
+00:06:01.600 --> 00:06:03.880
+Citons également le produit NVNA,
+
+00:06:04.040 --> 00:06:07.520
+qui a l’avantage d’être libre
+et très utilisé.
+
+00:06:07.800 --> 00:06:11.920
+Ou des systèmes récents,
+qui progressent en nombre d’utilisateurs
+
+00:06:12.080 --> 00:06:14.080
+comme Zoomtext
+ou Windows Eyes.
+
+00:06:14.240 --> 00:06:16.720
+Pour conclure, arrêtons-nous
+
+00:06:16.880 --> 00:06:21.400
+sur les possibilités de mutualisation
+de ces différentes techniques.
+
+00:06:21.960 --> 00:06:24.960
+L’idée est de dire
+que ces technologies
+
+00:06:25.120 --> 00:06:28.360
+ont été utilisées
+dans 1 cas de situation de handicap
+
+00:06:28.520 --> 00:06:31.240
+mais qu’elles sont utilisables
+dans d’autres.
+
+00:06:31.600 --> 00:06:35.400
+Cette mutualisation
+est trop peu réalisée.
+
+00:06:35.560 --> 00:06:39.840
+Il faut s’y intéresser
+et les rechercher en permanence.
+
+00:06:40.160 --> 00:06:41.720
+Prenons par exemple,
+
+00:06:42.600 --> 00:06:45.560
+la technologie
+de reconnaissance vocale.
+
+00:06:46.120 --> 00:06:50.760
+Elle est utilisable pour les personnes
+avec un handicap auditif.
+
+00:06:50.920 --> 00:06:55.720
+Au-delà de ça,
+des personnes avec une motricité réduite
+
+00:06:55.880 --> 00:07:00.080
+seront enclins à utiliser
+cette reconnaissance vocale.
+
+00:07:00.640 --> 00:07:03.640
+Des personnes
+ayant des difficultés à s’exprimer
+
+00:07:03.800 --> 00:07:06.800
+auront également
+un intérêt à l'utiliser,
+
+00:07:07.240 --> 00:07:10.120
+comme les collégiens,
+lycéens et étudiants
+
+00:07:10.280 --> 00:07:14.200
+ayant des troubles du langage
+ou de l’écriture.
+
+00:07:14.360 --> 00:07:15.720
+On voit qu’un outil
+
+00:07:15.880 --> 00:07:20.440
+permettant de traduire
+automatiquement en texte,
+
+00:07:20.600 --> 00:07:23.640
+ce qu’explique un enseignant
+à un moment donné,
+
+00:07:23.800 --> 00:07:27.480
+les aide à se concentrer
+sur le discours de l’enseignant
+
+00:07:27.640 --> 00:07:30.040
+et non pas sur la tâche d’écriture.
+
+00:07:30.440 --> 00:07:33.040
+Regardons la synthèse vocale.
+
+00:07:33.200 --> 00:07:37.920
+Cette technologie sera utile
+pour des personnes avec troubles de la vision,
+
+00:07:38.080 --> 00:07:40.560
+mais aussi pour des personnes
+
+00:07:40.720 --> 00:07:44.200
+ayant des difficultés
+à lire ou à s’exprimer
+
+00:07:44.360 --> 00:07:46.320
+en utilisant une aide numérique
+
+00:07:46.480 --> 00:07:50.000
+pour combler leur déficit
+en termes de parole.
+
+00:07:50.160 --> 00:07:53.320
+Dans la prochaine séquence,
+je vous présenterai
+
+00:07:53.480 --> 00:07:56.520
+des logiciels en termes
+de système d’exploitation.
+
+00:07:56.720 --> 00:08:00.640
+La plupart de ces systèmes
+proposent des aides basées
+
+00:08:00.800 --> 00:08:04.400
+sur les principes évoqué
+dans cette séquence.

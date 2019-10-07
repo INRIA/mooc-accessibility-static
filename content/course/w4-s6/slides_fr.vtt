@@ -1,0 +1,86 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.000
+<h1>4. Les méthodes de conception</h1>
+<ul>
+  <li>Démarche de conception centrée utilisateur </li>
+  <li>Méthodes centrées - Utilisateurs </li>
+  <li>Approches centrées - PSH : méthodes classiques </li>
+  <li>Approches centrées - PSH : méthodes récentes </li>
+  <li>Méthodes d’évaluation : ergonomie de l’interface </li>
+  <li><strong>Exemples d’évaluation de l’ergonomie des interfaces </strong></li>
+  <li>Méthodes d’évaluation : auto-détermination </li>
+  <li>Exemples d’auto-détermination</li>
+</ul>
+
+2
+00:00:07.000 --> 00:02:22.000
+<h1>Exemple - système notification DomAssist</h1>
+<h2>Notification Critique vs. Non Critique</h2>
+<ul>
+  <li>Format (couleur, forme) </li>
+  <li>Sonnerie</li>
+</ul>
+<p><img src="/Images/W4-150et160.png" alt="Système de notification - Alerte et Rappel" /></p>
+<p>© Interstices 2016, Phoenix / Inria</p>
+
+3
+00:02:22.000 --> 00:03:17.000
+<h1>Utilisabilité et rapidité d’apprentissage</h1>
+<h2><img src="/Images/W4-170.png" alt="Graphique : Apprentissage du comportement d’interaction avec le système d’assistance" /></h2>
+<p>© Interstices 2016, Phoenix / Inria</p>
+
+4
+00:03:17.000 --> 00:04:21.000
+<h1>Expérience des participants âgés</h1>
+<h2> </h2>
+<p><img src="/Images/W4-180.png" alt="Graphique : Dimensions de l’Expérience Utilisateur" /></p>
+<p> </p>
+<p>Dimensions de l’Expérience Utilisateur © Interstices 2016, Inria
+</p>
+
+5
+00:04:21.000 --> 00:04:23.000
+<h1>Ressources</h1>
+<p>Dupuy L., Consel C., Sauzéon H. Une assistance numérique pour les personnes âgées : le projet DomAssist (Fév.
+  2016). Interstices. URL : <a
+    href="https://interstices.info/jcms/p_82365/une-assistance-numerique-pour-les-personnes-agees-le-projet-domassist">article
+    : « Une assistance numérique pour les personnes âgées…» </a></p>
+<p>Consel C., Dupuy L., Sauzéon H. (Oct. 2015). A Unifying Notification System To Scale Up Assistive Services. In
+  ASSETS-The 17th International ACM SIGACCESS Conference on Computers and Accessibility. URL : <a
+    href="https://hal.inria.fr/hal-01225637">article HAL : « A Unifying Notification System To Scale Up Assistive
+    Services »</a></p>
+<p><br>
+</p>
+
+6
+00:04:23.000 --> 00:04:25.000
+<h1>Crédits illustrations</h1>
+<p>7A : Efficacité d’utilisation et 7B: Apprentissage du comportement d’interaction avec le système d’assistance ©
+  Interstices 2016 / Inria. URL : <a
+    href="https://interstices.info/jcms/p_82365/une-assistance-numerique-pour-les-personnes-agees-le-projet-domassist">image
+    : comportement d’interaction avec le système d’assistance </a></p>
+<p>Captures d’écran DomAssist © Interstices 2016 / Inria. URL :<a
+    href="https://interstices.info/jcms/p_82365/une-assistance-numerique-pour-les-personnes-agees-le-projet-domassist">
+    captures d’écran DomAssist </a></p>
+<p>Dimensions de l’Expérience Utilisateur © Interstices 2016, Inria. URL: <a
+    href="https://interstices.info/jcms/p_82365/une-assistance-numerique-pour-les-personnes-agees-le-projet-domassist">image
+    : projet DomAssist</a><br>
+</p>
+
+7
+00:04:25.000 --> 00:04:28.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

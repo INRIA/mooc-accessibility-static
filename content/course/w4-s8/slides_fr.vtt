@@ -1,0 +1,62 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.000
+<h1>4. Les méthodes de conception</h1>
+<ul>
+  <li>Démarche de conception centrée utilisateur </li>
+  <li>Méthodes centrées - Utilisateurs </li>
+  <li>Approches centrées - PSH : méthodes classiques </li>
+  <li>Approches centrées - PSH : méthodes récentes </li>
+  <li>Méthodes d’évaluation : ergonomie de l’interface </li>
+  <li>Exemples d’évaluation de l’ergonomie des interfaces </li>
+  <li>Méthodes d’évaluation : auto-détermination </li>
+  <li><strong>Exemples d’auto-détermination</strong></li>
+</ul>
+
+2
+00:00:07.000 --> 00:02:04.000
+<h1>Exemple : impact DomAssist sur auto-détermination</h1>
+<h2> </h2>
+<img src="/Images/W4-220.png" alt="Schéme Impact DomAssist : 9A : Autonomie comportementale ; 9B : Autorégulation ; 9C : Capacité psychologique ; 9D : Autoréalisation" />
+<p>© Interstices 2016, Inria</p>
+
+3
+00:02:04.000 --> 00:04:33.000
+<h1>Exemple : assistance et déficience intellectuelle - 1</h1>
+<img src="/Images/W4-230to250.png" alt="Pique-Nique : lecture des consignes" />
+<p>© Lussier-Desrochers D et al., 2016</p>
+
+4
+00:04:33.000 --> 00:05:46.000
+<h1>Exemple : assistance et déficience intellectuelle - 2</h1>
+<h2> </h2>
+<img src="/Images/W4-260to290.png" alt="Exemple d'assistance pour l'action 'Quitter son domicile'" />
+<p>© Lussier-Desrochers D et al., 2016</p>
+
+5
+00:05:46.000 --> 00:05:49.000
+<h1>Ressources</h1>
+<p>Lussier-Desrochers D. et al. Analysis of how people with intellectual disabilities organize information using
+  computerized guidance (2016). Disability and Rehabilitation: Assistive Technology, p. 1-10. URL : article HAL :
+  « <a href="https://hal.inria.fr/hal-01251888">Analysis of how people with intellectual disabilities…</a>» </p>
+<p>Dupuy L., Consel C., Sauzéon H. Une assistance numérique pour les personnes âgées : le projet DomAssist (Fév.
+  2016). Interstices. URL : article : <a
+    href="https://interstices.info/jcms/p_82365/une-assistance-numerique-pour-les-personnes-agees-le-projet-domassist">« Une
+    assistance numérique pour les personnes âgées… »</a></p>
+
+6
+00:05:49.000 --> 00:05:51.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

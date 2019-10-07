@@ -1,0 +1,87 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:11.000
+<h1>1. Introduction </h1>
+<ul>
+  <li>Le handicap, de quoi parlons-nous ?</li>
+  <li>La situation en France</li>
+  <li>Historique et concept du handicap</li>
+  <li>Définition actuelle</li>
+  <li>L'accessibilité</li>
+  <li><strong>Le modèle environnemental de compensation - Principes</strong></li>
+  <li>Le modèle environnemental de compensation - Application</li>
+  <li>Objectifs et plan du cours</li>
+</ul>
+
+2
+00:00:11.000 --> 00:01:18.000
+<h1>Le modèle environnemental de compensation - 1 </h1>
+<h2>Une idée « de bon sens »</h2>
+<ul>
+  <li>Fournir une aide externe à la personne pour réaliser la tâche</li>
+</ul>
+<h2>Deux principes fondamentaux </h2>
+<ul>
+  <li>Diminuer la demande de la tâche </li>
+  <li>Optimiser les ressources /capacités de la personne</li>
+</ul>
+<img src="/Images/W1-80.png" alt="Modèle environnemental de compensation © Bäckman, Morrow & Rogers, Lidenberger" />
+<p>Modèle environnemental de compensation © Bäckman, Morrow &amp; Rogers,
+  Lidenberger</p>
+
+3
+00:01:18.000 --> 00:02:53.000
+<h1>Le modèle environnemental de compensation - 2</h1>
+<h2>Exemple : diminution de la demande de la tâche</h2>
+<ul>
+  <li>Augmenter le signal (ISO 2007) visuel (police, taille, couleur), sonore </li>
+  <li>Optimiser le traitement : ralentir le flux de l’information, répéter, réduire info…
+  </li>
+  <li>Externaliser la tâche : transcripteur, agenda, domotique… </li>
+</ul>
+<img src="/Images/W1-90.png" alt="Modèle environnemental de compensation © Bäckman, Morrow & Rogers, Lidenberger" />
+<p>Modèle environnemental de compensation © Bäckman, Morrow &amp; Rogers,
+  Lidenberger</p>
+
+4
+00:02:53.000 --> 00:04:16.000
+<h1>Le modèle environnemental de compensation - 3</h1>
+<h2>Exemple : optimisation des ressources de la personne </h2>
+<ul>
+  <li>Puiser dans les acquis : raisonner par analogie, apprendre sans erreurs… </li>
+  <li>Guider la personne dans l’exploitation de ses ressources : guidage attentionnel, aide à l’organisation,
+    planification d’une tâche…</li>
+</ul>
+<img src="/Images/W1-100.png"
+  alt="Modèle environnemental de compensation © Bäckman, Morrow & Rogers, Lidenberger" />
+<p>Modèle environnemental de compensation © Bäckman, Morrow &amp; Rogers,
+  Lidenberger</p>
+
+5
+00:04:16.000 --> 00:04:18.000
+<h1>Ressources</h1>
+<p>Bäckman L., Dixon R.A. Psychological compensation: A theoretical framework (1992). Psychological Bulletin,
+  112, p 1-25.</p>
+
+6
+00:04:18.000 --> 00:04:20.000
+<h1>Crédits illustrations </h1>
+<p>Modèle environnemental de compensation inspiré de © Bäckman, Morrow &amp; Rogers,
+  Lidenberger (voir slides ressources ci-dessus)</p>
+
+7
+00:04:20.000 --> 00:04:22.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

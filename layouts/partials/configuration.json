@@ -1,10 +1,10 @@
 {{ $media_sources := (.Params.player.sources) -}}
 {{ $media_sources_length := (len $media_sources) -}}
 {
-  "container": "#root",
+  "container": "#root"
   {{- if isset .Params "chapters" -}}
   {{ $chapters_sources := (.Params.chapters.sources) -}}
-  {{ $chapters_sources_length := (len $chapters_sources) }}
+  {{ $chapters_sources_length := (len $chapters_sources) }},
   "chapters": {
     "language": "fr",
     "sources": [

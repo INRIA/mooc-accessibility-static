@@ -1,0 +1,137 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:33.000
+<h1>5. Les assistances technologiques</h1>
+<ul>
+  <li>Introduction</li>
+  <li><strong>La Classification Internationale du Fonctionnement - 1</strong></li>
+  <li>La Classification Internationale du Fonctionnement - 2 </li>
+  <li>La Classification Internationale du Fonctionnement : exemple </li>
+  <li>Exemples d’assistances numériques </li>
+  <li>Conclusion générale</li>
+</ul>
+
+2
+00:00:33.000 --> 00:01:35.000
+<h1>Le modèle CIF - 1</h1>
+<p><img src="/Images/W5-40.png" alt="Modèle conceptuel CIF"></p>
+<p>Légende : Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
+
+3
+00:01:35.000 --> 00:02:25.000
+<h1>Le modèle CIF - 2</h1>
+<p><img src="/Images/W5-50.png" alt="Modèle conceptuel CIF"></p>
+<p>Légende : Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
+
+4
+00:02:25.000 --> 00:02:33.000
+<h1>Les déficiences - 1</h1>
+<p><img src="/Images/W5-60.png" alt="Modèle conceptuel CIF"></p>
+<p>Légende : Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
+
+5
+00:02:33.000 --> 00:03:18.000
+<h1>Les déficiences - 2</h1>
+<h2>Fonctions (<span>Extrait classification CIF)</span></h2>
+<ol>
+  <li>Mentales</li>
+  <li>Sensorielles (dont douleur)</li>
+  <li>De la voix et de la parole</li>
+  <li>Cardio-vasculaires, Hématopoïétiques, immunitaires, et respiratoires</li>
+  <li>Digestives, métaboliques et endocriniennes</li>
+  <li>Génito-urinaires, reproductives</li>
+  <li>Locomotrices et mouvement </li>
+  <li>De la peau, et structures associées</li>
+</ol>
+<div class="top-corner">
+  <p><img src="/Images/W5-80.png" alt="Modèle conceptuel CIF" width="450" height="275"></p>
+  <p>Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
+</div>
+
+6
+00:03:18.000 --> 00:04:40.000
+<h1>Les déficiences - 3</h1>
+<h2>Fonctions mentales (Extrait classification CIF)</h2>
+<ol>
+  <li>Globales
+    <ul>
+      <li> Conscience,</li>
+      <li>Orientation,</li>
+      <li>Intelligence,</li>
+      <li>Fonctionnement psychosocial, personnalité,</li>
+      <li>Sommeil, etc.</li>
+    </ul>
+  </li>
+  <li>Spécifiques<ul>
+      <li> Attention, </li>
+      <li>Mémoire,</li>
+      <li>Langage,</li>
+      <li>Raisonnement,</li>
+      <li>Emotions,</li>
+      <li>Contrôle moteur, etc</li>
+    </ul>
+  </li>
+</ol>
+<div class="top-corner">
+  <p><img src="/Images/W5-100.png" alt="Modèle conceptuel CIF" width="450" height="275"></p>
+  <p>Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
+</div>
+
+7
+00:04:40.000 --> 00:04:50.000
+<h1>Activités et Participation sociale - 1</h1>
+<p><img src="/Images/W5-110.png"
+    alt="Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)"></p>
+<p>Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
+
+8
+00:04:50.000 --> 00:05:32.000
+<h1>Activités et Participation sociale - 2</h1>
+<h2>9 domaines (<span>Extrait classification CIF)</span></h2>
+<ol>
+  <li>Apprentissage</li>
+  <li>Tâches et exigences simples et générales</li>
+  <li>Communication</li>
+  <li>Mobilité</li>
+  <li>Soins personnels</li>
+  <li>Vie domestique</li>
+  <li>Interactions sociales </li>
+  <li>Domaines de la vie (école, travail, loisirs, etc.)</li>
+  <li>Vie communautaire, sociale et civique</li>
+</ol>
+<div class="top-corner">
+  <p><img src="/Images/W5-130.png" alt="Modèle conceptuel CIF" width="450" height="275"></p>
+  <p>Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
+</div>
+
+9
+00:05:32.000 --> 00:05:34.000
+<h1>Ressources</h1>
+<p>Classification internationale du fonctionnement, du handicap et de la santé (CIF). OMS, 2001. 309 p. URL : <a
+    href="http://apps.who.int/iris/bitstream/10665/42418/1/9242545422_fre.pdf">classification internationale CIF -
+    OMS</a></p>
+<p>ICF browser. Classification internationale du fonctionnement, du handicap et de la santé (CIF). URL : <a
+    href="http://apps.who.int/classifications/icfbrowser/">moteur de recherche ICF </a></p>
+
+10
+00:05:34.000 --> 00:05:36.000
+<h1>Crédits illustrations</h1>
+<p>Modèle conceptuel CIF AVC © Classification internationale du fonctionnement (CIF) </p>
+<p>Schéma basé sur le Schéma conceptuel © Wood,1980 - Classification Internationale des Handicaps (CIH)</p>
+
+11
+00:05:36.000 --> 00:05:38.000
+<h3>Un cours proposé par</h3>
+<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<h3>et avec la collaboration de</h3>
+<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div>
+  L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
+  sous licence CC BY-NC-ND 3.0 France
+  <div><a
+      href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a>
+  </div>
+</div>

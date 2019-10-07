@@ -1,0 +1,505 @@
+﻿WEBVTT
+
+00:00:00.240 --> 00:00:03.000
+Je vous ai présenté
+des recommandations
+
+00:00:03.160 --> 00:00:06.840
+émanant de l'initiative
+d'accessibilité du W3C.
+
+00:00:07.600 --> 00:00:09.600
+Ce que je voudrais maintenant,
+
+00:00:09.760 --> 00:00:14.160
+c'est constater l'accessibilité réelle
+des sites web existants.
+
+00:00:14.320 --> 00:00:17.400
+Pour cela,
+je vais vous présenter plusieurs études
+
+00:00:17.760 --> 00:00:21.000
+analysant l'accessibilité
+des sites Web qui existent.
+
+00:00:22.480 --> 00:00:26.280
+Avant,
+je voudrais juste rajouter le fait
+
+00:00:26.440 --> 00:00:30.320
+que les recommandations du W3C
+que je vous ai présentées
+
+00:00:30.560 --> 00:00:34.600
+ont été traduites en normes,
+notamment par ISO.
+
+00:00:35.560 --> 00:00:38.040
+L'objectif de cette normalisation
+
+00:00:38.200 --> 00:00:42.120
+était d'augmenter leur visibilité
+en disposant d'un socle unique,
+
+00:00:42.280 --> 00:00:45.800
+ce qui était important
+pour les gouvernements et entreprises
+
+00:00:45.960 --> 00:00:48.800
+qui sont amenés
+à suivre les normes
+
+00:00:48.960 --> 00:00:52.360
+et qui ont du mal à suivre
+de simples recommandations.
+
+00:00:53.720 --> 00:00:55.920
+Ce travail de normalisation
+
+00:00:56.080 --> 00:00:58.680
+a été fait en relation très forte
+
+00:00:58.840 --> 00:01:02.280
+avec la convention ONU sur les droits
+des personnes en situation de handicap
+
+00:01:02.440 --> 00:01:04.120
+que nous avons évoquée.
+
+00:01:04.480 --> 00:01:08.040
+Ce cadre que nous avons présenté
+dès la première semaine
+
+00:01:08.200 --> 00:01:11.000
+forme un référentiel très stable
+
+00:01:11.160 --> 00:01:14.880
+avec des recommandations,
+des normes et des conventions mondiales.
+
+00:01:15.040 --> 00:01:19.480
+Il est possible de s'appuyer
+sur cet ensemble de documents
+
+00:01:19.640 --> 00:01:22.960
+pour développer
+une véritable accessibilité numérique.
+
+00:01:24.320 --> 00:01:26.880
+Je vais reprendre l'étude de WebAIM
+
+00:01:27.040 --> 00:01:31.400
+que je vous ai présentée
+à la fin de la deuxième semaine,
+
+00:01:31.560 --> 00:01:36.640
+qui étudiait les utilisations
+des différents produits et outils
+
+00:01:36.800 --> 00:01:39.320
+avec un regard
+accessibilité numérique.
+
+00:01:40.000 --> 00:01:43.440
+Dans cette figure,
+ce que l'on peut constater,
+
+00:01:43.600 --> 00:01:46.280
+c'est que les utilisateurs
+qui étaient,
+
+00:01:46.440 --> 00:01:48.960
+pour les 3/4,
+habitants de l'Amérique du Nord
+
+00:01:49.120 --> 00:01:53.240
+et pour plus de 90% des personnes
+en situation de déficience visuelle,
+
+00:01:53.560 --> 00:01:57.760
+on voit qu'à part relativement égale,
+
+00:01:58.000 --> 00:02:01.520
+il n'y a pas eu de changement
+l'année précédente
+
+00:02:01.720 --> 00:02:04.160
+sur l'accessibilité du site Web.
+
+00:02:04.960 --> 00:02:09.640
+Un tiers des personnes interrogées
+considèrent qu'il y a un progrès.
+
+00:02:10.200 --> 00:02:13.280
+Près d'un tiers considère
+qu'il y a une régression.
+
+00:02:13.480 --> 00:02:16.560
+Il est difficile de tirer
+une conclusion définitive,
+
+00:02:16.720 --> 00:02:21.200
+mais l'on peut constater que l'évolution
+est quand même très lente.
+
+00:02:23.120 --> 00:02:27.960
+Prenons un article scientifique
+publié par 2 auteurs,
+
+00:02:28.160 --> 00:02:30.240
+Hanson &amp; Richards en 2013.
+
+00:02:30.400 --> 00:02:33.760
+C'est une étude intéressante
+car très longue,
+
+00:02:33.920 --> 00:02:36.480
+s'étendant de 1999 à 2012,
+
+00:02:36.640 --> 00:02:40.920
+qui considère des sites Web
+et commerciaux, dit "top-trafic"
+
+00:02:41.080 --> 00:02:42.880
+et des sites gouvernementaux.
+
+00:02:43.360 --> 00:02:45.480
+L'étude portait
+sur une centaine de sites,
+
+00:02:45.640 --> 00:02:48.520
+tant en Grande-Bretagne
+qu'aux États-Unis.
+
+00:02:49.160 --> 00:02:53.520
+Elle portait sur une analyse automatique
+des critères de niveau A
+
+00:02:53.680 --> 00:02:55.160
+évoqués précédemment
+
+00:02:55.320 --> 00:02:58.600
+critères avec un niveau
+de conformité minimale
+
+00:02:58.760 --> 00:03:00.760
+par rapport au WCAG 2.0.
+
+00:03:01.960 --> 00:03:04.200
+Cette étude a constaté
+
+00:03:04.360 --> 00:03:08.640
+que la majorité des sites
+ne satisfaisait pas ce critère minimum.
+
+00:03:09.000 --> 00:03:11.720
+Mais il y avait une amélioration
+sur la période.
+
+00:03:12.880 --> 00:03:17.880
+La 2ème conclusion de cet article
+est riche et je vous invite à la consulter.
+
+00:03:18.040 --> 00:03:21.480
+Ces références sur les slides
+sont en fin de séquence.
+
+00:03:21.640 --> 00:03:24.280
+Les sites gouvernementaux
+et publics
+
+00:03:24.440 --> 00:03:26.560
+sont mieux
+que les sites commerciaux
+
+00:03:26.720 --> 00:03:30.120
+par rapport
+à ces recommandations d'accessibilité.
+
+00:03:31.000 --> 00:03:34.240
+Nous allons parcourir rapidement
+la courbe.
+
+00:03:34.400 --> 00:03:38.200
+En abscisse,
+vous avez les années 1999 à 2012
+
+00:03:38.360 --> 00:03:40.560
+et en ordonnée le pourcentage
+
+00:03:41.120 --> 00:03:44.360
+de traitement,
+de prise en compte de l'accessibilité.
+
+00:03:44.960 --> 00:03:48.600
+Les points concernent
+les sites commerciaux
+
+00:03:48.760 --> 00:03:51.320
+et les croix,
+les sites gouvernementaux.
+
+00:03:51.800 --> 00:03:55.840
+Une des progressions
+est une conclusion déjà introduite.
+
+00:03:56.000 --> 00:03:59.960
+Pour les sites gouvernementaux,
+la progression n'est pas linéaire.
+
+00:04:00.440 --> 00:04:02.840
+Une des hypothèses formulée
+est que souvent,
+
+00:04:03.600 --> 00:04:08.520
+le fait que la situation ait progressé
+est dû à des lois.
+
+00:04:08.680 --> 00:04:10.880
+Selon qu'une loi
+est publiée ou pas,
+
+00:04:11.040 --> 00:04:13.640
+on verra, ou non,
+un progrès dans la courbe.
+
+00:04:15.760 --> 00:04:19.200
+Si nous nous concentrons
+un peu sur notre pays,
+
+00:04:19.640 --> 00:04:23.320
+il existe depuis 2015
+une troisième version
+
+00:04:23.480 --> 00:04:26.920
+appelé le référentiel général
+d'accessibilité pour les administrations
+
+00:04:27.080 --> 00:04:29.040
+RGAA en abrégé,
+
+00:04:29.200 --> 00:04:34.040
+basé sur la loi de 2005 et 2009,
+évoquée la première semaine
+
+00:04:34.400 --> 00:04:37.840
+et qui est à la fois
+une traduction opérationnelle
+
+00:04:38.000 --> 00:04:42.720
+des critères issus de Standard WCAG
+et de la norme ISO.
+
+00:04:43.280 --> 00:04:48.040
+Une méthodologie
+pour vérifier la conformité des sites.
+
+00:04:48.880 --> 00:04:52.040
+Enfin, et ce dernier point est important
+
+00:04:52.200 --> 00:04:55.120
+pour rendre opérationnelle
+cette méthodologie,
+
+00:04:55.280 --> 00:04:59.280
+plus de 187 tests
+mesurent cette conformité.
+
+00:04:59.720 --> 00:05:01.920
+Tout ce contenu
+est parfaitement diffusé
+
+00:05:02.080 --> 00:05:06.840
+et doit régir tous les sites
+Web de l'administration française.
+
+00:05:07.480 --> 00:05:11.160
+Avec un guide d'utilisation,
+il existe tous les éléments
+
+00:05:11.320 --> 00:05:14.520
+pour rendre accessibles
+les sites publics en France.
+
+00:05:16.200 --> 00:05:18.840
+Malheureusement,
+nous en sommes loin.
+
+00:05:19.000 --> 00:05:21.360
+Je me baserai
+sur une troisième étude
+
+00:05:21.680 --> 00:05:24.640
+réalisée par l'association
+BrailleNet en 2014.
+
+00:05:25.680 --> 00:05:29.920
+Dans le RGAA
+figure l'obligation depuis 2011, 2012
+
+00:05:30.080 --> 00:05:32.840
+de publier une auto-déclaration
+de conformité.
+
+00:05:33.000 --> 00:05:37.840
+Les responsables de chaque site web public
+doivent faire une déclaration
+
+00:05:38.480 --> 00:05:42.280
+disant s'ils s'estiment conformes
+à la réglementation.
+
+00:05:42.920 --> 00:05:45.880
+L'étude de BrailleNet
+portait sur un échantillon,
+
+00:05:46.040 --> 00:05:50.440
+600 sites web avec des ministères,
+préfectures, agglomérations, mairies…
+
+00:05:50.680 --> 00:05:55.360
+Les sites Web
+sont répartis sur la figure.
+
+00:05:55.720 --> 00:05:58.840
+Les résultats
+ne sont pas très bons.
+
+00:05:59.560 --> 00:06:04.440
+Sur plus de 600 sites,
+seule une centaine
+
+00:06:04.800 --> 00:06:07.720
+possèdent une déclaration de conformité.
+
+00:06:08.560 --> 00:06:12.560
+Sur ces 106 sites, seuls 22
+ont une attestation de conformité,
+
+00:06:12.720 --> 00:06:14.960
+ce qui démontre plus de respect.
+
+00:06:15.720 --> 00:06:19.600
+Vous pouvez voir le détail
+de la décomposition
+
+00:06:19.760 --> 00:06:22.200
+selon le type d'organismes publics,
+
+00:06:22.360 --> 00:06:25.120
+les mairies, les communautés, etc.
+
+00:06:25.440 --> 00:06:30.080
+Sur les 22 sites qui déclaraient
+une attestation de conformité,
+
+00:06:30.520 --> 00:06:33.440
+l'analyse de la page d'accueil a montré
+
+00:06:33.600 --> 00:06:36.560
+qu'un seul parmi eux
+était sans erreurs.
+
+00:06:37.320 --> 00:06:40.120
+Vous pouvez voir
+le nombre d'erreurs existantes.
+
+00:06:40.800 --> 00:06:43.560
+Nous sommes encore loin
+d'un résultat raisonnable
+
+00:06:43.720 --> 00:06:46.800
+et il reste beaucoup de progrès à faire,
+
+00:06:46.960 --> 00:06:49.160
+même si, il faut le signaler,
+
+00:06:49.320 --> 00:06:51.600
+des progrès ont été constatés
+depuis 10 ans.
+
+00:06:52.120 --> 00:06:55.840
+Pour rendre un site
+véritablement accessible,
+
+00:06:56.000 --> 00:06:58.080
+il faut considérer plusieurs étapes.
+
+00:06:58.240 --> 00:07:01.960
+Les premiers pas où on va
+se préoccuper de faire un site web
+
+00:07:02.440 --> 00:07:04.760
+et s'interroger sur l'accessibilité.
+
+00:07:04.920 --> 00:07:08.040
+Si on attend d'avoir fini son site
+pour voir s'il est accessible,
+
+00:07:08.200 --> 00:07:10.320
+on peut être sûr
+que la situation ne sera pas bonne.
+
+00:07:10.480 --> 00:07:14.280
+Cette question
+doit être prise en compte.
+
+00:07:14.440 --> 00:07:18.040
+Si on attend la fin du développement
+du logiciel, il est trop tard.
+
+00:07:18.600 --> 00:07:22.040
+Il faudra mutualiser,
+réutiliser des bonnes pratiques,
+
+00:07:22.200 --> 00:07:23.880
+des conseils et améliorations.
+
+00:07:24.360 --> 00:07:27.200
+Voire acheter clé en main
+un site accessible.
+
+00:07:27.360 --> 00:07:30.840
+Certaines sociétés développent
+des sites accessibles avec une certification.
+
+00:07:31.480 --> 00:07:36.080
+Il est de plus en plus important
+de considérer les sites web mobiles.
+
+00:07:36.640 --> 00:07:39.800
+Consultez l'URL
+qui apparaît sur votre écran
+
+00:07:39.960 --> 00:07:43.600
+dans lequel vont apparaître
+des conseils, des aides
+
+00:07:43.840 --> 00:07:47.640
+véritablement opérationnels
+pour développer un site web accessible.
+
+00:07:48.280 --> 00:07:50.040
+Après avoir considéré
+les sites web,
+
+00:07:50.200 --> 00:07:52.960
+en parlant des recommandations,
+des normes
+
+00:07:53.120 --> 00:07:55.520
+et des conseils
+beaucoup plus opérationnels,
+
+00:07:56.000 --> 00:08:01.000
+nous aborderons deux séquences
+consacrées aux documents numériques.
+
+00:08:01.160 --> 00:08:03.080
+Les premiers issus
+de Microsoft Office
+
+00:08:03.240 --> 00:08:05.760
+et les seconds issus
+de documents PDF.
