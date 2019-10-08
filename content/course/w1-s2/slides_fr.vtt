@@ -36,7 +36,7 @@ WEBVTT
 <ul>
   <li>134 000 ESH en 2004 contre 252 000 en 2014</li>
 </ul>
-<img src="/Images/W1-20.png" alt="Schéma : Nombre d’élèves en situation de handicap scolarisés">
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W1-20.png" alt="Schéma : Nombre d’élèves en situation de handicap scolarisés">
 <p>Nombre d’élèves en situation de handicap scolarisés © Données RERS 2015, MENESR-DEPP, traitement Cnesco</p>
 
 4
@@ -61,7 +61,7 @@ WEBVTT
   <ul>
     <li>6% des PSH (20-24 ans) ont un diplôme de l’enseignement supérieur vs 30% de la population générale (2010)</li>
   </ul>
-      <img src="/Images/W1-30.png" alt="Schéma : pourcentage d'élèves scolarisés en milieur ordinaire 2014-2015" />
+      <img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W1-30.png" alt="Schéma : pourcentage d'élèves scolarisés en milieur ordinaire 2014-2015" />
     <p>Pourcentage d’élèves scolarisés en milieu ordinaire 2014-2015 © MENESR-DEPP</p>
 
 6
@@ -142,11 +142,11 @@ WEBVTT
 13
 00:05:43.000 --> 00:05:44.000
 <h3>Un cours proposé par</h3>
-<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
-<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
 <h3>et avec la collaboration de</h3>
-<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
-<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
 <div>
   L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
   sous licence CC BY-NC-ND 3.0 France

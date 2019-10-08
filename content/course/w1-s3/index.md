@@ -3,12 +3,6 @@ title: "Semaine 1, Séquence 3"
 date: 2019-10-07T10:12:05+02:00
 draft: false
 description: ""
-additionalInformation:
-  language: "fr"
-  sources:
-    - label: "Informations complémentaires"
-      src: "additional-info_fr.vtt"
-      srcLang: "fr"
 player:
   sources:
     - label: "Face video"

@@ -15,19 +15,19 @@ WEBVTT
 2
 00:00:33.000 --> 00:01:35.000
 <h1>Le modèle CIF - 1</h1>
-<p><img src="/Images/W5-40.png" alt="Modèle conceptuel CIF"></p>
+<p><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W5-40.png" alt="Modèle conceptuel CIF"></p>
 <p>Légende : Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
 
 3
 00:01:35.000 --> 00:02:25.000
 <h1>Le modèle CIF - 2</h1>
-<p><img src="/Images/W5-50.png" alt="Modèle conceptuel CIF"></p>
+<p><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W5-50.png" alt="Modèle conceptuel CIF"></p>
 <p>Légende : Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
 
 4
 00:02:25.000 --> 00:02:33.000
 <h1>Les déficiences - 1</h1>
-<p><img src="/Images/W5-60.png" alt="Modèle conceptuel CIF"></p>
+<p><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W5-60.png" alt="Modèle conceptuel CIF"></p>
 <p>Légende : Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
 
 5
@@ -45,7 +45,7 @@ WEBVTT
   <li>De la peau, et structures associées</li>
 </ol>
 <div class="top-corner">
-  <p><img src="/Images/W5-80.png" alt="Modèle conceptuel CIF" width="450" height="275"></p>
+  <p><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W5-80.png" alt="Modèle conceptuel CIF" width="450" height="275"></p>
   <p>Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
 </div>
 
@@ -74,14 +74,14 @@ WEBVTT
   </li>
 </ol>
 <div class="top-corner">
-  <p><img src="/Images/W5-100.png" alt="Modèle conceptuel CIF" width="450" height="275"></p>
+  <p><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W5-100.png" alt="Modèle conceptuel CIF" width="450" height="275"></p>
   <p>Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
 </div>
 
 7
 00:04:40.000 --> 00:04:50.000
 <h1>Activités et Participation sociale - 1</h1>
-<p><img src="/Images/W5-110.png"
+<p><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W5-110.png"
     alt="Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)"></p>
 <p>Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
 
@@ -101,7 +101,7 @@ WEBVTT
   <li>Vie communautaire, sociale et civique</li>
 </ol>
 <div class="top-corner">
-  <p><img src="/Images/W5-130.png" alt="Modèle conceptuel CIF" width="450" height="275"></p>
+  <p><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W5-130.png" alt="Modèle conceptuel CIF" width="450" height="275"></p>
   <p>Modèle conceptuel CIF © Classification internationale du fonctionnement (CIF)</p>
 </div>
 
@@ -123,11 +123,11 @@ WEBVTT
 11
 00:05:36.000 --> 00:05:38.000
 <h3>Un cours proposé par</h3>
-<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
-<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
 <h3>et avec la collaboration de</h3>
-<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
-<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
 <div>
   L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
   sous licence CC BY-NC-ND 3.0 France

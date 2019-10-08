@@ -27,7 +27,7 @@ WEBVTT
 00:01:23.000 --> 00:02:22.000
 <h1>L’accessibilité des sites existants - 1</h1>
 <h2>Etude WebAIM (2015)</h2>
-<img src="/Images/W3-40.png" alt="Progress Over the Previous Year" class="width70" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W3-40.png" alt="Progress Over the Previous Year" class="width70" />
 <p>Légende : Progress Over the Previous Year © WebAIM </p>
 
 4
@@ -59,7 +59,7 @@ WEBVTT
 00:03:30.000 --> 00:04:14.000
 <h1>L’accessibilité des sites existants - 4</h1>
 <h2>Etude WebAIM (2015)</h2>
-<img src="/Images/W3-45.png" alt="Percentage linked accessibility statements and associated linear trends" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W3-45.png" alt="Percentage linked accessibility statements and associated linear trends" />
 <p>Percentage linked accessibility statements and associated linear trends © V. Hanson & J. Richards</p>
 
 7
@@ -91,7 +91,7 @@ WEBVTT
     </ul>
   </li>
 </ul>
-<img src="/Images/W3-50.png" alt="Répartition des services inspectés" class="width50" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W3-50.png" alt="Répartition des services inspectés" class="width50" />
 <p>Répartition des services inspectés © Braillenet </p>
 
 9
@@ -101,7 +101,7 @@ WEBVTT
 <ul>
   <li>Seuls 106 sites (17,6%) ont une déclaration de conformité dont 22 (3,7%) ont une attestation </li>
 </ul>
-<img src="/Images/W3-60.jpg" alt="Répartition des déclarations de conformité" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W3-60.jpg" alt="Répartition des déclarations de conformité" />
 <p>Répartition des déclarations de conformité © Braillenet</p>
 
 10
@@ -111,7 +111,7 @@ WEBVTT
 <ul>
   <li>Seuls 106 sites (17,6%) ont une déclaration de conformité dont 22 (3,7%) ont une attestation </li>
 </ul>
-<img src="/Images/W3-70.jpg" alt="Description de l'image" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W3-70.jpg" alt="Description de l'image" />
 <p>Répartition des attestations de conformité © Braillenet</p>
 
 11
@@ -121,7 +121,7 @@ WEBVTT
 <ul>
   <li>Sur ces 22, l’analyse de la page d’accueil a montré 1 seul site sans erreur </li>
 </ul>
-<img src="/Images/W3-80.jpg" alt="Vérification de conformité" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W3-80.jpg" alt="Vérification de conformité" />
 <p>Vérification de conformité © Braillenet</p>
 
 12
@@ -207,11 +207,11 @@ WEBVTT
 18
 00:08:12.000 --> 00:08:14.000
 <h3>Un cours proposé par</h3>
-<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
-<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
 <h3>et avec la collaboration de</h3>
-<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
-<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
 <div>
   L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
   sous licence CC BY-NC-ND 3.0 France

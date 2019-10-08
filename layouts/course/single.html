@@ -14,18 +14,26 @@
   <noscript>
     <h1>{{ .Params.title }}</h1>
     {{ $video_src := (index (.Params.player.sources) 0).src -}}
-    <video src="{{ $.Site.Params.mediaBaseURL }}/{{ $.File.ContentBaseName }}/{{ $video_src }}" type="video/mp4" autoplay="false" preload="auto" controls>
+    <video src="{{ $.Site.Params.mediaBaseURL }}/videos/{{ $.File.ContentBaseName }}/{{ $video_src }}" type="video/mp4" autoplay="false" preload="auto" controls>
+      {{- if isset .Params "subtitles" -}}
       {{- range .Params.subtitles.sources }}
-      <track kind="captions" label="{{ .label }}" src="{{ .src }}" srclang="{{ .srcLang }}">
+      <track kind="captions" label="{{ .label }}" src="{{ ($.Resources.GetMatch .src).RelPermalink }}" srclang="{{ .srcLang }}">
       {{- end -}}
+      {{- end -}}
+      {{- if isset .Params "chapters" -}}
       {{ range .Params.chapters.sources }}
-      <track kind="chapters" label="{{ .label }}" src="{{ .src }}" srclang="{{ .srcLang }}">
+      <track kind="chapters" label="{{ .label }}" src="{{ ($.Resources.GetMatch .src).RelPermalink }}" srclang="{{ .srcLang }}">
       {{- end -}}
-      {{ range .Params.additionalInformation.sources }}
-      <track kind="metadata" label="{{ .label }}" src="{{ .src }}" srclang="{{ .srcLang }}">
       {{- end -}}
+      {{- if isset .Params "additionalinformation" -}}
+      {{ range .Params.additionalinformation.sources }}
+      <track kind="metadata" label="{{ .label }}" src="{{ ($.Resources.GetMatch .src).RelPermalink }}" srclang="{{ .srcLang }}">
+      {{- end -}}
+      {{- end -}}
+      {{- if isset .Params "slides" -}}
       {{ range .Params.slides.sources }}
-      <track kind="metadata" label="{{ .label }}" src="{{ .src }}" srclang="{{ .srcLang }}">
+      <track kind="metadata" label="{{ .label }}" src="{{ ($.Resources.GetMatch .src).RelPermalink }}" srclang="{{ .srcLang }}">
+      {{- end -}}
       {{- end }}
     </video>
   </noscript>
@@ -33,12 +41,13 @@
   <div id="root"></div>
 
   <script>
-    window.serverUrl = "{{ .Site.BaseURL }}";
+    window.serverUrl = "{{ .Site.BaseURL | safeJS }}";
     window.aiana = {{ (partial "configuration.json" .) | safeJS }};
   </script>
 
-  <script>!function(l){function e(e){for(var r,t,n=e[0],o=e[1],a=e[2],u=0,i=[];u<n.length;u++)t=n[u],Object.prototype.hasOwnProperty.call(f,t)&&f[t]&&i.push(f[t][0]),f[t]=0;for(r in o)Object.prototype.hasOwnProperty.call(o,r)&&(l[r]=o[r]);for(d&&d(e);i.length;)i.shift()();return p.push.apply(p,a||[]),c()}function c(){for(var e,r=0;r<p.length;r++){for(var t=p[r],n=!0,o=1;o<t.length;o++){var a=t[o];0!==f[a]&&(n=!1)}n&&(p.splice(r--,1),e=s(s.s=t[0]))}return e}var t={},f={1:0},p=[];function s(e){if(t[e])return t[e].exports;var r=t[e]={i:e,l:!1,exports:{}};return l[e].call(r.exports,r,r.exports,s),r.l=!0,r.exports}s.e=function(o){var e=[],t=f[o];if(0!==t)if(t)e.push(t[2]);else{var r=new Promise(function(e,r){t=f[o]=[e,r]});e.push(t[2]=r);var n,a=document.createElement("script");a.charset="utf-8",a.timeout=120,s.nc&&a.setAttribute("nonce",s.nc),a.src=s.p+"static/js/"+({}[o]||o)+"."+{3:"a662e280"}[o]+".chunk.js";var u=new Error;n=function(e){a.onerror=a.onload=null,clearTimeout(i);var r=f[o];if(0!==r){if(r){var t=e&&("load"===e.type?"missing":e.type),n=e&&e.target&&e.target.src;u.message="Loading chunk "+o+" failed.\n("+t+": "+n+")",u.name="ChunkLoadError",u.type=t,u.request=n,r[1](u)}f[o]=void 0}};var i=setTimeout(function(){n({type:"timeout",target:a})},12e4);a.onerror=a.onload=n,document.head.appendChild(a)}return Promise.all(e)},s.m=l,s.c=t,s.d=function(e,r,t){s.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},s.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},s.t=function(r,e){if(1&e&&(r=s(r)),8&e)return r;if(4&e&&"object"==typeof r&&r&&r.__esModule)return r;var t=Object.create(null);if(s.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:r}),2&e&&"string"!=typeof r)for(var n in r)s.d(t,n,function(e){return r[e]}.bind(null,n));return t},s.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return s.d(r,"a",r),r},s.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},s.p="/",s.oe=function(e){throw console.error(e),e};var r=window["webpackJsonpaiana-player-reloaded"]=window["webpackJsonpaiana-player-reloaded"]||[],n=r.push.bind(r);r.push=e,r=r.slice();for(var o=0;o<r.length;o++)e(r[o]);var d=n;c()}([])</script>
+  <script src="{{ "/js/runtime~main.e4d33636.js" | relURL }}"></script>
   <script src="{{ "/js/2.9206cb94.chunk.js" | relURL }}"></script>
+  <script src="{{ "/js/3.a662e280.chunk.js" | relURL }}"></script>
   <script src="{{ "/js/main.7147618f.chunk.js" | relURL }}"></script>
 </body>
 

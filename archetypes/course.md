@@ -41,11 +41,11 @@ slides:
      - label: "Presentation Slides"
       src: "slides_en.vtt"
       srcLang: "en"
-additionalInformation:
+additionalinformation:
   language: "fr"
   sources:
     - label: "Informations complémentaires"
-      src: "additional-info_fr.vtt"
+      src: "additional-information_fr.vtt"
       srcLang: "fr"
     - label: "Additional Information"
       src: "additional-info_en.vtt"

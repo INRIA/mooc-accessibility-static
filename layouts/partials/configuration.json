@@ -1,5 +1,3 @@
-{{ $media_sources := (.Params.player.sources) -}}
-{{ $media_sources_length := (len $media_sources) -}}
 {
   "container": "#root"
   {{- if isset .Params "chapters" -}}
@@ -20,23 +18,25 @@
   }
   {{- end }}
 
-  {{- if isset .Params "additionalInformation" -}}
-  {{ $add_infos_sources := (.Params.additionalInformation.sources) -}}
-  {{ $add_infos_sources_length := (len $add_infos_sources) -}},
+  {{- if isset .Params "additionalinformation" -}}
+  {{ $add_info_sources := (.Params.additionalinformation.sources) -}}
+  {{ $add_info_sources_length := (len $add_info_sources) -}},
   "additionalInformation": {
     "language": "fr",
     "sources": [
-      {{ range $index, $element := $add_infos_sources -}}
+      {{ range $index, $element := $add_info_sources -}}
       {
         "label": "{{ .label }}",
-        "src": "{{ ($.Resources.GetMatch .src).Permalink }}",
+        "src": "{{ .src }}",
         "srcLang": "{{ .srcLang }}"
-      }{{- if ne (add $index 1) $add_infos_sources_length -}},
+      }{{- if ne (add $index 1) $add_info_sources_length -}},
     {{ end }}
     {{- end }}
     ]
   }
   {{- end }},
+  {{ $media_sources := (.Params.player.sources) -}}
+  {{ $media_sources_length := (len $media_sources) -}}
   "player": {
     "mediaId": "{{ if .Params.player.mediaId -}}
     {{ .Params.player.mediaId }}
@@ -50,7 +50,7 @@
       {{ range $index, $element := $media_sources -}}
       {
         "label": "{{ .label }}",
-        "src": "{{ $.Site.Params.mediaBaseURL }}/{{ $.File.ContentBaseName }}/{{ .src }}",
+        "src": "{{ $.Site.Params.mediaBaseURL }}/videos/{{ $.File.ContentBaseName }}/{{ .src }}",
         "type": "{{ .type }}"
       }{{- if ne (add $index 1) $media_sources_length -}},
       {{ end }}

@@ -17,7 +17,7 @@ WEBVTT
 
 00:01:32.000 --> 00:02:32.000
 <h1>Modèle fonctionnel - Wood 1980 - 1</h1>
-<img src="/Images/W1-40.png" alt="Modèle Fonctionnel de Wood, 1980">
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W1-40.png" alt="Modèle Fonctionnel de Wood, 1980">
 <p>Modèle Fonctionnel © Wood, 1980</p>
 
 00:02:32.000 --> 00:03:08.000
@@ -47,12 +47,12 @@ WEBVTT
 
 00:04:04.000 --> 00:06:04.000
 <h1>Modèle environnemental - Bäckman 1992</h1>
-<img src="/Images/W1-50.png" alt="Modèle Environnemental, Bäckman, & Dixon, 1992">
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W1-50.png" alt="Modèle Environnemental, Bäckman, & Dixon, 1992">
 <p>Modèle Environnemental, Bäckman, &amp; Dixon, 1992</p>
 
 00:06:04.000 --> 00:07:53.000
 <h1>Illustration du modèle environnemental</h1>
-<img src="/Images/W1-60.png"
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W1-60.png"
   alt="Illustration du modèle environnemental ; Menu en japonais et Menu composé de plats en résine ; fauteuil roulant devant des escaliers et fauteuil roulant devant une rampe ; jeune femme ne comprenant pas un document et agenda">
 <p>Fake food samples in a restaurant window, tokyo, japan © habier lopez ; Fauteuil roulant ©
   ClkerFreeVectorImages ; Confused © CollegeDegrees360</p>
@@ -88,11 +88,11 @@ WEBVTT
 
 00:07:59.000 --> 00:08:00.000
 <h3>Un cours proposé par</h3>
-<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria">
-<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire">
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria">
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire">
 <h3>et avec la collaboration de</h3>
-<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux">
-<div><img src="/Images/copyright.jpg" alt="Copyright"><span>Inria 2016</span></div>
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux">
+<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/copyright.jpg" alt="Copyright"><span>Inria 2016</span></div>
 <div>
   L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
   sous licence CC BY-NC-ND 3.0 France

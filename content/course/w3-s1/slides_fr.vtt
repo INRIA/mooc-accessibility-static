@@ -129,7 +129,7 @@ WEBVTT
   <li>Contenus (informations et services dans les pages web)</li>
   <li>Utilisateurs : accèdent aux contenus via des navigateurs [et des assistances]</li>
 </ul>
-<img src="/Images/W3-10.png" alt="W3C technical specifications" class="width50" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W3-10.png" alt="W3C technical specifications" class="width50" />
 <p>W3C technical specifications © W3C</p>
 
 11
@@ -178,11 +178,11 @@ WEBVTT
 14
 00:07:25.000 --> 00:07:31.000
 <h3>Un cours proposé par</h3>
-<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
-<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
 <h3>et avec la collaboration de</h3>
-<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
-<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
 <div>
   L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
   sous licence CC BY-NC-ND 3.0 France

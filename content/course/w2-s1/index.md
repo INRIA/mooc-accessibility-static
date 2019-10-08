@@ -3,11 +3,11 @@ title: "Semaine 2, Séquence 1"
 date: 2019-10-07T10:12:23+02:00
 draft: false
 description: ""
-additionalInformation:
+additionalinformation:
   language: "fr"
   sources:
     - label: "Informations complémentaires"
-      src: "additional-info_fr.vtt"
+      src: "additional-information_fr.vtt"
       srcLang: "fr"
 player:
   sources:

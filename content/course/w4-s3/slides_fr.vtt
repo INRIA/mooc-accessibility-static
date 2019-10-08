@@ -36,7 +36,7 @@ WEBVTT
   <li>Inclusive design</li>
 </ul>
 <div class="top-corner">
-  <p><img src="/Images/W4-50.png" alt="Aire de jeux créée dans une démarche de conception universelle" /></p>
+  <p><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W4-50.png" alt="Aire de jeux créée dans une démarche de conception universelle" /></p>
   <p>Une aire de jeux créée dans une démarche de conception universelle © APF</p>
 </div>
 <h2>Points communs<br>
@@ -68,7 +68,7 @@ WEBVTT
 <ul>
   <li> Alternative vocale </li>
 </ul>
-<img src="/Images/W4-60to80.png" alt="Capture écran messagerie - alternative vocale" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W4-60to80.png" alt="Capture écran messagerie - alternative vocale" />
 <p>Captures d’écran Messagerie DomAssist<br>
 </p>
 
@@ -88,10 +88,10 @@ WEBVTT
   <li>« Sur mesure » pour chaque individu</li>
 </ul>
 <div class='top-corner'>
-  <img src="/Images/W4-100.png" alt="Lecteur de braille" />
+  <img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W4-100.png" alt="Lecteur de braille" />
   <p>Lecteur de braille Brailliant BI 40 © accesstech</p>
 </div>
-<img src="/Images/W4-90.png" alt="Orthèses de Jambes" class="width25" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W4-90.png" alt="Orthèses de Jambes" class="width25" />
 <p>Orthèses de Jambes © Chabloz Orthopédia<br>
 </p>
 
@@ -103,7 +103,7 @@ WEBVTT
   <li>Normes ISO/TR 22411:2008 </li>
   <li>Principes spécifiques d’ergonomie des IHM </li>
 </ul>
-<img src="/Images/W4-110.png" alt="Capture écran messagerie" class="width50" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W4-110.png" alt="Capture écran messagerie" class="width50" />
 <p>Capture d’écran Messagerie DomAssist © Phoenix, Inria<br>
 </p>
 
@@ -177,11 +177,11 @@ WEBVTT
 13
 00:05:38.000 --> 00:05:40.000
 <h3>Un cours proposé par</h3>
-<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
-<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
 <h3>et avec la collaboration de</h3>
-<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
-<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
 <div>
   L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
   sous licence CC BY-NC-ND 3.0 France

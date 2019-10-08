@@ -37,7 +37,7 @@ WEBVTT
 4
 00:01:52.000 --> 00:02:18.000
 <h1>2ème critère - ergonomie de l’interface - 2</h1>
-<img src="/Images/W4-140.png" alt="Schéma : Les domaines de l’expérience utilisateur" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W4-140.png" alt="Schéma : Les domaines de l’expérience utilisateur" />
 <p>Les domaines de l’expérience utilisateur Schéma refait à partir de : © Brangier 2010</p>
 
 5
@@ -109,7 +109,7 @@ WEBVTT
   <li>Multi-déterminée (Modèle Tam, UTAUT, …) </li>
   <li>Variable selon public ciblé (e.g., modèle STAM)</li>
 </ul>
-<img src="/Images/W4-145.png" alt="Schéma modèle TAM" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W4-145.png" alt="Schéma modèle TAM" />
 <p>Modèle TAM © Davis, F.D. 1989</p>
 
 9
@@ -206,11 +206,11 @@ WEBVTT
 16
 00:06:28.000 --> 00:06:30.000
 <h3>Un cours proposé par</h3>
-<img src="/Images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
-<img src="/Images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
 <h3>et avec la collaboration de</h3>
-<img src="/Images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
-<div><img src="/Images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
+<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
 <div>
   L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
   sous licence CC BY-NC-ND 3.0 France
