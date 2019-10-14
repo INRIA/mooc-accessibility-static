@@ -45,9 +45,9 @@
     window.aiana = {{ (partial "configuration.json" .) | safeJS }};
   </script>
 
-  <script src="{{ "/js/runtime~main.e4d33636.js" | relURL }}"></script>
-  <script src="{{ "/js/2.9206cb94.chunk.js" | relURL }}"></script>
-  <script src="{{ "/js/main.7147618f.chunk.js" | relURL }}"></script>
+  {{ range $.Site.Data.manifest }}
+    <script src="{{ . | relURL }}"></script>
+  {{ end }}
 </body>
 
 </html>

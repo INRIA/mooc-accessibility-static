@@ -1,7 +1,7 @@
 .DS_Store
 /public
 /static/js/player
-/data/player-scripts.yml
+/data/manifest.yml
 release.zip
 release
 static/js/*.js

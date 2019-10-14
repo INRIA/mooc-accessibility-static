@@ -15,7 +15,7 @@ install:
 before_script:
   - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION}/release.zip
   - unzip release.zip
-  - mv release/manifest.yml data/player-scripts.yml
+  - mv release/manifest.yml data/manifest.yml
   - mv release/*.js static/js/
 script:
   - hugo

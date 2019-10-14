@@ -21,7 +21,7 @@ No other dependencies are required, but if you want to test website on you local
 
 1. Download Aiana player target version; it should be the same as the one in `.travis.yml` file.
 2. Unzip the archive.
-3. Rename the `manifest.yml` file to `data/scripts.yml`.
+3. Rename the `manifest.yml` file to `data/` directory.
 4. Move JavaScript files to `static/js/` directory.
 
 This is automated by the CI provider ([Travis CI](https://travis-ci.com)).
