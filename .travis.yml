@@ -5,6 +5,7 @@ env:
   - PLAYER_VERSION=v2.1.0
   - HUGO_VERSION=0.58.3
   - HUGO_BASE_URL=https://dashdashzako.github.io/mooc-accessibility-static/
+  - LOGGER_ENDPOINT=https://mooc-accessibility.inria.fr/api/log
 git:
   quiet: true
 branches:
@@ -23,6 +24,7 @@ before_script:
 - unzip release.zip
 - mv release/manifest.yml data/manifest.yml
 - mv release/*.js static/js/
+- echo 'url: ${}' > data/logger.yml
 script:
 - hugo --baseUrl ${HUGO_BASE_URL}
 deploy:

@@ -41,7 +41,10 @@
   <div id="root"></div>
 
   <script>
-    window.serverUrl = "{{ .Site.BaseURL | safeJS }}";
+    window.serverUrl = "{{ .Site.BaseURL }}";
+    {{ if isset $.Site.Data "logger" -}}
+    window.loggerEndpoint = "{{ $.Site.Data.logger.url }}";
+    {{ end -}}
     window.aiana = {{ (partial "configuration.json" .) | safeJS }};
   </script>
 
