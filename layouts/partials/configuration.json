@@ -1,5 +1,9 @@
 {
   "container": "#root"
+  {{- if isset .Site.Params "loggerEndpoint" }},
+  "loggerEndpoint": "{{ .Site.Params.loggerEndpoint }}"
+  {{- end }}
+
   {{- if isset .Params "chapters" -}}
   {{ $chapters_sources := (.Params.chapters.sources) -}}
   {{ $chapters_sources_length := (len $chapters_sources) }},
