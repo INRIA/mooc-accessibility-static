@@ -19,5 +19,3 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "sitemap"]
 
 [params]
 mediaBaseURL = "https://static.bordeaux.inria.fr/mooc-accessibility/media"
-
-# loggerEndpoint = "http://qlf-mooc-accessibility.bordeaux.inria.fr/api/log"
