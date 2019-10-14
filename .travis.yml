@@ -6,6 +6,7 @@ env:
     - HUGO_VERSION=0.58.3
     - HUGO_BASE_URL=https://dashdashzako.github.io/mooc-accessibility-static/
     - LOGGER_ENDPOINT=https://mooc-accessibility.inria.fr/api/log
+    - MATOMO_SITE_ID=100
 git:
   quiet: true
 branches:
@@ -25,6 +26,7 @@ before_script:
   - mv release/manifest.yml data/manifest.yml
   - mv release/*.js static/js/
   - 'echo "url: ${LOGGER_ENDPOINT}" > data/logger.yml'
+  - 'echo "site_id: ${MATOMO_SITE_ID}" > data/matomo.yml'
 script:
   - hugo --baseUrl ${HUGO_BASE_URL}
 deploy:

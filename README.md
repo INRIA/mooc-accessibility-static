@@ -26,10 +26,16 @@ No other dependencies are required, but you need to download the player assets i
 4. Move the player JavaScript files to `static/js/`.
 5. Run `hugo`.
 
-If you need to log player events, you will also have to create the `data/logger.yml` file and add some content to it.
+If you need to log player events, you will also have to create the `data/logger.yml` file:
 
 ```yaml
-url: "<custom logger url>"
+url: <custom logger url>
+```
+
+For pages analytics, the `data/matomo.yml` file will is required:
+
+```yaml
+site_id: 101
 ```
 
 All of this is completely automated by the CI provider ([Travis CI](https://travis-ci.com)) and will run every time the `master` branch is pushed.

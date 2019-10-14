@@ -3,6 +3,7 @@
 /static/js/player
 /data/manifest.yml
 /data/logger.yml
+/data/matomo.yml
 release.zip
 release
 static/js/*.js

@@ -8,6 +8,10 @@
   <meta name="description" content="{{ .Description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{ "/css/aiana.css" | relURL }}">
+
+  {{- if isset .Site.Data "matomo" }}
+  {{ partial "matomo.html" . }}
+  {{- end }}
 </head>
 
 <body>
