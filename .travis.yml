@@ -1,0 +1,22 @@
+language: minimal
+sudo: true
+env:
+  PLAYER_VERSION: v2.1.0
+git:
+  quiet: true
+before_install:
+  - sudo apt-get update
+  - sudo apt-get install -y unzip
+install:
+  - curl
+    https://github.com/gohugoio/hugo/releases/download/v0.57.2/hugo_0.57.2_Linux-64bit.deb
+    -o hugo.deb
+  - sudo dpkg -i hugo.deb
+before_script:
+  - curl -O
+    "https://github.com/dashdashzako/aiana-player/releases/download/$PLAYER_VERSION/release.zip"
+  - unzip release.zip
+  - mv release/manifest.yml data/scripts.yml
+  - mv release/*.js static/js/
+script:
+  - hugo
