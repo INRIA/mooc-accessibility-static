@@ -45,9 +45,9 @@
     window.aiana = {{ (partial "configuration.json" .) | safeJS }};
   </script>
 
-  {{ range $.Site.Data.manifest }}
-    <script src="{{ . | relURL }}"></script>
-  {{ end }}
+  {{- range $.Site.Data.manifest }}
+  <script src="{{ . | relURL }}"></script>
+  {{- end }}
 </body>
 
 </html>
