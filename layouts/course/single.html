@@ -46,7 +46,7 @@
   </script>
 
   {{- range $.Site.Data.manifest }}
-  <script src="{{ . | relURL }}"></script>
+  <script src="{{ (print "/js/" .) | relURL }}"></script>
   {{- end }}
 </body>
 
