@@ -24,7 +24,7 @@ before_script:
 - unzip release.zip
 - mv release/manifest.yml data/manifest.yml
 - mv release/*.js static/js/
-- echo 'url: ${}' > data/logger.yml
+- 'echo "url: ${LOGGER_ENDPOINT}" > data/logger.yml'
 script:
 - hugo --baseUrl ${HUGO_BASE_URL}
 deploy:
