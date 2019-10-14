@@ -2,9 +2,9 @@ language: minimal
 sudo: true
 env:
   global:
-    - PLAYER_VERSION=v2.1.0
-    - HUGO_VERSION=0.58.3
-    - HUGO_BASE_URL=https://dashdashzako.github.io/mooc-accessibility-static/
+  - PLAYER_VERSION=v2.1.0
+  - HUGO_VERSION=0.58.3
+  - HUGO_BASE_URL=https://dashdashzako.github.io/mooc-accessibility-static/
 git:
   quiet: true
 branches:
@@ -13,24 +13,23 @@ branches:
 notifications:
   email: false
 before_install:
-  - sudo apt-get update
-  - sudo apt-get install -y unzip
+- sudo apt-get update
+- sudo apt-get install -y unzip
 install:
-  - curl -LO https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb
-  - sudo dpkg -i hugo_${HUGO_VERSION}_Linux-64bit.deb
+- curl -LO https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb
+- sudo dpkg -i hugo_${HUGO_VERSION}_Linux-64bit.deb
 before_script:
-  - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION}/release.zip
-  - unzip release.zip
-  - mv release/manifest.yml data/manifest.yml
-  - mv release/*.js static/js/
+- curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION}/release.zip
+- unzip release.zip
+- mv release/manifest.yml data/manifest.yml
+- mv release/*.js static/js/
 script:
-  - hugo --baseUrl ${HUGO_BASE_URL}
+- hugo --baseUrl ${HUGO_BASE_URL}
 deploy:
-  provider: pages:git
-  edge: true
+  provider: pages
   local_dir: public
   skip_cleanup: true
-  token:
+  github_token:
     secure: Pz8L4DDZ/ThzSqZrk9pTAUAAoVUaQyWs2MmgtayfL7nfz6UoEWTGKFciV70HjyWIH6l2MRK24B5WVKls0YVc8Sp1pJjK8RZEd8x+bxukUs4uMkJLIM4qkl0x0fL1MAsr/Foa6kCLHb5SGxnf/72NQ5Ib/foxVmYO182doRMlX7VilObD7Xc4sSH6iG7ziaQpWIVk1UsILLMvJv7K6eWRt/SSZTWxidkbULYkQCO0htZkf0bnp2jpTbnWhM7CAPqpXakL9cvYxEkTx3j/0MtmC9ni1AJrdzK5riYDSbsG4Y4tOfElTxQRjQiq6Qxfm+NAGe//Dz0mi5n6ROBw4TyvEjr8/Jv47aG9hst8wkcjQ0Aq8ZZGrHZN9Y736IklVXRkX9nq6E1KuQj8FtM9ih96IMLtqYKRnpoWrPK5fZe2PcKU9i0kTUAWguu5qVF6+VC7MBqTI2JZnyPX2GfunNl1iolZ9pjb7P29fxC4QZjPoRohWsfNJ49zai+iMeMwAVvT4GZtuZogWaDUaowB2CW85itSNbSkiIV5BlEssZZeEQSnIy4DhvhLF6ZMoZ3R9+WgVsIKaJN6Xy9S7q183U70M7i2JgWg8Vi4OwDDopYznor8F06WKDpCcizErtCmeqTles5fG4SkmRJ6rF+2FzjedRveC7zvIdEdF5ke1bUz7II=
   on:
     branch: master
