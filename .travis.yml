@@ -2,7 +2,7 @@ language: minimal
 sudo: true
 env:
   global:
-    - PLAYER_VERSION=v2.1.0
+    - PLAYER_VERSION=v2.1.1
     - HUGO_VERSION=0.58.3
     - HUGO_BASE_URL=https://dashdashzako.github.io/mooc-accessibility-static/
     - LOGGER_ENDPOINT=https://mooc-accessibility.inria.fr/api/log
