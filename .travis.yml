@@ -7,7 +7,7 @@ env:
     - LOGGER_ENDPOINT=https://mooc-accessibility.inria.fr/api/log
   jobs:
     - RELEASE_TAG=latest MATOMO_SITE_ID=101 HUGO_BASE_URL=https://qlf-mooc-accessibility.bordeaux.inria.fr/
-    - RELEASE_TAG=stable QLF=no MATOMO_SITE_ID=100 HUGO_BASE_URL=https://mooc-accessibility.inria.fr/
+    - RELEASE_TAG=stable MATOMO_SITE_ID=100 HUGO_BASE_URL=https://mooc-accessibility.inria.fr/
 git:
   quiet: true
 branches:
@@ -30,6 +30,8 @@ before_script:
   - 'echo "url: ${LOGGER_ENDPOINT}" > data/logger.yml'
   - 'echo "site_id: ${MATOMO_SITE_ID}" > data/matomo.yml'
 script:
+  - rm -rf public
+  - rm release.zip
   - hugo --baseUrl ${HUGO_BASE_URL}
   - zip -r release.zip public
 before_deploy:
