@@ -17,6 +17,10 @@ Because manually managing configurations is a hassle. If we need to update every
 
 This website is generated using [Hugo](https://gohugo.io) `v0.57`. [Installing Hugo](https://gohugo.io/getting-started/installing) is required to build the static HTML files.
 
+All of this is completely automated by [Travis CI](https://travis-ci.com) and will run every time a **tag** is pushed.
+
+### Development
+
 No other dependencies are required, but you need to download the player assets if you want to test website locally:
 
 1. Download Aiana player release ZIP archive; it should be the same as the one specified in `PLAYER_VERSION` key in `.travis.yml` file.  
@@ -24,21 +28,23 @@ No other dependencies are required, but you need to download the player assets i
 2. Unzip the archive.
 3. Move the `release/manifest.yml` file to `data/manifest.yml`.
 4. Move the player JavaScript files to `static/js/`.
-5. Run `hugo`.
+5. Run `hugo`, or if you specify a specific serving URL, `hugo --baseUrl https://qlf-mooc-accessibility.bordeaux.inria.fr/`.
+
+### Web Player Events
 
 If you need to log player events, you will also have to create the `data/logger.yml` file:
 
 ```yaml
-url: <custom logger url>
+url: "custom logger url"
 ```
 
-For pages analytics, the `data/matomo.yml` file will is required:
+### Analytics
+
+For pages analytics, the `data/matomo.yml` file is required:
 
 ```yaml
-site_id: 101
+site_id: "101" # development identifier
 ```
-
-All of this is completely automated by the CI provider ([Travis CI](https://travis-ci.com)) and will run every time the `master` branch is pushed.
 
 ## Managing content
 
