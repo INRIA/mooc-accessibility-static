@@ -9,22 +9,22 @@ WEBVTT
 00:00:15.000 --> 00:00:26.000
 <h1>Accessibilité numérique</h1>
 <ol>
-  <li><span>Introduction</span></li>
-  <li><span>L'accessibilité des systèmes numériques</span></li>
-  <li><span>L'accessibilité des contenus</span></li>
+  <li>Introduction</li>
+  <li>L'accessibilité des systèmes numériques</li>
+  <li>L'accessibilité des contenus</li>
   <li>Les méthodes de conception</li>
-  <li><span>Les assistances technologiques</span></li>
+  <li>Les assistances technologiques</li>
 </ol>
 
 3
 00:00:26.000 --> 00:00:27.000
 <h1>L’accessibilité numérique</h1>
 <ol>
-  <li><span><strong>Introduction</strong></span></li>
-  <li><span>L'accessibilité des systèmes numériques</span></li>
-  <li><span>L'accessibilité des contenus</span></li>
+  <li><strong>Introduction</strong></li>
+  <li>L'accessibilité des systèmes numériques</li>
+  <li>L'accessibilité des contenus</li>
   <li>Les méthodes de conception</li>
-  <li><span>Les assistances technologiques</span></li>
+  <li>Les assistances technologiques</li>
 </ol>
 
 4
@@ -137,7 +137,7 @@ WEBVTT
 <img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
 <h3>et avec la collaboration de</h3>
 <img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
-<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/copyright.jpg" alt="Copyright" />Inria 2016</div>
 <div>
   L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
   sous licence CC BY-NC-ND 3.0 France

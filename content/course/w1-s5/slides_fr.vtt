@@ -121,7 +121,7 @@ WEBVTT
 <p>
   L’accessibilité universelle est le caractère d'un produit, procédé, service, environnement
   ou de l’information qui, dans un but d’équité et dans une approche inclusive, permet à toute personne de
-  réaliser des <span class="important"><u>activités</u></span> de façon autonome et d’obtenir des résultats
+  réaliser des <span class="important"><u>activités</u> de façon autonome et d’obtenir des résultats
   équivalents.
 </p>
 
@@ -160,7 +160,7 @@ WEBVTT
 <img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
 <h3>et avec la collaboration de</h3>
 <img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
-<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/copyright.jpg" alt="Copyright" />Inria 2016</div>
 <div>
   L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
   sous licence CC BY-NC-ND 3.0 France

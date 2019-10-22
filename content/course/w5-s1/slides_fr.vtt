@@ -10,11 +10,11 @@ WEBVTT
 00:00:09.000 --> 00:00:12.000
 <h1>Accessibilité numérique</h1>
 <ol>
-  <li><span>Introduction</span></li>
-  <li><span>L'accessibilité des systèmes numériques</span></li>
-  <li><span>L'accessibilité des contenus</span></li>
+  <li>Introduction</li>
+  <li>L'accessibilité des systèmes numériques</li>
+  <li>L'accessibilité des contenus</li>
   <li>Les méthodes de conception</li>
-  <li><span><strong>Les assistances technologiques</strong></span></li>
+  <li><strong>Les assistances technologiques</strong></li>
 </ol>
 
 3
@@ -54,8 +54,8 @@ WEBVTT
   <li>Réduisent la douleur, le stress </li>
   <li>Favorisent l’indépendance, l’auto-détermination → autonomie de la personne </li>
   <li>Contribuent à la [ré]inclusion en famille, dans la société, l’entreprise </li>
-  <li>Rendent certaines choses <span class="important"><u>faciles</u></span> pour tout le monde, <span
-      class="important"><u>possibles</u></span> pour les PSH</li>
+  <li>Rendent certaines choses <span class="important"><u>faciles</u> pour tout le monde, <span
+      class="important"><u>possibles</u> pour les PSH</li>
 </ul>
 
 6
@@ -159,7 +159,7 @@ WEBVTT
 <img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/utop.jpg" alt="Logo de l'Université de Technologie Ouverte Pluripartenaire" />
 <h3>et avec la collaboration de</h3>
 <img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/universite-bordeaux.jpg" alt="Logo de l'Université de Bordeaux" />
-<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/copyright.jpg" alt="Copyright" /><span>Inria 2016</span></div>
+<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/copyright.jpg" alt="Copyright" />Inria 2016</div>
 <div>
   L'ensemble du contenu de cette vidéo, sauf exception signalée, est mis à disposition
   sous licence CC BY-NC-ND 3.0 France
