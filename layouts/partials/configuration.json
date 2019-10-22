@@ -13,7 +13,7 @@
       {{ range $index, $element := $chapters_sources -}}
       {
         "label": "{{ .label }}",
-        "src": "{{ ($.Resources.GetMatch .src).Permalink }}",
+        "src": "{{ ($.Resources.GetMatch .src).RelPermalink }}",
         "srcLang": "{{ .srcLang }}"
       }{{- if ne (add $index 1) $chapters_sources_length -}},
       {{ end }}
@@ -48,7 +48,7 @@
     {{ .File.ContentBaseName }}
     {{- end }}",
     {{ if .Params.player.poster -}}
-    "poster": "{{ (.Resources.GetMatch .Params.player.poster).Permalink }}",
+    "poster": "{{ (.Resources.GetMatch .Params.player.poster).RelPermalink }}",
     {{ end -}}
     "sources": [
       {{ range $index, $element := $media_sources -}}
@@ -71,7 +71,7 @@
       {{ range $index, $element := $slides_sources -}}
       {
         "label": "{{ .label }}",
-        "src": "{{ ($.Resources.GetMatch .src).Permalink }}",
+        "src": "{{ ($.Resources.GetMatch .src).RelPermalink }}",
         "srcLang": "{{ .srcLang }}"
       }{{- if ne (add $index 1) $slides_sources_length -}},
       {{ end }}
@@ -89,7 +89,7 @@
       {{ range $index, $element := $subtitles_sources -}}
       {
         "label": "{{ .label }}",
-        "src": "{{ ($.Resources.GetMatch .src).Permalink }}",
+        "src": "{{ ($.Resources.GetMatch .src).RelPermalink }}",
         "srcLang": "{{ .srcLang }}"
       }{{- if ne (add $index 1) $subtitles_sources_length -}},
       {{ end }}
