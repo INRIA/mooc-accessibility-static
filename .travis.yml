@@ -1,27 +1,33 @@
 language: minimal
+
 sudo: true
+
 env:
   global:
-    - PLAYER_VERSION=v2.1.3
     - HUGO_VERSION=0.58.3
     - LOGGER_ENDPOINT=https://mooc-accessibility.inria.fr/api/log
-  jobs:
-    - RELEASE_TAG=latest MATOMO_SITE_ID=101 HUGO_BASE_URL=https://qlf-mooc-accessibility.bordeaux.inria.fr/
-    - RELEASE_TAG=stable QLF=no MATOMO_SITE_ID=100 HUGO_BASE_URL=https://mooc-accessibility.inria.fr/
+    - PLAYER_VERSION=v2.1.3
+    - MATOMO_SITE_ID=100
+    - HUGO_BASE_URL=https://mooc-accessibility.inria.fr/
+
 git:
   quiet: true
+
 branches:
   only:
     - master
-    - dev
+
 notifications:
   email: false
+
 before_install:
   - sudo apt-get update
   - sudo apt-get install -y unzip
+
 install:
   - curl -LO https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb
   - sudo dpkg -i hugo_${HUGO_VERSION}_Linux-64bit.deb
+
 before_script:
   - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION}/release.zip
   - unzip release.zip
@@ -29,18 +35,19 @@ before_script:
   - mv release/*.js static/js/
   - 'echo "url: ${LOGGER_ENDPOINT}" > data/logger.yml'
   - 'echo "site_id: ${MATOMO_SITE_ID}" > data/matomo.yml'
+
 script:
+  - rm -rf public
+  - rm release.zip
   - hugo --baseUrl ${HUGO_BASE_URL}
   - zip -r release.zip public
-before_deploy:
-  - git config --local user.name "$USER_NAME"
-  - git config --local user.email "$USER_EMAIL"
-  - git tag -f "$RELEASE_TAG" "$TRAVIS_COMMIT"
+
 deploy:
-  skip_cleanup: true
   provider: releases
-  api_key:
-    secure: WdX2zepw7g0H/LcPeUuqX0f2SngYAPU6TKpomt7JCmAUactd/hunjP9hdk4m6RHoyr/fEmiwUY8qtmX5yHF/kcoEiR0ep4GzoMLP6sJsjakfGbcXV6fMtnAJyWuDoHz7VWgdmJcWdse2gja3yf6jI14OmstuFPc1FQ4FZ9KfSfp3+f8I5QQ0f18jPSc/RkSPc7toDTc5d9gAyifPCJ+q+shXm8qpJwZ6ZYP0rXTH4uENMw9RCInGS334nMZVsvwHuQeeXNMn42A2lNOpTOO5o0rTa8HBTUGsVpBRyyjFj4qXzoae4FtasArR/6h5TZnn1BNQmA2mQbLLW8JH7KnTAHjGBK7ocE1zKE5ZnOzGu2/QOdbx2Soyc7V+XOQUMalBPTcCpNEc5AHkKT8bEZmsb3Mu9pqdSZScSI146us9SPna9jpDpogSLt2hFhko2E7S9hGxljl7r+yo3zArfZinWOjWzHrnOn71V0ZGltGHtvcpXOdp1uBCT6yV3gdDrT7FS/PZI4GAROxTyW+c3UqLdBo+BF1+Jn50xJopdFrUvjZfLFRbxtAZsS7K1spAbWpipKZdA9JfX70NlzKhdBdyUmjSE5x5I4PM7XjR41S3APPtSMQCa4baBUQQB/MjHot1sFGK7kmrHEMv8MQtkKI93Ztu3nLf1817ITGTlDKyImc=
+  skip_cleanup: true
   file: release.zip
   on:
     repo: dashdashzako/mooc-accessibility-static
+    tags: true
+  api_key:
+    secure: WdX2zepw7g0H/LcPeUuqX0f2SngYAPU6TKpomt7JCmAUactd/hunjP9hdk4m6RHoyr/fEmiwUY8qtmX5yHF/kcoEiR0ep4GzoMLP6sJsjakfGbcXV6fMtnAJyWuDoHz7VWgdmJcWdse2gja3yf6jI14OmstuFPc1FQ4FZ9KfSfp3+f8I5QQ0f18jPSc/RkSPc7toDTc5d9gAyifPCJ+q+shXm8qpJwZ6ZYP0rXTH4uENMw9RCInGS334nMZVsvwHuQeeXNMn42A2lNOpTOO5o0rTa8HBTUGsVpBRyyjFj4qXzoae4FtasArR/6h5TZnn1BNQmA2mQbLLW8JH7KnTAHjGBK7ocE1zKE5ZnOzGu2/QOdbx2Soyc7V+XOQUMalBPTcCpNEc5AHkKT8bEZmsb3Mu9pqdSZScSI146us9SPna9jpDpogSLt2hFhko2E7S9hGxljl7r+yo3zArfZinWOjWzHrnOn71V0ZGltGHtvcpXOdp1uBCT6yV3gdDrT7FS/PZI4GAROxTyW+c3UqLdBo+BF1+Jn50xJopdFrUvjZfLFRbxtAZsS7K1spAbWpipKZdA9JfX70NlzKhdBdyUmjSE5x5I4PM7XjR41S3APPtSMQCa4baBUQQB/MjHot1sFGK7kmrHEMv8MQtkKI93Ztu3nLf1817ITGTlDKyImc=
