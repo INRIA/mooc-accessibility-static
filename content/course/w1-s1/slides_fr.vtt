@@ -3,10 +3,10 @@ WEBVTT
 1
 00:00:00.000 --> 00:00:15.000
 <h1>Accessibilité numérique</h1>
-<h3>Comment favoriser l'accès au monde numérique<br>pour les personnes en situation de handicap</h3>
+<h2>Comment favoriser l'accès au monde numérique<br>pour les personnes en situation de handicap</h2>
 
 2
-00:00:15.000 --> 00:00:26.000
+00:00:15.000 --> 00:00:27.000
 <h1>Accessibilité numérique</h1>
 <ol>
   <li>Introduction</li>
@@ -17,19 +17,8 @@ WEBVTT
 </ol>
 
 3
-00:00:26.000 --> 00:00:27.000
-<h1>L’accessibilité numérique</h1>
-<ol>
-  <li><strong>Introduction</strong></li>
-  <li>L'accessibilité des systèmes numériques</li>
-  <li>L'accessibilité des contenus</li>
-  <li>Les méthodes de conception</li>
-  <li>Les assistances technologiques</li>
-</ol>
-
-4
-00:00:27.000 --> 00:01:00.000
-<h1>1. Introduction </h1>
+00:00:27.000 --> 00:01:01.000
+<h1>1. Introduction</h1>
 <ul>
   <li>Le handicap, de quoi parlons-nous ? </li>
   <li>La situation en France</li>
@@ -41,21 +30,7 @@ WEBVTT
   <li>Objectifs et plan du cours</li>
 </ul>
 
-5
-00:01:00.000 --> 00:01:01.000
-<h1>1. Introduction </h1>
-<ul>
-  <li><strong>Le handicap, de quoi parlons-nous ? </strong></li>
-  <li>La situation en France</li>
-  <li>Historique et concept du handicap</li>
-  <li>Définition actuelle</li>
-  <li>L'accessibilité</li>
-  <li>Le modèle environnemental de compensation - Principes</li>
-  <li>Le modèle environnemental de compensation - Application</li>
-  <li>Objectifs et plan du cours</li>
-</ul>
-
-6
+4
 00:01:01.000 --> 00:01:51.000
 <h1>Préambule </h1>
 <h2>Le handicap </h2>
@@ -69,7 +44,7 @@ WEBVTT
   <li>Des initiatives récentes dans les 10 dernières années</li>
 </ul>
 
-7
+5
 00:01:51.000 --> 00:03:13.000
 <h1>Le handicap</h1>
 <h2>Il peut être </h2>
@@ -88,7 +63,7 @@ WEBVTT
 <img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/W1-10.png" alt="Icônes Handicaps collection et icône mal de dos" />
 <p>Icônes Handicaps collection © P. Trouvé ; Back Pain © The Present Group</p>
 
-8
+6
 00:03:13.000 --> 00:04:33.000
 <h1>Quelques chiffres [OMS]</h1>
 <h2>Dans le monde</h2>
@@ -106,7 +81,7 @@ WEBVTT
   <li>Les personnes vivent en moyenne 8 ans en situation de handicap (11,5% durée de vie)</li>
 </ul>
 
-9
+7
 00:04:33.000 --> 00:06:20.000
 <h1>Les chiffres du handicap</h1>
 <h2>Constat</h2>
@@ -124,13 +99,13 @@ WEBVTT
   <li>Nécessité de définir les termes et ce qu’ils recouvrent </li>
 </ul>
 
-10
+8
 00:06:20.000 --> 00:06:24.000
 <h1>Crédits illustrations</h1>
 <p>Handicaps collection © Patrick Trouvé. The Noun Project. URL : <a href="https://thenounproject.com/tricktrou/collection/handicaps/">collection d'icônes sur le handicap</a></p>
 <p>Back Pain © The Present Group. The Noun Project. URL : <a href="https://thenounproject.com/search/?q=back+pain&amp;i=35157">icône mal de dos</a></p>
 
-11
+9
 00:06:24.000 --> 00:06:26.000
 <h3>Un cours proposé par</h3>
 <img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/images/learning-lab.jpg" alt="Logo du groupe de travail Learning Lab d'Inria" />

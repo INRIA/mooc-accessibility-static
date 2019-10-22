@@ -1,0 +1,119 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:15.000
+<h1>Digital accessibility</h1>
+<h2>How to promote access to the digital world<br>for people with disabilities</h2>
+
+2
+00:00:15.000 --> 00:00:27.000
+<h1>Digital accessibility</h1>
+<ol>
+  <li>Introduction</li>
+  <li>Accessibility of digital systems</li>
+  <li>Accessibility of content</li>
+  <li>Design methods</li>
+  <li>Technological assistance</li>
+</ol>
+
+3
+00:00:27.000 --> 00:01:01.000
+<h1>1. Introduction</h1>
+<ul>
+  <li>Disability, what are we talking about?</li>
+  <li>The situation in France</li>
+  <li>History and concept of disability</li>
+  <li>Current definition</li>
+  <li>Accessibility</li>
+  <li>The environmental compensation model - Principles</li>
+  <li>The environmental compensation model - Application</li>
+  <li>Objectives and course plan</li>
+</ul>
+
+4
+00:01:01.000 --> 00:01:51.000
+<h1>Preamble</h1>
+<h2>Disability</h2>
+<ul>
+  <li>This term covers many different realities</li>
+  <li>These differences are very related to the contexts (cultural, geographical, historical ...)</li>
+</ul>
+<h2>Today</h2>
+<ul>
+  <li>An evolution of the consideration of disability</li>
+  <li>Recent initiatives in the last 10 years</li>
+</ul>
+
+5
+00:01:51.000 --> 00:03:13.000
+<h1>Disability</h1>
+<h2>It can be</h2>
+<ul>
+  <li>Acquired at birth or result of an event (illness, accident)</li>
+  <li>Scalable</li>
+  <li>Non permanent</li>
+  <li>Accumulative</li>
+</ul>
+<h2>It is often of origin</h2>
+<ul>
+  <li>Sensory: functions of perception (sight, hearing ...)</li>
+  <li>Motor: ability to perform movements</li>
+  <li>Cognitive: brain functions (attention, memory ...)</li>
+</ul>
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/imagesW1-10.png" alt="Icons Handicaps Collection and Backache Icon">
+<p>Icônes Handicaps collection © P. Trouvé ; Back Pain © The Present Group</p>
+
+6
+00:03:13.000 --> 00:04:33.000
+<h1>Some figures [WHO]</h1>
+<h2>In the world</h2>
+<ul>
+  <li>1 billion people (15% of the world's population)</li>
+  <li>Probably underestimated</li>
+  <li>On the rise (progress of medicine, demographic aging)</li>
+</ul>
+<h2>In developing countries</h2>
+<ul>
+  <li>80% of PWD</li>
+</ul>
+<h2>In countries with life expectancy greater than 70 years</h2>
+<ul>
+  <li>People live on average 8 years with disabilities (11.5% lifespan)</li>
+</ul>
+
+7
+00:04:33.000 --> 00:06:20.000
+<h1>Disability figures</h1>
+<h2>Note</h2>
+<ul>
+  <li>It's easy to find numbers but hard to make them consistent</li>
+  <li>Why?
+    <ul>
+      <li>At the global level, the quality of censuses is variable</li>
+      <li>Studies often fragmented (only one type of handicap)</li>
+      <li>Recensement vs declaration</li>
+      <li>Functional aspects and activity limitations but also subjective perceptions</li>
+      <li>The word "disability" covers very different realities</li>
+    </ul>
+  </li>
+  <li>Need to define terms and what they cover</li>
+</ul>
+
+8
+00:06:20.000 --> 00:06:24.000
+<h1>Illustrations credits</h1>
+<p>Handicaps collection © Patrick Trouvé. The Noun Project. URL : <a href="https://thenounproject.com/tricktrou/collection/handicaps/">collection of icons on disability</a></p>
+<p>Back Pain © The Present Group. The Noun Project. URL : <a href="https://thenounproject.com/search/?q=back+pain&amp;i=35157">back pain icon</a></p>
+
+9
+00:06:24.000 --> 00:06:26.000
+<h1>A course offered by</h1>
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/imageslearning-lab.jpg" alt="Le groupe de travail Learning Lab d'Inria">
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/imagesutop.jpg" alt="L'Université de Technologie Ouverte Pluripartenaire">
+<h2>and with the collaboration of</h2>
+<img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/imagesuniversite-bordeaux.jpg" alt="L'Université de Bordeaux">
+<div><img src="https://static.bordeaux.inria.fr/mooc-accessibility/media/imagescopyright.jpg" alt="Copyright">Inria 2016</div>
+<div class="copyright">
+  The whole content of this video, except exception reported, is made available under license CC BY-NC-ND 3.0 France
+  <div><a href="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">https://creativecommons.org/licenses/by-nc-nd/3.0/fr/</a></div>
+</div>

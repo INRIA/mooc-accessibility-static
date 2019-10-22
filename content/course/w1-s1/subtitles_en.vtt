@@ -1,0 +1,488 @@
+WEBVTT
+
+1
+00:00:07.680 --> 00:00:11.480
+Welcome to this MOOC
+on digital accessibility
+
+2
+00:00:11.640 --> 00:00:14.120
+that Helen and I
+offer you.
+
+3
+00:00:14.640 --> 00:00:17.960
+We will address several
+aspects of accessibility
+
+4
+00:00:18.120 --> 00:00:21.960
+by talking about content,
+design methods
+
+5
+00:00:22.120 --> 00:00:24.200
+and technology support.
+
+6
+00:00:24.360 --> 00:00:28.240
+We will come back about
+the precise content of this plan.
+
+7
+00:00:28.960 --> 00:00:33.320
+In this first week,
+we will set the general framework,
+
+8
+00:00:33.800 --> 00:00:38.120
+the context of the disability
+situation that we will talk about.
+
+9
+00:00:38.320 --> 00:00:41.760
+We will give you
+a number of figures
+
+10
+00:00:42.320 --> 00:00:46.680
+of evolution of the concept
+of handicap over time
+
+11
+00:00:46.840 --> 00:00:50.600
+and we will present
+a definition.
+
+12
+00:00:50.760 --> 00:00:53.280
+We will finish
+this first week
+
+13
+00:00:53.440 --> 00:00:56.040
+by presenting the objectives
+and course plan
+
+14
+00:00:56.200 --> 00:01:00.040
+when we have seen
+this context and definition.
+
+15
+00:01:01.000 --> 00:01:03.920
+In this first sequence,
+
+16
+00:01:04.560 --> 00:01:09.240
+I will address for the first
+time the disability situation
+
+17
+00:01:09.400 --> 00:01:11.880
+and present figures at the global level
+
+18
+00:01:12.040 --> 00:01:16.120
+on the number of people
+affected by this situation.
+
+19
+00:01:17.080 --> 00:01:20.000
+The first thing is
+that this word of disability
+
+20
+00:01:20.160 --> 00:01:22.800
+covers many
+different realities,
+
+21
+00:01:22.960 --> 00:01:27.400
+related to the cultural,
+geographical and historical context.
+
+22
+00:01:27.640 --> 00:01:30.480
+The disability situation
+is not perceived the same.
+
+23
+00:01:31.440 --> 00:01:35.800
+It can be seen
+that in recent years,
+
+24
+00:01:35.960 --> 00:01:38.240
+the consideration
+of disability has evolved,
+
+25
+00:01:38.400 --> 00:01:41.200
+with positive initiatives
+
+26
+00:01:41.360 --> 00:01:44.880
+that have had results.
+But despite this evolution,
+
+27
+00:01:45.040 --> 00:01:49.160
+the consideration
+is incomplete and unsatisfactory
+
+28
+00:01:49.320 --> 00:01:51.280
+in many places.
+
+29
+00:01:51.760 --> 00:01:55.720
+If we talk about disability,
+let's start by reminding
+
+30
+00:01:55.880 --> 00:01:58.160
+that it can be acquired
+at birth
+
+31
+00:01:58.320 --> 00:02:01.440
+or result of an illness
+or an accident.
+
+32
+00:02:01.600 --> 00:02:05.600
+It can be scalable
+and change over time.
+
+33
+00:02:06.320 --> 00:02:07.880
+It can be non-permanent,
+
+34
+00:02:08.040 --> 00:02:12.720
+so happen and disappear
+after other types of events.
+
+35
+00:02:12.880 --> 00:02:15.040
+It can,
+for the elderly,
+
+36
+00:02:15.200 --> 00:02:19.400
+be cumulative,
+with other disability situations.
+
+37
+00:02:21.000 --> 00:02:26.000
+Note that disability
+is often of three types of origin.
+
+38
+00:02:26.160 --> 00:02:30.120
+The first origin is
+of sensory type
+
+39
+00:02:30.280 --> 00:02:34.200
+affecting the functions of perception
+like sight and hearing.
+
+40
+00:02:34.920 --> 00:02:39.280
+It can be of motor origin
+and we think immediately
+
+41
+00:02:39.440 --> 00:02:42.400
+of people
+having difficulty to move,
+
+42
+00:02:42.760 --> 00:02:47.320
+but also, in the case of this MOOC
+who will talk about computer science
+
+43
+00:02:47.480 --> 00:02:50.560
+–and this aspect is important–
+
+44
+00:02:50.720 --> 00:02:53.320
+people with reduced mobility
+
+45
+00:02:53.480 --> 00:02:57.960
+having difficulty in gesturing
+with the hand and the fingers.
+
+46
+00:02:58.640 --> 00:03:02.200
+Finally,
+third possible origin,
+
+47
+00:03:02.360 --> 00:03:06.800
+often called invisible
+because it does not appear directly,
+
+48
+00:03:06.960 --> 00:03:08.920
+disorders of cognitive origin
+
+49
+00:03:09.080 --> 00:03:12.840
+affecting brain functions
+such as attention or memory.
+
+50
+00:03:14.720 --> 00:03:18.120
+If we try to quantify
+and count
+
+51
+00:03:18.280 --> 00:03:22.280
+people in the world
+with disabilities,
+
+52
+00:03:22.440 --> 00:03:25.680
+it is estimated
+that there are 1 billion people,
+
+53
+00:03:25.840 --> 00:03:27.720
+according to WHO,
+
+54
+00:03:27.880 --> 00:03:31.040
+or 15% of the population concerned.
+
+55
+00:03:31.720 --> 00:03:33.560
+This figure is underestimated.
+
+56
+00:03:33.720 --> 00:03:38.400
+We will come back
+to explain why.
+
+57
+00:03:38.960 --> 00:03:43.320
+The other characteristic
+on which the experts agree
+
+58
+00:03:43.480 --> 00:03:45.800
+is to consider
+this figure higher
+
+59
+00:03:45.960 --> 00:03:50.880
+because the progress of medicine
+allows an aging population
+
+60
+00:03:51.040 --> 00:03:53.800
+and disability situations
+at the end of life.
+
+61
+00:03:53.960 --> 00:03:56.760
+Another very important figure
+
+62
+00:03:56.920 --> 00:04:00.200
+to link to what
+we are going to see is that
+
+63
+00:04:00.360 --> 00:04:03.480
+80% of people
+with disabilities
+
+64
+00:04:03.640 --> 00:04:05.720
+live in
+developing countries.
+
+65
+00:04:06.160 --> 00:04:09.320
+We see the relationship
+between the disability situation
+
+66
+00:04:09.480 --> 00:04:12.960
+and the environment
+in which the person will live,
+
+67
+00:04:13.120 --> 00:04:15.800
+either a rich country
+or a poor country.
+
+68
+00:04:17.040 --> 00:04:21.000
+In countries with a life expectancy
+greater than 70 years,
+
+69
+00:04:21.160 --> 00:04:25.440
+people will live on average
+8 years with disabilities,
+
+70
+00:04:25.600 --> 00:04:28.600
+more than 10% of their life.
+
+71
+00:04:28.760 --> 00:04:33.120
+We are all concerned
+by this situation.
+
+72
+00:04:33.280 --> 00:04:37.280
+It is quite easy to find
+disability figures,
+
+73
+00:04:37.440 --> 00:04:40.200
+but it is difficult
+to make them consistent
+
+74
+00:04:40.360 --> 00:04:44.240
+and to be absolutely sure
+of a count.
+
+75
+00:04:44.520 --> 00:04:47.640
+Why?
+Several causes are possible.
+
+76
+00:04:47.800 --> 00:04:50.960
+The first is that at the global level,
+
+77
+00:04:51.120 --> 00:04:54.040
+the quality and nature of censuses vary.
+
+78
+00:04:54.200 --> 00:04:58.000
+The methods are not the same
+from one country to another.
+
+79
+00:04:58.160 --> 00:05:02.520
+It is difficult to obtain easily
+comparable figures.
+
+80
+00:05:03.160 --> 00:05:06.160
+2nd reason:
+studies are piecemeal.
+
+81
+00:05:06.320 --> 00:05:08.760
+They concern only
+one type of disability,
+
+82
+00:05:08.920 --> 00:05:13.760
+such as vision
+or fine motor skills.
+
+83
+00:05:14.000 --> 00:05:18.000
+It is difficult to compare
+them and obtain a global vision.
+
+84
+00:05:19.080 --> 00:05:21.560
+Reason 3: Differences
+
+85
+00:05:21.720 --> 00:05:24.520
+between censuses and
+declarations must be distinguished.
+
+86
+00:05:24.680 --> 00:05:27.520
+Censuses are conducted
+by an agency
+
+87
+00:05:27.680 --> 00:05:30.200
+or independent body outside
+
+88
+00:05:30.360 --> 00:05:33.120
+the declaration of
+the person with disabilities.
+
+89
+00:05:33.280 --> 00:05:35.240
+4th reason: the difference
+
+90
+00:05:35.400 --> 00:05:40.400
+between the functional aspects and
+the activity limitations that result from them
+
+91
+00:05:40.560 --> 00:05:43.800
+and are objectively measurable,
+
+92
+00:05:44.040 --> 00:05:45.920
+subjective perceptions.
+
+93
+00:05:46.080 --> 00:05:50.040
+Comparing these figures,
+there is a noticeable difference.
+
+94
+00:05:50.880 --> 00:05:53.400
+We note that this word disability
+
+95
+00:05:53.560 --> 00:05:56.000
+covers very different realities
+
+96
+00:05:56.160 --> 00:05:58.760
+and we see the need
+
+97
+00:05:58.920 --> 00:06:01.360
+to define terms, concepts,
+
+98
+00:06:01.520 --> 00:06:04.920
+to know what covers
+the word disability.
+
+99
+00:06:05.080 --> 00:06:08.400
+Subsequently, we will
+propose definitions
+
+100
+00:06:08.560 --> 00:06:10.080
+of frameworks or contexts
+
+101
+00:06:10.400 --> 00:06:12.320
+that will provide a definition.
+
+102
+00:06:12.480 --> 00:06:14.960
+It will not be the only definition,
+
+103
+00:06:15.120 --> 00:06:20.040
+but the one we will use and
+which will be our common reference.
