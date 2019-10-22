@@ -9,7 +9,6 @@ additionalinformation:
     - label: "Informations complémentaires"
       src: "additional-information_fr.vtt"
       srcLang: "fr"
-    sources:
     - label: "Additional information"
       src: "additional-information_en.vtt"
       srcLang: "en"
