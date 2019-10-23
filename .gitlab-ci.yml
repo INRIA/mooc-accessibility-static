@@ -1,0 +1,7 @@
+image: registry.gitlab.inria.fr/aiana/mooc-accessibility-website:latest
+
+run-test:
+  script:
+    - ls -lsa
+    - which hugo
+    - which unzip
