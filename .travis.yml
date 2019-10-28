@@ -42,7 +42,6 @@ script:
 deploy:
   provider: releases
   edge: true
-  skip_cleanup: true
   file: release.zip
   on:
     repo: dashdashzako/mooc-accessibility-static
