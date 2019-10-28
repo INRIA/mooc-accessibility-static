@@ -1,6 +1,7 @@
-language: minimal
+version: "~> 1.0"
 
-sudo: true
+os: linux
+language: shell
 
 env:
   global:
@@ -40,10 +41,11 @@ script:
 
 deploy:
   provider: releases
+  edge: true
   skip_cleanup: true
-  api_key:
-    secure: XB6K36oKwft4KQd6wvQ+f/ScDtsFOAOez47RrHvdApOZtY7NpIkYylu2MvY9WlOorEt/Woui46Q6K7vxMUt6e61UZ/Q8kMm5DLwzQRZ6G+Y6Gi8Hxqb7wJfK+mcwNsZvvjXHIKkLS4er6GeEReeepLLgSjwuuPKo0y5vPfly8S9R0f++xIWnCNptLi6zoz5c9jXMZXJX3eYrfNDEhYFWnNFulHPGuapfv6OmY4UKGsxw8+LQG6kkYNmwDXmJkhVurTCZY9F254bjfWUNpN6+ZBxO75t8SPoPERzQ6sdV6+kDT8ZQhp9KI3AfIpKwwh/46RvP9LUglD0/Woalbo/HZIXVMhCpNSDH3YcBeEGLd56ByVK6LSpCCv44LlEsyd4r/jhzPRt+gD/umz6ljULvN9itumGxzn/6TqM/jJfTSTalxOX2jmmAbsN2QFZdltQIjNdO9hAMRCFGrzcGB7cUPsVgjL2f1RBkrCWEFn7KbPNC00w7KtNZywzbJBctaVsAm43pKqfSO+DAKJ3DGx4GqYKThrkgiHG0pBPWfn61W2Zp2IHnSyI7Y1uxWnHqsH7diyhw/sqPDAdxW3bBtAKzmt95UVPs3y+CxxGa+T13rWYWzWknSS8NBiHg0ssTfQibo0BU9zVV/3ZwkYvkyRAKw6esBSPqur5fTTWFoLSjkyI=
   file: release.zip
   on:
     repo: dashdashzako/mooc-accessibility-static
     tags: true
+  token:
+    secure: JipbDksZY1rWxbngdvsGF3xj5/Pp2StuMvxiHdKfZo22zZ/zUTrbni234prBy+myazL1mSwudPa7F1/AsJwzACEJN0a5ymexxKnQYOchWjndqYwsszdGSJRHwfdOaD+/h/29yQQEHNy684+G11ZQjSJl5Di1UvFZWhxn8O0X8u2aauF9ap+L3/YzA9qL6pO3kFOSmIGscBQHBFYqLHM7anPA95JQ4EAB8dA9CenDiDtQRxu0Fv4vRcJ6XdA/bKLMvUOEsWGzjeopXz+zS/lS/h41E/2pwWqTM9GkHSjqy/TQ6J3JnkEJtBcJG21QMZbDQsRUyiwH+lSmay2/HOWTmmpjygscioNrXz6CNzFhYon/CEhknegOdkgMOaQTV+0I7ZcTUiownC2xtKWJlaICoU2bBJJcnSZ4smEeXetLZBUvwX0D4js2854aBTpeEx2IKc15d+m1zsFVXN3K+Fdwj1pDKvwRf5ophWpeLcc1GMbQE0Z8uAFLeubRhZT/nrn7LbIOGSB5FbuNPY+3bYyOp1gaWarrx+y0WZd5ukhvMurcRnCkTUTuq4Fes29daNX+hhlc71Jh9XB1+mzcY4r3HbpmVjBdNdYC7nWgA23PpRZ9ai/RMinXuE4cOjnhW++qL4I6xdEHc+v9hR1h4EPujywCtwpnzUJLNAsM0HWsypQ=
