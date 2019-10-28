@@ -46,3 +46,4 @@ deploy:
   file: release.zip
   on:
     repo: dashdashzako/mooc-accessibility-static
+    tags: true
