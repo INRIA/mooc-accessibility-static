@@ -20,6 +20,9 @@ player:
     - label: "Side video"
       src: "side.mp4"
       type: "video/mp4"
+    - label: "Langue des signes française"
+      src: "lsf.mp4"
+      type: "video/mp4"
 chapters:
   language: "fr"
   sources:
