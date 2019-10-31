@@ -1,4 +1,4 @@
-baseURL = "http://qlf-mooc-accessibility.bordeaux.inria.fr/"
+baseURL = "https://mooc-accessibility.inria.fr/"
 languageCode = "fr-fr"
 title = "Inria MOOC Accessibility"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "sitemap"]

@@ -28,7 +28,7 @@ No other dependencies are required, but you need to download the player assets i
 2. Unzip the archive.
 3. Move the `release/manifest.yml` file to `data/manifest.yml`.
 4. Move the player JavaScript files to `static/js/`.
-5. Run `hugo`, or if you specify a specific serving URL, `hugo --baseUrl https://qlf-mooc-accessibility.bordeaux.inria.fr/`.
+5. Run `hugo`, or if you specify a specific serving URL, `hugo --baseUrl https://<hostname>.<ext>/`.
 
 ### Web Player Events
 
