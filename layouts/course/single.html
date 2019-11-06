@@ -54,6 +54,8 @@
   {{- range $.Site.Data.manifest }}
   <script src="{{ (print "/js/" .) | relURL }}"></script>
   {{- end }}
+
+  {{ printf "<!-- Build date: %s - Version: %s -->" (now.Format "Mon, 02 Jan 2006 15:04:05 MST") .GitInfo.AbbreviatedHash | safeHTML }}
 </body>
 
 </html>
