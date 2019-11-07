@@ -41,10 +41,10 @@ script:
   - 'echo "url: ${LOGGER_ENDPOINT}" > data/logger.yml'
   - 'echo "site_id: ${MATOMO_SITE_ID_QLF}" > data/matomo.yml'
   - hugo --destination build/qlf --gc
+  - rm static/js/*.js data/logger.yml data/matomo.yml data/manifest.yml
   - 'echo "env: qlf" > build/qlf/version'
   - 'echo "tag: ${TRAVIS_TAG}" >> build/qlf/version'
   - 'echo "player: ${PLAYER_VERSION_QLF}" >> build/qlf/version'
-  - rm static/js/*.js data/logger.yml data/matomo.yml data/manifest.yml
   - echo 'Building production files'
   - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION_PROD}/release.zip
   - unzip release.zip
@@ -55,12 +55,13 @@ script:
   - 'echo "url: ${LOGGER_ENDPOINT}" > data/logger.yml'
   - 'echo "site_id: ${MATOMO_SITE_ID_PROD}" > data/matomo.yml'
   - hugo --destination build/prod --gc
+  - rm static/js/*.js data/logger.yml data/matomo.yml data/manifest.yml
   - 'echo "env: prod" > build/prod/version'
   - 'echo "tag: ${TRAVIS_TAG}" >> build/prod/version'
   - 'echo "player: ${PLAYER_VERSION_PROD}" >> build/prod/version'
-  - rm static/js/*.js data/logger.yml data/matomo.yml data/manifest.yml
   - echo 'Creating release ZIP archive'
-  - zip -r release.zip build
+  - mv build release
+  - zip -r release.zip release
 
 deploy:
   provider: releases
