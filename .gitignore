@@ -6,4 +6,5 @@
 /data/matomo.yml
 release.zip
 release
+build
 static/js/*.js

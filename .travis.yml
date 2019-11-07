@@ -34,25 +34,32 @@ script:
   - echo 'Building qlf files'
   - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION_QLF}/release.zip
   - unzip release.zip
+  - rm release.zip
   - mv release/manifest.yml data/manifest.yml
   - mv release/*.js static/js/
+  - rm -rf release
   - 'echo "url: ${LOGGER_ENDPOINT}" > data/logger.yml'
   - 'echo "site_id: ${MATOMO_SITE_ID_QLF}" > data/matomo.yml'
   - hugo --destination build/qlf --gc
-  - 'echo "env: qlf\ntag: ${TRAVIS_TAG}\nplayer: ${PLAYER_VERSION_QLF}" > build/qlf/version'
-  - rm -rf release
-  - rm release.zip static/js/*.js data/logger.yml data/matomo.yml
+  - 'echo "env: qlf" > build/qlf/version'
+  - 'echo "tag: ${TRAVIS_TAG}" >> build/qlf/version'
+  - 'echo "player: ${PLAYER_VERSION_QLF}" >> build/qlf/version'
+  - rm static/js/*.js data/logger.yml data/matomo.yml data/manifest.yml
   - echo 'Building production files'
   - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION_PROD}/release.zip
   - unzip release.zip
+  - rm release.zip
   - mv release/manifest.yml data/manifest.yml
   - mv release/*.js static/js/
+  - rm -rf release
   - 'echo "url: ${LOGGER_ENDPOINT}" > data/logger.yml'
   - 'echo "site_id: ${MATOMO_SITE_ID_PROD}" > data/matomo.yml'
   - hugo --destination build/prod --gc
-  - 'echo "env: prod\ntag: ${TRAVIS_TAG}\nplayer: ${PLAYER_VERSION_PROD}" > build/prod/version'
-  - rm -rf release
-  - rm release.zip static/js/*.js data/logger.yml data/matomo.yml
+  - 'echo "env: prod" > build/prod/version'
+  - 'echo "tag: ${TRAVIS_TAG}" >> build/prod/version'
+  - 'echo "player: ${PLAYER_VERSION_PROD}" >> build/prod/version'
+  - rm static/js/*.js data/logger.yml data/matomo.yml data/manifest.yml
+  - echo 'Creating release ZIP archive'
   - zip -r release.zip build
 
 deploy:
