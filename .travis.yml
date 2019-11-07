@@ -7,8 +7,10 @@ env:
   global:
     - HUGO_VERSION=0.58.3
     - LOGGER_ENDPOINT=/api/logs
-    - PLAYER_VERSION=v2.1.3
-    - MATOMO_SITE_ID=100
+    - PLAYER_VERSION_PROD=v2.1.4
+    - MATOMO_SITE_ID_PROD=100
+    - PLAYER_VERSION_QLF=v2.1.4
+    - MATOMO_SITE_ID_QLF=101
 
 git:
   quiet: true
@@ -25,18 +27,33 @@ install:
   - sudo dpkg -i hugo_${HUGO_VERSION}_Linux-64bit.deb
 
 before_script:
-  - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION}/release.zip
+  - rm -rf build
+  - mkdir build
+
+script:
+  - echo 'Building qlf files'
+  - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION_QLF}/release.zip
   - unzip release.zip
   - mv release/manifest.yml data/manifest.yml
   - mv release/*.js static/js/
   - 'echo "url: ${LOGGER_ENDPOINT}" > data/logger.yml'
-  - 'echo "site_id: ${MATOMO_SITE_ID}" > data/matomo.yml'
-
-script:
-  - rm -rf public
-  - rm release.zip
-  - hugo
-  - zip -r release.zip public
+  - 'echo "site_id: ${MATOMO_SITE_ID_QLF}" > data/matomo.yml'
+  - hugo --destination build/qlf --gc
+  - 'echo "env: qlf\ntag: ${TRAVIS_TAG}\nplayer: ${PLAYER_VERSION_QLF}" > build/qlf/version'
+  - rm -rf release
+  - rm release.zip static/js/*.js data/logger.yml data/matomo.yml
+  - echo 'Building production files'
+  - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION_PROD}/release.zip
+  - unzip release.zip
+  - mv release/manifest.yml data/manifest.yml
+  - mv release/*.js static/js/
+  - 'echo "url: ${LOGGER_ENDPOINT}" > data/logger.yml'
+  - 'echo "site_id: ${MATOMO_SITE_ID_PROD}" > data/matomo.yml'
+  - hugo --destination build/prod --gc
+  - 'echo "env: prod\ntag: ${TRAVIS_TAG}\nplayer: ${PLAYER_VERSION_PROD}" > build/prod/version'
+  - rm -rf release
+  - rm release.zip static/js/*.js data/logger.yml data/matomo.yml
+  - zip -r release.zip build
 
 deploy:
   provider: releases
