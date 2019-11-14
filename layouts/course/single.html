@@ -45,9 +45,6 @@
   <div id="root"></div>
 
   <script>
-    {{ if isset $.Site.Data "logger" -}}
-    window.loggerEndpoint = "{{ $.Site.Data.logger.url }}";
-    {{ end -}}
     window.aiana = {{ (partial "configuration.json" .) | safeJS }};
   </script>
 

@@ -1,7 +1,9 @@
 {
-  "container": "#root"
-  {{- if isset .Site.Params "loggerEndpoint" }},
-  "loggerEndpoint": "{{ .Site.Params.loggerEndpoint }}"
+  "container": "#root",
+  "isMainContent": false
+
+  {{- if isset $.Site.Data "logger" }},
+  "loggerEndpoint": "{{ .Site.Data.logger.url }}"
   {{- end }}
 
   {{- if isset .Params "chapters" -}}
