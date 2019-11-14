@@ -7,9 +7,9 @@ env:
   global:
     - HUGO_VERSION=0.58.3
     - LOGGER_ENDPOINT=/api/logs
-    - PLAYER_VERSION_PROD=v2.1.4
+    - PLAYER_VERSION_PROD=v2.2.1
     - MATOMO_SITE_ID_PROD=100
-    - PLAYER_VERSION_QLF=v2.1.4
+    - PLAYER_VERSION_QLF=v2.2.1
     - MATOMO_SITE_ID_QLF=101
 
 git:
@@ -35,6 +35,7 @@ script:
   - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION_QLF}/release.zip
   - unzip release.zip
   - rm release.zip
+  - mv --force release/locales static/
   - mv release/manifest.yml data/manifest.yml
   - mv release/*.js static/js/
   - rm -rf release
@@ -49,6 +50,7 @@ script:
   - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION_PROD}/release.zip
   - unzip release.zip
   - rm release.zip
+  - mv --force release/locales static/
   - mv release/manifest.yml data/manifest.yml
   - mv release/*.js static/js/
   - rm -rf release
