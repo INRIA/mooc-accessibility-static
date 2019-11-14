@@ -8,3 +8,4 @@ release.zip
 release
 build
 static/js/*.js
+static/locales/*.json
