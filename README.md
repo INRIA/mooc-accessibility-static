@@ -15,7 +15,7 @@ Because manually managing configurations is a hassle. If we need to update every
 
 ## How
 
-This website is generated using [Hugo](https://gohugo.io) `v0.57`. [Installing Hugo](https://gohugo.io/getting-started/installing) is required to build the static HTML files.
+This website is generated using [Hugo](https://gohugo.io) `v0.58.3`. [Installing Hugo](https://gohugo.io/getting-started/installing) is required to build the static HTML files.
 
 All of this is completely automated by [Travis CI](https://travis-ci.com) and will run every time a **tag** is pushed.
 
@@ -28,7 +28,9 @@ No other dependencies are required, but you need to download the player assets i
 2. Unzip the archive.
 3. Move the `release/manifest.yml` file to `data/manifest.yml`.
 4. Move the player JavaScript files to `static/js/`.
-5. Run `hugo`, or if you specify a specific serving URL, `hugo --baseUrl https://<hostname>.<ext>/`.
+5. Move the `release/locales` folder to `static/`.
+  These files are included in the player release archive since `v2.2.1`. If you target an earlier version, the files can be copy pasted from the player repository depending on targetted player version. For example, if you intend to use `v2.2.0`, you should download all files from [`v2.2.0` tree](https://github.com/dashdashzako/aiana-player/tree/v2.2.0/public/locales).
+6. Run `hugo`, or if you specify a specific serving URL, `hugo --baseUrl https://<hostname>.<ext>/`.
 
 ### Web Player Events
 
