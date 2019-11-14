@@ -1,6 +1,6 @@
 {
   "container": "#root",
-  "isMainContent": false
+  "isMainContent": true
 
   {{- if isset $.Site.Data "logger" }},
   "loggerEndpoint": "{{ .Site.Data.logger.url }}"

@@ -46,6 +46,8 @@
 
   <script>
     window.aiana = {{ (partial "configuration.json" .) | safeJS }};
+
+    window.aiana.isMainContent = false;
   </script>
 
   {{- range $.Site.Data.manifest }}
