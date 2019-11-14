@@ -35,7 +35,8 @@ script:
   - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION_QLF}/release.zip
   - unzip release.zip
   - rm release.zip
-  - mv --force release/locales static/
+  - rm -rf static/locales
+  - mv release/locales static/
   - mv release/manifest.yml data/manifest.yml
   - mv release/*.js static/js/
   - rm -rf release
@@ -50,7 +51,8 @@ script:
   - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION_PROD}/release.zip
   - unzip release.zip
   - rm release.zip
-  - mv --force release/locales static/
+  - rm -rf static/locales
+  - mv release/locales static/
   - mv release/manifest.yml data/manifest.yml
   - mv release/*.js static/js/
   - rm -rf release
