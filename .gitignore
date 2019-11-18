@@ -9,3 +9,5 @@ release
 build
 static/js/*.js
 static/locales/*.json
+
+.vscode
