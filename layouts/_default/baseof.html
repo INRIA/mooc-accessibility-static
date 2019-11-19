@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+  <meta charset="utf-8">
+
+  {{ hugo.Generator }}
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:url" content="{{ .Permalink }}">
+
+  <meta name="application-name" content="mooc-accessibility.inria.fr" />
+
+  {{ if .IsHome -}}
+  <title>{{ .Site.Title }}</title>
+  <meta property="og:title" content="{{ .Site.Title }}">
+  <meta property="og:type" content="website">
+  <meta name="description" content="{{ .Site.Params.Description }}">
+  {{- else -}}
+  <title>{{ .Title }} – {{ .Site.Title }}</title>
+  <meta property="og:title" content="{{ .Title }} – {{ .Site.Title }}">
+  <meta property="og:type" content="article">
+  <meta name="description" content="{{ .Description }}">
+  {{- end }}
+
+  {{ block "styles" . -}}
+  <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,700" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "css/index.css" | relURL }}">
+  {{- end }}
+
+  {{- if isset .Site.Data "matomo" }}
+  <script type="text/javascript">
+    var _paq = window._paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function () {
+      var u = "https://piwik.inria.fr/";
+      _paq.push(['setTrackerUrl', u + 'matomo.php']);
+      _paq.push(['setSiteId', '{{ $.Site.Data.matomo.site_id }}']);
+      var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+      g.type = 'text/javascript'; g.async = true; g.defer = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+    })();
+  </script>
+  {{- end }}
+</head>
+
+{{ block "main" . }}{{ end }}
+
+</body>
+
+</html>

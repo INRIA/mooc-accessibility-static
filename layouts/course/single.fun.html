@@ -1,20 +1,8 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>{{ .Title }}</title>
-  <meta name="description" content="{{ .Description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+{{ define "styles"}}
   <link rel="stylesheet" href="{{ "/css/aiana.css" | relURL }}">
+{{ end }}
 
-  {{- if isset .Site.Data "matomo" }}
-  {{ partial "matomo.html" . }}
-  {{- end }}
-</head>
-
-<body>
+{{ define "main" }}
   <noscript>
     {{ $video_src := (index (.Params.player.sources) 0).src -}}
     <video src="{{ $.Site.Params.mediaBaseURL }}/videos/{{ $.File.ContentBaseName }}/{{ $video_src }}" type="video/mp4" autoplay="false" preload="auto" controls>
@@ -52,6 +40,5 @@
   {{- end }}
 
   {{ printf "<!-- Build date: %s - Version: %s -->" (now.Format "Mon, 02 Jan 2006 15:04:05 MST") .GitInfo.AbbreviatedHash | safeHTML }}
-</body>
 
-</html>
+{{ end }}

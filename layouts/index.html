@@ -1,1 +1,56 @@
-Inria MOOC Accessibilité Numérique
+{{ define "main" }}
+  <header>
+    {{ partial "topbar.html" . }}
+
+    <div class="site-header">
+      <div class="container">
+        <h1 class="site-name">MOOC Accessibilité Numérique</h1>
+        <p class="site-lead">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos possimus blanditiis aut beatae, in reprehenderit nisi vitae non nostrum suscipit dolores ipsum adipisci quod voluptatum, quibusdam dolorem assumenda magnam.
+        </p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+
+    <div class="container presentation">
+      <section>
+        <h2 class="section-title visually-hidden">Présentation du projet</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet beatae numquam eos quaerat esse dolorem dolores, tenetur facere aperiam, laborum sint soluta laboriosam nam eius quasi dolor. Ipsa, quisquam maxime?</p>
+        <p class="cta">
+          {{ with .Site.GetPage "/course/w0-s1" -}}
+          <a href="{{ .RelPermalink }}" class="btn btn--large">Démarrer le MOOC Accessibilité Numérique</a>{{ end }}
+          <br>
+          ou
+          {{ with .Site.GetPage "section" "course" -}}
+          <a href="{{ .RelPermalink }}">voir la liste des séquences</a>{{ end }}.
+        </p>
+      </section>
+    </div>
+
+    <div class="contributors">
+      <section class="container container--large">
+        <h2 class="section-title visually-hidden">Contributeurs</h2>
+        <ul class="contributors-list">
+          {{ range $.Site.Data.index.sponsors }}
+          <li><a href="{{ .url }}"><img src="{{ .logo }}" alt="{{ .name }}"></a></li>
+          {{ end }}
+        </ul>
+      </section>
+    </div>
+
+    <div class="container publications">
+      <section>
+        <h2 class="section-title">Présentations et publications</h2>
+        <ul class="publications-list">
+          {{ range $.Site.Data.index.publications }}
+          <li><a href="{{ .url }}" lang="{{ .lang }}">{{ .description }}</a></li>
+          {{ end }}
+        </ul>
+      </section>
+    </div>
+  </main>
+
+  {{ partial "footer.html" . }}
+{{ end }}

@@ -1,0 +1,23 @@
+{{ if .PrevInSection | or .NextInSection -}}
+
+<hr>
+
+<div class="container container--small">
+  <nav aria-label="Posts pagination">
+    <ul class="posts-pagination">
+      {{ if .NextInSection -}}
+      <li class="posts-pagination__item posts-pagination__prev">
+        <a rel="prev" href="{{ .NextInSection.Permalink }}">← Séquence précédente</a>
+      </li>
+      {{- end }}
+
+      {{ if .PrevInSection -}}
+      <li class="posts-pagination__item posts-pagination__next">
+        <a rel="next" href="{{ .PrevInSection.Permalink }}">Séquence suivante →</a>
+      </li>
+      {{- end }}
+    </ul>
+  </nav>
+</div>
+
+{{- end }}

@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <header>
+    {{ partial "topbar.html" . }}
+
+    <div class="site-header">
+      <div class="container">
+        <h1 class="page-name">Les séquences du MOOC</h1>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="container container--small">
+      <ol>
+      {{ range .Pages.ByWeight }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+      </ol>
+    </div>
+  </main>
+
+  {{ partial "footer.html" . }}
+{{ end }}

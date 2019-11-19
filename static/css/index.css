@@ -1,0 +1,325 @@
+:root {
+  --palette-white: #fafafa;
+  --palette-light-gray: #e5e5e5;
+  --palette-black: #111111;
+  --palette-blue: #0070d5;
+  --palette-gray: #aaaaaa;
+  --palette-silver: #dddddd;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: system;
+  src: local("system-ui"), local(".SFNSText-Light"), local("Segoe UI"),
+    local("Roboto"), local("Oxygen-Sans"), local("Ubuntu"), local("Cantarell"),
+    local("Helvetica Neue");
+}
+
+html {
+  font-family: "Work Sans", system, sans-serif;
+  font-size: 100%;
+  color: var(--palette-black);
+  background-color: var(--palette-white);
+}
+
+@media screen and (min-width: 800px) {
+  html {
+    font-size: calc((100% * (9 / 16)) + 1vw);
+  }
+}
+
+@media screen and (min-width: 1800px) {
+  html {
+    font-size: calc(100% * (27 / 16));
+  }
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  line-height: 1.5;
+}
+
+hr {
+  display: block;
+  width: 33%;
+  min-width: 10rem;
+  height: 1px;
+  margin: 2rem auto;
+
+  border: 0;
+  background: var(--palette-gray);
+}
+
+a {
+  color: var(--palette-blue);
+  cursor: pointer;
+}
+
+:focus {
+  outline: solid 2px var(--palette-blue);
+  outline-offset: 2px;
+}
+
+.container {
+  margin: 0 auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  max-width: 43.75rem;
+}
+
+.container--small {
+  max-width: 37.5rem;
+}
+
+.container--large {
+  max-width: 50rem;
+}
+
+.container--expanded {
+  max-width: none;
+}
+
+.section-title {
+  margin: 0.5em 0 0.25em 0;
+  text-align: center;
+}
+
+/* site nav */
+
+.site-nav {
+  padding: 16px 8px;
+  background: var(--palette-black);
+  color: var(--palette-white);
+}
+
+.site-nav a {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.site-nav img {
+  display: block;
+  height: 30px;
+}
+
+@media screen and (min-width: 800px) {
+  .site-nav img {
+    height: auto;
+  }
+}
+
+/* common */
+
+.btn {
+  display: inline-block;
+
+  padding: .2em .5em;
+
+  background-color: var(--palette-blue);
+  color: var(--palette-white);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn:focus {
+  outline: solid 2px var(--palette-gray);
+  outline-offset: 2px;
+}
+
+.btn--large {
+  font-size: 1.2em;
+}
+
+.cta {
+  display: block;
+  margin: 2em auto;
+
+  text-align: center;
+}
+
+/* blocks */
+
+.site-header {
+  background: #ffffff;
+  padding: 4rem 0;
+}
+
+.site-name, .page-name {
+  margin: 0;
+  font-weight: 300;
+}
+
+.site-name {
+  font-size: 3.5rem;
+}
+
+.page-name {
+  font-size: 2.5rem;
+}
+
+.site-lead {
+  margin: 1.625rem 0 0;
+  font-size: 1.2rem;
+}
+
+/* footer */
+
+.site-footer {
+  margin-top: 2rem;
+  padding: 1rem 0;
+  font-size: 0.8rem;
+  border-top: 1px solid var(--palette-gray);
+}
+
+.site-footer p,
+.site-footer div {
+  margin: 0;
+}
+
+.site-header,
+.site-footer {
+  text-align: center;
+}
+
+/* Presentation */
+
+.presentation section {
+  padding: 3rem 0;
+}
+
+.presentation video {
+  display: block;
+  width: 100%;
+  border: 1px solid var(--palette-silver);
+}
+
+/* Publications */
+
+.publications {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.publications-list {
+  margin: 2em 0 0;
+  padding: 0 0 0 1rem;
+}
+
+.publications-list li {
+  margin-top: 0.25rem;
+}
+
+/* Contributors */
+
+.contributors {
+  background-color: #ffffff;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.contributors-list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+}
+
+@media screen and (min-width: 800px) {
+  .contributors-list {
+    flex-direction: row;
+  }
+}
+
+.contributors-list li {
+  margin: 0.5rem 0;
+  flex: 0 0 40%;
+  list-style: none;
+}
+
+@media screen and (min-width: 600px) {
+  .contributors-list li {
+    flex: 0 0 20%;
+  }
+}
+
+.contributors-list img,
+.contributors-list a {
+  display: block;
+  max-height: 100px;
+  max-width: 100%;
+}
+
+.contributors-list img {
+  margin: 0 auto;
+}
+
+/* a11y tools */
+
+.visually-hidden {
+  position: absolute;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  margin: -1px;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  white-space: no-wrap;
+}
+
+/* posts pagination */
+
+.posts-pagination {
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  list-style: none;
+}
+
+.posts-pagination__item {
+  padding: .2em .5em;
+  margin: 0;
+
+  flex: 1 1 0;
+
+  list-style: none;
+}
+
+.posts-pagination__prev {
+  text-align: left;
+}
+
+.posts-pagination__next {
+  text-align: right;
+}
+
+/* Specific MOOC player styles for content pages */
+
+.player-wrapper {
+  padding: 1rem 0;
+}
+
+.player-wrapper > * {
+  font-size: 16px;
+}
+
+.aip-app {
+  margin: 0 auto;
+}

@@ -1,0 +1,28 @@
+---
+sponsors:
+  - url: "https://team.inria.fr/potioc/fr/"
+    name: "Équipe Potioc"
+    logo: "img/sponsors/logo-equipe-potioc.png"
+  - url: "https://www.inria.fr/"
+    name: "Inria"
+    logo: "img/sponsors/logo-inria.png"
+  - url: "https://www.u-bordeaux.fr/"
+    name: "Université de Bordeaux"
+    logo: "img/sponsors/logo-universite-de-bordeaux.jpg"
+  - url: "https://cnrs.fr/"
+    name: "Centre National de la Recherche Scientifique"
+    logo: "img/sponsors/logo-cnrs.svg"
+
+publications:
+  - url: http://binaire.blog.lemonde.fr/2018/07/10/pourquoi-il-faut-developper-laccessibilite-numerique
+    description: Pourquoi il faut développer l’accessibilité numérique !
+    lang: fr
+  - url: https://hal.archives-ouvertes.fr/hal-01954983
+    description: "Online e-learning and cognitive disabilities: A systematic review"
+    lang: en
+  - url: https://hal.inria.fr/hal-01761462
+    description: "Towards Truly Accessible MOOCs for Persons with Cognitive Disabilities: Design and Field Assessment"
+    lang: en
+  - url: https://hal.inria.fr/hal-01848103
+    description: Improving the Academic Inclusion of a Student with Special Needs at University Bordeaux
+    lang: en

@@ -1,48 +1,57 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>{{ .Title }}</title>
-  <meta name="description" content="{{ .Description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+{{ define "styles" }}
+  <link rel="stylesheet" href="{{ "/css/index.css" | relURL }}">
   <link rel="stylesheet" href="{{ "/css/aiana.css" | relURL }}">
+{{ end }}
 
-  {{- if isset .Site.Data "matomo" }}
-  {{ partial "matomo.html" . }}
-  {{- end }}
-</head>
+{{ define "main" }}
+  <main>
+    <noscript>
+      <h1>{{ .Params.title }}</h1>
+      {{ $video_src := (index (.Params.player.sources) 0).src -}}
+      <video src="{{ $.Site.Params.mediaBaseURL }}/videos/{{ $.File.ContentBaseName }}/{{ $video_src }}" type="video/mp4" autoplay="false" preload="auto" controls>
+        {{- if isset .Params "subtitles" -}}
+        {{- range .Params.subtitles.sources }}
+        <track kind="captions" label="{{ .label }}" src="{{ ($.Resources.GetMatch .src).RelPermalink }}" srclang="{{ .srcLang }}">
+        {{- end -}}
+        {{- end -}}
+        {{- if isset .Params "chapters" -}}
+        {{ range .Params.chapters.sources }}
+        <track kind="chapters" label="{{ .label }}" src="{{ ($.Resources.GetMatch .src).RelPermalink }}" srclang="{{ .srcLang }}">
+        {{- end -}}
+        {{- end -}}
+        {{- if isset .Params "additionalinformation" -}}
+        {{ range .Params.additionalinformation.sources }}
+        <track kind="metadata" label="{{ .label }}" src="{{ ($.Resources.GetMatch .src).RelPermalink }}" srclang="{{ .srcLang }}">
+        {{- end -}}
+        {{- end -}}
+        {{- if isset .Params "slides" -}}
+        {{ range .Params.slides.sources }}
+        <track kind="metadata" label="{{ .label }}" src="{{ ($.Resources.GetMatch .src).RelPermalink }}" srclang="{{ .srcLang }}">
+        {{- end -}}
+        {{- end }}
+      </video>
 
-<body>
-  <noscript>
-    <h1>{{ .Params.title }}</h1>
-    {{ $video_src := (index (.Params.player.sources) 0).src -}}
-    <video src="{{ $.Site.Params.mediaBaseURL }}/videos/{{ $.File.ContentBaseName }}/{{ $video_src }}" type="video/mp4" autoplay="false" preload="auto" controls>
-      {{- if isset .Params "subtitles" -}}
-      {{- range .Params.subtitles.sources }}
-      <track kind="captions" label="{{ .label }}" src="{{ ($.Resources.GetMatch .src).RelPermalink }}" srclang="{{ .srcLang }}">
-      {{- end -}}
-      {{- end -}}
-      {{- if isset .Params "chapters" -}}
-      {{ range .Params.chapters.sources }}
-      <track kind="chapters" label="{{ .label }}" src="{{ ($.Resources.GetMatch .src).RelPermalink }}" srclang="{{ .srcLang }}">
-      {{- end -}}
-      {{- end -}}
-      {{- if isset .Params "additionalinformation" -}}
-      {{ range .Params.additionalinformation.sources }}
-      <track kind="metadata" label="{{ .label }}" src="{{ ($.Resources.GetMatch .src).RelPermalink }}" srclang="{{ .srcLang }}">
-      {{- end -}}
-      {{- end -}}
-      {{- if isset .Params "slides" -}}
-      {{ range .Params.slides.sources }}
-      <track kind="metadata" label="{{ .label }}" src="{{ ($.Resources.GetMatch .src).RelPermalink }}" srclang="{{ .srcLang }}">
-      {{- end -}}
-      {{- end }}
-    </video>
-  </noscript>
+      {{ partial "prev-next.html" . }}
+    </noscript>
 
-  <div id="root"></div>
+    <header>
+      {{ partial "topbar.html" . }}
+
+      <div class="site-header">
+        <div class="container">
+          <h1 class="page-name">{{ .Params.title }}</h1>
+        </div>
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="player-wrapper">
+        <div id="root"></div>
+      </div>
+    </div>
+
+    {{ partial "prev-next.html" . }}
+  </main>
 
   <script>
     window.aiana = {{ (partial "configuration.json" .) | safeJS }};
@@ -55,6 +64,4 @@
   {{- end }}
 
   {{ printf "<!-- Build date: %s - Version: %s -->" (now.Format "Mon, 02 Jan 2006 15:04:05 MST") .GitInfo.AbbreviatedHash | safeHTML }}
-</body>
-
-</html>
+{{ end }}
