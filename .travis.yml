@@ -42,7 +42,7 @@ script:
   - rm -rf release
   - 'echo "url: ${LOGGER_ENDPOINT}" > data/logger.yml'
   - 'echo "site_id: ${MATOMO_SITE_ID_QLF}" > data/matomo.yml'
-  - hugo --destination build/qlf --gc
+  - hugo --destination build/qlf --gc --baseUrl https://qlf-mooc-accessibility.bordeaux.inria.fr/
   - rm static/js/*.js data/logger.yml data/matomo.yml data/manifest.yml
   - 'echo "env: qlf" > build/qlf/version'
   - 'echo "tag: ${TRAVIS_TAG}" >> build/qlf/version'
@@ -58,7 +58,7 @@ script:
   - rm -rf release
   - 'echo "url: ${LOGGER_ENDPOINT}" > data/logger.yml'
   - 'echo "site_id: ${MATOMO_SITE_ID_PROD}" > data/matomo.yml'
-  - hugo --destination build/prod --gc
+  - hugo --destination build/prod --gc --baseUrl https://mooc-accessibility.inria.fr/
   - rm static/js/*.js data/logger.yml data/matomo.yml data/manifest.yml
   - 'echo "env: prod" > build/prod/version'
   - 'echo "tag: ${TRAVIS_TAG}" >> build/prod/version'
