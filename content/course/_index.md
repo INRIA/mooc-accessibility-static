@@ -1,3 +1,3 @@
 ---
-title: "Toutes les séquences du MOOC"
+title: "Toutsus les séquences du MOOC"
 ---
