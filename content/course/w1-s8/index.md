@@ -2,6 +2,7 @@
 title: "Semaine 1, Séquence 8"
 date: 2019-10-07T10:12:18+02:00
 draft: false
+weight: 100
 description: ""
 additionalinformation:
   language: "fr"

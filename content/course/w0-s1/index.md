@@ -2,6 +2,7 @@
 title: "Semaine 0, Séquence 1"
 date: 2019-10-03T15:40:44+02:00
 draft: false
+weight: 10
 description: "Présentation générale de l'environnement du MOOC par Pascal Guitton"
 player:
   sources:

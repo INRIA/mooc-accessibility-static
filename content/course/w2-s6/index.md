@@ -2,6 +2,7 @@
 title: "Semaine 2, Séquence 6"
 date: 2019-10-07T10:12:57+02:00
 draft: false
+weight: 170
 description: ""
 additionalinformation:
   language: "fr"

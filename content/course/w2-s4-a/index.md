@@ -2,6 +2,7 @@
 title: "Semaine 2, Séquence 4-A"
 date: 2019-10-07T10:12:46+02:00
 draft: false
+weight: 140
 description: ""
 player:
   sources:

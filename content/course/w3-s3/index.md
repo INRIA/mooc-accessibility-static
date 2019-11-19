@@ -2,6 +2,7 @@
 title: "Semaine 3, Séquence 3"
 date: 2019-10-07T10:13:22+02:00
 draft: false
+weight: 200
 description: ""
 player:
   sources:
