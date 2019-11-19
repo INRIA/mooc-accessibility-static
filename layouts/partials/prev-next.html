@@ -7,13 +7,13 @@
     <ul class="posts-pagination">
       {{ if .NextInSection -}}
       <li class="posts-pagination__item posts-pagination__prev">
-        <a rel="prev" href="{{ .NextInSection.Permalink }}">← Séquence précédente</a>
+        <a rel="prev" href="{{ .NextInSection.RelPermalink }}">← Séquence précédente</a>
       </li>
       {{- end }}
 
       {{ if .PrevInSection -}}
       <li class="posts-pagination__item posts-pagination__next">
-        <a rel="next" href="{{ .PrevInSection.Permalink }}">Séquence suivante →</a>
+        <a rel="next" href="{{ .PrevInSection.RelPermalink }}">Séquence suivante →</a>
       </li>
       {{- end }}
     </ul>
