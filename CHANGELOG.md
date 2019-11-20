@@ -8,6 +8,10 @@ and this project adheres to
 
 ## Unreleased
 
+### Changed
+
+- Version file format.
+
 ## [v2.0.11] - 2019-11-20
 
 ### Added

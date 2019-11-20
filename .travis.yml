@@ -44,9 +44,7 @@ script:
   - 'echo "site_id: ${MATOMO_SITE_ID_QLF}" > data/matomo.yml'
   - hugo --destination build/qlf --gc --baseUrl http://qlf-mooc-accessibility.bordeaux.inria.fr/
   - rm static/js/*.js data/logger.yml data/matomo.yml data/manifest.yml
-  - 'echo "env: qlf" > build/qlf/version.html'
-  - 'echo "tag: ${TRAVIS_TAG}" >> build/qlf/version.html'
-  - 'echo "player: ${PLAYER_VERSION_QLF}" >> build/qlf/version.html'
+  - 'echo "environment: qlf -- website version: ${TRAVIS_TAG} -- player version: ${PLAYER_VERSION_QLF}" > build/qlf/version.html'
   - echo 'Building production files'
   - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION_PROD}/release.zip
   - unzip release.zip
@@ -60,9 +58,7 @@ script:
   - 'echo "site_id: ${MATOMO_SITE_ID_PROD}" > data/matomo.yml'
   - hugo --destination build/prod --gc --baseUrl https://mooc-accessibility.inria.fr/
   - rm static/js/*.js data/logger.yml data/matomo.yml data/manifest.yml
-  - 'echo "env: prod" > build/prod/version.html'
-  - 'echo "tag: ${TRAVIS_TAG}" >> build/prod/version.html'
-  - 'echo "player: ${PLAYER_VERSION_PROD}" >> build/prod/version.html'
+  - 'echo "environment: prod -- website version: ${TRAVIS_TAG} -- player version: ${PLAYER_VERSION_PROD}" > build/prod/version.html'
   - echo 'Creating release ZIP archive'
   - mv build release
   - zip -r release.zip release
