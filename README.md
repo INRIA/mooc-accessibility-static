@@ -118,6 +118,21 @@ Note that there is a
 [static link to the latest release](https://github.com/dashdashzako/mooc-accessibility-static/releases/latest)
 which is used for website deployment.
 
+### Release Commit
+
+1. Create the release tag using [semantic versioning](https://semver.org/):
+
+   `git tag vX.X.X`
+
+2. Push tags to the repository:
+
+   `git push origin --tags`
+
+3. Update `CHANGELOG.md` by moving the "Unreleased" section content to a new
+   section containing the release tag.
+
+4. Commit `CHANGELOG.md` updates.
+
 ### Manually Create a Release
 
 If no continuous environment is provided, creating a release is still possible.
