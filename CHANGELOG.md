@@ -8,6 +8,10 @@ and this project adheres to
 
 ## Unreleased
 
+### Changed
+
+- Markdownlint same heading rules (MD024).
+
 ## [v2.0.12] - 2019-11-20
 
 ### Changed

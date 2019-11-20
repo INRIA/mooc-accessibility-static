@@ -9,7 +9,7 @@ This website contains all the course resources (such as media, slides, or
 subtitles). However, note that users will not be prompted with any survey nor
 quiz.
 
-It is available at the following url: https://mooc-accessibility.inria.fr/
+It is available at the following url: <https://mooc-accessibility.inria.fr/>
 
 ## Requirements
 
@@ -113,7 +113,8 @@ build an archive containing the files for both staging and production
 environments.
 
 Releases can be found on
-[the project release page](https://github.com/dashdashzako/mooc-accessibility-static/releases).  
+[the project release page](https://github.com/dashdashzako/mooc-accessibility-static/releases).
+
 Note that there is a
 [static link to the latest release](https://github.com/dashdashzako/mooc-accessibility-static/releases/latest)
 which is used for website deployment.
