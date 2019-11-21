@@ -8,8 +8,11 @@ and this project adheres to
 
 ## Unreleased
 
+## [v2.1.0] - 2019-11-21
+
 ### Changed
 
+- Embed file name is now `embed.html`.
 - Project documentaton.
 
 ### Added
