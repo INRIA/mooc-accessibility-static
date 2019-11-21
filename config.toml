@@ -5,18 +5,18 @@ disableKinds = ["taxonomy", "taxonomyTerm", "sitemap"]
 enableGitInfo = true
 
 [mediaTypes]
-  [mediaTypes."text/fun"]
+  [mediaTypes."text/embed"]
     suffixes = ["html"]
 
 [outputFormats]
-  [outputFormats.FUN]
-    baseName = "fun"
+  [outputFormats.EMBED]
+    baseName = "embed"
     suffix = "html"
-    mediaType = "text/fun"
+    mediaType = "text/embed"
 
 [outputs]
   home = ["HTML"]
-  page = ["HTML", "FUN"]
+  page = ["HTML", "EMBED"]
 
 [params]
 mediaBaseURL = "https://static.bordeaux.inria.fr/mooc-accessibility/media"
