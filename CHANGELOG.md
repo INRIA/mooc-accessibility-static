@@ -10,6 +10,10 @@ and this project adheres to
 
 ### Changed
 
+- Project documentaton.
+
+### Added
+
 - Markdownlint same heading rules (MD024).
 
 ## [v2.0.12] - 2019-11-20
