@@ -12,6 +12,7 @@ and this project adheres to
 
 - Repository owner is INRIA
 - Prettier ignored files
+- Pages base `title`
 
 ## [v2.1.0] - 2019-11-21
 

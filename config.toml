@@ -1,6 +1,6 @@
 baseURL = "https://mooc-accessibility.inria.fr/"
 languageCode = "fr-fr"
-title = "Inria MOOC Accessibility"
+title = "MOOC Accessibilité Numérique par Inria"
 disableKinds = ["taxonomy", "taxonomyTerm", "sitemap"]
 enableGitInfo = true
 
