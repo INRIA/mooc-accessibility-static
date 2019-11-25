@@ -8,6 +8,8 @@ and this project adheres to
 
 ## [Unreleased]
 
+## [v2.1.1] - 2019-11-25
+
 ### Changed
 
 - Repository owner is INRIA
