@@ -32,7 +32,7 @@ before_script:
 
 script:
   - echo 'Building qlf files'
-  - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION_QLF}/release.zip
+  - curl -LO https://github.com/INRIA/aiana-player/releases/download/${PLAYER_VERSION_QLF}/release.zip
   - unzip release.zip
   - rm release.zip
   - rm -rf static/locales
@@ -46,7 +46,7 @@ script:
   - rm static/js/*.js data/logger.yml data/matomo.yml data/manifest.yml
   - 'echo "environment: qlf -- website version: ${TRAVIS_TAG} -- player version: ${PLAYER_VERSION_QLF}" > build/qlf/version.html'
   - echo 'Building production files'
-  - curl -LO https://github.com/dashdashzako/aiana-player/releases/download/${PLAYER_VERSION_PROD}/release.zip
+  - curl -LO https://github.com/INRIA/aiana-player/releases/download/${PLAYER_VERSION_PROD}/release.zip
   - unzip release.zip
   - rm release.zip
   - rm -rf static/locales
@@ -68,7 +68,7 @@ deploy:
   edge: true
   file: release.zip
   on:
-    repo: dashdashzako/mooc-accessibility-static
+    repo: INRIA/mooc-accessibility-static
     tags: true
   token:
     secure: JipbDksZY1rWxbngdvsGF3xj5/Pp2StuMvxiHdKfZo22zZ/zUTrbni234prBy+myazL1mSwudPa7F1/AsJwzACEJN0a5ymexxKnQYOchWjndqYwsszdGSJRHwfdOaD+/h/29yQQEHNy684+G11ZQjSJl5Di1UvFZWhxn8O0X8u2aauF9ap+L3/YzA9qL6pO3kFOSmIGscBQHBFYqLHM7anPA95JQ4EAB8dA9CenDiDtQRxu0Fv4vRcJ6XdA/bKLMvUOEsWGzjeopXz+zS/lS/h41E/2pwWqTM9GkHSjqy/TQ6J3JnkEJtBcJG21QMZbDQsRUyiwH+lSmay2/HOWTmmpjygscioNrXz6CNzFhYon/CEhknegOdkgMOaQTV+0I7ZcTUiownC2xtKWJlaICoU2bBJJcnSZ4smEeXetLZBUvwX0D4js2854aBTpeEx2IKc15d+m1zsFVXN3K+Fdwj1pDKvwRf5ophWpeLcc1GMbQE0Z8uAFLeubRhZT/nrn7LbIOGSB5FbuNPY+3bYyOp1gaWarrx+y0WZd5ukhvMurcRnCkTUTuq4Fes29daNX+hhlc71Jh9XB1+mzcY4r3HbpmVjBdNdYC7nWgA23PpRZ9ai/RMinXuE4cOjnhW++qL4I6xdEHc+v9hR1h4EPujywCtwpnzUJLNAsM0HWsypQ=

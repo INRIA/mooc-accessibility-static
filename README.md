@@ -82,13 +82,13 @@ the only required software installation.
 order to build the static HTML files.
 
 To test the website locally, you will also need to download the
-[MOOC player](https://github.com/dashdashzako/aiana-player) assets that are not
+[MOOC player](https://github.com/INRIA/aiana-player) assets that are not
 included to this repository:
 
 1. Download Aiana player release zip archive; it should be the same as the one
    specified in `PLAYER_VERSION` key in `.travis.yml` file.  
    Releases are listed on the
-   [repository releases page](https://github.com/dashdashzako/aiana-player/releases).
+   [repository releases page](https://github.com/INRIA/aiana-player/releases).
 
 2. Unzip the archive.
 
@@ -101,7 +101,7 @@ included to this repository:
    the files can be copy pasted from the player repository depending on
    targetted player version. For example, if you intend to use `v2.2.0`, you
    should download all files from
-   [`v2.2.0` tree](https://github.com/dashdashzako/aiana-player/tree/v2.2.0/public/locales).
+   [`v2.2.0` tree](https://github.com/INRIA/aiana-player/tree/v2.2.0/public/locales).
 
 6. Run `hugo server`. This command will automatically reload the server when
    content is modified.
@@ -122,10 +122,10 @@ build an archive containing the files for both staging and production
 environments.
 
 Releases can be found on
-[the project release page](https://github.com/dashdashzako/mooc-accessibility-static/releases).
+[the project release page](https://github.com/INRIA/mooc-accessibility-static/releases).
 
 Note that there is a
-[static link to the latest release](https://github.com/dashdashzako/mooc-accessibility-static/releases/latest)
+[static link to the latest release](https://github.com/INRIA/mooc-accessibility-static/releases/latest)
 which is used for website deployment.
 
 ### Release Commit
@@ -159,7 +159,7 @@ the production environment:
 cd path/to/mooc-accessibility-static
 
 # download player archive
-curl -LO https://github.com/dashdashzako/aiana-player/releases/download/v2.2.3/release.zip
+curl -LO https://github.com/INRIA/aiana-player/releases/download/v2.2.3/release.zip
 
 # extract player files
 unzip release.zip
@@ -241,8 +241,8 @@ url: 'https://domain.com/path/to/write/logs'
 ```
 
 To know more about web player actions, please refer to
-[the player documentation](https://github.com/dashdashzako/aiana-player).
+[the player documentation](https://github.com/INRIA/aiana-player).
 
 ## Code Status
 
-[![Build Status](https://travis-ci.com/dashdashzako/mooc-accessibility-static.svg?branch=master)](https://travis-ci.com/dashdashzako/mooc-accessibility-static)
+[![Build Status](https://travis-ci.com/INRIA/mooc-accessibility-static.svg?branch=master)](https://travis-ci.com/INRIA/mooc-accessibility-static)
