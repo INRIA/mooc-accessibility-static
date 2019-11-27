@@ -200,8 +200,8 @@ Audience analytics helps understanding global usage of the website and gives
 insights about users browsing context: screen resolution, browser, operating
 system…
 
-Inria recommends using [Matomo](https://matomo.org/) (formerly Piwiki) to
-collect the analytics, and this website uses the
+Inria recommends using [Matomo](https://matomo.org/) (formerly Piwik) to collect
+the analytics, and this website uses the
 [Inria on-premise instance](https://piwik.inria.fr/).
 
 The Matomo `script` tag will be integrated on each page if a `data/matomo.yml`
