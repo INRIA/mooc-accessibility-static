@@ -8,6 +8,10 @@ and this project adheres to
 
 ## [Unreleased]
 
+### Changed
+
+- QLF protocol switched to HTTPS
+
 ## [v2.1.3] - 2019-11-25
 
 ### Changed
